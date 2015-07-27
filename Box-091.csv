@@ -37,10 +37,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,36,Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,37,Chazey Wood,2015-07-11,,Pipunculidae,,,,
 91,38,Chazey Wood,2015-07-11,Hymenoptera,,,,,
-91,39,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,m,39+40 in cop,
-91,40,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,f,39+40 in cop,
-91,41,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,41+42 in cop,
-91,42,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,f,41+42 in cop,
+91,39,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,m,,39+40 in cop
+91,40,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,f,,39+40 in cop
+91,41,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,41+42 in cop
+91,42,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,f,,41+42 in cop
 91,43,Whiteknights Park (W),2015-07-18,,Calliphoridae,Calliphora vicina,m,,
 91,44,Whiteknights Park (W),2015-07-18,,Tachinidae,Dexiosoma caninum,m,"Raper & Smith's update of Belshaw v5c, 2014",
 91,45,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,
