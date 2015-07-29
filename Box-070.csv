@@ -1,6 +1,6 @@
  ,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,1,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-70,2,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
+70,2,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Limnophora maculosa,f,"Fonseca, 1968",
 70,3,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
 70,4,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
 70,5,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathopha sp,m,,
@@ -42,7 +42,7 @@
 70,41,"Balmer Lawn, Brockenhurst",2015-05-09,,Sphaeroceridae,,f,,
 70,42,"Balmer Lawn, Brockenhurst",2015-05-09,,Sphaeroceridae,,f,,
 70,43,"Balmer Lawn, Brockenhurst",2015-05-09,,Sphaeroceridae,,m,,
-70,44,"Butts Lawn, Brockenhurst",2015-05-09,,Muscidae,,m,,
+70,44,"Butts Lawn, Brockenhurst",2015-05-09,,Muscidae,Phaonia perdita,m,"Fonseca, 1968",
 70,45,"Butts Lawn, Brockenhurst",2015-05-09,,Calliphoridae,Pollenia sp,m,,
 70,46,"Butts Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
 70,47,"Butts Lawn, Brockenhurst",2015-05-09,,Anthomyiidae,,m,,
