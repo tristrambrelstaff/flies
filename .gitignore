@@ -1,0 +1,5 @@
+# Ignore backup files
+*~
+
+# Ignore Libre/OpenOffice lock files
+.~lock.*
