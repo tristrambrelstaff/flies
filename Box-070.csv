@@ -1,13 +1,13 @@
- ,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+km6,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,1,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 70,2,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Limnophora maculosa,f,"Fonseca, 1968",
-70,3,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
-70,4,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
+70,3,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+70,4,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 70,5,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathopha sp,m,,
 70,6,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathopha sp,m,,
 70,7,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathopha sp,m,,
-70,8,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,m,,
-70,9,"Balmer Lawn, Brockenhurst",2015-05-09,,Sarcophagidae,Sarcophaga sp,f,,
+70,8,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Polietes domitor,m,"Fonseca, 1968",As Polietes albolineatus
+70,9,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 70,10,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,m,,
 70,11,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
 70,12,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
