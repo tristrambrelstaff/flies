@@ -4,7 +4,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 8,3,The Wilderness,2014-04-19,,Muscidae,,,,
 8,4,The Wilderness,2014-04-19,,Muscidae,,,,
 8,5,The Wilderness,2014-04-19,,Muscidae,,,,
-8,6,The Wilderness,2014-04-19,,Syrphidae,Dasyrphus albostriatus,m,"Stubbs and Falk, 2002",
+8,6,The Wilderness,2014-04-19,,Syrphidae,Dasysyrphus albostriatus,m,"Stubbs and Falk, 2002",
 8,7,The Wilderness,2014-04-19,,Muscoidea,,,,
 8,8,The Wilderness,2014-04-19,,Syrphidae,Helophilus pendulus,m,"Stubbs and Falk, 2002",
 8,9,The Wilderness,2014-04-19,,Muscoidea,,,,
@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 8,15,The Wilderness,2014-04-19,,Syrphidae,Melanostoma scalare,f,"Stubbs and Falk, 2002",
 8,16,The Wilderness,2014-04-19,,Syrphidae,Melanostoma scalare,f,"Stubbs and Falk, 2002",
 8,17,The Wilderness,2014-04-19,,Sarcophagidae,,,,
-8,18,The Wilderness,2014-04-19,,Syrphidae,Bacchus elongata,f,"Stubbs and Falk, 2002",
+8,18,The Wilderness,2014-04-19,,Syrphidae,Baccha elongata,f,"Stubbs and Falk, 2002",
 8,19,Field below Chazey Wood,2014-04-21,,Calliphoridae,Calliphora vicina,f,,
 8,20,Field below Chazey Wood,2014-04-21,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 8,21,Field below Chazey Wood,2014-04-21,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella

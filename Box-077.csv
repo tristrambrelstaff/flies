@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 77,9,The Wilderness (W),2015-05-30,,Dolichopodidae,,m,,
 77,10,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 77,11,The Wilderness (W),2015-05-30,,Muscidae,Coenosia sp,m,,
-77,12,The Wilderness (W),2015-05-30,,Anthomyiidae,Anthomyia procellaris sp,m,,
+77,12,The Wilderness (W),2015-05-30,,Anthomyiidae,Anthomyia procellaris grp,m,,
 77,13,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 77,14,The Wilderness (W),2015-05-30,,Tachinidae,Billaea irrorata,f,"Raper & Smith's update of Belshaw v5c, 2014",
 77,15,The Wilderness (W),2015-05-30,,Fanniidae,,m,,
@@ -50,5 +50,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 77,49,Field below Chazey Wood,2015-06-06,,Rhagionidae,Rhagio sp,m,,
 77,50,Field below Chazey Wood,2015-06-06,,Rhagionidae,Rhagio sp,f,,
 77,51,Field below Chazey Wood,2015-06-06,,Syrphidae,Xanthogramma pedissequum,m,,
-77,52,Field below Chazey Wood,2015-06-06,,Syrphidae,Platycheirus granditarsis,f,,Orange on abdomen darked over first 24 hours
-77,53,Field below Chazey Wood,2015-06-06,,Syrphidae,Platycheirus granditarsis,m,,
+77,52,Field below Chazey Wood,2015-06-06,,Syrphidae,Platycheirus granditarsus,f,,Orange on abdomen darked over first 24 hours
+77,53,Field below Chazey Wood,2015-06-06,,Syrphidae,Platycheirus granditarsus,m,,
