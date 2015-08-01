@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,1,The Wilderness (E),2015-07-18,,Asilidae,,f,,
 93,2,The Wilderness (E),2015-07-18,,Tachinidae,Dexiosoma caninum,m,"Raper & Smith's update of Belshaw v5c, 2014",
-93,3,The Wilderness (E),2015-07-18,,Muscidae,Muscina sp,m,,
-93,4,The Wilderness (E),2015-07-18,,Muscidae,,m,,
+93,3,The Wilderness (E),2015-07-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+93,4,The Wilderness (E),2015-07-18,,Muscidae,Helina annosa,m,"Fonseca, 1968; Xue & Sun, 2015",
 93,5,The Wilderness (E),2015-07-18,,Sarcophagidae,,m,,
-93,6,The Wilderness (E),2015-07-18,,Muscidae,,f,,
+93,6,The Wilderness (E),2015-07-18,,Anthomyiidae,,f,,
 93,7,The Wilderness (E),2015-07-18,,Syrphidae,Pipiza sp,f,,
 93,8,The Wilderness (E),2015-07-18,,Anthomyiidae,,m,,
 93,9,The Wilderness (E),2015-07-18,,Anthomyiidae,,m,,
@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,12,The Wilderness (E),2015-07-18,,Rhinophoridae,,m,,
 93,13,The Wilderness (E),2015-07-18,,Rhinophoridae,,,,
 93,14,The Wilderness (E),2015-07-18,,Lonchaeidae,,f,,
-93,15,The Wilderness (E),2015-07-18,,Muscidae,,m,,
+93,15,The Wilderness (E),2015-07-18,,Fannidae,,m,,
 93,16,Whiteknights Park (E),2015-07-18,,Anthomyiidae,,m,,
 93,17,Whiteknights Park (E),2015-07-18,,Tachinidae,Bithia spreta,m,"Raper & Smith's update of Belshaw v5c, 2014",
 93,18,Whiteknights Park (E),2015-07-18,,Tachinidae,Bithia spreta,m,"Raper & Smith's update of Belshaw v5c, 2014",
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,31,Whiteknights Park (E),2015-07-18,,Tachinidae,Phania funesta,m,"Raper & Smith's update of Belshaw v5c, 2014",
 93,32,Whiteknights Park (E),2015-07-18,,Tachinidae,Phania funesta,m,"Raper & Smith's update of Belshaw v5c, 2014",2 legs missing
 93,33,Whiteknights Park (E),2015-07-18,,Rhinophoridae,,f,,
-93,34,Whiteknights Park (E),2015-07-18,,Muscidae,,f,,Wings darkened
+93,34,Whiteknights Park (E),2015-07-18,,Calliphoridae,Melanomya nana,f,"Rognes, 1991",Wings darkened
 93,35,Whiteknights Park (E),2015-07-18,,Tachinidae,Phasia barbifrons,m,"Raper & Smith's update of Belshaw v5c, 2014",
 93,36,Whiteknights Park (E),2015-07-18,,Tephritidae,,m,,
 93,37,Whiteknights Park (E),2015-07-18,,Tephritidae,,m,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,39,Whiteknights Park (E-FH),2015-07-18,,Sarcophagidae,Sarcophaga sp,f,,
 93,40,Whiteknights Park (E-FH),2015-07-18,,Rhagionidae,Chrysopilus cristatus,m,,
 93,41,Whiteknights Park (E-FH),2015-07-18,,Dolichopodidae,,f,,
-93,42,Whiteknights Park (E-FH),2015-07-18,,Muscidae,Coenosia sp,,,
+93,42,Whiteknights Park (E-FH),2015-07-18,,Muscidae,Coenosia tigrina,,"Fonseca, 1968",
 93,43,Whiteknights Park (E-FH),2015-07-18,,Tachinidae,Eriothrix rufomaculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
 93,44,Whiteknights Park (E-FH),2015-07-18,,Calliphoridae,Pollenia sp,m,,
 93,45,Whiteknights Park (E-FH),2015-07-18,,Sciomyzidae,,m,,
