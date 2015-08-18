@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-99,1,Chazey Wood,2015-08-15,,Tachinidae,,f,,
-99,2,Chazey Wood,2015-08-15,,Tachinidae,,m,,
-99,3,Chazey Wood,2015-08-15,,Tachinidae,,m,,
+99,1,Chazey Wood,2015-08-15,,Tachinidae,Epicampocera succincta,f,"Raper & Smith's update of Belshaw v5c, 2014",
+99,2,Chazey Wood,2015-08-15,,Tachinidae,Phryxe cf vulgaris,m,"Raper & Smith's update of Belshaw v5c, 2014",
+99,3,Chazey Wood,2015-08-15,,Tachinidae,Sturmia bella,m,"Raper & Smith's update of Belshaw v5c, 2014",
 99,4,Chazey Wood,2015-08-15,,Calliphoridae,Bellardia sp,m,,
 99,5,Chazey Wood,2015-08-15,,Calliphoridae,Bellardia sp,f,,
 99,6,Chazey Wood,2015-08-15,,Anthomyidae,,m,,
