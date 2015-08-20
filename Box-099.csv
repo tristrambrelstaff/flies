@@ -28,11 +28,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 99,27,Chazey Wood,2015-08-15,,Tachinidae,Aplomya confinis,m,"Raper & Smith's update of Belshaw v5c, 2014",
 99,28,Chazey Wood,2015-08-15,,Tachinidae,Phryxe cf vulgaris,m,"Raper & Smith's update of Belshaw v5c, 2014",
 99,29,Chazey Wood,2015-08-15,,Tachinidae,Lydella grisescens,m,"Raper & Smith's update of Belshaw v5c, 2014",Has 1 proclinate parafrontal bristle
-99,30,Chazey Wood,2015-08-15,,Tachinidae,,m,,
-99,31,Chazey Wood,2015-08-15,,Tachinidae,,f,,
-99,32,Chazey Wood,2015-08-15,,Tachinidae,,m,,
-99,33,Chazey Wood,2015-08-15,,Tachinidae,,f,,
-99,34,Chazey Wood,2015-08-15,,Tachinidae,,m,,
+99,30,Chazey Wood,2015-08-15,,Tachinidae,Lydella grisescens,m,"Raper & Smith's update of Belshaw v5c, 2014",2 legs missing
+99,31,Chazey Wood,2015-08-15,,Tachinidae,Lydella grisescens,f,"Raper & Smith's update of Belshaw v5c, 2014",
+99,32,Chazey Wood,2015-08-15,,Tachinidae,Phryxe cf vulgaris,m,"Raper & Smith's update of Belshaw v5c, 2014",
+99,33,Chazey Wood,2015-08-15,,Tachinidae,Platymya fimbriata,f,"Raper & Smith's update of Belshaw v5c, 2014",
+99,34,Chazey Wood,2015-08-15,,Tachinidae,Phryxe cf vulgaris,m,"Raper & Smith's update of Belshaw v5c, 2014",
 99,35,Chazey Wood,2015-08-15,,Rhinophoridae,,f,,
 99,36,Chazey Wood,2015-08-15,,Anthomyidae,,f,,
 99,37,Chazey Wood,2015-08-15,,Anthomyidae,,m,,
