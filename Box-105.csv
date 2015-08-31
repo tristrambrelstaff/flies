@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 105,21,Whiteknights Park (W),2015-08-29,,Tachinidae,Exorista sp,f,"Raper & Smith's update of Belshaw v5c, 2014",
 105,22,Whiteknights Park (W),2015-08-29,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
 105,23,Whiteknights Park (W),2015-08-29,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
-105,24,Whiteknights Park (W),2015-08-29,,Muscidae,Muscina sp,m,,
+105,24,Whiteknights Park (W),2015-08-29,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 105,25,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,m,,
 105,26,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,m,,
 105,27,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,f,,
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 105,31,Whiteknights Park (W),2015-08-29,,Tachinidae,Solieria sp,f,"Raper & Smith's update of Belshaw v5c, 2014",
 105,32,Whiteknights Park (W),2015-08-29,,Tachinidae,Exorista sp,f,"Raper & Smith's update of Belshaw v5c, 2014",
 105,33,Whiteknights Park (W),2015-08-29,,Tachinidae,Exorista cf rustica,m,"Raper & Smith's update of Belshaw v5c, 2014",
-105,34,Whiteknights Park (W),2015-08-29,,Muscidae,,m,,
+105,34,Whiteknights Park (W),2015-08-29,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 105,35,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,f,,
 105,36,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,f,,
 105,37,Whiteknights Park (W),2015-08-29,,Rhinophoridae,,f,,
@@ -43,14 +43,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 105,42,Whiteknights Park (W),2015-08-29,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
 105,43,Whiteknights Park (W),2015-08-29,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
 105,44,Whiteknights Park (W),2015-08-29,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
-105,45,Whiteknights Park (W),2015-08-29,,Muscidae,Graphomya sp,m,,
+105,45,Whiteknights Park (W),2015-08-29,,Muscidae,Graphomya maculata,m,"Fonseca, 1968; Vikhrev, 2011",As Graphomya picta
 105,46,Whiteknights Park (W),2015-08-29,,Calliphoridae,Lucilia sp,m,,
 105,47,Whiteknights Park (W),2015-08-29,,Tachinidae,Eriothrix rufomaculata,f,"Raper & Smith's update of Belshaw v5c, 2014",
 105,48,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,m,,
 105,49,Whiteknights Park (W),2015-08-29,,Anthomyiidae,,m,,
 105,50,Whiteknights Park (W),2015-08-29,,Sarcophagidae,,f,,
-105,52,The Wilderness (W),2015-08-29,,Muscidae,,f,,
-105,53,The Wilderness (W),2015-08-29,,Muscidae,,f,,
-105,54,The Wilderness (W),2015-08-29,,Muscidae,,f,,
-105,55,The Wilderness (W),2015-08-29,,Muscidae,,f,,
-105,56,The Wilderness (W),2015-08-29,,Muscidae,,f,,
+105,52,The Wilderness (W),2015-08-29,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+105,53,The Wilderness (W),2015-08-29,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+105,54,The Wilderness (W),2015-08-29,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+105,55,The Wilderness (W),2015-08-29,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+105,56,The Wilderness (W),2015-08-29,,Muscidae,Mydaea humeralis,f,"Fonseca, 1968",As Mydaea tincta

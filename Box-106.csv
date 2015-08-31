@@ -5,12 +5,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 106,4,The Wilderness (W),2015-08-29,,Sarcophagidae,,f,,
 106,5,The Wilderness (W),2015-08-29,,Tachinidae,Exorista sp,f,"Raper & Smith's update of Belshaw v5c, 2014",
 106,6,The Wilderness (W),2015-08-29,,Anthomyiidae,,f,,
-106,7,The Wilderness (W),2015-08-29,,Muscidae,,f,,
+106,7,The Wilderness (W),2015-08-29,,Muscidae,Mydaea humeralis,f,"Fonseca, 1968",As Mydaea tincta
 106,8,The Wilderness (W),2015-08-29,,Syrphidae,Rhingia rostrata,f,,Abdomen darkened within 24 hours
 106,9,The Wilderness (W),2015-08-29,,Tachinidae,Exorista cf rustica,m,"Raper & Smith's update of Belshaw v5c, 2014",
 106,10,The Wilderness (W),2015-08-29,,Tachinidae,Trixa conspersa,f,"Raper & Smith's update of Belshaw v5c, 2014",
 106,11,The Wilderness (W),2015-08-29,,Anthomyiidae,,f,,
-106,12,The Wilderness (W),2015-08-29,,Muscidae,,f,,
+106,12,The Wilderness (W),2015-08-29,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 106,13,The Wilderness (W),2015-08-29,,Anthomyiidae,,m,,
 106,14,The Wilderness (W),2015-08-29,,Anthomyiidae,,f,,
 106,15,The Wilderness (W),2015-08-29,,Heleomyzidae,Suillia sp,m,,
@@ -35,7 +35,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 106,34,The Wilderness (W),2015-08-29,,Drosophilidae,,,,
 106,35,The Wilderness (W),2015-08-29,,Drosophilidae,,,,
 106,36,The Wilderness (W),2015-08-29,,Drosophilidae,,,,
-106,37,The Wilderness (W),2015-08-29,,Muscidae,,f,,
+106,37,The Wilderness (W),2015-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 106,38,The Wilderness (W),2015-08-29,,Sciomyzidae,,f,,
 106,39,The Wilderness (W),2015-08-29,,Heleomyzidae,,f,,
 106,40,The Wilderness (W),2015-08-29,,Heleomyzidae,,f,,
