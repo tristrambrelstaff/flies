@@ -56,12 +56,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 106,55,Chazey Wood,2015-09-01,,Tachinidae,Sturmia bella,f,"Raper & Smith's update of Belshaw v5c, 2014",
 106,56,Chazey Wood,2015-09-01,,Tachinidae,Epicampocera succincta,f,"Raper & Smith's update of Belshaw v5c, 2014",
 106,57,Chazey Wood,2015-09-01,,Syrphidae,,m,,
-106,58,Chazey Wood,2015-09-01,,Muscidae,Morellia sp,f,,
-106,59,Chazey Wood,2015-09-01,,Muscidae,Morellia sp,m,,
+106,58,Chazey Wood,2015-09-01,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
+106,59,Chazey Wood,2015-09-01,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 106,60,Chazey Wood,2015-09-01,,Syrphidae,,m,,
 106,61,Chazey Wood,2015-09-01,,Tachinidae,Macquartia tenebricosa,m,"Raper & Smith's update of Belshaw v5c, 2014",
 106,62,Chazey Wood,2015-09-01,,Tachinidae,Voria ruralis,f,"Raper & Smith's update of Belshaw v5c, 2014",
-106,63,Chazey Wood,2015-09-01,,Muscidae,,f,,Long proboscis
+106,63,Chazey Wood,2015-09-01,,Muscidae,Stomoxys calcitrans,f,"Fonseca, 1968",Long proboscis
 106,64,Chazey Wood,2015-09-01,,Anthomyiidae,,f,,
 106,65,Chazey Wood,2015-09-01,,Anthomyiidae,,f,,
 106,66,Chazey Wood,2015-09-01,,Tachinidae,Phryxe cf vulgaris,m,"Raper & Smith's update of Belshaw v5c, 2014",
