@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 108,9,Field below Chazey Wood,2015-09-01,,Sarcophagidae,,m,,
 108,10,Field below Chazey Wood,2015-09-01,,Conopidae,,,,
 108,11,Field below Chazey Wood,2015-09-01,,Asilidae,,f,,
-108,12,Field below Chazey Wood,2015-09-01,,Muscidae,,m,,
+108,12,Field below Chazey Wood,2015-09-01,,Muscidae,Polietes meridionalis,m,"Fonseca , 1968; Pont & Falk, 2013",No pale hairs on postgena
 108,13,Field below Chazey Wood,2015-09-01,,Calliphoridae,Lucilia sp,m,,
 108,14,Field below Chazey Wood,2015-09-01,,Tachinidae,Pales pavida,m,"Raper & Smith's update of Belshaw v5c, 2014",
 108,15,Field below Chazey Wood,2015-09-01,,Tachinidae,Phryxe nemea,f,"Raper & Smith's update of Belshaw v5c, 2014",
@@ -23,8 +23,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 108,22,Field below Chazey Wood,2015-09-01,,Calliphoridae,Bellardia sp,f,,
 108,23,Field below Chazey Wood,2015-09-01,,Calliphoridae,Bellardia sp,m,,
 108,24,Field below Chazey Wood,2015-09-01,,Calliphoridae,Bellardia sp,f,,
-108,25,Field below Chazey Wood,2015-09-01,,Muscidae,,f,,
-108,26,Field below Chazey Wood,2015-09-01,,Muscidae,,f,,
+108,25,Field below Chazey Wood,2015-09-01,,Muscidae,Phaonia incana,f,"Fonseca, 1968",
+108,26,Field below Chazey Wood,2015-09-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 108,27,Field below Chazey Wood,2015-09-01,,Anthomyiidae,Eustalomyia sp,f,,
 108,28,Field below Chazey Wood,2015-09-01,,Calliphoridae,Pollenia sp,f,,
 108,29,Field below Chazey Wood,2015-09-01,,Muscidae,,f,,
