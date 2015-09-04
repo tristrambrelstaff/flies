@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,1,Whiteknights Park (W),2015-07-31,,Conopidae,,,,
 95,2,Whiteknights Park (W),2015-07-31,,Tabanidae,Haematopota pluvialis,f,,
 95,3,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
-95,4,Whiteknights Park (W),2015-07-31,,Tachinidae,Linnaemya picta,f,"Raper & Smith's update of Belshaw v5c, 2014",
+95,4,Whiteknights Park (W),2015-07-31,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993",
 95,5,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
 95,6,Whiteknights Park (W),2015-07-31,,Sciomyzidae,,f,,
 95,7,Whiteknights Park (W),2015-07-31,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
@@ -24,10 +24,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,23,Chazey Wood,2015-08-02,,Muscidae,,f,,
 95,24,Chazey Wood,2015-08-02,,Sciomyzidae,,m,,
 95,25,Chazey Wood,2015-08-02,,Sciomyzidae,Coremacera marginata,m,,
-95,26,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina ,m,"Raper & Smith's update of Belshaw v5c, 2014",
-95,27,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina ,m,"Raper & Smith's update of Belshaw v5c, 2014",
-95,28,Chazey Wood,2015-08-02,,Tachinidae,Linnaemya picta,m,"Raper & Smith's update of Belshaw v5c, 2014",
-95,29,Chazey Wood,2015-08-02,,Tachinidae,Epicampocera succincta,f,"Raper & Smith's update of Belshaw v5c, 2014",Some black hairs behind postocular row.
+95,26,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina ,m,"Belshaw, 1993",
+95,27,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina ,m,"Belshaw, 1993",
+95,28,Chazey Wood,2015-08-02,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993",
+95,29,Chazey Wood,2015-08-02,,Tachinidae,Epicampocera succincta,f,"Belshaw, 1993",Some black hairs behind postocular row.
 95,30,Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sp,f,,
 95,31,Chazey Wood,2015-08-02,,Muscidae,,m,,
 95,32,Chazey Wood,2015-08-02,,Muscidae,,m,,

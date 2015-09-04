@@ -11,10 +11,10 @@ km6,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,10,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,m,,
 70,11,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
 70,12,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,f,,
-70,13,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Lydina aenea,m,"Raper & Smith's update of Belshaw v5c, 2014",
-70,14,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Lydina aenea,m,"Raper & Smith's update of Belshaw v5c, 2014",
-70,15,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,f,"Raper & Smith's update of Belshaw v5c, 2014",
-70,16,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
+70,13,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Lydina aenea,m,"Belshaw, 1993",
+70,14,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Lydina aenea,m,"Belshaw, 1993",
+70,15,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993",
+70,16,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993",
 70,17,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,,m,,
 70,18,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Cordilura sp,m,,
 70,19,"Balmer Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,m,,
@@ -53,7 +53,7 @@ km6,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,52,"Butts Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,m,,
 70,53,"Butts Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,f,,
 70,54,"Butts Lawn, Brockenhurst",2015-05-09,,Anthomyiidae,,f,,
-70,55,Whiteknights Park (NW),2015-05-23,,Tachinidae,Tachina fera,f,"Raper & Smith's update of Belshaw v5c, 2014",
+70,55,Whiteknights Park (NW),2015-05-23,,Tachinidae,Tachina fera,f,"Belshaw, 1993",
 70,56,Whiteknights Park (NW),2015-05-23,,Rhagionidae,Rhagio sp,,,
 70,57,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,m,,57+58 in cop
 70,58,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,f,,57+58 in cop

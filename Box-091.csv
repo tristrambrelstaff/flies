@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-91,1,Field below Chazey Wood,2015-07-11,,Tachinidae,Eriothrix rufomaculata,m,"Raper & Smith's update of Belshaw v5c, 2014",
-91,2,Field below Chazey Wood,2015-07-11,,Tachinidae,Siphona geniculata,f,"Raper & Smith's update of Belshaw v5c, 2014",
+91,1,Field below Chazey Wood,2015-07-11,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993",
+91,2,Field below Chazey Wood,2015-07-11,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993",
 91,3,Field below Chazey Wood,2015-07-11,,Calliphoridae,Melinda sp,f,,
 91,4,Field below Chazey Wood,2015-07-11,,Calliphoridae,Bellardia sp,f,,
 91,5,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,
@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,14,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,cf Blaesoxipha plumicornis,m,"Pape, 1987",
 91,15,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,,m,,
 91,16,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,,m,,
-91,17,Field West of Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Raper & Smith's update of Belshaw v5c, 2014",
+91,17,Field West of Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Belshaw, 1993",
 91,18,Chazey Wood,2015-07-11,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,,
 91,19,Chazey Wood,2015-07-11,,Asilidae,,,,
 91,20,Chazey Wood,2015-07-11,,Syrphidae,Chrysotoxum bicinctum,m,,
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,31,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
 91,32,Chazey Wood,2015-07-11,,Calliphoridae,Pollenia sp,f,,
 91,33,Chazey Wood,2015-07-11,,Rhinophoridae,Rhinophora lepida,f,,
-91,34,Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Raper & Smith's update of Belshaw v5c, 2014",
+91,34,Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Belshaw, 1993",
 91,35,Chazey Wood,2015-07-11,,Muscidae,,m,,
 91,36,Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,37,Chazey Wood,2015-07-11,,Pipunculidae,,,,
@@ -42,6 +42,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,41,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,41+42 in cop
 91,42,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,f,,41+42 in cop
 91,43,Whiteknights Park (W),2015-07-18,,Calliphoridae,Calliphora vicina,m,,
-91,44,Whiteknights Park (W),2015-07-18,,Tachinidae,Dexiosoma caninum,m,"Raper & Smith's update of Belshaw v5c, 2014",
+91,44,Whiteknights Park (W),2015-07-18,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993",
 91,45,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,
 91,46,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,

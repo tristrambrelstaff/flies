@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 45,1,Field below Chazey Wood,2014-08-31,,Syrphidae,Helophilus pendulus,m,,33+34 in cop
 45,2,Field below Chazey Wood,2014-08-31,,Syrphidae,Helophilus pendulus,f,,33+34 in cop
 45,3,Field below Chazey Wood,2014-08-31,,Syrphidae,Xylota sp,m,,
-45,4,Field below Chazey Wood,2014-08-31,,Tachinidae,Sturmia bella,m,"Raper & Smith's update of Belshaw v5c, 2014",
+45,4,Field below Chazey Wood,2014-08-31,,Tachinidae,Sturmia bella,m,"Belshaw, 1993",
 45,5,Field below Chazey Wood,2014-08-31,,Tachinidae,Pales pavida,f,"Belshaw, 1993",
 45,6,Field below Chazey Wood,2014-08-31,,Scathophagidae,Cordilura sp,f,,
 45,7,Field below Chazey Wood,2014-08-31,,Sciomyzidae,,m,,
@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 45,9,Field below Chazey Wood,2014-08-31,,Sciomyzidae,,f,,
 45,10,Field below Chazey Wood,2014-08-31,,Calliphoridae,Bellardia sp,f,,
 45,11,Field below Chazey Wood,2014-08-31,,Calliphoridae,Bellardia sp,f,,
-45,12,Field below Chazey Wood,2014-08-31,,Tachinidae,Thecocarcelia acutangulata,f,"Raper & Smith's update of Belshaw v5c, 2014",
+45,12,Field below Chazey Wood,2014-08-31,,Tachinidae,Thecocarcelia acutangulata,f,"Belshaw, 1993",
 45,13,Field below Chazey Wood,2014-08-31,,Tachinidae,Voria ruralis,f,"Belshaw, 1993",
 45,14,Field below Chazey Wood,2014-08-31,,Tachinidae,Voria ruralis,m,"Belshaw, 1993",
 45,15,Field below Chazey Wood,2014-08-31,,Tachinidae,Phryxe vulgaris,m,"Belshaw, 1993",
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 45,30,Field below Chazey Wood,2014-08-31,,Muscoidea,,f,,
 45,31,Field below Chazey Wood,2014-08-31,,Muscidae,,f,,
 45,32,Field below Chazey Wood,2014-08-31,,Tachinidae,Nemorilla floralis,f,"Belshaw, 1993",
-45,33,Whiteknights Park (E),2014-09-03,,Tachinidae,Linnaemya picta,m,"Raper & Smith's update of Belshaw v5c, 2014",
+45,33,Whiteknights Park (E),2014-09-03,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993",
 45,34,Whiteknights Park (E),2014-09-03,,Conopidae,,,,
 45,35,Whiteknights Park (E),2014-09-03,,Conopidae,,,,
 45,36,Whiteknights Park (E),2014-09-03,,Sciomyzidae,Tetanocera sp,,,
