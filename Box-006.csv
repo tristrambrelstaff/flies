@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 6,1,Field below Chazey Wood,2014-04-13,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
-6,2,Field below Chazey Wood,2014-04-13,,Tachinidae,Macquartia grisea,m,"Belshaw, 1993",
+6,2,Field below Chazey Wood,2014-04-13,,Tachinidae,Macquartia grisea,m,"Belshaw, 1993 +v5c updates",
 6,3,Field below Chazey Wood,2014-04-13,,Sarcophagidae,,,,
 6,4,Field below Chazey Wood,2014-04-13,,Muscoidea,,,,
 6,5,Field below Chazey Wood,2014-04-13,,Calliphoridae,Bellardia sp,m,,
@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 6,25,Field below Chazey Wood,2014-04-13,,Bibionidae,Bibio sp,,,
 6,26,Field below Chazey Wood,2014-04-13,,Syrphidae,,,,
 6,27,Field below Chazey Wood,2014-04-13,,Syrphidae,,,,
-6,28,Field below Chazey Wood,2014-04-13,,Tachinidae,Thelaira nigripes,m,"Belshaw, 1993",
+6,28,Field below Chazey Wood,2014-04-13,,Tachinidae,Thelaira nigripes,m,"Belshaw, 1993 +v5c updates",
 6,29,Field below Chazey Wood,2014-04-13,Hemiptera,Psylloidea,,,,
 6,30,Field below Chazey Wood,2014-04-13,,Syrphidae,,,,
 6,31,Field below Chazey Wood,2014-04-13,,Syrphidae,,,,
@@ -42,6 +42,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 6,41,Whiteknights Park,2014-04-18,,Rhinophoridae,,,,
 6,42,Whiteknights Park,2014-04-18,,Muscoidea,,,,
 6,43,Whiteknights Park,2014-04-18,,Calliphoridae,Calliphora vicina,,,
-6,44,Whiteknights Park,2014-04-18,,Tachinidae,Macquartia dispar,m,"Belshaw, 1993",
+6,44,Whiteknights Park,2014-04-18,,Tachinidae,Macquartia dispar,m,"Belshaw, 1993 +v5c updates",
 6,45,Whiteknights Park,2014-04-18,,Muscoidea,,,,
 6,46,Whiteknights Park,2014-04-18,,Syrphidae,Platycheirus albimanus,f,"Stubbs and Falk, 2002",
