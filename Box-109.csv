@@ -27,9 +27,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,26,The Wilderness (E),2015-09-05,,Muscidae,,m,,
 109,27,The Wilderness (E),2015-09-05,,Muscidae,,f,,
 109,28,The Wilderness (E),2015-09-05,,Rhinophoridae,Paykullia maculata,f,,
-109,29,The Wilderness (E),2015-09-05,,Tachinidae,,f,,
-109,30,The Wilderness (E),2015-09-05,,Tachinidae,,f,,
-109,31,The Wilderness (E),2015-09-05,,Tachinidae,,f,,
+109,29,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
+109,30,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
+109,31,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 109,32,The Wilderness (E),2015-09-05,,Muscidae,,f,,
 109,33,The Wilderness (E),2015-09-05,,Anthomyiidae,,f,,
 109,34,The Wilderness (E),2015-09-05,,Muscidae,,f,,Orange
@@ -65,4 +65,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,64,The Wilderness (W),2015-09-05,,Muscidae,,f,,
 109,65,The Wilderness (W),2015-09-05,,Muscidae,,f,,
 109,66,The Wilderness (W),2015-09-05,,Muscidae,,f,,
-109,67,The Wilderness (W),2015-09-05,,Tachinidae,Tachina fera,m,,
+109,67,The Wilderness (W),2015-09-05,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
