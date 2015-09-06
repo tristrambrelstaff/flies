@@ -24,18 +24,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,23,Field below Chazey Wood,2015-09-01,,Empididae,,f,,
 109,24,Field below Chazey Wood,2015-09-01,,Empididae,,m,,
 109,25,Field below Chazey Wood,2015-09-01,,Mycetophilidae,,m,,
-109,26,The Wilderness (E),2015-09-05,,Muscidae,,m,,
-109,27,The Wilderness (E),2015-09-05,,Muscidae,,f,,
+109,26,The Wilderness (E),2015-09-05,,Muscidae,Limnophora maculosa,m,"Fonseca, 1968",Sternite 1 hairy
+109,27,The Wilderness (E),2015-09-05,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 109,28,The Wilderness (E),2015-09-05,,Rhinophoridae,Paykullia maculata,f,,
 109,29,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 109,30,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 109,31,The Wilderness (E),2015-09-05,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
-109,32,The Wilderness (E),2015-09-05,,Muscidae,,f,,
+109,32,The Wilderness (E),2015-09-05,,Muscidae,Mydaea corni,f,"Fonseca, 1968",As Mydaea scutellaris
 109,33,The Wilderness (E),2015-09-05,,Anthomyiidae,,f,,
-109,34,The Wilderness (E),2015-09-05,,Muscidae,,f,,Orange
-109,35,The Wilderness (E),2015-09-05,,Muscidae,,f,,
-109,36,The Wilderness (E),2015-09-05,,Muscidae,,m,,
-109,37,The Wilderness (E),2015-09-05,,Muscidae,,m,,
+109,34,The Wilderness (E),2015-09-05,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",Orange
+109,35,The Wilderness (E),2015-09-05,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
+109,36,The Wilderness (E),2015-09-05,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
+109,37,The Wilderness (E),2015-09-05,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 109,38,The Wilderness (E),2015-09-05,,Anthomyiidae,,m,,
 109,39,The Wilderness (E),2015-09-05,,Anthomyiidae,,f,,
 109,40,The Wilderness (E),2015-09-05,,Dolichopodidae,,m,,
@@ -43,8 +43,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,42,The Wilderness (E),2015-09-05,,Heleomyzidae,Suillia sp,m,,
 109,43,The Wilderness (E),2015-09-05,,Heleomyzidae,Suillia sp,m,,
 109,44,The Wilderness (E),2015-09-05,,Anthomyiidae,,f,,Orange
-109,45,The Wilderness (E),2015-09-05,,Muscidae,,f,,
-109,46,The Wilderness (E),2015-09-05,,Muscidae,,f,,
+109,45,The Wilderness (E),2015-09-05,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+109,46,The Wilderness (E),2015-09-05,,Muscidae,Hydrotaea albipuncta,f,"Fonseca, 1968",
 109,47,The Wilderness (E),2015-09-05,,Opomyzidae,Opomyza sp,f,,
 109,48,The Wilderness (E),2015-09-05,,Opomyzidae,Opomyzy sp,f,,
 109,49,The Wilderness (E),2015-09-05,,Muscidae,Coenosia mollicula,m,"Fonseca, 1968",
