@@ -47,10 +47,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,46,The Wilderness (E),2015-09-05,,Muscidae,,f,,
 109,47,The Wilderness (E),2015-09-05,,Opomyzidae,Opomyza sp,f,,
 109,48,The Wilderness (E),2015-09-05,,Opomyzidae,Opomyzy sp,f,,
-109,49,The Wilderness (E),2015-09-05,,Muscidae,Coenosia sp,m,,
-109,50,The Wilderness (E),2015-09-05,,Muscidae,,f,,
+109,49,The Wilderness (E),2015-09-05,,Muscidae,Coenosia mollicula,m,"Fonseca, 1968",
+109,50,The Wilderness (E),2015-09-05,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 109,51,The Wilderness (E),2015-09-05,,Platypezidae,,f,,
-109,52,The Wilderness (E),2015-09-05,,Muscidae,,f,,
+109,52,The Wilderness (E),2015-09-05,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 109,53,The Wilderness (E),2015-09-05,,Lauxaniidae,,f,,Orange
 109,54,The Wilderness (E),2015-09-05,,Mycetophilidae,,m,,
 109,55,The Wilderness (E),2015-09-05,,Mycetophilidae,,m,,
@@ -61,8 +61,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 109,60,The Wilderness (E),2015-09-05,,Drosophilidae,,,,
 109,61,The Wilderness (E),2015-09-05,,Drosophilidae,,,,
 109,62,The Wilderness (W),2015-09-05,,Sciomyzidae,Tetanocera sp,f,,
-109,63,The Wilderness (W),2015-09-05,,Muscidae,Phaonia valida,f,,
-109,64,The Wilderness (W),2015-09-05,,Muscidae,,f,,
-109,65,The Wilderness (W),2015-09-05,,Muscidae,,f,,
-109,66,The Wilderness (W),2015-09-05,,Muscidae,,f,,
+109,63,The Wilderness (W),2015-09-05,,Muscidae,Phaonia valida,f,"Fonseca, 1968",
+109,64,The Wilderness (W),2015-09-05,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+109,65,The Wilderness (W),2015-09-05,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+109,66,The Wilderness (W),2015-09-05,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 109,67,The Wilderness (W),2015-09-05,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
