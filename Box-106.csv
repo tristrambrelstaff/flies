@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 106,44,The Wilderness (W),2015-08-29,Hymenoptera,,,f,,
 106,45,The Wilderness (W),2015-08-29,Hymenoptera,,,,,
 106,46,Chazey Wood,2015-09-01,,Muscidae,Coenosia sp,f,,
-106,47,Chazey Wood,2015-09-01,,Muscidae,,f,,Wings darkened
+106,47,Chazey Wood,2015-09-01,,Calliphoridae,Melanomya nana,f,"Rognes, 1991",Wings darkened
 106,48,Chazey Wood,2015-09-01,,Fanniidae,,f,,
 106,49,Chazey Wood,2015-09-01,,Anthomyiidae,,f,,
 106,50,Chazey Wood,2015-09-01,,Anthomyiidae,,f,,
@@ -66,5 +66,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 106,65,Chazey Wood,2015-09-01,,Anthomyiidae,,f,,
 106,66,Chazey Wood,2015-09-01,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
 106,67,Chazey Wood,2015-09-01,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
-106,68,Chazey Wood,2015-09-01,,Muscidae,,f,,
+106,68,Chazey Wood,2015-09-01,,Tachinidae,Meigenia sp,f,"Belshaw, 1993 +v5c updates",Wings shrivelled
 106,69,Chazey Wood,2015-09-01,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
