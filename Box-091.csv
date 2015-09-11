@@ -3,14 +3,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,2,Field below Chazey Wood,2015-07-11,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 91,3,Field below Chazey Wood,2015-07-11,,Calliphoridae,Melinda sp,f,,
 91,4,Field below Chazey Wood,2015-07-11,,Calliphoridae,Bellardia sp,f,,
-91,5,Field below Chazey Wood,2015-07-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+91,5,Field below Chazey Wood,2015-07-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata; Sternites grey
 91,6,Field below Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,7,Field below Chazey Wood,2015-07-11,,Empididae,,m,,
-91,8,Field below Chazey Wood,2015-07-11,,Muscidae,,f,,
-91,9,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,
-91,10,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,Wings darkened
+91,8,Field below Chazey Wood,2015-07-11,,Muscidae,Helina obscurata,f,"Fonseca, 1968",Damaged on 2015-09-11 (front legs missing).
+91,9,Field below Chazey Wood,2015-07-11,,Muscidae,Helina setiventris,m,"Fonseca, 1968",Sternites glossy black
+91,10,Field below Chazey Wood,2015-07-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Yellow halteres; Wings darkened
 91,11,Field below Chazey Wood,2015-07-11,,Anthomyiidae,,m,,
-91,12,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,Wings darkened
+91,12,Field below Chazey Wood,2015-07-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Yellow halteres; Wings darkened
 91,13,Field West of Chazey Wood,2015-07-11,,Asilidae,,f,,
 91,14,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,cf Blaesoxipha plumicornis,m,"Pape, 1987",
 91,15,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,,m,,
@@ -26,14 +26,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,25,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,26,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,27,Chazey Wood,2015-07-11,,Asilidae,Dioctria sp,f,,
-91,28,Chazey Wood,2015-07-11,,Muscidae,,m,,
+91,28,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,29,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
 91,30,Chazey Wood,2015-07-11,,Sarcophagidae,,f,,
 91,31,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
 91,32,Chazey Wood,2015-07-11,,Calliphoridae,Pollenia sp,f,,
 91,33,Chazey Wood,2015-07-11,,Rhinophoridae,Rhinophora lepida,f,,
 91,34,Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
-91,35,Chazey Wood,2015-07-11,,Muscidae,,m,,
+91,35,Chazey Wood,2015-07-11,,Rhinophoridae,Rhinophora lepida,m,,
 91,36,Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,37,Chazey Wood,2015-07-11,,Pipunculidae,,,,
 91,38,Chazey Wood,2015-07-11,Hymenoptera,,,,,
