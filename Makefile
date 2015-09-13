@@ -1,4 +1,9 @@
-all: flies.csv locations.csv keys.csv
+FILES=flies.csv locations.csv keys.csv
+
+all: ${FILES}
+
+clean:
+	rm --force ${FILES}
 
 flies.csv: Box-*.csv
 	tail --lines=+2 --quiet Box-*.csv >$@
