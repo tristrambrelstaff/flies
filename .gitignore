@@ -6,5 +6,6 @@
 
 # Ignore files that are made
 flies.csv
+species.csv
 locations.csv
 keys.csv
