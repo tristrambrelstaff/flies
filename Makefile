@@ -1,4 +1,4 @@
-FILES=flies.csv species.csv locations.csv keys.csv
+FILES=flies.csv families.csv species.csv locations.csv keys.csv
 
 all: ${FILES}
 
@@ -7,6 +7,9 @@ clean:
 
 flies.csv: Box-*.csv
 	tail --lines=+2 --quiet Box-*.csv >$@
+
+families.csv: Box-*.csv
+	csvfix summary -frq 6 Box-*.csv | csvfix order -f 7,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
 
 species.csv: Box-*.csv
 	csvfix summary -frq 6,7 Box-*.csv | csvfix order -f 7,8,1 | csvfix unique -f 1,2 | csvfix sort -f 1,2 -rh >$@
