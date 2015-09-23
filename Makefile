@@ -9,13 +9,13 @@ flies.csv: Box-*.csv
 	tail --lines=+2 --quiet Box-*.csv >$@
 
 families.csv: Box-*.csv
-	csvfix summary -frq 6 Box-*.csv | csvfix order -f 7,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
+	cat Box-*.csv | csvfix summary -frq 6 | csvfix order -f 7,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
 
 species.csv: Box-*.csv
-	csvfix summary -frq 6,7 Box-*.csv | csvfix order -f 7,8,1 | csvfix unique -f 1,2 | csvfix sort -f 1,2 -rh >$@
+	cat Box-*.csv | csvfix summary -frq 6,7 | csvfix order -f 7,8,1 | csvfix unique -f 1,2 | csvfix sort -f 1,2 -rh >$@
 
 locations.csv: Box-*.csv
-	csvfix summary -frq 3 Box-*.csv | csvfix order -f 4,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
+	cat Box-*.csv | csvfix summary -frq 3 | csvfix order -f 4,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
 
 keys.csv: Box-*.csv
-	csvfix summary -frq 9 Box-*.csv | csvfix order -f 10,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
+	cat Box-*.csv | csvfix summary -frq 9 | csvfix order -f 10,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
