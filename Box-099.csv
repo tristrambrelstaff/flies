@@ -6,14 +6,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 99,5,Chazey Wood,2015-08-15,,Calliphoridae,Bellardia sp,f,,
 99,6,Chazey Wood,2015-08-15,,Anthomyiidae,,m,,
 99,7,Chazey Wood,2015-08-15,,Sarcophagidae,,f,,
-99,8,Chazey Wood,2015-08-15,,Muscidae,,f,,
+99,8,Chazey Wood,2015-08-15,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina communis
 99,9,Chazey Wood,2015-08-15,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 99,10,Chazey Wood,2015-08-15,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 99,11,Chazey Wood,2015-08-15,,Calliphoridae,Melinda sp,m,,
 99,12,Chazey Wood,2015-08-15,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 99,13,Chazey Wood,2015-08-15,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-99,14,Chazey Wood,2015-08-15,,Muscidae,,m,,
-99,15,Chazey Wood,2015-08-15,,Muscidae,,f,,
+99,14,Chazey Wood,2015-08-15,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+99,15,Chazey Wood,2015-08-15,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",Has fungus; Place in freezer 2015-09-26
 99,16,Chazey Wood,2015-08-15,,Calliphoridae,Pollenia sp,f,,
 99,17,Chazey Wood,2015-08-15,,Calliphoridae,Pollenia sp,f,,
 99,18,Chazey Wood,2015-08-15,,Calliphoridae,Pollenia sp,f,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 99,38,Chazey Wood,2015-08-15,,Anthomyiidae,,m,,
 99,39,Chazey Wood,2015-08-15,,Lauxaniidae,Minettia sp,m,,
 99,40,Chazey Wood,2015-08-15,,Lauxaniidae,,m,,
-99,41,Chazey Wood,2015-08-15,,Muscidae,Coenosia sp,f,,
+99,41,Chazey Wood,2015-08-15,,Muscidae,Coenosia vibrissata,f,"Fonseca, 1968",
 99,42,Field West of Chazey Wood,2015-08-15,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
 99,43,Field West of Chazey Wood,2015-08-15,,Syrphidae,Chrysotoxum sp,f,,
 99,44,Field West of Chazey Wood,2015-08-15,,Calliphoridae,Lucilia sp,m,,
