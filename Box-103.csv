@@ -9,9 +9,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,8,Chazey Wood,2015-08-25,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
 103,9,Chazey Wood,2015-08-25,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
 103,10,Chazey Wood,2015-08-25,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
-103,11,Chazey Wood,2015-08-25,,Muscidae,,m,,
+103,11,Chazey Wood,2015-08-25,,Muscidae,Helina evecta,m,"Fonseca, 1968; Sun & Xu, 2015",As Helina laetifica
 103,12,Chazey Wood,2015-08-25,,Tachinidae,Eurithia anthophila,m,"Belshaw, 1993 +v5c updates",
-103,13,Chazey Wood,2015-08-25,,Muscidae,,f,,Orange
+103,13,Chazey Wood,2015-08-25,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",Orange
 103,14,Chazey Wood,2015-08-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 103,15,Chazey Wood,2015-08-25,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 103,16,Chazey Wood,2015-08-25,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,23,Chazey Wood,2015-08-25,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 103,24,Chazey Wood,2015-08-25,,Sarcophagidae,,f,,
 103,25,Chazey Wood,2015-08-25,,Calliphoridae,Bellardia sp,m,,
-103,26,Chazey Wood,2015-08-25,,Muscidae,,f,,
+103,26,Chazey Wood,2015-08-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 103,27,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 103,28,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 103,29,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
@@ -42,8 +42,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,41,Chazey Wood,2015-08-25,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
 103,42,Chazey Wood,2015-08-25,,Tachinidae,Aplomya confinis,m,"Belshaw, 1993 +v5c updates",
 103,43,Chazey Wood,2015-08-25,,Tachinidae,Meigenia sp,m,"Belshaw, 1993 +v5c updates",
-103,44,Chazey Wood,2015-08-25,,Muscidae,,f,,
-103,45,Chazey Wood,2015-08-25,,Muscidae,,f,,
+103,44,Chazey Wood,2015-08-25,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+103,45,Chazey Wood,2015-08-25,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 103,46,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 103,47,Chazey Wood,2015-08-25,,Anthomyiidae,,m,,
 103,48,Chazey Wood,2015-08-25,,Fanniidae,,f,,
@@ -57,7 +57,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,56,Chazey Wood,2015-08-25,,Muscidae,Coenosia sp,f,,
 103,57,Chazey Wood,2015-08-25,,Muscidae,Coenosia sp,f,,
 103,58,Chazey Wood,2015-08-25,,Anthomyiidae,,f,,
-103,59,Chazey Wood,2015-08-25,,Muscidae,,f,,
+103,59,Chazey Wood,2015-08-25,,Muscidae,Spilogona denigrata,f,"Fonseca, 1968",
 103,60,Chazey Wood,2015-08-25,,Anthomyiidae,,m,,
 103,61,Chazey Wood,2015-08-25,,Fanniidae,,f,,
 103,62,Chazey Wood,2015-08-25,,Fanniidae,,m,,
