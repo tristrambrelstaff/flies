@@ -19,9 +19,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,18,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
 95,19,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,m,,"19,20 in cop"
 95,20,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,f,,"19,20 in cop"
-95,21,Chazey Wood,2015-08-02,,Muscidae,,f,,
-95,22,Chazey Wood,2015-08-02,,Muscidae,,f,,
-95,23,Chazey Wood,2015-08-02,,Muscidae,,f,,
+95,21,Chazey Wood,2015-08-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+95,22,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
+95,23,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea sp,f,,
 95,24,Chazey Wood,2015-08-02,,Sciomyzidae,,m,,
 95,25,Chazey Wood,2015-08-02,,Sciomyzidae,Coremacera marginata,m,,
 95,26,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
@@ -36,7 +36,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,35,Chazey Wood,2015-08-02,,Therevidae,Thereva sp,f,,
 95,36,Chazey Wood,2015-08-02,,Syrphidae,Scaeva pyrastri,m,,
 95,37,Chazey Wood,2015-08-02,,Syrphidae,Chrysotoxum bicinctum,m,,
-95,38,Chazey Wood,2015-08-02,,Muscidae,Morellia sp,m,,
-95,39,Chazey Wood,2015-08-02,,Muscidae,Morellia sp,m,,
+95,38,Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+95,39,Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 95,40,Chazey Wood,2015-08-02,,Anthomyiidae,,f,,
 95,41,Chazey Wood,2015-08-02,,Anthomyiidae,,f,,
