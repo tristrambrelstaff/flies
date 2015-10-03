@@ -36,19 +36,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 113,35,Whiteknights Park (W),2015-10-02,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 113,36,Whiteknights Park (W),2015-10-02,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 113,37,Whiteknights Park (W),2015-10-02,,Sarcophagidae,Sarcophaga sp,f,,
-113,38,Whiteknights Park (W),2015-10-02,,Muscidae,Muscina sp,f,,
-113,39,Whiteknights Park (W),2015-10-02,,Muscidae,Muscina sp,m,,
+113,38,Whiteknights Park (W),2015-10-02,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+113,39,Whiteknights Park (W),2015-10-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 113,40,Whiteknights Park (W),2015-10-02,,Sarcophagidae,Sarcophaga sp,f,,
 113,41,Whiteknights Park (W),2015-10-02,,Sarcophagidae,Sarcophaga sp,f,,
 113,42,Whiteknights Park (W),2015-10-02,,Sarcophagidae,Sarcophaga sp,m,,
 113,43,Whiteknights Park (W),2015-10-02,,Anthomyiidae,,m,,
-113,44,Whiteknights Park (W),2015-10-02,,Muscidae,Phaonia valida,f,,
-113,45,Whiteknights Park (W),2015-10-02,,Muscidae,Phaonia valida,f,,
-113,46,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,47,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,48,Whiteknights Park (W),2015-10-02,,Muscidae,Helina sp,m,,
-113,49,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,50,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,51,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,52,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
-113,53,Whiteknights Park (W),2015-10-02,,Muscidae,,f,,
+113,44,Whiteknights Park (W),2015-10-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+113,45,Whiteknights Park (W),2015-10-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+113,46,Whiteknights Park (W),2015-10-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+113,47,Whiteknights Park (W),2015-10-02,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
+113,48,Whiteknights Park (W),2015-10-02,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
+113,49,Whiteknights Park (W),2015-10-02,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+113,50,Whiteknights Park (W),2015-10-02,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+113,51,Whiteknights Park (W),2015-10-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+113,52,Whiteknights Park (W),2015-10-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+113,53,Whiteknights Park (W),2015-10-02,,Muscidae,Helina evecta,f,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
