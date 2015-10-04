@@ -46,12 +46,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,45,The Wilderness (W),2015-05-30,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 76,46,The Wilderness (W),2015-05-30,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 76,47,The Wilderness (W),2015-05-30,,Tachinidae,Carcelia tibialis,f,"Belshaw, 1993 +v5c updates",
-76,48,The Wilderness (W),2015-05-30,,Muscidae,Graphomya maculata,f,,
+76,48,The Wilderness (W),2015-05-30,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 76,49,The Wilderness (W),2015-05-30,,Muscidae,,f,,
-76,50,The Wilderness (W),2015-05-30,,Muscidae,,m,,
-76,51,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,50,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea dentipes,m,"Fonseca, 1968",
+76,51,The Wilderness (W),2015-05-30,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 76,52,The Wilderness (W),2015-05-30,,Sarcophagidae,,m,,
-76,53,The Wilderness (W),2015-05-30,,Muscidae,,m,,
+76,53,The Wilderness (W),2015-05-30,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 76,54,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 76,55,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 76,56,The Wilderness (W),2015-05-30,,Syrphidae,Xanthogramma sp,m,,

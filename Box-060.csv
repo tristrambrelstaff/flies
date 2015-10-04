@@ -53,6 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 60,52,Whiteknights Park (W),2015-04-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 60,53,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
 60,54,Whiteknights Park (W),2015-04-11,,Muscidae,,f,,
-60,55,Whiteknights Park (W),2015-04-11,,Calliphoridae,Calliphora vicina,m,,
+60,55,Whiteknights Park (W),2015-04-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 60,56,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
-60,57,Whiteknights Park (W),2015-04-11,,Muscidae,Muscina sp,f,,
+60,57,Whiteknights Park (W),2015-04-11,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+

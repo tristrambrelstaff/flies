@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,1,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia sp,m,,
 83,2,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia sp,f,,
-83,3,The Wilderness (W),2015-06-26,,Muscidae,Muscina sp,m,,
+83,3,The Wilderness (W),2015-06-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 83,4,The Wilderness (W),2015-06-26,,Sarcophagidae,,f,,
 83,5,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
 83,6,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,8,The Wilderness (W),2015-06-26,,Muscidae,,f,,
 83,9,The Wilderness (W),2015-06-26,,Tabanidae,Haematopota pluvialis,f,,Wings damaged
 83,10,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
-83,11,The Wilderness (W),2015-06-26,,Muscidae,Muscina sp,m,,
+83,11,The Wilderness (W),2015-06-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 83,12,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 83,13,The Wilderness (W),2015-06-26,,Muscidae,,m,,
 83,14,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
