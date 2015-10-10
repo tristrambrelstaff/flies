@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 31,7,Chazey Wood,2014-07-12,,Calliphoridae,Melinda sp,m,,
 31,8,Chazey Wood,2014-07-12,,Therevidae,Thereva sp,,,
 31,9,Chazey Wood,2014-07-12,Hymenoptera,Gasteruptiidae,Gasteruption sp,f,,
-31,10,Chazey Wood,2014-07-12,,Muscidae,Muscina sp,m,,
+31,10,Chazey Wood,2014-07-12,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 31,11,Chazey Wood,2014-07-12,,Syrphidae,Leucozona sp,m,,
 31,12,Chazey Wood,2014-07-12,,Syrphidae,Xanthogramma pedissequum,,,
 31,13,Chazey Wood,2014-07-12,,Asilidae,,,,
@@ -19,13 +19,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 31,18,Whiteknights Park (W),2014-07-13,,Syrphidae,Leucozona sp,f,,
 31,19,Whiteknights Park (W),2014-07-13,,Asilidae,,f,,
 31,20,Whiteknights Park (W),2014-07-13,,Conopidae,Physocephala sp,m,,
-31,21,Whiteknights Park (W),2014-07-13,,Muscidae,,f,,
+31,21,Whiteknights Park (W),2014-07-13,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 31,22,Whiteknights Park (W),2014-07-13,,Calliphoridae,Melinda sp,m,,
 31,23,Whiteknights Park (W),2014-07-13,,Tephritidae,,,,
 31,24,Whiteknights Park (W),2014-07-13,,Rhinophoridae,,,,
 31,25,Whiteknights Park (W),2014-07-13,,Rhinophoridae,,,,
-31,26,Whiteknights Park (E),2014-07-17,,Muscidae,,m,,
-31,27,Whiteknights Park (E),2014-07-17,,Muscidae,,m,,
+31,26,Whiteknights Park (E),2014-07-17,,Anthomyiidae,,m,,
+31,27,Whiteknights Park (E),2014-07-17,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 31,28,Whiteknights Park (E),2014-07-17,,Tephritidae,,m,,
 31,29,Whiteknights Park (E),2014-07-17,,Tephritidae,,m,,
 31,30,Whiteknights Park (E),2014-07-17,,Tephritidae,,m,,
