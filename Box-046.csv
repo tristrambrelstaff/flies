@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 46,1,Whiteknights Park (E),2014-09-03,,Tephritidae,Xyphosia miliaria,m,,
 46,2,Whiteknights Park (E),2014-09-03,,Tephritidae,Xyphosia miliaria,m,,
 46,3,Whiteknights Park (E),2014-09-03,,Syrphidae,,,,
-46,4,Whiteknights Park (E),2014-09-03,,Muscidae,Coenosia sp,,,
+46,4,Whiteknights Park (E),2014-09-03,,Muscidae,Coenosia tigrina,m,,
 46,5,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
 46,6,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
 46,7,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
@@ -37,12 +37,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 46,36,Field below Chazey Wood,2014-09-06,,Tachinidae,Phryxe vulgaris,f,"Belshaw, 1993 +v5c updates",
 46,37,Field below Chazey Wood,2014-09-06,,Sarcophagidae,,,,
 46,38,Field below Chazey Wood,2014-09-06,,Sarcophagidae,,,,
-46,39,Field below Chazey Wood,2014-09-06,,Muscidae,,f,,
-46,40,Field below Chazey Wood,2014-09-06,,Muscidae,,f,,
-46,41,Field below Chazey Wood,2014-09-06,,Muscidae,,f,,
-46,42,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,,
-46,43,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,,
-46,44,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,,
-46,45,Field below Chazey Wood,2014-09-06,,Muscidae,Morellia sp,f,,
-46,46,Field below Chazey Wood,2014-09-06,,Muscidae,Muscina sp,m,,
-46,47,Field below Chazey Wood,2014-09-06,,Muscidae,Eudasyphora cyanella,f,,
+46,39,Field below Chazey Wood,2014-09-06,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+46,40,Field below Chazey Wood,2014-09-06,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+46,41,Field below Chazey Wood,2014-09-06,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+46,42,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum; Right fore tibia has posterior bristle
+46,43,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+46,44,Field below Chazey Wood,2014-09-06,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+46,45,Field below Chazey Wood,2014-09-06,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+46,46,Field below Chazey Wood,2014-09-06,,Muscidae,Polietes meridionalis,m,"Pont & Falk, 2013; Genus: Fonseca, 1968",
+46,47,Field below Chazey Wood,2014-09-06,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
