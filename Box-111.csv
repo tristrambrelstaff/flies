@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 111,1,Chazey Wood,2015-09-12,,Calliphoridae,Stomorhina lunata,m,"Rognes, 1991",
-111,2,Chazey Wood,2015-09-12,,Muscidae,,f,,
+111,2,Chazey Wood,2015-09-12,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
 111,3,Chazey Wood,2015-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
-111,4,Chazey Wood,2015-09-12,,Muscidae,,m,,
-111,5,Chazey Wood,2015-09-12,,Muscidae,,f,,
-111,6,Chazey Wood,2015-09-12,,Muscidae,,m,,
+111,4,Chazey Wood,2015-09-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+111,5,Chazey Wood,2015-09-12,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+111,6,Chazey Wood,2015-09-12,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",as Hebecnema affinis; Mid femurs have no anterior preapical bristle
 111,7,Chazey Wood,2015-09-12,,Anthomyiidae,,m,,
 111,8,Chazey Wood,2015-09-12,,Anthomyiidae,,f,,
 111,9,Chazey Wood,2015-09-12,,Fanniidae,,m,,
