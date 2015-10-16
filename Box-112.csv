@@ -11,14 +11,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 112,10,Chazey Wood,2015-09-20,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 112,11,Chazey Wood,2015-09-20,,Calliphoridae,Pollenia sp,f,,
 112,12,Chazey Wood,2015-09-20,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",No pale hairs on postgena
-112,13,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,13,Chazey Wood,2015-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 112,14,Chazey Wood,2015-09-20,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-112,15,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,15,Chazey Wood,2015-09-20,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi; Has fungus; Placed in freezer 2015-10-16
 112,16,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
-112,17,Chazey Wood,2015-09-20,,Muscidae,,f,,
-112,18,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,17,Chazey Wood,2015-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+112,18,Chazey Wood,2015-09-20,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 112,19,Chazey Wood,2015-09-20,,Calliphoridae,Pollenia sp,m,,
-112,20,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,20,Chazey Wood,2015-09-20,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 112,21,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
 112,22,Chazey Wood,2015-09-20,,Anthomyiidae,,m,,
 112,23,Chazey Wood,2015-09-20,,Heleomyzidae,Suillia sp,f,,
@@ -26,18 +26,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 112,25,Chazey Wood,2015-09-20,,Calliphoridae,Pollenia sp,f,,
 112,26,Chazey Wood,2015-09-20,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 112,27,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
-112,28,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,28,Chazey Wood,2015-09-20,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 112,29,Chazey Wood,2015-09-20,,Calliphoridae,Pollenia sp,m,,
-112,30,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,30,Chazey Wood,2015-09-20,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 112,31,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
-112,32,Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,32,Chazey Wood,2015-09-20,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 112,33,Chazey Wood,2015-09-20,,Anthomyiidae,,m,,
 112,34,Field West of Chazey Wood,2015-09-20,Hymenoptera,Andrenidae,Andrena sp,m,,34+35 in cop
 112,35,Field West of Chazey Wood,2015-09-20,Hymenoptera,Andrenidae,Andrena sp,f,,34+35 in cop
-112,36,Field below Chazey Wood,2015-09-20,,Asilidae,,m,,
+112,36,Field below Chazey Wood,2015-09-20,,Asilidae,,m,,Greasy
 112,37,Field below Chazey Wood,2015-09-20,,Asilidae,,m,,
 112,38,Field below Chazey Wood,2015-09-20,,Tachinidae,Phryxe sp,f,"Belshaw, 1993 +v5c updates",
-112,39,Field below Chazey Wood,2015-09-20,,Muscidae,,f,,
+112,39,Field below Chazey Wood,2015-09-20,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 112,40,Field below Chazey Wood,2015-09-20,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 112,41,Field below Chazey Wood,2015-09-20,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 112,42,Field below Chazey Wood,2015-09-20,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
