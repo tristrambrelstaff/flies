@@ -35,11 +35,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 111,34,Chazey Wood,2015-09-12,,Fanniidae,,m,,
 111,35,Chazey Wood,2015-09-12,,Fanniidae,,m,,
 111,36,Chazey Wood,2015-09-12,,Fanniidae,,f,,
-111,37,Chazey Wood,2015-09-12,,Muscidae,,f,,
+111,37,Chazey Wood,2015-09-12,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 111,38,Chazey Wood,2015-09-12,,Anthomyiidae,,f,,
 111,39,Chazey Wood,2015-09-12,,Tachinidae,Meigenia majuscula,m,"Belshaw, 1993 +v5c updates",
-111,40,Chazey Wood,2015-09-12,,Muscidae,,f,,
-111,41,Chazey Wood,2015-09-12,,Muscidae,,m,,
+111,40,Chazey Wood,2015-09-12,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+111,41,Chazey Wood,2015-09-12,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
 111,42,Chazey Wood,2015-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 111,43,Chazey Wood,2015-09-12,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 111,44,Chazey Wood,2015-09-12,,Sarcophagidae,,f,,
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 111,52,Chazey Wood,2015-09-20,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
 111,53,Chazey Wood,2015-09-20,,Muscidae,Eudasyphora cyanicolor,m,"Fonseca, 1968",As Dasyphora cyanicolor
 111,54,Chazey Wood,2015-09-20,,Calliphoridae,Pollenia amentaria,m,"Rognes, 1991",
-111,55,Chazey Wood,2015-09-20,,Muscidae,Coenosia sp,,,
+111,55,Chazey Wood,2015-09-20,,Muscidae,Coenosia sp,f,,
 111,56,Chazey Wood,2015-09-20,,Fanniidae,,f,,
 111,57,Chazey Wood,2015-09-20,,Fanniidae,,f,,
 111,58,Chazey Wood,2015-09-20,,Fanniidae,,f,,
@@ -67,7 +67,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 111,66,Chazey Wood,2015-09-20,,Fanniidae,,f,,
 111,67,Chazey Wood,2015-09-20,,Muscidae,,f,,
 111,68,Chazey Wood,2015-09-20,,Chloropidae,,,,
-111,69,Chazey Wood,2015-09-20,,Muscidae,Coenosia sp,,,
+111,69,Chazey Wood,2015-09-20,,Muscidae,Coenosia intermedia,f,"Fonseca, 1968",
 111,70,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
 111,71,Chazey Wood,2015-09-20,,Fanniidae,,f,,
 111,72,Chazey Wood,2015-09-20,,Fanniidae,,m,,
@@ -75,6 +75,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 111,74,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
 111,75,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
 111,76,Chazey Wood,2015-09-20,,Anthomyiidae,,m,,
-111,77,Chazey Wood,2015-09-20,,Muscoidea,,,,Shrivelled wings
-111,78,Chazey Wood,2015-09-20,,Muscidae,Coenosia sp,,,
+111,77,Chazey Wood,2015-09-20,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Shrivelled wings
+111,78,Chazey Wood,2015-09-20,,Muscidae,Coenosia vibrissata,f,"Fonseca, 1968",
 111,79,Chazey Wood,2015-09-20,,Anthomyiidae,,f,,
