@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 114,20,Whiteknights Park (E-FH),2015-10-02,,Sciomyzidae,,m,,
 114,21,Whiteknights Park (E-FH),2015-10-02,,Lauxaniidae,,m,,
 114,22,Whiteknights Park (E-FH),2015-10-18,,Calliphoridae,Pollenia sp,m,,
-114,23,Whiteknights Park (E-FH),2015-10-18,,Muscidae,,f,,
+114,23,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 114,24,Whiteknights Park (E-FH),2015-10-18,,Muscidae,,m,,
 114,25,Whiteknights Park (E-FH),2015-10-18,,Muscidae,,f,,
 114,26,Whiteknights Park (E-FH),2015-10-18,,Muscidae,,f,,
@@ -48,10 +48,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 114,47,Whiteknights Park (E-FH),2015-10-18,,???,,f,,
 114,48,Whiteknights Park (E-FH),2015-10-18,,Sphaeroceridae,,f,,
 114,49,Whiteknights Park (E-FH),2015-10-18,,Lonchopteridae,Lonchoptera sp,f,,
-114,50,Whiteknights Park (W),2015-10-18,,Muscidae,,f,,
+114,50,Whiteknights Park (W),2015-10-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 114,51,Whiteknights Park (W),2015-10-18,,Anthomyiidae,,f,,
-114,52,Whiteknights Park (W),2015-10-18,,Muscidae,,f,,
-114,53,Whiteknights Park (W),2015-10-18,,Muscidae,,m,,
+114,52,Whiteknights Park (W),2015-10-18,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+114,53,Whiteknights Park (W),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
 114,54,Whiteknights Park (W),2015-10-18,,Calliphoridae,Calliphora vicina,m,,
 114,55,Whiteknights Park (W),2015-10-18,,Heleomyzidae,Suillia sp,m,,
 114,56,Whiteknights Park (W),2015-10-18,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c update",
