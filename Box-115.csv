@@ -2,9 +2,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 115,1,Whiteknights Park (E),2015-10-18,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 115,2,Whiteknights Park (E),2015-10-18,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 115,3,Whiteknights Park (E),2015-10-18,,Tachinidae,Carcelia lucorum,f,"Belshaw, 1993 +v5c updates",
-115,4,Whiteknights Park (E),2015-10-18,,Muscidae,,m,,
-115,5,Whiteknights Park (E),2015-10-18,,Muscidae,,m,,
-115,6,Whiteknights Park (E),2015-10-18,,Muscidae,,f,,
+115,4,Whiteknights Park (E),2015-10-18,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata; Antennae missing
+115,5,Whiteknights Park (E),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
+115,6,Whiteknights Park (E),2015-10-18,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 115,7,Whiteknights Park (E),2015-10-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 115,8,Whiteknights Park (E),2015-10-18,,Anthomyiidae,,f,,
 115,9,Whiteknights Park (E),2015-10-18,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
