@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,20,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,f,,"19,20 in cop"
 95,21,Chazey Wood,2015-08-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 95,22,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
-95,23,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea sp,f,,
+95,23,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",Arista hairs shorter than basal diameter
 95,24,Chazey Wood,2015-08-02,,Sciomyzidae,,m,,
 95,25,Chazey Wood,2015-08-02,,Sciomyzidae,Coremacera marginata,m,,
 95,26,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
@@ -29,8 +29,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,28,Chazey Wood,2015-08-02,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993 +v5c updates",
 95,29,Chazey Wood,2015-08-02,,Tachinidae,Epicampocera succincta,f,"Belshaw, 1993 +v5c updates",Some black hairs behind postocular row.
 95,30,Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sp,f,,
-95,31,Chazey Wood,2015-08-02,,Muscidae,,m,,
-95,32,Chazey Wood,2015-08-02,,Muscidae,,m,,
+95,31,Chazey Wood,2015-08-02,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
+95,32,Chazey Wood,2015-08-02,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 95,33,Chazey Wood,2015-08-02,,Sarcophagidae,Sarcophaga sp,f,,
 95,34,Chazey Wood,2015-08-02,,Sarcophagidae,Sarcophaga sp,m,,
 95,35,Chazey Wood,2015-08-02,,Therevidae,Thereva sp,f,,
