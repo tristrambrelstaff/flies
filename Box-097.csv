@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 97,31,Whiteknights Park (W),2015-08-09,,Scathophagidae,Scathophaga stercoraria,m,,
 97,32,Whiteknights Park (W),2015-08-09,,Sciomyzidae,,f,,
 97,33,Whiteknights Park (W),2015-08-09,,Sciomyzidae,,m,,
-97,34,Whiteknights Park (W),2015-08-09,,Muscidae,,m,,
+97,34,Whiteknights Park (W),2015-08-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 97,35,Whiteknights Park (W),2015-08-09,,Calliphoridae,Bellardia cf bayeri,m,"Rognes, 1991",
 97,36,Whiteknights Park (W),2015-08-09,,Tachinidae,Medina separata,m,"Belshaw, 1993 +v5c updates",
 97,37,Whiteknights Park (W),2015-08-09,,Anthomyiidae,,m,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 97,39,Whiteknights Park (W),2015-08-09,,Calliphoridae,Lucilia sp,m,,
 97,40,Whiteknights Park (W),2015-08-09,,Calliphoridae,Lucilia sp,f,,
 97,41,Whiteknights Park (W),2015-08-09,,Dolichopodidae,,f,,
-97,42,Whiteknights Park (W),2015-08-09,,Muscidae,,m,,
+97,42,Whiteknights Park (W),2015-08-09,,Muscidae,Azelia cilipes,m,"Fonseca, 1968",
 97,43,Whiteknights Park (E),2015-08-09,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 97,44,Whiteknights Park (E),2015-08-09,,Conopidae,,,,
 97,45,Whiteknights Park (E),2015-08-09,,Sarcophagidae,Sarcophaga sp,m,,
@@ -52,7 +52,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 97,51,Whiteknights Park (E),2015-08-09,,Dolichopodidae,,m,,
 97,52,Whiteknights Park (E),2015-08-09,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 97,53,Whiteknights Park (E),2015-08-09,,Sarcophagidae,Sarcophaga sp,m,,
-97,54,Whiteknights Park (E),2015-08-09,,Muscidae,,f,,
+97,54,Whiteknights Park (E),2015-08-09,,Muscidae,Helina quadrum,f,"Fonseca, 1968",
 97,55,Whiteknights Park (E),2015-08-09,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 97,56,Whiteknights Park (E),2015-08-09,,Tachinidae,Solieria pacifica,m,"Belshaw, 1993 +v5c updates",
 97,57,Whiteknights Park (E),2015-08-09,,Tachinidae,Solieria pacifica,m,"Belshaw, 1993 +v5c updates",
