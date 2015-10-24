@@ -1,14 +1,14 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 88,1,Bousdale,2015-06-30,,Calliphoridae,Lucilia sp,f,,
-88,2,Bousdale,2015-06-30,,Muscidae,,m,,
+88,2,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,3,Bousdale,2015-06-30,,Calliphoridae,Pollenia sp,m,,
-88,4,Bousdale,2015-06-30,,Muscidae,,m,,
+88,4,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,5,Bousdale,2015-06-30,,Fanniidae,,m,,
 88,6,Bousdale,2015-06-30,,Anthomyiidae,,m,,
 88,7,Bousdale,2015-06-30,,Anthomyiidae,,m,,
 88,8,Bousdale,2015-06-30,,Calliphoridae,Pollenia sp,m,,
-88,9,Bousdale,2015-06-30,,Muscidae,,m,,
-88,10,Bousdale,2015-06-30,,Muscidae,,m,,
+88,9,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+88,10,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,11,Bousdale,2015-06-30,,Rhagionidae,Chrysopilus cristatus,m,,Wings damaged
 88,12,Bousdale,2015-06-30,,Pipunculidae,,,,
 88,13,Bousdale,2015-06-30,,Pipunculidae,,,,
@@ -25,11 +25,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 88,24,Bousdale,2015-06-30,,Anthomyiidae,,m,,
 88,25,Bousdale,2015-06-30,,Anthomyiidae,,m,,
 88,26,Bousdale,2015-06-30,,Anthomyiidae,,m,,
-88,27,Bousdale,2015-06-30,,Muscidae,,m,,
-88,28,Bousdale,2015-06-30,,Muscidae,,m,,
-88,29,Bousdale,2015-06-30,,Muscidae,Coenosia sp,,,
-88,30,Bousdale,2015-06-30,,Scathophagidae,Scathophaga sp,f,,
-88,31,Bousdale,2015-06-30,,Scathophagidae,Scathophaga sp,f,,
+88,27,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+88,28,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+88,29,Bousdale,2015-06-30,,Muscidae,Coenosia humilis,f,"Fonseca, 1968",As Caricea humilis
+88,30,Bousdale,2015-06-30,,Scathophagidae,Scathophaga sp,f,,Greasy
+88,31,Bousdale,2015-06-30,,Scathophagidae,Scathophaga sp,f,,Greasy
 88,32,Bousdale,2015-06-30,,Scathophagidae,Scathophaga sp,f,,
 88,33,Bousdale,2015-06-30,,Fanniidae,,m,,
 88,34,Bousdale,2015-06-30,,Fanniidae,,m,,
@@ -51,13 +51,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 88,50,Roseberry Common,2015-06-30,,Calliphoridae,Calliphora vicina,f,,
 88,51,Roseberry Common,2015-06-30,,Rhagionidae,Rhagio sp,,,
 88,52,Roseberry Common,2015-06-30,,Sarcophagidae,Sarcophaga sp,m,,
-88,53,Roseberry Common,2015-06-30,,Muscidae,,m,,
+88,53,Roseberry Common,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,54,Roseberry Common,2015-06-30,,Scathophagidae,Scathophaga sp,f,,
-88,55,Roseberry Common,2015-06-30,,Muscidae,Coenosia sp,,,
-88,56,Roseberry Common,2015-06-30,,Muscidae,,f,,
-88,57,Roseberry Common,2015-06-30,,Muscidae,,m,,
-88,58,Roseberry Common,2015-06-30,,Muscidae,,m,,
-88,59,Roseberry Common,2015-06-30,,Muscidae,,m,,
+88,55,Roseberry Common,2015-06-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+88,56,Roseberry Common,2015-06-30,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+88,57,Roseberry Common,2015-06-30,,Muscidae,Hydrotaea irritans,m,"Fonseca, 1968",
+88,58,Roseberry Common,2015-06-30,,Muscidae,Hydrotaea irritans,m,"Fonseca, 1968",
+88,59,Roseberry Common,2015-06-30,,Muscidae,Hydrotaea irritans,m,"Fonseca, 1968",
 88,60,Roseberry Common,2015-06-30,,Anthomyiidae,,m,,
 88,61,Roseberry Common,2015-06-30,,Anthomyiidae,,f,,
 88,62,Roseberry Common,2015-06-30,,Sepsidae,Sepsis sp,,,
