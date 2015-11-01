@@ -21,27 +21,27 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 115,20,Whiteknights Park (W),2015-01-31,,Pipunculidae,,,,19+20 in cop
 115,21,Whiteknights Park (W),2015-01-31,,Anthomyiidae,,f,,
 115,22,Whiteknights Park (W),2015-01-31,,Fanniidae,,f,,
-115,23,Whiteknights Park (W),2015-01-31,,Muscidae,Coenosia tigrina,m,,
+115,23,Whiteknights Park (W),2015-01-31,,Muscidae,Coenosia cf tigrina,m,"Fonseca, 1968",Hind tibia has no ventral bristle; Front tibia has no ventral apical bristle
 115,24,Whiteknights Park (W),2015-01-31,,Anthomyiidae,,f,,
-115,25,Whiteknights Park (W),2015-01-31,,Muscidae,,m,,
-115,26,Whiteknights Park (W),2015-01-31,,Muscidae,,f,,
+115,25,Whiteknights Park (W),2015-01-31,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica; Mid femur has no anterior preapical bristle
+115,26,Whiteknights Park (W),2015-01-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 115,27,Whiteknights Park (W),2015-01-31,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 115,28,Whiteknights Park (W),2015-01-31,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 115,29,Whiteknights Park (W),2015-01-31,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 115,30,Whiteknights Park (W),2015-01-31,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
-115,31,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,32,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,33,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,34,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,35,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,36,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,37,Whiteknights Park (W),2015-01-31,,Muscidae,Helina sp,f,,
-115,38,Whiteknights Park (W),2015-01-31,,Muscidae,Eudasyphora cyanicolor,f,,
-115,39,Whiteknights Park (W),2015-01-31,,Muscidae,Eudasyphora cyanella,m,,
+115,31,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,32,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,33,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,34,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,35,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,36,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,37,Whiteknights Park (W),2015-01-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+115,38,Whiteknights Park (W),2015-01-31,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
+115,39,Whiteknights Park (W),2015-01-31,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 115,40,Whiteknights Park (W),2015-01-31,,Calliphoridae,Lucilia sp,m,,
-115,41,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes sp,f,,
-115,42,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes sp,f,,
-115,43,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes sp,f,,
-115,44,Whiteknights Park (W),2015-01-31,,Muscidae,Phaonia valida,f,,
-115,45,Whiteknights Park (W),2015-01-31,,Muscidae,Phaonia valida,f,,
+115,41,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",No pale postgenal setae
+115,42,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",No pale postgenal setae
+115,43,Whiteknights Park (W),2015-01-31,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",One pale postgenal seta
+115,44,Whiteknights Park (W),2015-01-31,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+115,45,Whiteknights Park (W),2015-01-31,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 115,46,Whiteknights Park (E),2015-01-31,,Stratiomyidae,Sargus bipunctatus,m,,Antennae missing
