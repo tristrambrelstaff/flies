@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-41,1,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,,,
-41,2,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,,,
-41,3,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,,,
-41,4,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,,,
-41,5,Whiteknights Park (W),2014-08-23,,Muscoidea,,m,,
-41,6,Whiteknights Park (W),2014-08-23,,Muscidae,Eudasyphora cyanella,f,,
+41,1,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+41,2,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+41,3,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+41,4,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+41,5,Whiteknights Park (W),2014-08-23,,Anthomyiidae,,m,,
+41,6,Whiteknights Park (W),2014-08-23,,Calliphoridae,Calliphora sp,f,,
 41,7,Whiteknights Park (W),2014-08-23,,Calliphoridae,Pollenia sp,m,,
 41,8,Whiteknights Park (W),2014-08-23,,Scathophagidae,Scathophaga stercoraria,,,
 41,9,Whiteknights Park (W),2014-08-23,,Sciomyzidae,Tetanocera sp,,,
@@ -15,16 +15,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 41,14,The Wilderness (W),2014-08-23,,Scathophagidae,Scathophaga stercoraria,,,
 41,15,The Wilderness (W),2014-08-23,,Asilidae,,,,15+16 in cop
 41,16,The Wilderness (W),2014-08-23,,Asilidae,,,,15+16 in cop
-41,17,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,18,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,19,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,20,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,21,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,22,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,23,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,24,The Wilderness (W),2014-08-23,,Muscidae,,,,
-41,25,The Wilderness (W),2014-08-23,,Muscoidea,,m,,
-41,26,The Wilderness (W),2014-08-23,,Muscoidea,,m,,
+41,17,The Wilderness (W),2014-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+41,18,The Wilderness (W),2014-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+41,19,The Wilderness (W),2014-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+41,20,The Wilderness (W),2014-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+41,21,The Wilderness (W),2014-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+41,22,The Wilderness (W),2014-08-23,,Anthomyiidae,,f,,
+41,23,The Wilderness (W),2014-08-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+41,24,The Wilderness (W),2014-08-23,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+41,25,The Wilderness (W),2014-08-23,,Anthomyiidae,,m,,
+41,26,The Wilderness (W),2014-08-23,,Anthomyiidae,,m,,
 41,27,The Wilderness (W),2014-08-23,,Conopidae,,,,
 41,28,The Wilderness (W),2014-08-23,,Tephritidae,Acinia corniculata,f,,
 41,29,The Wilderness (W),2014-08-23,,Tephritidae,,m,,
