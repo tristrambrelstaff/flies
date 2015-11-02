@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 3,13,Whiteknights Park,2014-03-29,,Syrphidae,,,,
 3,14,Whiteknights Park,2014-03-29,Coleoptera,Chrysomelidae,,,,
 3,15,The Wilderness,2014-03-29,,Muscidae,,,,
-3,16,The Wilderness,2014-03-29,,Muscidae,Musca sp,,,
-3,17,The Wilderness,2014-03-29,,Muscidae,Musca sp,,,
+3,16,The Wilderness,2014-03-29,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+3,17,The Wilderness,2014-03-29,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 3,18,The Wilderness,2014-03-29,,Muscidae,,,,
 3,19,The Wilderness,2014-03-29,,Muscidae,,,,
 3,20,The Wilderness,2014-03-29,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
