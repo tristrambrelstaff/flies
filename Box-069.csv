@@ -23,9 +23,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 69,22,"Balmer Lawn, Brockenhurst",2015-05-16,,Calliphoridae,Calliphora vicina,m,,
 69,23,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 69,24,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,,f,,
-69,25,"Balmer Lawn, Brockenhurst",2015-05-16,,Calliphoridae,Lucilia sp,f,,
+69,25,"Balmer Lawn, Brockenhurst",2015-05-16,,Calliphoridae,Lucilia sp,f,,Blue thorax
 69,26,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,,f,,
-69,27,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Eudasyphora cyanella,f,,
+69,27,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 69,28,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,,f,,
 69,29,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 69,30,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,m,,
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 69,32,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,
 69,33,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,
 69,34,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,m,,
-69,35,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+69,35,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 69,36,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,f,,
 69,37,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 69,38,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",

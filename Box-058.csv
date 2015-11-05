@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-58,1,Whiteknights Park (W),2015-04-05,,Muscidae,Eudasyphora cyanella,f,,
+58,1,Whiteknights Park (W),2015-04-05,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 58,2,Whiteknights Park (W),2015-04-05,,Muscidae,,f,,
 58,3,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia sp,f,,
 58,4,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia sp,m,,
@@ -18,8 +18,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 58,17,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,m,,
 58,18,Whiteknights Park (E),2015-04-05,,Muscidae,,,,
 58,19,Whiteknights Park (E),2015-04-05,,Muscidae,,,,
-58,20,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,f,,
-58,21,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,m,,
+58,20,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+58,21,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 58,22,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,f,,
 58,23,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,f,,
 58,24,Whiteknights Park (E),2015-04-05,,Muscidae,,f,,
@@ -47,6 +47,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 58,46,The Wilderness (E),2015-04-07,,Anthomyiidae,,m,,
 58,47,The Wilderness (E),2015-04-07,,Anthomyiidae,,m,,
 58,48,The Wilderness (E),2015-04-07,,Anthomyiidae,,f,,
-58,49,The Wilderness (E),2015-04-07,,Anthomyiidae,,f,,
+58,49,The Wilderness (E),2015-04-07,,Heleomyzidae,,f,,
 58,50,The Wilderness (E),2015-04-07,,Anthomyiidae,,m,,
 58,51,The Wilderness (E),2015-04-07,,Anthomyiidae,,m,,
