@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 90,2,Field below Chazey Wood,2015-07-11,,Platystomatidae,Platystoma seminationis,f,,
 90,3,Field below Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 90,4,Field below Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-90,5,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,
+90,5,Field below Chazey Wood,2015-07-11,,Muscidae,Helina setiventris,m,"Fonseca, 1968",
 90,6,Field below Chazey Wood,2015-07-11,,Simuliidae,,,,
 90,7,Field below Chazey Wood,2015-07-11,,Simuliidae,,,,
 90,8,Field below Chazey Wood,2015-07-11,,Opomyzidae,Opomyza sp,,,
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 90,24,Field below Chazey Wood,2015-07-11,,Lauxaniidae,Minettia sp,,,
 90,25,Field below Chazey Wood,2015-07-11,,Rhinophoridae,,,,
 90,26,Field below Chazey Wood,2015-07-11,,Anthomyiidae,,f,,
-90,27,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,
+90,27,Field below Chazey Wood,2015-07-11,,Anthomyiidae,Anthomyia procellaris grp,m,,
 90,28,Field below Chazey Wood,2015-07-11,,Anthomyiidae,Anthomyia procellaris grp,m,,
 90,29,Field below Chazey Wood,2015-07-11,,Anthomyiidae,,f,,
 90,30,Field below Chazey Wood,2015-07-11,,Pipunculidae,,,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 90,39,Field below Chazey Wood,2015-07-11,,Anthomyiidae,,f,,
 90,40,Field below Chazey Wood,2015-07-11,,Tachinidae,Billaea irrorata,m,"Belshaw, 1993 +v5c updates",A few parafacial hairs
 90,41,Field below Chazey Wood,2015-07-11,,Calliphoridae,Pollenia sp,m,,
-90,42,Field below Chazey Wood,2015-07-11,,Muscidae,,f,,
+90,42,Field below Chazey Wood,2015-07-11,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 90,43,Field below Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 90,44,Field below Chazey Wood,2015-07-11,,Muscidae,,m,,
 90,45,Field below Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
@@ -70,4 +70,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 90,69,Field below Chazey Wood,2015-07-11,,Calliphoridae,Bellardia sp,m,,
 90,70,Field below Chazey Wood,2015-07-11,,Sciomyzidae,Tetanocera sp,m,,
 90,71,Field below Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-90,72,Field below Chazey Wood,2015-07-11,,Muscidae,Helina impuncta,f,"Fonseca, 1968","Greasy"
+90,72,Field below Chazey Wood,2015-07-11,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Greasy
