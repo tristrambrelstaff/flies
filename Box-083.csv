@@ -5,13 +5,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,4,The Wilderness (W),2015-06-26,,Sarcophagidae,,f,,
 83,5,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
 83,6,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
-83,7,The Wilderness (W),2015-06-26,,Muscidae,,m,,
-83,8,The Wilderness (W),2015-06-26,,Muscidae,,f,,
+83,7,The Wilderness (W),2015-06-26,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+83,8,The Wilderness (W),2015-06-26,,Muscidae,Phaonia scutellata,f,"Fonseca, 1968",
 83,9,The Wilderness (W),2015-06-26,,Tabanidae,Haematopota pluvialis,f,,Wings damaged
 83,10,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 83,11,The Wilderness (W),2015-06-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 83,12,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
-83,13,The Wilderness (W),2015-06-26,,Muscidae,,m,,
+83,13,The Wilderness (W),2015-06-26,,Muscidae,Hydrotaea irritans,m,"Fonseca, 1968",
 83,14,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
 83,15,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
 83,16,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
@@ -19,11 +19,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,18,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
 83,19,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
 83,20,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
-83,21,The Wilderness (W),2015-06-26,,Muscoidea,,f,,
+83,21,The Wilderness (W),2015-06-26,,Muscidae,Phaonia atriceps,f,"Fonseca, 1968",As Dialytina atriceps; Only 2 posterior bristles on mid tibia
 83,22,The Wilderness (W),2015-06-26,,Anthomyiidae,,m,,
-83,23,The Wilderness (W),2015-06-26,,Muscoidea,,m,,Wings damaged
+83,23,The Wilderness (W),2015-06-26,,Fanniidae,,m,,Wings damaged
 83,24,The Wilderness (W),2015-06-26,,Fanniidae,,f,,
-83,25,The Wilderness (W),2015-06-26,,Muscidae,,f,,
+83,25,The Wilderness (W),2015-06-26,,Muscidae,Hydrotaea sp,f,,
 83,26,The Wilderness (W),2015-06-26,,Tephritidae,Urophora sp,f,,
 83,27,The Wilderness (W),2015-06-26,,Tephritidae,Tephritis sp,m,,
 83,28,The Wilderness (E),2015-06-26,,Muscidae,,f,,
