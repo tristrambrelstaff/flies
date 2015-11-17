@@ -35,13 +35,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,34,Whiteknights Park (E),2015-06-26,,Muscidae,,f,,Wing leading edge darkened
 83,35,Whiteknights Park (E),2015-06-26,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 83,36,Whiteknights Park (E),2015-06-26,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
-83,37,Whiteknights Park (E),2015-06-26,,Muscidae,,f,,
+83,37,Whiteknights Park (E),2015-06-26,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 83,38,Whiteknights Park (E),2015-06-26,,Sarcophagidae,,m,,
 83,39,Whiteknights Park (E),2015-06-26,,Rhagionidae,Rhagio sp,m,,
 83,40,Whiteknights Park (E),2015-06-26,,Anthomyiidae,,f,,
-83,41,Whiteknights Park (E),2015-06-26,,Muscidae,,m,,
-83,42,Whiteknights Park (E),2015-06-26,,Muscidae,,m,,
-83,43,Whiteknights Park (E),2015-06-26,,Muscidae,,f,,
+83,41,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+83,42,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+83,43,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 83,44,Whiteknights Park (E),2015-06-26,,Anthomyiidae,,m,,
 83,45,Whiteknights Park (E),2015-06-26,,Stratiomyidae,Chloromyia formosa,m,,
 83,46,Whiteknights Park (E),2015-06-26,,Syrphidae,Sphaerophoria sp,m,,
