@@ -25,14 +25,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 48,24,Whiteknights Park (W),2014-09-20,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 48,25,Whiteknights Park (W),2014-09-20,,Scathophagidae,Scathophaga stercoraria,,,
 48,26,Whiteknights Park (W),2014-09-20,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
-48,27,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
-48,28,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
-48,29,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
-48,30,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
-48,31,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
-48,32,Whiteknights Park (W),2014-09-20,,Muscidae,,,,
-48,33,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,m,,
-48,34,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,,
+48,27,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+48,28,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+48,29,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Only faint spots on tergites
+48,30,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+48,31,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+48,32,Whiteknights Park (W),2014-09-20,,Muscidae,Helina impuncta,,"Fonseca, 1968",
+48,33,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+48,34,Whiteknights Park (W),2014-09-20,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 48,35,Whiteknights Park (W),2014-09-20,,Syrphidae,,f,,
 48,36,Whiteknights Park (W),2014-09-20,,Opomyzidae,,,,
 48,37,Whiteknights Park (W),2014-09-20,,Lonchopteridae,Lonchoptera sp,,,
@@ -42,12 +42,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 48,41,The Wilderness (W),2014-09-20,,Muscidae,Mydaea humeralis,f,"Fonseca, 1968",As Mydaea tincta
 48,42,The Wilderness (W),2014-09-20,,Muscidae,Thricops diaphanus,f,"Fonseca, 1968",As Alleostylus diaphanus
 48,43,The Wilderness (W),2014-09-20,,Muscidae,Thricops diaphanus,f,"Fonseca, 1968",As Alleostylus diaphanus
-48,44,The Wilderness (W),2014-09-20,,Muscidae,,f,,
+48,44,The Wilderness (W),2014-09-20,,Muscidae,Phaonia bitincta,f,"Fonseca, 1968",
 48,45,The Wilderness (W),2014-09-20,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
-48,46,The Wilderness (W),2014-09-20,,Muscidae,,f,,
+48,46,The Wilderness (W),2014-09-20,,Muscidae,Phaonia gobertii,f,"Fonseca, 1968",
 48,47,The Wilderness (W),2014-09-20,,Anthomyiidae,,f,,
-48,48,The Wilderness (W),2014-09-20,,Muscidae,,f,,
-48,49,The Wilderness (W),2014-09-20,,Muscidae,,f,,
+48,48,The Wilderness (W),2014-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+48,49,The Wilderness (W),2014-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 48,50,The Wilderness (W),2014-09-20,,Platypezidae,,,,
 48,51,The Wilderness (W),2014-09-20,,Platypezidae,,,,
 48,52,The Wilderness (W),2014-09-20,,Platypezidae,,,,
