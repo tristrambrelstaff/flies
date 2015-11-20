@@ -2,11 +2,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 46,1,Whiteknights Park (E),2014-09-03,,Tephritidae,Xyphosia miliaria,m,,
 46,2,Whiteknights Park (E),2014-09-03,,Tephritidae,Xyphosia miliaria,m,,
 46,3,Whiteknights Park (E),2014-09-03,,Syrphidae,,,,
-46,4,Whiteknights Park (E),2014-09-03,,Muscidae,Coenosia tigrina,m,,
+46,4,Whiteknights Park (E),2014-09-03,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 46,5,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
 46,6,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
 46,7,Whiteknights Park (E),2014-09-03,,Pipunculidae,,,,
-46,8,Whiteknights Park (E),2014-09-03,,???,,,,
+46,8,Whiteknights Park (E),2014-09-03,,Mycetophilidae,,,,
 46,9,Whiteknights Park (W),2014-09-03,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 46,10,Whiteknights Park (W),2014-09-03,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
 46,11,Field below Chazey Wood,2014-09-06,,Syrphidae,Eristalis intricarius,f,,
