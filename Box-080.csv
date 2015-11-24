@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 80,18,Whiteknights Park (E-FH),2015-06-13,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 80,19,Whiteknights Park (E-FH),2015-06-13,,Muscidae,,f,,
 80,20,Whiteknights Park (E-FH),2015-06-13,,Anthomyiidae,,m,,
-80,21,Whiteknights Park (E-FH),2015-06-13,,Muscidae,Coenosia sp,f,,
-80,22,Whiteknights Park (E-FH),2015-06-13,,Muscidae,Coenosia sp,,,
+80,21,Whiteknights Park (E-FH),2015-06-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+80,22,Whiteknights Park (E-FH),2015-06-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 80,23,Whiteknights Park (E-FH),2015-06-13,,Tephritidae,Tephritis bardanae,m,,
 80,24,Whiteknights Park (E-FH),2015-06-13,,Tephritidae,Tephritis leontodontis,f,,
 80,25,Whiteknights Park (E-FH),2015-06-13,,Anthomyiidae,,f,,
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 80,28,Whiteknights Park (E-FH),2015-06-13,,Anthomyiidae,,m,,
 80,29,Whiteknights Park (E-FH),2015-06-13,,Anthomyiidae,,m,,
 80,30,Whiteknights Park (E-FH),2015-06-13,,Anthomyiidae,,m,,
-80,31,Whiteknights Park (E-FH),2015-06-13,,Muscidae,Coenosia sp,f,,
+80,31,Whiteknights Park (E-FH),2015-06-13,,Muscidae,,f,,
 80,32,Whiteknights Park (E-FH),2015-06-13,,Muscidae,,m,,
 80,33,Whiteknights Park (E-FH),2015-06-13,,Syrphidae,,f,,Metallic green
 80,34,Whiteknights Park (E-FH),2015-06-13,,Syrphidae,Neoascia sp,m,,
@@ -47,8 +47,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 80,46,Whiteknights Park (NW),2015-06-13,,Anthomyiidae,,m,,
 80,47,Whiteknights Park (NW),2015-06-13,,Anthomyiidae,,m,,
 80,48,Whiteknights Park (NW),2015-06-13,,Anthomyiidae,,m,,
-80,49,Whiteknights Park (NW),2015-06-13,,Muscidae,Coenosia sp,f,,
-80,50,Whiteknights Park (NW),2015-06-13,,Muscidae,Coenosia sp,f,,
+80,49,Whiteknights Park (NW),2015-06-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+80,50,Whiteknights Park (NW),2015-06-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 80,51,Whiteknights Park (NW),2015-06-13,,Muscidae,,f,,
 80,52,Whiteknights Park (NW),2015-06-13,,Muscidae,,f,,
 80,53,Whiteknights Park (NW),2015-06-13,,Muscidae,,f,,

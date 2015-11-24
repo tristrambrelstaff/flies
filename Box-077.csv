@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-77,1,The Wilderness (W),2015-05-30,,Muscidae,Coenosia sp,f,,
-77,2,The Wilderness (W),2015-05-30,,Muscidae,Coenosia sp,f,,
+77,1,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+77,2,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 77,3,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 77,4,The Wilderness (W),2015-05-30,,Muscidae,,m,,
 77,5,The Wilderness (W),2015-05-30,,Muscidae,,m,,
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 77,8,The Wilderness (W),2015-05-30,,Psilidae,Psila sp,m,,
 77,9,The Wilderness (W),2015-05-30,,Dolichopodidae,,m,,
 77,10,The Wilderness (W),2015-05-30,,Muscidae,,f,,
-77,11,The Wilderness (W),2015-05-30,,Muscidae,Coenosia sp,m,,
+77,11,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 77,12,The Wilderness (W),2015-05-30,,Anthomyiidae,Anthomyia procellaris grp,m,,
 77,13,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 77,14,The Wilderness (W),2015-05-30,,Tachinidae,Billaea irrorata,f,"Belshaw, 1993 +v5c updates",
@@ -17,17 +17,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 77,16,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 77,17,The Wilderness (W),2015-05-30,,Anthomyiidae,,f,,
 77,18,The Wilderness (W),2015-05-30,,Fanniidae,,m,,
-77,19,The Wilderness (W),2015-05-30,,Muscidae,,m,,
+77,19,The Wilderness (W),2015-05-30,,Calliphoridae,Melanomya nana,m,,
 77,20,The Wilderness (W),2015-05-30,,Lauxaniidae,,m,,
 77,21,The Wilderness (W),2015-05-30,,Empididae,Hilara sp,m,,
 77,22,The Wilderness (E),2015-05-30,,Calliphoridae,Lucilia cf caesar,f,"Rognes, 1991",Metallic blue
 77,23,The Wilderness (E),2015-05-30,,Muscidae,,f,,
 77,24,The Wilderness (E),2015-05-30,,Lauxaniidae,Minettia longipennis,f,,
-77,25,The Wilderness (E),2015-05-30,,Muscidae,,m,,
-77,26,The Wilderness (E),2015-05-30,,Muscidae,,m,,
-77,27,The Wilderness (E),2015-05-30,,Muscidae,,m,,
-77,28,The Wilderness (E),2015-05-30,,Muscidae,,m,,
-77,29,The Wilderness (E),2015-05-30,,Muscidae,,m,,
+77,25,The Wilderness (E),2015-05-30,,Muscidae,Morellia hortorum,m,"Fonseca, 1968",
+77,26,The Wilderness (E),2015-05-30,,Muscidae,Morellia hortorum,m,"Fonseca, 1968",
+77,27,The Wilderness (E),2015-05-30,,Muscidae,Morellia hortorum,m,"Fonseca, 1968",
+77,28,The Wilderness (E),2015-05-30,,Muscidae,Morellia hortorum,m,"Fonseca, 1968",
+77,29,The Wilderness (E),2015-05-30,,Muscidae,Morellia hortorum,m,"Fonseca, 1968",
 77,30,The Wilderness (E),2015-05-30,,Fanniidae,,m,,
 77,31,The Wilderness (E),2015-05-30,,Scathophagidae,,f,,
 77,32,The Wilderness (E),2015-05-30,,Muscidae,,f,,
