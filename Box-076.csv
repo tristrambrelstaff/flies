@@ -13,10 +13,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,12,Whiteknights Park (W),2015-05-30,,Muscidae,,f,,
 76,13,Whiteknights Park (W),2015-05-30,,Muscidae,,f,,
 76,14,Whiteknights Park (W),2015-05-30,,Fanniidae,,m,,
-76,15,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia sp,f,,
+76,15,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 76,16,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
 76,17,Whiteknights Park (W),2015-05-30,,Muscidae,,f,,
-76,18,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
+76,18,Whiteknights Park (W),2015-05-30,,Tachinidae,,m,,
 76,19,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
 76,20,Whiteknights Park (W),2015-05-30,,Tachinidae,Cyrtophleba ruricola,f,"Belshaw, 1993 +v5c updates",
 76,21,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,24,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
 76,25,Whiteknights Park (W),2015-05-30,,Calliphoridae,Pollenia cf rudis,m,"Rognes, 1991",Front tibiae have 0 pv setae
 76,26,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
-76,27,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia sp,f,,
+76,27,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Abdomen partly greasy
 76,28,Whiteknights Park (W),2015-05-30,Hymenoptera,Formicidae,,f,,Queen
 76,29,The Wilderness (W),2015-05-30,,Dolichopodidae,,m,,29+30 in cop
 76,30,The Wilderness (W),2015-05-30,,Dolichopodidae,,f,,29+30 in cop
@@ -47,16 +47,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,46,The Wilderness (W),2015-05-30,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 76,47,The Wilderness (W),2015-05-30,,Tachinidae,Carcelia tibialis,f,"Belshaw, 1993 +v5c updates",
 76,48,The Wilderness (W),2015-05-30,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
-76,49,The Wilderness (W),2015-05-30,,Muscidae,,f,,
-76,50,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea dentipes,m,"Fonseca, 1968",
+76,49,The Wilderness (W),2015-05-30,,Muscidae,,f,,Greasy abdomen
+76,50,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea,m,"Fonseca, 1968",
 76,51,The Wilderness (W),2015-05-30,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 76,52,The Wilderness (W),2015-05-30,,Sarcophagidae,,m,,
 76,53,The Wilderness (W),2015-05-30,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
-76,54,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,54,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea similis,f,"Fonseca, 1968",
 76,55,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 76,56,The Wilderness (W),2015-05-30,,Syrphidae,Xanthogramma sp,m,,
 76,57,The Wilderness (W),2015-05-30,,Muscidae,,f,,
-76,58,The Wilderness (W),2015-05-30,,Muscidae,Coenosia sp,f,,
+76,58,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 76,59,The Wilderness (W),2015-05-30,,Muscidae,,m,,
 76,60,The Wilderness (W),2015-05-30,,Muscidae,,f,,
 76,61,The Wilderness (W),2015-05-30,,Muscidae,,m,,
