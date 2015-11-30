@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,1,Whiteknights Park (W),2014-11-01,,Syrphidae,Eupeodes sp,f,,
 54,2,Whiteknights Park (W),2014-11-01,,Syrphidae,Cheilosia sp,m,,
-54,3,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,m,"Family: Oosterbroek, 2006",
-54,4,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,,"Family: Oosterbroek, 2006",
+54,3,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+54,4,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 54,5,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,6,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,7,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",

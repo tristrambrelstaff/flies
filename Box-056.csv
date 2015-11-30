@@ -17,7 +17,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 56,16,The Wilderness (W),2015-03-06,,Calliphoridae,Pollenia sp,f,,
 56,17,The Wilderness (W),2015-03-06,,Scathophagidae,,m,,
 56,18,The Wilderness (W),2015-03-06,,Anthomyiidae,,f,,
-56,19,The Wilderness (W),2015-03-06,,Muscidae,Coenosia sp,,,
+56,19,The Wilderness (W),2015-03-06,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 56,20,The Wilderness (E),2015-03-06,,Syrphidae,Episyrphus balteatus,f,,
 56,21,The Wilderness (E),2015-03-06,,Syrphidae,,,,
 56,22,The Wilderness (E),2015-03-06,,Muscidae,,m,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 56,30,Whiteknights Park (E),2015-03-14,,Calliphoridae,Pollenia sp,m,,
 56,31,Whiteknights Park (E),2015-03-14,,Calliphoridae,Pollenia sp,m,,
 56,32,Whiteknights Park (E),2015-03-14,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-56,33,Whiteknights Park (E),2015-03-14,,Muscidae,Coenosia sp,,,
+56,33,Whiteknights Park (E),2015-03-14,,Muscidae,Lispocephala brachialis,f,"Fonseca, 1968",
 56,34,Whiteknights Park (E),2015-03-14,Coleoptera,Chrysomelidae,Altica sp,,,
 56,35,Whiteknights Park (E),2015-05-21,,Chironomidae,,m,,
 56,36,Whiteknights Park (E),2015-03-21,,Chironomidae,,m,,

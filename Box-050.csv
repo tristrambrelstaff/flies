@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,12,The Wilderness (W),2014-09-27,,Muscidae,,,,
 50,13,The Wilderness (W),2014-09-27,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 50,14,The Wilderness (W),2014-09-27,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
-50,15,The Wilderness (W),2014-09-27,,Muscidae,Coenosia tigrina,f,,
+50,15,The Wilderness (W),2014-09-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 50,16,The Wilderness (W),2014-09-27,,Heleomyzidae,Suillia sp,f,,
 50,17,The Wilderness (W),2014-09-27,,Muscidae,,f,,
 50,18,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
@@ -50,9 +50,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,49,The Wilderness (E),2014-09-27,,Muscidae,,f,,
 50,50,The Wilderness (E),2014-09-27,,Muscidae,,f,,
 50,51,The Wilderness (E),2014-09-27,,Platypezidae,Polyporivora sp,f,,
-50,52,Whiteknights Park (E),2014-10-05,,Muscidae,,f,,
+50,52,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 50,53,Whiteknights Park (W),2014-10-04,,Heleomyzidae,,m,,
 50,54,Whiteknights Park (W),2014-10-04,,Anthomyiidae,,f,,Orange
 50,55,Whiteknights Park (W),2014-10-04,,Anthomyiidae,,f,,
 50,56,Whiteknights Park (W),2014-10-04,,Platypezidae,,m,,
-50,57,Whiteknights Park (E),2014-10-05,,Muscidae,,f,,
+50,57,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata; Mid tibia has only 1 posterior bristle
