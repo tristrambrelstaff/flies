@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 44,1,Whiteknights Park (W),2014-08-30,,Tachinidae,Exorista sp,f,"Belshaw, 1993 +v5c updates",
 44,2,Whiteknights Park (W),2014-08-30,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-44,3,Whiteknights Park (W),2014-08-30,,Muscidae,,f,,
+44,3,Whiteknights Park (W),2014-08-30,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 44,4,Whiteknights Park (W),2014-08-30,,Anthomyiidae,,f,,
 44,5,Whiteknights Park (W),2014-08-30,,Anthomyiidae,Anthomyia sp,m,,
 44,6,Whiteknights Park (W),2014-08-30,,Fanniidae,,m,,
@@ -16,21 +16,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 44,15,Whiteknights Park (W),2014-08-30,,Syrphidae,,m,,
 44,16,Whiteknights Park (W),2014-08-30,,Syrphidae,Melanogaster sp,f,,
 44,17,Whiteknights Park (W),2014-08-30,,Syrphidae,Melanogaster sp,f,,
-44,18,Chazey Wood,2014-08-31,,Muscidae,,f,,
-44,19,Chazey Wood,2014-08-31,,Muscidae,,m,,
-44,20,Chazey Wood,2014-08-31,,Muscidae,,m,,
-44,21,Chazey Wood,2014-08-31,,Muscidae,,f,,
-44,22,Chazey Wood,2014-08-31,,Muscidae,,f,,
-44,23,Chazey Wood,2014-08-31,,Muscidae,,f,,
-44,24,Chazey Wood,2014-08-31,,Muscidae,,f,,
-44,25,Chazey Wood,2014-08-31,,Muscidae,,f,,
+44,18,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+44,19,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+44,20,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+44,21,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+44,22,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+44,23,Chazey Wood,2014-08-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+44,24,Chazey Wood,2014-08-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+44,25,Chazey Wood,2014-08-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Greasy abdomen
 44,26,Chazey Wood,2014-08-31,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 44,27,Chazey Wood,2014-08-31,,Lauxaniidae,,,,
 44,28,Field West of Chazey Wood,2014-08-31,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
 44,29,Field below Chazey Wood,2014-08-31,,Tachinidae,Nowickia ferox,f,"Belshaw, 1993 +v5c updates",
 44,30,Field below Chazey Wood,2014-08-31,,Tachinidae,Nowickia ferox,f,"Belshaw, 1993 +v5c updates",
 44,31,Field below Chazey Wood,2014-08-31,,Tachinidae,Eurithia anthophila,f,"Belshaw, 1993 +v5c updates",
-44,32,Field below Chazey Wood,2014-08-31,,Muscoidea,,,,
+44,32,Field below Chazey Wood,2014-08-31,,Fanniidae,,f,,
 44,33,Field West of Chazey Wood,2014-08-31,,Conopidae,Thecophora atra,f,"Clements, 1995; van Veen 28.03.2010",
 44,34,Field below Chazey Wood,2014-08-31,,Muscidae,Polietes lardarius,m,"Fonseca, 1968; Pont & Falk, 2013",
 44,35,Field below Chazey Wood,2014-08-31,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993 +v5c updates",
