@@ -3,12 +3,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,2,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 74,3,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 74,4,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
-74,5,Field below Chazey Wood,2015-05-24,,Muscidae,Hydrotaea sp,m,,
+74,5,Field below Chazey Wood,2015-05-24,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 74,6,Field below Chazey Wood,2015-05-24,,Anthomyiidae,Anthomyia procellaris grp,m,,
-74,7,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,8,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,9,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,10,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
+74,7,Field below Chazey Wood,2015-05-24,,Muscidae,Hydrotaea armipes,f,"Fonseca, 1968",As Hydrotaea occulta
+74,8,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia atriceps,f,"Fonseca, 1968",As Dialytina atriceps; Only 2 posterior bristles on mid tibia
+74,9,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia atriceps,f,"Fonseca, 1968",As Dialytina atriceps; Only 2 posterior bristles on mid tibia
+74,10,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia atriceps,f,"Fonseca, 1968",As Dialytina atriceps; Only 2 posterior bristles on mid tibia
 74,11,Field below Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,m,,
 74,12,Field below Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
 74,13,Field below Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
@@ -17,8 +17,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,16,Field below Chazey Wood,2015-05-24,,Dolichopodidae,,f,,
 74,17,Field below Chazey Wood,2015-05-24,,Dolichopodidae,,m,,
 74,18,Field below Chazey Wood,2015-05-24,,Scathophagidae,,,,
-74,19,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,20,Field below Chazey Wood,2015-05-24,,Muscidae,,m,,Darkened wings
+74,19,Field below Chazey Wood,2015-05-24,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",
+74,20,Field below Chazey Wood,2015-05-24,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Darkened wings
 74,21,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
 74,22,Field below Chazey Wood,2015-05-24,,Muscidae,,f,,
 74,23,Field below Chazey Wood,2015-05-24,,Fanniidae,,f,,
@@ -37,25 +37,25 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,36,Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,f,,
 74,37,Chazey Wood,2015-05-24,,Calliphoridae,Lucilia sp,m,,
 74,38,Chazey Wood,2015-05-24,,Muscidae,,m,,
-74,39,Chazey Wood,2015-05-24,,Muscidae,,m,,
+74,39,Chazey Wood,2015-05-24,,Muscidae,Mydaea corni,m,"Fonseca, 1968",As Mydaea scutellaris
 74,40,Chazey Wood,2015-05-24,,Tephritidae,Oxyna parietina,m,,
 74,41,Chazey Wood,2015-05-24,,Muscidae,,m,,
 74,42,Chazey Wood,2015-05-24,,Muscidae,,m,,
 74,43,Chazey Wood,2015-05-24,,Muscidae,,m,,
-74,44,Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,45,Chazey Wood,2015-05-24,,Muscidae,,f,,
+74,44,Chazey Wood,2015-05-24,,Muscidae,,f,,Abdomen greasy
+74,45,Chazey Wood,2015-05-24,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 74,46,Chazey Wood,2015-05-24,,Fanniidae,,f,,
 74,47,Chazey Wood,2015-05-24,,Sarcophagidae,,m,,
 74,48,Chazey Wood,2015-05-24,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 74,49,Chazey Wood,2015-05-24,,Syrphidae,Cheilosia sp,f,,
 74,50,Chazey Wood,2015-05-24,,Scathophagidae,Scathophaga stercoraria,m,,
-74,51,Chazey Wood,2015-05-24,,Muscidae,,m,,
+74,51,Chazey Wood,2015-05-24,,Muscidae,Helina depuncta,m,"Fonseca, 1968",
 74,52,Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
-74,53,Chazey Wood,2015-05-24,,Muscidae,,f,,
-74,54,Chazey Wood,2015-05-24,,Fanniidae,,m,,
+74,53,Chazey Wood,2015-05-24,,Calliphoridae,Pollenia sp,f,,
+74,54,Chazey Wood,2015-05-24,,Fanniidae,,m,,Antennae missing
 74,55,Chazey Wood,2015-05-24,,Fanniidae,,f,,
 74,56,Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
-74,57,Chazey Wood,2015-05-24,,Muscidae,,f,,
+74,57,Chazey Wood,2015-05-24,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 74,58,Chazey Wood,2015-05-24,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 74,59,Chazey Wood,2015-05-24,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 74,60,Chazey Wood,2015-05-24,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
