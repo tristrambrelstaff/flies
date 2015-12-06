@@ -2,23 +2,23 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 72,1,Whiteknights Park (NW),2015-05-23,,Syrphidae,Baccha elongata,f,,
 72,2,Whiteknights Park (NW),2015-05-23,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 72,3,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia sp,m,,
-72,4,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
-72,5,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
+72,4,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+72,5,Whiteknights Park (NW),2015-05-23,,Muscidae,Hydrotaea cinerea,f,"Fonseca, 1968",Mid tibia has anterodorsal bristle; Lower frons is orange
 72,6,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,Anthomyia procellaris grp,m,,
 72,7,Whiteknights Park (NW),2015-05-23,,Sciomyzidae,,,,
 72,8,Whiteknights Park (NW),2015-05-23,,Fanniidae,,m,,
 72,9,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,,f,,
 72,10,Whiteknights Park (NW),2015-05-23,,Fanniidae,,f,,
 72,11,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Nyctia halterata,,,
-72,12,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
-72,13,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,m,,
-72,14,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
-72,15,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
-72,16,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
-72,17,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
+72,12,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+72,13,Whiteknights Park (NW),2015-05-23,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+72,14,Whiteknights Park (NW),2015-05-23,,Muscidae,Phaonia atriceps,m,"Fonseca, 1968",As Dialytina atriceps
+72,15,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+72,16,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+72,17,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,f,,
 72,18,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,f,,
-72,19,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
-72,20,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
+72,19,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+72,20,Whiteknights Park (NW),2015-05-23,,Muscidae,Phaonia atriceps,m,"Fonseca, 1968",As Dialytina atriceps
 72,21,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,Anthomyia procellaris grp,m,,
 72,22,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,m,,
 72,23,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,m,,
@@ -43,7 +43,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 72,42,Whiteknights Park (E-FH),2015-05-23,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 72,43,Whiteknights Park (E-FH),2015-05-23,,Fanniidae,,f,,
 72,44,Whiteknights Park (E-FH),2015-05-23,,Anthomyiidae,,m,,
-72,45,Whiteknights Park (E-FH),2015-05-23,,Muscidae,,f,,
+72,45,Whiteknights Park (E-FH),2015-05-23,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 72,46,Field below Chazey Wood,2015-05-24,,Sarcophagidae,Sarcophaga sp,m,,46+47 in cop
 72,47,Field below Chazey Wood,2015-05-24,,Sarcophagidae,Sarcophaga sp,f,,46+47 in cop
 72,48,Field below Chazey Wood,2015-05-24,,Syrphidae,Syrphus sp,f,,
