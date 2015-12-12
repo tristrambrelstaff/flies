@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-71,1,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
-71,2,Whiteknights Park (NW),2015-05-23,,Muscidae,,m,,
+71,1,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+71,2,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 71,3,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia sp,m,,
 71,4,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,m,,
 71,5,Whiteknights Park (NW),2015-05-23,,Fanniidae,,m,,
@@ -16,8 +16,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 71,15,Whiteknights Park (NW),2015-05-23,,Fanniidae,,m,,
 71,16,Whiteknights Park (NW),2015-05-23,,Fanniidae,,m,,
 71,17,Whiteknights Park (NW),2015-05-23,,Fanniidae,,f,,
-71,18,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
-71,19,Whiteknights Park (NW),2015-05-23,,Muscidae,,f,,
+71,18,Whiteknights Park (NW),2015-05-23,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",
+71,19,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 71,20,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
 71,21,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sp,f,,
 71,22,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sp,m,,
