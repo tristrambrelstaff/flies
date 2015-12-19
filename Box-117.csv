@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-117,1,Field below Chazey Wood,2015-11-15,,Calliphoridae,Calliphora vicina,m,,
+117,1,Field below Chazey Wood,2015-11-15,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 117,2,Field below Chazey Wood,2015-11-15,,Muscidae,Eudasyphora cyanicolor,m,"Fonseca, 1968",As Dasyphora cyanicolor
 117,3,Field below Chazey Wood,2015-11-15,,Anthomyiidae,,f,,
 117,4,Field below Chazey Wood,2015-11-15,,Muscidae,Coenosia humilis,m,"Fonseca, 1968",As Caricea humilis; Tergites 4&5 with additional spots
@@ -30,6 +30,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 117,29,Highwood Nature Reserve,2015-12-19,,Mycetophilidae,,,,
 117,30,Highwood Nature Reserve,2015-12-19,,Drosophilidae,,m,,
 117,31,Highwood Nature Reserve,2015-12-19,,Scathophagidae,Scathophaga sp,,,
-117,32,Highwood Nature Reserve,2015-12-19,,Muscidae,,f,,
-117,33,Highwood Nature Reserve,2015-12-19,,Calliphoridae,Calliphora vicina,m,,
-117,34,Highwood Nature Reserve,2015-12-19,,Calliphoridae,Calliphora vicina,m,,
+117,32,Highwood Nature Reserve,2015-12-19,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+117,33,Highwood Nature Reserve,2015-12-19,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+117,34,Highwood Nature Reserve,2015-12-19,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
