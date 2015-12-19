@@ -25,13 +25,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 75,24,Whiteknights Park,2015-05-30,,Rhagionidae,Chrysopilus cristatus,m,,
 75,25,Whiteknights Park,2015-05-30,,Fanniidae,,f,,
 75,26,Whiteknights Park,2015-05-30,,Anthomyiidae,,f,,
-75,27,Whiteknights Park,2015-05-30,,Muscidae,,m,,
+75,27,Whiteknights Park,2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 75,28,Whiteknights Park,2015-05-30,,Calliphoridae,Pollenia sp,m,,
-75,29,Whiteknights Park,2015-05-30,,Muscidae,,m,,
-75,30,Whiteknights Park,2015-05-30,,Muscidae,,m,,
+75,29,Whiteknights Park,2015-05-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+75,30,Whiteknights Park,2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 75,31,Whiteknights Park,2015-05-30,,Sarcophagidae,,m,,
-75,32,Whiteknights Park,2015-05-30,,Muscidae,,m,,
-75,33,Whiteknights Park,2015-05-30,,Muscidae,,m,,
+75,32,Whiteknights Park,2015-05-30,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+75,33,Whiteknights Park,2015-05-30,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
 75,34,Whiteknights Park,2015-05-30,,Calliphoridae,Pollenia sp,m,,
 75,35,Whiteknights Park,2015-05-30,,Calliphoridae,Pollenia sp,m,,
 75,36,Whiteknights Park,2015-05-30,,Muscidae,Phaonia atriceps,f,"Fonseca, 1968",As Dialytina atriceps; Only 2 posterior bristles on hind tibia
