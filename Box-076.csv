@@ -19,19 +19,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,18,Whiteknights Park (W),2015-05-30,,Tachinidae,Dufouria nigrita,m,"Belshaw, 1993 +v5c updates",
 76,19,Whiteknights Park (W),2015-05-30,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",
 76,20,Whiteknights Park (W),2015-05-30,,Tachinidae,Cyrtophleba ruricola,f,"Belshaw, 1993 +v5c updates",
-76,21,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
-76,22,Whiteknights Park (W),2015-05-30,,Muscidae,,f,,
-76,23,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
-76,24,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
+76,21,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+76,22,Whiteknights Park (W),2015-05-30,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+76,23,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+76,24,Whiteknights Park (W),2015-05-30,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 76,25,Whiteknights Park (W),2015-05-30,,Calliphoridae,Pollenia cf rudis,m,"Rognes, 1991",Front tibiae have 0 pv setae
-76,26,Whiteknights Park (W),2015-05-30,,Muscidae,,m,,
+76,26,Whiteknights Park (W),2015-05-30,,Muscidae,Helina depuncta,m,"Fonseca, 1968",
 76,27,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Abdomen partly greasy
 76,28,Whiteknights Park (W),2015-05-30,Hymenoptera,Formicidae,,f,,Queen
 76,29,The Wilderness (W),2015-05-30,,Dolichopodidae,,m,,29+30 in cop
 76,30,The Wilderness (W),2015-05-30,,Dolichopodidae,,f,,29+30 in cop
 76,31,The Wilderness (W),2015-05-30,,Dolichopodidae,,f,,
 76,32,The Wilderness (W),2015-05-30,,Dolichopodidae,,f,,
-76,33,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,33,The Wilderness (W),2015-05-30,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 76,34,The Wilderness (W),2015-05-30,,Fanniidae,,f,,
 76,35,The Wilderness (W),2015-05-30,,Fanniidae,,m,,
 76,36,The Wilderness (W),2015-05-30,,Sarcophagidae,,m,,
@@ -47,17 +47,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,46,The Wilderness (W),2015-05-30,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 76,47,The Wilderness (W),2015-05-30,,Tachinidae,Carcelia tibialis,f,"Belshaw, 1993 +v5c updates",
 76,48,The Wilderness (W),2015-05-30,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
-76,49,The Wilderness (W),2015-05-30,,Muscidae,,f,,Greasy abdomen
+76,49,The Wilderness (W),2015-05-30,,Muscidae,Phaonia errans,f,"Fonseca, 1968",Greasy abdomen
 76,50,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea sp,m,"Fonseca, 1968",
 76,51,The Wilderness (W),2015-05-30,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 76,52,The Wilderness (W),2015-05-30,,Sarcophagidae,,m,,
 76,53,The Wilderness (W),2015-05-30,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 76,54,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea similis,f,"Fonseca, 1968",
-76,55,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,55,The Wilderness (W),2015-05-30,,Muscidae,Phaonia serva,f,"Fonseca, 1968",
 76,56,The Wilderness (W),2015-05-30,,Syrphidae,Xanthogramma sp,m,,
-76,57,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,57,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 76,58,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-76,59,The Wilderness (W),2015-05-30,,Muscidae,,m,,
-76,60,The Wilderness (W),2015-05-30,,Muscidae,,f,,
-76,61,The Wilderness (W),2015-05-30,,Muscidae,,m,,
-76,62,The Wilderness (W),2015-05-30,,Muscidae,,f,,
+76,59,The Wilderness (W),2015-05-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+76,60,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+76,61,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+76,62,The Wilderness (W),2015-05-30,,Anthomyiidae, ,f,,
