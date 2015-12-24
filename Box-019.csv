@@ -11,20 +11,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 19,10,The Wilderness (W),2014-05-31,,Syrphidae,Cheilosia sp,m,,
 19,11,The Wilderness (W),2014-05-31,,Calliphoridae,Lucilia sp,m,,
 19,12,The Wilderness (W),2014-05-31,,Rhagionidae,Chrysopilus cristatus,m,,
-19,13,The Wilderness (W),2014-05-31,,Muscidae,,,,
-19,14,The Wilderness (W),2014-05-31,,Muscidae,,,,
-19,15,The Wilderness (W),2014-05-31,,Muscidae,,,,
+19,13,The Wilderness (W),2014-05-31,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+19,14,The Wilderness (W),2014-05-31,,Muscidae,Helina abdominalis,m,"Fonseca, 1968",
+19,15,The Wilderness (W),2014-05-31,,Muscidae,Helina abdominalis,f,"Fonseca, 1968",
 19,16,The Wilderness (W),2014-05-31,,Syrphidae,Melanogaster sp,f,,
 19,17,The Wilderness (W),2014-05-31,,Tachinidae,Phasia barbifrons,m,"Belshaw, 1993 +v5c updates",
 19,18,The Wilderness (W),2014-05-31,,Fanniidae,,f,,
 19,19,The Wilderness (W),2014-05-31,,Fanniidae,,f,,
 19,20,The Wilderness (W),2014-05-31,,Lauxaniidae,Minettia longipennis,,,
-19,21,The Wilderness (E),2014-05-31,,Muscidae,,f,,
+19,21,The Wilderness (E),2014-05-31,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 19,22,The Wilderness (E),2014-05-31,,Calliphoridae,Pollenia sp,f,,
-19,23,The Wilderness (E),2014-05-31,,Muscidae,,,,
+19,23,The Wilderness (E),2014-05-31,,Muscidae,Phaonia erronea,m,"Fonseca, 1968",
 19,24,The Wilderness (E),2014-05-31,,Muscidae,Polietes meridionalis,m,"Fonseca, 1968; Pont & Falk, 2013",Hind tiba has 7 anteroventral bristles
 19,25,The Wilderness (E),2014-05-31,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-19,26,The Wilderness (E),2014-05-31,,Sarcophagidae,,,,
+19,26,The Wilderness (E),2014-05-31,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 19,27,The Wilderness (E),2014-05-31,,Muscidae,,f,,
 19,28,The Wilderness (E),2014-05-31,,Muscidae,,,,
 19,29,The Wilderness (E),2014-05-31,,Muscidae,,f,,
