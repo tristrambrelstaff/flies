@@ -36,12 +36,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,35,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga sp,,,
 17,36,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga sp,,,
 17,37,Whiteknights Park (E),2014-05-24,,Syrphidae,Cheilosia pagana,f,"Stubbs and Falk, 2002",
-17,38,Whiteknights Park (E),2014-05-24,,Muscidae,,,,
-17,39,Whiteknights Park (E),2014-05-24,,Muscidae,,,,
+17,38,Whiteknights Park (E),2014-05-24,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+17,39,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 17,40,Whiteknights Park (E),2014-05-24,,Anthomyiidae,,,,
 17,41,Whiteknights Park (E),2014-05-24,,Heleomyzidae,Suillia sp,,,
-17,42,Whiteknights Park (E),2014-05-24,,Muscidae,,,,
-17,43,Whiteknights Park (E),2014-05-24,,Muscidae,,,,
+17,42,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+17,43,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 17,44,Whiteknights Park (E),2014-05-24,,Tephritidae,,f,,
 17,45,Whiteknights Park (E),2014-05-24,,Lauxaniidae,,,,
 17,46,Whiteknights Park (E),2014-05-24,,Platypezidae,,m,,
