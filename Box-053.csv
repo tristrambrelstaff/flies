@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,1,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia sp,f,"Erzinclioglu, 1996",
 53,2,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia sp,m,"Erzinclioglu, 1996",
-53,3,Field below Chazey Wood,2014-10-19,,Muscidae,,f,,
-53,4,Field below Chazey Wood,2014-10-19,,Muscidae,,f,,
-53,5,Field below Chazey Wood,2014-10-19,,Muscidae,,f,,
-53,6,Field below Chazey Wood,2014-10-19,,Muscidae,,m,,
+53,3,Field below Chazey Wood,2014-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+53,4,Field below Chazey Wood,2014-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+53,5,Field below Chazey Wood,2014-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+53,6,Field below Chazey Wood,2014-10-19,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
 53,7,Field below Chazey Wood,2014-10-19,,Scathophagidae,Scathophaga sp,f,,
 53,8,Field below Chazey Wood,2014-10-19,,Syrphidae,Melanostoma scalare,f,,
 53,9,Field below Chazey Wood,2014-10-19,,Syrphidae,Sphaerophoria scripta,m,,
@@ -23,18 +23,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,22,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
 53,23,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
 53,24,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,,,
-53,25,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
-53,26,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
+53,25,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Hairs reach tip of arista
+53,26,Whiteknights Park (E),2014-10-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 53,27,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
 53,28,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
 53,29,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
 53,30,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
 53,31,Whiteknights Park (E),2014-10-26,,Calliphoridae,Calliphora vicina,f,"Erzinclioglu, 1996",
-53,32,Whiteknights Park (E),2014-10-26,,Muscidae,,m,"Family: Oosterbroek, 2006",
+53,32,Whiteknights Park (E),2014-10-26,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 53,33,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
-53,34,Whiteknights Park (E),2014-10-26,,Muscidae,,f,"Family: Oosterbroek, 2006",
-53,35,Whiteknights Park (E),2014-10-26,,Muscidae,,f,"Family: Oosterbroek, 2006",
-53,36,Whiteknights Park (E),2014-10-26,,Muscidae,,f,"Family: Oosterbroek, 2006",
+53,34,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+53,35,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+53,36,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,37,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 53,38,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,m,"Family: Oosterbroek, 2006",
 53,39,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,m,"Family: Oosterbroek, 2006",
@@ -48,9 +48,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,47,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
 53,48,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
 53,49,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
-53,50,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
-53,51,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
-53,52,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
+53,50,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+53,51,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+53,52,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,53,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga sp,,,
 53,54,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga sp,,,
 53,55,Whiteknights Park (W),2014-11-01,,Calliphoridae,Pollenia sp,m,"Erzinclioglu, 1996",
