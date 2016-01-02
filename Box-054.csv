@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,6,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,7,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,8,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
-54,9,Whiteknights Park (W),2014-11-01,,Muscidae,,f,"Family: Oosterbroek, 2006",
+54,9,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 54,10,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,11,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,12,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,m,"Family: Oosterbroek, 2006",
@@ -27,8 +27,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,26,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,m,,
 54,27,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,f,,
 54,28,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,m,,
-54,29,Whiteknights Park (E),2014-11-29,,Muscidae,,f,,
-54,30,Whiteknights Park (E),2014-11-29,,Muscidae,,f,,Greasy
+54,29,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,f,,
+54,30,Whiteknights Park (E),2014-11-29,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
 54,31,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera sp,f,,
 54,32,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,m,"Kurina et al, 2011; Family: Oosterbroek, 2006",
 54,33,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,f,"Kurina et al, 2011; Family: Oosterbroek, 2006",
@@ -39,12 +39,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,38,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga sp,m,,
 54,39,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga sp,f,,
 54,40,Whiteknights Park (E),2014-11-30,,Mycetophilidae,,,"Family: Oosterbroek, 2006",
-54,41,Whiteknights Park (W),2014-12-20,,Muscidae,,f,,Greasy
+54,41,Whiteknights Park (W),2014-12-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
 54,42,Whiteknights Park (W),2014-12-20,,Muscidae,Polietes lardarius,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
 54,43,Whiteknights Park (W),2014-12-20,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991; Erzinclioglu, 1996",
 54,44,Whiteknights Park (W),2014-12-20,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,45,Whiteknights Park (W),2014-12-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-54,46,Whiteknights Park (W),2014-12-24,,Muscidae,,f,,
+54,46,Whiteknights Park (W),2014-12-24,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 54,47,Whiteknights Park (W),2014-12-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 54,48,Whiteknights Park (W),2014-12-24,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,49,Whiteknights Park (W),2014-12-24,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis; Greasy
