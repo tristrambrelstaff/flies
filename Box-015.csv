@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 15,13,Field below Chazey Wood,2014-05-16,,Coleoptera,,,,
 15,14,Field below Chazey Wood,2014-05-16,,Fanniidae,,m,,
 15,15,Field below Chazey Wood,2014-05-16,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",
-15,16,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia sp,,,
+15,16,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 15,17,Field below Chazey Wood,2014-05-16,,Fanniidae,,f,,
 15,18,Field below Chazey Wood,2014-05-16,,Fanniidae,,f,,
 15,19,Field below Chazey Wood,2014-05-16,,Rhagionidae,Rhagio sp,,,
@@ -30,17 +30,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 15,29,Field below Chazey Wood,2014-05-16,,Tephritidae,,f,,
 15,30,Field below Chazey Wood,2014-05-16,,???,,,,
 15,31,Field below Chazey Wood,2014-05-16,,???,,,,
-15,32,Field below Chazey Wood,2014-05-16,,Muscidae,Hebecnema sp,m,,Wings darkened
-15,33,Field below Chazey Wood,2014-05-16,,Muscidae,Hebecnema sp,m,,Wings darkened
+15,32,Field below Chazey Wood,2014-05-16,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened
+15,33,Field below Chazey Wood,2014-05-16,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened
 15,34,Field below Chazey Wood,2014-05-16,,Fanniidae,,f,,
-15,35,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia sp,,,
-15,36,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia sp,m,,
+15,35,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+15,36,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 15,37,Chazey Wood,2014-05-16,,Calliphoridae,Calliphora vicina,f,,
 15,38,Chazey Wood,2014-05-16,,Syrphidae,Cheilosia sp,f,,
 15,39,Chazey Wood,2014-05-16,,Syrphidae,Cheilosia sp,f,,
 15,40,Chazey Wood,2014-05-16,,Tachinidae,Thelaira solivaga,f,"Belshaw, 1993 +v5c updates",
 15,41,Chazey Wood,2014-05-16,,Calliphoridae,Melinda sp,m,,
-15,42,Chazey Wood,2014-05-16,,Muscidae,,f,,
+15,42,Chazey Wood,2014-05-16,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 15,43,Chazey Wood,2014-05-16,,Anthomyiidae,,m,,
 15,44,Chazey Wood,2014-05-16,,Anthomyiidae,,m,,
 15,45,Chazey Wood,2014-05-16,,Simuliidae?,,,,
