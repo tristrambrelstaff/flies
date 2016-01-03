@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 47,1,Field below Chazey Wood,2014-09-06,,Anthomyiidae,Eustalomyia sp,f,,
-47,2,Field below Chazey Wood,2014-09-06,,Muscoidea,,,,
-47,3,Field below Chazey Wood,2014-09-06,,Muscoidea,,,,
+47,2,Field below Chazey Wood,2014-09-06,,Anthomyiidae,,f,,
+47,3,Field below Chazey Wood,2014-09-06,,Muscidae,Coenosia sp,,,
 47,4,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia sp,f,,
 47,5,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia sp,f,,
 47,6,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia sp,f,,
 47,7,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia sp,f,,
 47,8,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia sp,f,,
-47,9,Field below Chazey Wood,2014-09-06,,Calliphoridae,Pollenia sp,f,,
+47,9,Field below Chazey Wood,2014-09-06,,Calliphoridae,Pollenia sp,f,,Greasy
 47,10,Field below Chazey Wood,2014-09-06,,Sciomyzidae,Coremacera marginata,f,,
 47,11,Field below Chazey Wood,2014-09-06,,Asilidae,,m,,
 47,12,Field below Chazey Wood,2014-09-06,,Dolichopodidae,,m,,
@@ -15,35 +15,35 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 47,14,Field below Chazey Wood,2014-09-06,,Bibionidae,Dilophus febrilis,m,,
 47,15,Field West of Chazey Wood,2014-09-06,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 47,16,Field West of Chazey Wood,2014-09-06,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
-47,17,Whiteknights Park (W),2014-09-13,,Muscidae,,f,,
+47,17,Whiteknights Park (W),2014-09-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 47,18,Whiteknights Park (W),2014-09-13,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-47,19,Whiteknights Park (W),2014-09-13,,Muscidae,,f,,
-47,20,Whiteknights Park (W),2014-09-13,,Muscidae,,,,
-47,21,Whiteknights Park (W),2014-09-13,,Muscidae,,,,
+47,19,Whiteknights Park (W),2014-09-13,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+47,20,Whiteknights Park (W),2014-09-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+47,21,Whiteknights Park (W),2014-09-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 47,22,Whiteknights Park (W),2014-09-13,,Lonchaeidae,,f,,
-47,23,Whiteknights Park (W),2014-09-13,,???,,,,
-47,24,Whiteknights Park (W),2014-09-13,,Muscoidea,,,,
+47,23,Whiteknights Park (W),2014-09-13,,Opomyzidae,,m,,
+47,24,Whiteknights Park (W),2014-09-13,,Anthomyiidae,,f,,
 47,25,Whiteknights Park (W),2014-09-13,,Hybotidae,,,,
 47,26,Whiteknights Park (W),2014-09-13,,Syrphidae,,,,
 47,27,Whiteknights Park (W),2014-09-13,,Syrphidae,,f,,
-47,28,The Wilderness (W),2014-09-13,,Muscidae,,f,,
-47,29,The Wilderness (W),2014-09-13,,Muscidae,,f,,
+47,28,The Wilderness (W),2014-09-13,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+47,29,The Wilderness (W),2014-09-13,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 47,30,The Wilderness (W),2014-09-13,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
 47,31,The Wilderness (W),2014-09-13,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
 47,32,The Wilderness (W),2014-09-13,,Tachinidae,Eurithia consobrina,f,"Belshaw, 1993 +v5c updates",Ptlinum partially visible
 47,33,The Wilderness (W),2014-09-13,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-47,34,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,35,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,36,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,37,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,38,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,39,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,40,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,41,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,42,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,43,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,44,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,45,The Wilderness (W),2014-09-13,,Muscidae,,,,
-47,46,The Wilderness (W),2014-09-13,,???,,,,
-47,47,The Wilderness (W),2014-09-13,,???,,,,
-47,48,The Wilderness (W),2014-09-13,,Sarcophagidae,Sarcophaga sp,,,
+47,34,The Wilderness (W),2014-09-13,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
+47,35,The Wilderness (W),2014-09-13,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
+47,36,The Wilderness (W),2014-09-13,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+47,37,The Wilderness (W),2014-09-13,,Muscidae,Thricops diaphanus,f,"Fonseca, 1968",As Alloeostylus diaphanus
+47,38,The Wilderness (W),2014-09-13,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+47,39,The Wilderness (W),2014-09-13,,Muscidae,Helina pertusa,f,"Fonseca, 1968",
+47,40,The Wilderness (W),2014-09-13,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+47,41,The Wilderness (W),2014-09-13,,Muscidae,,m,,
+47,42,The Wilderness (W),2014-09-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+47,43,The Wilderness (W),2014-09-13,,Anthomyiidae,,f,,
+47,44,The Wilderness (W),2014-09-13,,Anthomyiidae,,f,,
+47,45,The Wilderness (W),2014-09-13,,Muscidae,,f,,
+47,46,The Wilderness (W),2014-09-13,,Heleomyzidae,,f,,
+47,47,The Wilderness (W),2014-09-13,,Heleomyzidae,,m,,
+47,48,The Wilderness (W),2014-09-13,,Sarcophagidae,Sarcophaga sp,f,,
