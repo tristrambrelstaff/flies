@@ -25,10 +25,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,24,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,,,
 53,25,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Hairs reach tip of arista
 53,26,Whiteknights Park (E),2014-10-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-53,27,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
-53,28,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
-53,29,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
-53,30,Whiteknights Park (E),2014-10-26,,Muscidae,,,,
+53,27,Whiteknights Park (E),2014-10-26,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica; Greasy
+53,28,Whiteknights Park (E),2014-10-26,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
+53,29,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+53,30,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,31,Whiteknights Park (E),2014-10-26,,Calliphoridae,Calliphora vicina,f,"Erzinclioglu, 1996",
 53,32,Whiteknights Park (E),2014-10-26,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 53,33,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
@@ -44,10 +44,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,43,Whiteknights Park (W),2014-11-01,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 53,44,Whiteknights Park (W),2014-11-01,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 53,45,Whiteknights Park (W),2014-11-01,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-53,46,Whiteknights Park (W),2014-11-01,,Muscidae,,m,"Family: Oosterbroek, 2006",
-53,47,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
-53,48,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
-53,49,Whiteknights Park (W),2014-11-01,,Muscidae,,,,
+53,46,Whiteknights Park (W),2014-11-01,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+53,47,Whiteknights Park (W),2014-11-01,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+53,48,Whiteknights Park (W),2014-11-01,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+53,49,Whiteknights Park (W),2014-11-01,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 53,50,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,51,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,52,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
