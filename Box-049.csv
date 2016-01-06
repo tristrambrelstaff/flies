@@ -36,11 +36,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 49,35,The Wilderness (E),2014-09-20,,Platypezidae,,,,
 49,36,The Wilderness (E),2014-09-20,,Syrphidae,,m,,
 49,37,The Wilderness (E),2014-09-21,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
-49,38,The Wilderness (E),2014-09-21,,Muscidae,,f,,
-49,39,The Wilderness (E),2014-09-21,,Muscidae,,f,,
-49,40,The Wilderness (E),2014-09-21,,Muscidae,,f,,
-49,41,The Wilderness (E),2014-09-21,,Muscidae,,f,,
-49,42,The Wilderness (E),2014-09-21,,Muscidae,,f,,
+49,38,The Wilderness (E),2014-09-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+49,39,The Wilderness (E),2014-09-21,,Muscidae,Mydaea corni,f,"Fonseca, 1968",As Mydaea scutellaris
+49,40,The Wilderness (E),2014-09-21,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
+49,41,The Wilderness (E),2014-09-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+49,42,The Wilderness (E),2014-09-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 49,43,The Wilderness (E),2014-09-21,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 49,44,The Wilderness (E),2014-09-21,,Muscidae,,f,,
 49,45,The Wilderness (E),2014-09-21,,Muscidae,,f,,
@@ -57,7 +57,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 49,56,The Wilderness (E),2014-09-21,,Muscidae,,f,,
 49,57,The Wilderness (E),2014-09-21,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 49,58,The Wilderness (E),2014-09-21,,Muscoidea,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
-49,59,The Wilderness (E),2014-09-21,,Muscidae,,,,
+49,59,The Wilderness (E),2014-09-21,,Muscidae,Limnophora triangula,m,"Fonseca, 1968",
 49,60,The Wilderness (E),2014-09-21,,Dolichopodidae,,m,,
 49,61,Whiteknights Park (W),2014-09-27,,Stratiomyidae,Sargus bipunctatus,f,,
 49,62,Whiteknights Park (W),2014-09-27,,Syrphidae,,f,,
