@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,1,Whiteknights Park (E),2015-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 59,2,Whiteknights Park (E),2015-04-07,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
-59,3,Whiteknights Park (E),2015-04-07,,Muscidae,,m,,Greasy
-59,4,Whiteknights Park (E),2015-04-07,,Muscidae,,m,,
+59,3,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",Greasy
+59,4,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 59,5,Whiteknights Park (E),2015-04-07,,Anthomyiidae,Leucophora sp,m,,Greasy abdomen
 59,6,Whiteknights Park (E),2015-04-07,,Anthomyiidae,Leucophora sp,f,,Greasy
 59,7,Whiteknights Park (E),2015-04-07,,Bibionidae,Bibio sp,m,,
@@ -15,20 +15,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,14,Whiteknights Park (E-FH),2015-04-07,,Lonchopteridae,Lonchoptera sp,,,
 59,15,Whiteknights Park (E-FH),2015-04-07,,Bibionidae,Bibio sp,m,,
 59,16,Whiteknights Park (E),2015-04-07,,Lonchopteridae,Lonchoptera sp,m,,
-59,17,Whiteknights Park (E),2015-04-07,,Muscidae,,f,,
-59,18,Whiteknights Park (E),2015-04-07,,Muscidae,,m,,
-59,19,Whiteknights Park (E),2015-04-07,,Muscidae,,f,,
+59,17,Whiteknights Park (E),2015-04-07,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+59,18,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
+59,19,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 59,20,Whiteknights Park (E),2015-04-07,,Anthomyiidae,Leucophora sp,f,,Greasy
-59,21,Whiteknights Park (E),2015-04-07,,Muscidae,,f,,
+59,21,Whiteknights Park (E),2015-04-07,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 59,22,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,m,,
 59,23,Whiteknights Park (E),2015-04-07,,Calliphoridae,Pollenia sp,f,,
 59,24,Whiteknights Park (E),2015-04-07,,Syrphidae,,m,,
 59,25,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,m,,
 59,26,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,f,,
 59,27,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,m,,
-59,28,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,f,,
+59,28,Whiteknights Park (E),2015-04-07,,Agromyzidae,,f,"Family: Oosterbroek, 2006",Agromzinae
 59,29,Whiteknights Park (E),2015-04-07,,Sphaeroceridae,,,,
-59,30,Field below Chazey Wood,2015-04-09,,Muscidae,,f,,
+59,30,Field below Chazey Wood,2015-04-09,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 59,31,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 59,32,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 59,33,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
@@ -38,7 +38,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,37,Field below Chazey Wood,2015-04-09,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 59,38,Field below Chazey Wood,2015-04-09,,Sarcophagidae,Sarcophaga sp,m,,
 59,39,Field below Chazey Wood,2015-04-09,,Calliphoridae,Pollenia sp,f,,
-59,40,Field below Chazey Wood,2015-04-09,,Muscidae,,m,,
+59,40,Field below Chazey Wood,2015-04-09,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 59,41,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
 59,42,Field below Chazey Wood,2015-04-09,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 59,43,Field below Chazey Wood,2015-04-09,,Scathophagidae,Scathophaga sp,f,,
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,46,Field below Chazey Wood,2015-04-09,,Calliphoridae,Pollenia sp,m,,
 59,47,Field below Chazey Wood,2015-04-09,,Anthomyiidae,,m,,
 59,48,Field below Chazey Wood,2015-04-09,,Anthomyiidae,,m,,
-59,49,Field below Chazey Wood,2015-04-09,,Muscidae,,f,,
+59,49,Field below Chazey Wood,2015-04-09,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 59,50,Field below Chazey Wood,2015-04-09,,Muscidae,Lispocephala pallipalpis,f,"Fonseca, 1968",
 59,51,Field below Chazey Wood,2015-04-09,,Muscidae,Lispocephala pallipalpis,f,"Fonseca, 1968",
 59,52,Field below Chazey Wood,2015-04-09,,Anthomyiidae,,f,,
