@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,1,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
 63,2,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
 63,3,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
-63,4,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
+63,4,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
 63,5,Whiteknights Park (W),2015-04-25,,Sarcophagidae,,m,,
 63,6,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
 63,7,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,10,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",
 63,11,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",Abdomen separated & clarified
 63,12,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,f,"Rozkosny et al, 1997",
-63,13,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
+63,13,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,
 63,14,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 63,15,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 63,16,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
@@ -29,11 +29,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,28,Whiteknights Park (W),2015-04-25,,Fanniidae,,m,,
 63,29,Whiteknights Park (W),2015-04-25,,Fanniidae,,m,,
 63,30,Whiteknights Park (W),2015-04-25,,Calliphoridae,Melinda sp,m,,
-63,31,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
-63,32,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
-63,33,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
+63,31,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
+63,32,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
+63,33,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 63,34,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
-63,35,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
+63,35,Whiteknights Park (W),2015-04-25,,Muscidae,Hydrotaea sp,f,,
 63,36,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
 63,37,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
 63,38,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
@@ -60,11 +60,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,59,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Anthomyia procellaris grp,m,,
 63,60,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,61,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
-63,62,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
-63,63,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
+63,62,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,Wings darkened
+63,63,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,Wings darkened
 63,64,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,65,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
-63,66,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
+63,66,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 63,67,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
 63,68,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
 63,69,Whiteknights Park (E-FH),2015-04-25,,Syrphidae,Eristalis sp,m,,
