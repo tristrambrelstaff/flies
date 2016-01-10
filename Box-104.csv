@@ -60,7 +60,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 104,59,Whiteknights Park (E),2015-08-27,,Pipunculidae,,,,
 104,60,Whiteknights Park (E),2015-08-27,,Pipunculidae,,,,
 104,61,Whiteknights Park (W),2015-08-27,,Chloropidae,Chlorops sp,f,,
-104,62,Whiteknights Park (W),2015-08-27,,Agromyzidae,,m,"Family: Oosterbroek, 2006",Agromyzinae
-104,63,Whiteknights Park (W),2015-08-27,,Agromyzidae,,f,"Family: Oosterbroek, 2006",Agromyzinae
-104,64,Whiteknights Park (W),2015-08-27,,Agromyzidae,,f,"Family: Oosterbroek, 2006",Agromyzinae
+104,62,Whiteknights Park (W),2015-08-27,,Agromyzidae,Agromyzinae,m,"Family: Oosterbroek, 2006",
+104,63,Whiteknights Park (W),2015-08-27,,Agromyzidae,Agromyzinae,f,"Family: Oosterbroek, 2006",
+104,64,Whiteknights Park (W),2015-08-27,,Agromyzidae,Agromyzinae,f,"Family: Oosterbroek, 2006",
 104,65,Whiteknights Park (W),2015-08-27,,Rhinophoridae,Rhinophora lepida,f,,
