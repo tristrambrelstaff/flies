@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 60,24,Chazey Wood,2015-04-09,,Syrphidae,,m,,
 60,25,Chazey Wood,2015-04-09,,Syrphidae,,f,,
 60,26,Chazey Wood,2015-04-09,,Syrphidae,,f,,
-60,27,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,27,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 60,28,Whiteknights Park (W),2015-04-11,,Bibionidae,Bibio sp,m,,
 60,29,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,m,,
 60,30,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,m,,
@@ -35,24 +35,24 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 60,34,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,f,,
 60,35,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,f,,
 60,36,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,f,,
-60,37,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,37,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 60,38,Whiteknights Park (W),2015-04-11,,Fanniidae,Fannia manicata,m,,Has 2 Acari mites
-60,39,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,39,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 60,40,Whiteknights Park (W),2015-04-11,,Anthomyiidae,Leucophora sp,,,
 60,41,Whiteknights Park (W),2015-04-11,,Anthomyiidae,Leucophora sp,,,Greasy abdomen
-60,42,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
-60,43,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,42,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
+60,43,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 60,44,Whiteknights Park (W),2015-04-11,,Anthomyiidae,Leucophora sp,,,
 60,45,Whiteknights Park (W),2015-04-11,,Anthomyiidae,Leucophora sp,,,
-60,46,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,46,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 60,47,Whiteknights Park (W),2015-04-11,,Anthomyiidae,Leucophora sp,,,
 60,48,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,m,,
 60,49,Whiteknights Park (W),2015-04-11,,Anthomyiidae,,m,,
-60,50,Whiteknights Park (W),2015-04-11,,Muscidae,,,,
-60,51,Whiteknights Park (W),2015-04-11,,Muscidae,,f,,
+60,50,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+60,51,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 60,52,Whiteknights Park (W),2015-04-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
-60,53,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
-60,54,Whiteknights Park (W),2015-04-11,,Muscidae,,f,,
+60,53,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+60,54,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 60,55,Whiteknights Park (W),2015-04-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-60,56,Whiteknights Park (W),2015-04-11,,Muscidae,,m,,
+60,56,Whiteknights Park (W),2015-04-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 60,57,Whiteknights Park (W),2015-04-11,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
