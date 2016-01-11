@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-63,1,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
+63,1,Whiteknights Park (W),2015-04-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 63,2,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
 63,3,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
 63,4,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,10,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",
 63,11,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",Abdomen separated & clarified
 63,12,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia serena,f,"Rozkosny et al, 1997",
-63,13,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,
+63,13,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Helina affinis; Halteres yellow
 63,14,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 63,15,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 63,16,Whiteknights Park (W),2015-04-25,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
@@ -32,13 +32,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,31,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 63,32,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 63,33,Whiteknights Park (W),2015-04-25,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-63,34,Whiteknights Park (W),2015-04-25,,Muscidae,,m,,
-63,35,Whiteknights Park (W),2015-04-25,,Muscidae,Hydrotaea sp,f,,
+63,34,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",Has 1 weak + 3 strong postsutural dorsocentral bristles
+63,35,Whiteknights Park (W),2015-04-25,,Muscidae,Hydrotaea dentipes,f,"Fonseca, 1968",
 63,36,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
 63,37,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
 63,38,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
 63,39,Whiteknights Park (W),2015-04-25,,Scathophagidae,Cordilura sp,,,
-63,40,Whiteknights Park (W),2015-04-25,,Muscidae,,f,,
+63,40,Whiteknights Park (W),2015-04-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 63,41,Whiteknights Park (W),2015-04-25,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 63,42,Whiteknights Park (W),2015-04-25,,Sarcophagidae,,m,,
 63,43,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,,,
@@ -60,8 +60,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,59,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Anthomyia procellaris grp,m,,
 63,60,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,61,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
-63,62,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,Wings darkened
-63,63,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema sp,m,,Wings darkened
+63,62,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+63,63,Whiteknights Park (W),2015-04-25,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 63,64,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,65,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,66,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
@@ -73,6 +73,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,72,Whiteknights Park (E-FH),2015-04-25,,Calliphoridae,Pollenia sp,f,,
 63,73,Whiteknights Park (E-FH),2015-04-25,,Calliphoridae,Pollenia sp,f,,
 63,74,Whiteknights Park (E-FH),2015-04-25,,Anthomyiidae,,f,,
-63,75,Whiteknights Park (E-FH),2015-04-25,,Muscidae,,f,,
+63,75,Whiteknights Park (E-FH),2015-04-25,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened
 63,76,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,,m,,
 63,77,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,,m,,
