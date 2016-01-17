@@ -1,45 +1,45 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-55,1,The Wilderness (E),2014-12-25,,Muscidae,,f,,
-55,2,The Wilderness (E),2014-12-25,,Muscidae,,m,,
-55,3,The Wilderness (E),2014-12-25,,Muscidae,,m,,
-55,4,The Wilderness (E),2014-12-25,,Muscidae,,m,,
-55,5,The Wilderness (E),2014-12-25,,Muscidae,,m,,
-55,6,The Wilderness (W),2014-12-25,,Muscidae,,f,,
-55,7,The Wilderness (W),2014-12-25,,Muscidae,,m,,
-55,8,The Wilderness (W),2014-12-25,,Muscidae,,f,,
-55,9,The Wilderness (W),2014-12-25,,Muscidae,,m,,
+55,1,The Wilderness (E),2014-12-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,2,The Wilderness (E),2014-12-25,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+55,3,The Wilderness (E),2014-12-25,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+55,4,The Wilderness (E),2014-12-25,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+55,5,The Wilderness (E),2014-12-25,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+55,6,The Wilderness (W),2014-12-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,7,The Wilderness (W),2014-12-25,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+55,8,The Wilderness (W),2014-12-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,9,The Wilderness (W),2014-12-25,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 55,10,The Wilderness (E),2015-01-02,,Calliphoridae,Calliphora vicina,f,"Erzinclioglu, 1996",
-55,11,The Wilderness (E),2015-01-02,,Muscidae,,f,"Family: Oosterbroek, 2006",
-55,12,The Wilderness (E),2015-01-02,,Muscidae,,f,"Family: Oosterbroek, 2006",
-55,13,The Wilderness (E),2015-01-02,,Muscidae,,m,"Family: Oosterbroek, 2006",
-55,14,The Wilderness (E),2015-01-02,,Muscidae,,m,"Family: Oosterbroek, 2006",
-55,15,The Wilderness (E),2015-01-02,,Muscidae,,f,"Family: Oosterbroek, 2006",
-55,16,The Wilderness (E),2015-01-02,,Muscidae,,f,"Family: Oosterbroek, 2006",
-55,17,The Wilderness (E),2015-01-02,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
-55,18,The Wilderness (E),2015-01-02,,Anthomyiidae,,m,"Family: Oosterbroek, 2006",
+55,11,The Wilderness (E),2015-01-02,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
+55,12,The Wilderness (E),2015-01-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,13,The Wilderness (E),2015-01-02,,Muscidae,Mydaea corni,m,"Fonseca, 1968",As Mydaea scutellaris
+55,14,The Wilderness (E),2015-01-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+55,15,The Wilderness (E),2015-01-02,,Muscidae,Hebecnema nigricolor,f,"Fonseca, 1968",
+55,16,The Wilderness (E),2015-01-02,,Muscidae,Hebecnema fumosa,f,"Fonseca, 1968",
+55,17,The Wilderness (E),2015-01-02,,Anthomyiidae,,f,,
+55,18,The Wilderness (E),2015-01-02,,Anthomyiidae,,m,,
 55,19,Whiteknights Park (W),2015-01-02,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
-55,20,The Wilderness (E),2015-01-11,,Muscidae,,,,
+55,20,The Wilderness (E),2015-01-11,,Muscidae,Hebecnema nigricolor,f,"Fonseca, 1968",
 55,21,The Wilderness (E),2015-01-11,,Anthomyiidae,,,,
 55,22,The Wilderness (E),2015-01-11,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
 55,23,The Wilderness (E),2015-01-11,,Calliphoridae,Calliphora vomitoria,f,,
-55,24,The Wilderness (E),2015-01-11,,Muscidae,,,,
-55,25,The Wilderness (E),2015-01-11,,Muscidae,,,,
-55,26,The Wilderness (E),2015-01-11,,Muscidae,,,,
-55,27,The Wilderness (W),2015-01-11,,Muscidae,,,,
-55,28,The Wilderness (W),2015-01-11,,Muscidae,,,,
-55,29,The Wilderness (W),2015-01-11,,Muscidae,,,,
+55,24,The Wilderness (E),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+55,25,The Wilderness (E),2015-01-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata; Mid tibia has 3 posterior bristles
+55,26,The Wilderness (E),2015-01-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,27,The Wilderness (W),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+55,28,The Wilderness (W),2015-01-11,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
+55,29,The Wilderness (W),2015-01-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 55,30,Field below Chazey Wood,2015-02-08,,Anthomyiidae,,m,,
 55,31,Chazey Wood,2015-02-08,,Lonchopteridae,,,,
 55,32,Chazey Wood,2015-02-08,,Anthomyiidae,,f,,
-55,33,Chazey Wood,2015-02-08,,Muscidae,,f,,
+55,33,Chazey Wood,2015-02-08,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
 55,34,Chazey Wood,2015-02-08,,Anthomyiidae,,f,,
 55,35,Chazey Wood,2015-02-15,,Sciaridae,,,"Family: Oosterbroek, 2006",
-55,36,The Wilderness (E),2015-03-01,,Muscidae,,f,,
-55,37,The Wilderness (E),2015-03-01,,Muscidae,,f,,
+55,36,The Wilderness (E),2015-03-01,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy abdomen
+55,37,The Wilderness (E),2015-03-01,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
 55,38,The Wilderness (E),2015-03-01,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
-55,39,The Wilderness (E),2015-03-01,,Muscidae,,,,
-55,40,The Wilderness (E),2015-03-01,,Muscidae,,,,
-55,41,The Wilderness (E),2015-03-01,,Muscidae,,,,
-55,42,The Wilderness (E),2015-03-01,,Muscidae,,,,
-55,43,The Wilderness (E),2015-03-01,,Muscidae,,m,,
+55,39,The Wilderness (E),2015-03-01,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+55,40,The Wilderness (E),2015-03-01,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+55,41,The Wilderness (E),2015-03-01,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+55,42,The Wilderness (E),2015-03-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+55,43,The Wilderness (E),2015-03-01,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black; Wings darkened
 55,44,The Wilderness (E),2015-03-01,,Anthomyiidae,,,,
