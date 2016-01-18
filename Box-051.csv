@@ -11,14 +11,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,10,Whiteknights Park (E),2014-10-05,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 51,11,Whiteknights Park (E),2014-10-05,,Muscidae,Graphomya maculata,m,"Fonseca, 1968; Vikhrev, 2011",As Graphomya picta
 51,12,Whiteknights Park (E),2014-10-05,,Muscidae,,f,,Greasy
-51,13,Whiteknights Park (E),2014-10-05,,Muscidae,,f,,
-51,14,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,15,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,16,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,17,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,18,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,19,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
-51,20,Whiteknights Park (E),2014-10-05,,Muscidae,,,,
+51,13,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,,
+51,14,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,15,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,16,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,17,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,18,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,,
+51,19,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,20,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 51,21,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
 51,22,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
 51,23,Whiteknights Park (E),2014-10-05,,Anthomyiidae,,m,,
@@ -33,10 +33,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,32,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 51,33,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 51,34,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
-51,35,Dinton Pastures,2014-10-11,,Muscidae,,f,,
+51,35,Dinton Pastures,2014-10-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 51,36,Dinton Pastures,2014-10-11,,Calliphoridae,Pollenia sp,f,,
-51,37,Dinton Pastures,2014-10-11,,Muscidae,,f,,
-51,38,Dinton Pastures,2014-10-11,,Muscidae,,f,,
+51,37,Dinton Pastures,2014-10-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+51,38,Dinton Pastures,2014-10-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 51,39,Dinton Pastures,2014-10-11,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 51,40,Dinton Pastures,2014-10-11,,Syrphidae,Rhingia campestris,f,,
 51,41,Dinton Pastures,2014-10-11,,Anthomyiidae,,m,,
