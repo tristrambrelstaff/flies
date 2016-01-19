@@ -10,14 +10,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,9,Whiteknights Park (E),2014-10-05,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 51,10,Whiteknights Park (E),2014-10-05,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 51,11,Whiteknights Park (E),2014-10-05,,Muscidae,Graphomya maculata,m,"Fonseca, 1968; Vikhrev, 2011",As Graphomya picta
-51,12,Whiteknights Park (E),2014-10-05,,Muscidae,,f,,Greasy
-51,13,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,,
-51,14,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
-51,15,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
-51,16,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
-51,17,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
-51,18,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,,
-51,19,Whiteknights Park (E),2014-10-05,,Muscidae,Helina,f,,
+51,12,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",Greasy; As Phaonia signata
+51,13,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+51,14,Whiteknights Park (E),2014-10-05,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+51,15,Whiteknights Park (E),2014-10-05,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+51,16,Whiteknights Park (E),2014-10-05,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+51,17,Whiteknights Park (E),2014-10-05,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+51,18,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+51,19,Whiteknights Park (E),2014-10-05,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 51,20,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 51,21,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
 51,22,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,39,Dinton Pastures,2014-10-11,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 51,40,Dinton Pastures,2014-10-11,,Syrphidae,Rhingia campestris,f,,
 51,41,Dinton Pastures,2014-10-11,,Anthomyiidae,,m,,
-51,42,Dinton Pastures,2014-10-11,,Muscidae,,f,,
+51,42,Dinton Pastures,2014-10-11,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 51,43,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga stercoraria,m,,
 51,44,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga sp,f,,Greasy
 51,45,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga sp,m,,
@@ -49,7 +49,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,48,Dinton Pastures,2014-10-11,,Heleomyzidae,,m,,
 51,49,Dinton Pastures,2014-10-11,,Anthomyiidae,,f,,
 51,50,Dinton Pastures,2014-10-11,,Opomyzidae,Opomyza sp,f,,
-51,51,Dinton Pastures,2014-10-11,,Muscidae,,,,
+51,51,Dinton Pastures,2014-10-11,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 51,52,Dinton Pastures,2014-10-11,,Anthomyiidae,,m,,
 51,53,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis sp,,,
 51,54,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis sp,,,
