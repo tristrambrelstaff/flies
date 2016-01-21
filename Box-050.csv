@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,1,Whiteknights Park (W),2014-09-27,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-50,2,Whiteknights Park (W),2014-09-27,,Muscidae,Helina,f,,
+50,2,Whiteknights Park (W),2014-09-27,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 50,3,Whiteknights Park (W),2014-09-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 50,4,Whiteknights Park (W),2014-09-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 50,5,Whiteknights Park (W),2014-09-27,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,14,The Wilderness (W),2014-09-27,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 50,15,The Wilderness (W),2014-09-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 50,16,The Wilderness (W),2014-09-27,,Heleomyzidae,Suillia sp,f,,
-50,17,The Wilderness (W),2014-09-27,,Muscidae,Phaonia,f,,
+50,17,The Wilderness (W),2014-09-27,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 50,18,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
 50,19,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
 50,20,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
@@ -39,16 +39,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,38,The Wilderness (E),2014-09-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 50,39,The Wilderness (E),2014-09-27,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 50,40,The Wilderness (E),2014-09-27,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
-50,41,The Wilderness (E),2014-09-27,,Muscidae,Helina,f,,
-50,42,The Wilderness (E),2014-09-27,,Muscidae,Helina,f,,
-50,43,The Wilderness (E),2014-09-27,,Muscidae,Phaonia,f,,
+50,41,The Wilderness (E),2014-09-27,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+50,42,The Wilderness (E),2014-09-27,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+50,43,The Wilderness (E),2014-09-27,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 50,44,The Wilderness (E),2014-09-27,,Fanniidae,Piezura pardalina,m,"Rozkosny et al, 1997; Pont, 2002",As Piezura graminicola; Postpronotal nodes and tip of scutellum yellow
 50,45,The Wilderness (E),2014-09-27,,Anthomyiidae,,f,,
 50,46,The Wilderness (E),2014-09-27,,Calliphoridae,Bellardia sp,f,,
 50,47,The Wilderness (E),2014-09-27,,Anthomyiidae,,f,,
 50,48,The Wilderness (E),2014-09-27,,Fanniidae,,f,,
 50,49,The Wilderness (E),2014-09-27,,Muscidae,,f,,
-50,50,The Wilderness (E),2014-09-27,,Muscidae,,f,,
+50,50,The Wilderness (E),2014-09-27,,Tachinidae,???,f,,
 50,51,The Wilderness (E),2014-09-27,,Platypezidae,Polyporivora sp,f,,
 50,52,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 50,53,Whiteknights Park (W),2014-10-04,,Heleomyzidae,,m,,
