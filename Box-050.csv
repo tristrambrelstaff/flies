@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,29,The Wilderness (W),2014-09-27,,Fanniidae,,f,,
 50,30,The Wilderness (W),2014-09-27,,Fanniidae,,m,,
 50,31,The Wilderness (W),2014-09-27,,Fanniidae,,f,,
-50,32,The Wilderness (W),2014-09-27,,Muscidae,,f,,
+50,32,The Wilderness (W),2014-09-27,,Muscidae,Azelia trigonica,f,"Fonseca, 1968",
 50,33,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
 50,34,The Wilderness (W),2014-09-27,,Nematocera,,,,
 50,35,The Wilderness (W),2014-09-27,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,46,The Wilderness (E),2014-09-27,,Calliphoridae,Bellardia sp,f,,
 50,47,The Wilderness (E),2014-09-27,,Anthomyiidae,,f,,
 50,48,The Wilderness (E),2014-09-27,,Fanniidae,,f,,
-50,49,The Wilderness (E),2014-09-27,,Muscidae,,f,,
+50,49,The Wilderness (E),2014-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 50,50,The Wilderness (E),2014-09-27,,Tachinidae,Paracraspedothrix montivaga,f,"Belshaw, 1993 +v5c updates",
 50,51,The Wilderness (E),2014-09-27,,Platypezidae,Polyporivora sp,f,,
 50,52,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
