@@ -1,4 +1,4 @@
-Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+ ,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 116,1,Whiteknights Park (E),2015-10-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 116,2,Whiteknights Park (E),2015-10-31,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 116,3,Whiteknights Park (E),2015-10-31,,Heleomyzidae,,m,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 116,23,Dinton Pastures,2015-11-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 116,24,Dinton Pastures,2015-11-08,,Anthomyiidae,,f,,
 116,25,Dinton Pastures,2015-11-08,,Anthomyiidae,,f,,
-116,26,Dinton Pastures,2015-11-08,,Scathophagidae,Scathophaga sp,m,,
+116,26,Dinton Pastures,2015-11-08,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",Pteropleuron with many long pale hairs
 116,27,Dinton Pastures,2015-11-08,,Anthomyiidae,,f,,
 116,28,Field below Chazey Wood,2015-11-15,,Calliphoridae,Calliphora vicina,m,,
 116,29,Field below Chazey Wood,2015-11-15,,Calliphoridae,Calliphora vicina,f,,
