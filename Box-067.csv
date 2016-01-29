@@ -46,8 +46,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 67,45,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 67,46,Chazey Wood,2015-05-09,,Muscidae,Hydrotaea meteorica,m,"Fonseca, 1968",
 67,47,Chazey Wood,2015-05-09,,Anthomyiidae,,f,,
-67,48,Chazey Wood,2015-05-09,,Scathophagidae,Scathophaga sp,f,,
-67,49,Chazey Wood,2015-05-09,,Scathophagidae,,m,,
+67,48,Chazey Wood,2015-05-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+67,49,Chazey Wood,2015-05-09,,Scathophagidae,Cleigastra apicalis ,m,"Ball, 2014",
 67,50,Chazey Wood,2015-05-09,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",Antennae missing
 67,51,Chazey Wood,2015-05-09,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 67,52,Chazey Wood,2015-05-09,,Hybotidae,,f,,
@@ -58,5 +58,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 67,57,Chazey Wood,2015-05-09,,Anthomyiidae,,m,,
 67,58,Chazey Wood,2015-05-09,,Anthomyiidae,Anthomyia procellaris grp,m,,
 67,59,Chazey Wood,2015-05-09,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Wings darkened
-67,60,Chazey Wood,2015-05-09,,Scathophagidae,,m,,
+67,60,Chazey Wood,2015-05-09,,Scathophagidae,Cleigastra apicalis ,m,"Ball, 2014",
 67,61,Chazey Wood,2015-05-09,,Agromyzidae,,m,,

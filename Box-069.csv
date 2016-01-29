@@ -29,9 +29,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 69,28,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
 69,29,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 69,30,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,m,,
-69,31,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,
-69,32,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,
-69,33,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,
+69,31,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
+69,32,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
+69,33,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
 69,34,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,m,,
 69,35,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 69,36,"Balmer Lawn, Brockenhurst",2015-05-16,,Sarcophagidae,Sarcophaga sp,f,,
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 69,46,"Balmer Lawn, Brockenhurst",2015-05-16,,Calliphoridae,Lucilia sp,m,,
 69,47,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 69,48,"Balmer Lawn, Brockenhurst",2015-05-16,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
-69,49,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,49+50 in cop
-69,50,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,f,,49+50 in cop
-69,51,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,m,,51+52 in cop
-69,52,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga sp,f,,51+52 in cop
+69,49,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",49+50 in cop
+69,50,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,f,"Ball, 2014",49+50 in cop
+69,51,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",51+52 in cop
+69,52,"Balmer Lawn, Brockenhurst",2015-05-16,,Scathophagidae,Scathophaga scybalaria,f,"Ball, 2014",51+52 in cop
