@@ -3,9 +3,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,2,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Limnophora maculosa,f,"Fonseca, 1968",
 70,3,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 70,4,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-70,5,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga sp,m,,
-70,6,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga sp,m,,
-70,7,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga sp,m,,
+70,5,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
+70,6,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
+70,7,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Scathophaga scybalaria,m,"Ball, 2014",
 70,8,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Polietes domitor,m,"Fonseca, 1968",As Polietes albolineatus
 70,9,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 70,10,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Limnophora maculosa,m,"Fonseca, 1968",
@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 70,15,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 70,16,"Balmer Lawn, Brockenhurst",2015-05-09,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 70,17,"Balmer Lawn, Brockenhurst",2015-05-09,,Muscidae,Helina celsa,m,"Fonseca, 1968",As Helina quadrimaculella
-70,18,"Balmer Lawn, Brockenhurst",2015-05-09,,Scathophagidae,Cordilura sp,m,,
+70,18,"Balmer Lawn, Brockenhurst",2015-05-09,,Psilidae,,,,
 70,19,"Balmer Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,m,,
 70,20,"Balmer Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,m,,
 70,21,"Balmer Lawn, Brockenhurst",2015-05-09,,Dolichopodidae,,m,,

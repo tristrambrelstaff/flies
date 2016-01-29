@@ -21,8 +21,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 78,20,Field below Chazey Wood,2015-06-06,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 78,21,Field below Chazey Wood,2015-06-06,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 78,22,Field below Chazey Wood,2015-06-06,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
-78,23,Field below Chazey Wood,2015-06-06,,Scathophagidae,Cordilura sp,,,
-78,24,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga sp,f,,
+78,23,Field below Chazey Wood,2015-06-06,,Scathophagidae,Cordilura pubera,f,"Ball, 2014",Has 1 pair of presutural acrostichials
+78,24,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 78,25,Field below Chazey Wood,2015-06-06,,Muscidae,Hydrotaea irritans,m,"Fonseca, 1968",
 78,26,Field below Chazey Wood,2015-06-06,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 78,27,Field below Chazey Wood,2015-06-06,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 78,33,Field below Chazey Wood,2015-06-06,,Syrphidae,Platycheirus rosarum,m,,
 78,34,Field below Chazey Wood,2015-06-06,,Tabanidae,Haematopota pluvialis,f,,
 78,35,Field below Chazey Wood,2015-06-06,,Conopidae,Sicus ferrugineus,,,
-78,36,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga sp,m,,
+78,36,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 78,37,Field below Chazey Wood,2015-06-06,,Platystomatidae,Platystoma seminationis,f,,
 78,38,Field below Chazey Wood,2015-06-06,,Tachinidae,Phryxe cf vulgaris,f,"Belshaw, 1993 +v5c updates",
 78,39,Field below Chazey Wood,2015-06-06,,Tachinidae,Phryxe cf vulgaris,f,"Belshaw, 1993 +v5c updates",
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 78,46,Field below Chazey Wood,2015-06-06,,Tachinidae,Compsilura concinnata,f,"Belshaw, 1993 +v5c updates",Has piercer
 78,47,Field below Chazey Wood,2015-06-06,,Muscidae,Phaonia serva,f,"Fonseca, 1968",Somewhat damaged
 78,48,Field below Chazey Wood,2015-06-06,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
-78,49,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga sp,f,,
+78,49,Field below Chazey Wood,2015-06-06,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 78,50,Field below Chazey Wood,2015-06-06,,Dolichopodidae,,f,,
 78,51,Field below Chazey Wood,2015-06-06,,Dolichopodidae,,f,,
 78,52,Field below Chazey Wood,2015-06-06,,Sarcophagidae,cf Blaesoxipha plumicornis,m,"Pape, 1987",

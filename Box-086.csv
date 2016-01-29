@@ -16,9 +16,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 86,15,Highcliff,2015-06-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 86,16,Highcliff,2015-06-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 86,17,Highcliff,2015-06-29,,Muscidae,Mydaea affinis,m,"Fonseca, 1968",As Mydaea discimana
-86,18,Highcliff,2015-06-29,,Scathophagidae,Scathophaga sp,,,
-86,19,Highcliff,2015-06-29,,Scathophagidae,Scathophaga sp,,,
-86,20,Highcliff,2015-06-29,,Scathophagidae,Scathophaga sp,,,
+86,18,Highcliff,2015-06-29,,Scathophagidae,Scathophaga stercoraria,,"Ball, 2014",
+86,19,Highcliff,2015-06-29,,Scathophagidae,Scathophaga stercoraria,,"Ball, 2014",
+86,20,Highcliff,2015-06-29,,Scathophagidae,Scathophaga stercoraria,,"Ball, 2014",
 86,21,Highcliff,2015-06-29,,Syrphidae,Platycheirus rosarum,m,,
 86,22,Highcliff,2015-06-29,,Syrphidae,,f,,
 86,23,Codhill Slack,2015-06-29,,Rhagionidae,Rhagio sp,m,,
@@ -35,9 +35,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 86,34,Codhill Slack,2015-06-29,,Chloropidae?,,f,,
 86,35,Codhill Slack,2015-06-29,,Muscidae,Helina obscurata,m,"Fonseca, 1968",
 86,36,Codhill Slack,2015-06-29,,Muscidae,Helina obscurata,m,"Fonseca, 1968",
-86,37,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga sp,m,,
-86,38,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga sp,f,,
-86,39,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga sp,m,,
+86,37,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+86,38,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+86,39,Codhill Slack,2015-06-29,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 86,40,Codhill Slack,2015-06-29,,Tachinidae,Blondelia nigripes,m,"Belshaw, 1993 +v5c updates",
 86,41,Codhill Slack,2015-06-29,,Muscidae,Helina obscurata,m,"Fonseca, 1968",
 86,42,Codhill Slack,2015-06-29,,Syrphidae,,m,,
