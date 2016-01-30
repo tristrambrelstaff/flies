@@ -5,7 +5,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,4,Field below Chazey Wood,2014-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 53,5,Field below Chazey Wood,2014-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 53,6,Field below Chazey Wood,2014-10-19,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
-53,7,Field below Chazey Wood,2014-10-19,,Scathophagidae,Scathophaga sp,f,,
+53,7,Field below Chazey Wood,2014-10-19,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 53,8,Field below Chazey Wood,2014-10-19,,Syrphidae,Melanostoma scalare,f,,
 53,9,Field below Chazey Wood,2014-10-19,,Syrphidae,Sphaerophoria scripta,m,,
 53,10,Whiteknights Park (E),2014-10-26,,Lonchopteridae,Lonchoptera sp,,,
@@ -18,11 +18,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,17,Whiteknights Park (E),2014-10-26,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 53,18,Whiteknights Park (E),2014-10-26,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 53,19,Whiteknights Park (E),2014-10-26,,Drosophilidae,,,,
-53,20,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
-53,21,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
-53,22,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
-53,23,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga sp,,,
-53,24,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,,,
+53,20,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
+53,21,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+53,22,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+53,23,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+53,24,Whiteknights Park (E),2014-10-26,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 53,25,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Hairs reach tip of arista
 53,26,Whiteknights Park (E),2014-10-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 53,27,Whiteknights Park (E),2014-10-26,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica; Greasy
@@ -51,6 +51,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,50,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,51,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,52,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-53,53,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga sp,,,
-53,54,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga sp,,,
+53,53,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+53,54,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 53,55,Whiteknights Park (W),2014-11-01,,Calliphoridae,Pollenia sp,m,"Erzinclioglu, 1996",

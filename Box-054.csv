@@ -35,9 +35,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,34,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,m,"Kurina et al, 2011; Family: Oosterbroek, 2006",
 54,35,Whiteknights Park (W),2014-11-30,,Lonchopteridae,Lonchoptera sp,m,,
 54,36,Whiteknights Park (W),2014-11-30,,Anthomyiidae,,m,,
-54,37,Whiteknights Park (W),2014-11-30,,Scathophagidae,Scathophaga sp,f,,
-54,38,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga sp,m,,
-54,39,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga sp,f,,
+54,37,Whiteknights Park (W),2014-11-30,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+54,38,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+54,39,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 54,40,Whiteknights Park (E),2014-11-30,,Mycetophilidae,,,"Family: Oosterbroek, 2006",
 54,41,Whiteknights Park (W),2014-12-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
 54,42,Whiteknights Park (W),2014-12-20,,Muscidae,Polietes lardarius,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
