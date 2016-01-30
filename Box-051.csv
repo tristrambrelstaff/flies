@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,18,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 51,19,Whiteknights Park (E),2014-10-05,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 51,20,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-51,21,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
-51,22,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga sp,,,
+51,21,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
+51,22,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 51,23,Whiteknights Park (E),2014-10-05,,Anthomyiidae,,m,,
 51,24,Whiteknights Park (E),2014-10-05,,Anthomyiidae,,m,,
 51,25,Whiteknights Park (E),2014-10-05,,Anthomyiidae,,m,,
@@ -41,11 +41,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,40,Dinton Pastures,2014-10-11,,Syrphidae,Rhingia campestris,f,,
 51,41,Dinton Pastures,2014-10-11,,Anthomyiidae,,m,,
 51,42,Dinton Pastures,2014-10-11,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
-51,43,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga stercoraria,m,,
-51,44,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga sp,f,,Greasy
-51,45,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga sp,m,,
-51,46,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga sp,m,,
-51,47,Dinton Pastures,2014-10-11,,Scathophagidae,,f,,
+51,43,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+51,44,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",Greasy
+51,45,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga inquinata,m,"Ball, 2014",
+51,46,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga inquinata,m,"Ball, 2014",
+51,47,Dinton Pastures,2014-10-11,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 51,48,Dinton Pastures,2014-10-11,,Heleomyzidae,,m,,
 51,49,Dinton Pastures,2014-10-11,,Anthomyiidae,,f,,
 51,50,Dinton Pastures,2014-10-11,,Opomyzidae,Opomyza sp,f,,
