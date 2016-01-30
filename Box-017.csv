@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,14,Whiteknights Park (W),2014-05-18,,Syrphidae,Episyrphus balteatus,f,"Stubbs and Falk, 2002",
 17,15,Whiteknights Park (W),2014-05-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
 17,16,Whiteknights Park (W),2014-05-18,,Calliphoridae,Lucilia sp,f,,
-17,17,Whiteknights Park (W),2014-05-18,,Scathophagidae,Scathophaga sp,f,,
+17,17,Whiteknights Park (W),2014-05-18,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 17,18,Whiteknights Park (W),2014-05-18,,Tephritidae,Chaetorellia jaceae,m,,
 17,19,Whiteknights Park (W),2014-05-18,,Anthomyiidae,,f,,
 17,20,Whiteknights Park (W),2014-05-18,,Anthomyiidae,Anthomyia sp,m,,
@@ -32,9 +32,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,31,Whiteknights Park (E),2014-05-24,,Tachinidae,Meigenia sp,f,"Belshaw, 1993 +v5c updates",
 17,32,Whiteknights Park (E),2014-05-24,,Stratiomyidae,Chloromyia formosa,m,"Stubbs and Drake, 2001",
 17,33,Whiteknights Park (E),2014-05-24,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-17,34,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga sp,,,
-17,35,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga sp,,,
-17,36,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga sp,,,
+17,34,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+17,35,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+17,36,Whiteknights Park (E),2014-05-24,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 17,37,Whiteknights Park (E),2014-05-24,,Syrphidae,Cheilosia pagana,f,"Stubbs and Falk, 2002",
 17,38,Whiteknights Park (E),2014-05-24,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 17,39,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
