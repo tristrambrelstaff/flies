@@ -12,15 +12,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 2,11,The Wilderness,2014-03-15,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",Damaged: head on separate slip
 2,12,The Wilderness,2014-03-15,,Anthomyiidae,,m,,
 2,13,Field below Chazey Wood,2014-03-16,Hymenoptera,Ichneumonidae,,,,
-2,14,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,,,
-2,15,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,,,
+2,14,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+2,15,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 2,16,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda,,,
 2,17,Field below Chazey Wood,2014-03-16,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 2,18,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda,,,
 2,19,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia sp,,,
 2,20,Field below Chazey Wood,2014-03-16,,Tachinidae,Gonia picea,f,"Belshaw, 1993 +v5c updates",
 2,21,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia sp,,,
-2,22,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga sp,,,
+2,22,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 2,23,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda,m,,
 2,24,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda,f,,
 2,25,Field below Chazey Wood,2014-03-16,,Heleomyzidae,,f,,
@@ -31,6 +31,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 2,30,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 2,31,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 2,32,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
-2,33,Whiteknights Park,2014-03-23,,Scathophagidae,Scathophaga sp,,,
+2,33,Whiteknights Park,2014-03-23,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 2,34,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 2,35,Whiteknights Park,2014-03-23,,Anthomyiidae,,f,,

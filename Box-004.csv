@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 4,12,Whiteknights Park,2014-04-05,,Anthomyiidae,Leucophora sp,,,
 4,13,Whiteknights Park,2014-04-05,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 4,14,Whiteknights Park,2014-04-05,,Anthomyiidae,,f,,
-4,15,Whiteknights Park,2014-04-05,,Scathophagidae,Scathophaga sp,,,
+4,15,Whiteknights Park,2014-04-05,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 4,16,Whiteknights Park,2014-04-05,,Anthomyiidae,,f,,
 4,17,Whiteknights Park,2014-04-05,,Anthomyiidae,,m,,
 4,18,Whiteknights Park,2014-04-05,,Syrphidae,,,,
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 4,26,Whiteknights Park,2014-04-06,Nematocera,,,,,
 4,27,The Wilderness,2014-04-06,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
 4,28,The Wilderness,2014-04-06,,Calliphoridae,Calliphora vomitoria,,,
-4,29,The Wilderness,2014-04-06,,Scathophagidae,Scathophaga stercoraria,m,,
+4,29,The Wilderness,2014-04-06,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 4,30,The Wilderness,2014-04-06,Hymenoptera,Tenthredinidae,Dolerus sp,,"Genus: Wright, 1990",
 4,31,The Wilderness,2014-04-06,Hymenoptera,Tenthredinidae,Dolerus sp,,"Genus: Wright, 1990",
 4,32,The Wilderness,2014-04-06,,Anthomyiidae,,m,,
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 4,43,Whiteknights Park,2014-04-11,,Anthomyiidae,,m,,
 4,44,Whiteknights Park,2014-04-11,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 4,45,Whiteknights Park,2014-04-11,,Anthomyiidae,Leucophora sp,,,
-4,46,Whiteknights Park,2014-04-11,,Scathophagidae,Scathophaga sp,,,
+4,46,Whiteknights Park,2014-04-11,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 4,47,Whiteknights Park,2014-04-11,,Lonchopteridae,Lonchoptera sp,,,
 4,48,Whiteknights Park,2014-04-11,,Syrphidae,,,,
 4,49,Whiteknights Park,2014-04-11,,Syrphidae,,,,
