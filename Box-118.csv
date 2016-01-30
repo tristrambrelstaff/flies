@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-118,1,Whiteknights Park (W),2015-12-28,,Calliphoridae,Calliphora vicina,f,,
-118,2,Whiteknights Park (W),2015-12-28,,Calliphoridae,Calliphora vicina,m,,
+118,1,Whiteknights Park (W),2015-12-28,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+118,2,Whiteknights Park (W),2015-12-28,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 118,3,Whiteknights Park (W),2015-12-28,,Anthomyiidae,,,,
 118,4,Whiteknights Park (W),2015-12-28,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 118,5,Whiteknights Park (W),2015-12-28,,Anthomyiidae,Pegomya sp,f,,
@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 118,13,Whiteknights Park (E),2015-12-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 118,14,Whiteknights Park (E),2015-12-28,,Anthomyiidae,,m,,
 118,15,Whiteknights Park (E),2015-12-28,,Anthomyiidae,,m,,
-118,16,Whiteknights Park (W),2016-01-30,,Scathophagidae,Scathophaga furcata,m,,
-118,17,Whiteknights Park (W),2016-01-30,,Muscidae,Helina evecta,m,,
-118,18,Whiteknights Park (W),2016-01-30,,Muscidae,Phaonia subventa,f,,
-118,19,Whiteknights Park (W),2016-01-30,,Calliphoridae,Calliphora vicina,f,,
-118,20,Whiteknights Park (W),2016-01-30,,Calliphoridae,Calliphora vicina,m,,
+118,16,Whiteknights Park (W),2016-01-30,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
+118,17,Whiteknights Park (W),2016-01-30,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+118,18,Whiteknights Park (W),2016-01-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+118,19,Whiteknights Park (W),2016-01-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+118,20,Whiteknights Park (W),2016-01-30,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
