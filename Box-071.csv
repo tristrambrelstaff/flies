@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 71,1,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 71,2,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
-71,3,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia sp,m,,
+71,3,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia cf rudis,m,"Rognes, 1991",
 71,4,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,m,,
 71,5,Whiteknights Park (NW),2015-05-23,,Fanniidae,,m,,
 71,6,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,m,,
@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 71,18,Whiteknights Park (NW),2015-05-23,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",
 71,19,Whiteknights Park (NW),2015-05-23,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 71,20,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
-71,21,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sp,f,,
-71,22,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sp,m,,
+71,21,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+71,22,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 71,23,Whiteknights Park (NW),2015-05-23,,Anthomyiidae,,f,,
 71,24,Whiteknights Park (NW),2015-05-23,,Scathophagidae,Norellisoma spinimanum,m,"Ball, 2014",
 71,25,Whiteknights Park (NW),2015-05-23,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
@@ -39,14 +39,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 71,38,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 71,39,Whiteknights Park (NW),2015-05-23,,Tachinidae,Phryxe sp,m,"Belshaw, 1993 +v5c updates",No red on scutellum
 71,40,Whiteknights Park (NW),2015-05-23,,Tachinidae,Aplomya confinis,m,"Belshaw, 1993 +v5c updates",
-71,41,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Bellardia sp,m,,
+71,41,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Bellardia bayeri,m,"Rognes, 1991",
 71,42,Whiteknights Park (NW),2015-05-23,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 71,43,Whiteknights Park (NW),2015-05-23,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 71,44,Whiteknights Park (NW),2015-05-23,,Tachinidae,Meigenia sp,m,"Belshaw, 1993 +v5c updates",
 71,45,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,m,,
 71,46,Whiteknights Park (NW),2015-05-23,,Sarcophagidae,Sarcophaga sp,m,,
 71,47,Whiteknights Park (NW),2015-05-23,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-71,48,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia sp,f,,
+71,48,Whiteknights Park (NW),2015-05-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 71,49,Whiteknights Park (NW),2015-05-23,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 71,50,Whiteknights Park (NW),2015-05-23,,Simuliidae,,,,
 71,51,Whiteknights Park (NW),2015-05-23,,Tephritidae,Tephritis neesii,m,,
