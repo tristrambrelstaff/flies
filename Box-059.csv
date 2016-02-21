@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,7,Whiteknights Park (E),2015-04-07,,Bibionidae,Bibio sp,m,,
 59,8,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,m,,
 59,9,Whiteknights Park (E-FH),2015-04-07,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
-59,10,Whiteknights Park (E-FH),2015-04-07,,Calliphoridae,Pollenia sp,m,,
+59,10,Whiteknights Park (E-FH),2015-04-07,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 59,11,Whiteknights Park (E-FH),2015-04-07,,Calliphoridae,Pollenia sp,m,,
 59,12,Whiteknights Park (E-FH),2015-04-07,,Anthomyiidae,,m,,
 59,13,Whiteknights Park (E-FH),2015-04-07,,Anthomyiidae,,f,,
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,32,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 59,33,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 59,34,Field below Chazey Wood,2015-04-09,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
-59,35,Field below Chazey Wood,2015-04-09,,Calliphoridae,Calliphora vicina,f,,
+59,35,Field below Chazey Wood,2015-04-09,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 59,36,Field below Chazey Wood,2015-04-09,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 59,37,Field below Chazey Wood,2015-04-09,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 59,38,Field below Chazey Wood,2015-04-09,,Sarcophagidae,Sarcophaga sp,m,,
