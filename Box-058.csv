@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 58,1,Whiteknights Park (W),2015-04-05,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 58,2,Whiteknights Park (W),2015-04-05,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
-58,3,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia sp,f,,
-58,4,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia sp,m,,
-58,5,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia sp,m,,
+58,3,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+58,4,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+58,5,Whiteknights Park (W),2015-04-05,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 58,6,Whiteknights Park (W),2015-04-05,,Simuliidae,,,"Family: Oosterbroek, 2006",
 58,7,Whiteknights Park (W),2015-04-05,,Simuliidae,,,"Family: Oosterbroek, 2006",
 58,8,Whiteknights Park (W),2015-04-05,,Anthomyiidae,,f,,
@@ -15,13 +15,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 58,14,Whiteknights Park (E),2015-04-05,,Syrphidae,,f,,
 58,15,Whiteknights Park (E),2015-04-05,,Anthomyiidae,Leucophora sp,m,,
 58,16,Whiteknights Park (E),2015-04-05,,Fanniidae,Fannia manicata,m,"Rozkosny et al, 1997",
-58,17,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,m,,
+58,17,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 58,18,Whiteknights Park (E),2015-04-05,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
 58,19,Whiteknights Park (E),2015-04-05,,Muscidae,Phaonia mystica,m,"Fonseca, 1968",As Phaonia vittifera
 58,20,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 58,21,Whiteknights Park (E),2015-04-05,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
-58,22,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,f,,
-58,23,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia sp,f,,
+58,22,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+58,23,Whiteknights Park (E),2015-04-05,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 58,24,Whiteknights Park (E),2015-04-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata; One mid tibia has 3 bristles behind
 58,25,Whiteknights Park (E),2015-04-05,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 58,26,Whiteknights Park (E),2015-04-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
@@ -32,15 +32,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 58,31,Whiteknights Park (W),2015-04-07,,Syrphidae,,f,,
 58,32,The Wilderness (W),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 58,33,The Wilderness (W),2015-04-07,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
-58,34,The Wilderness (W),2015-04-07,,Calliphoridae,Pollenia sp,m,,
+58,34,The Wilderness (W),2015-04-07,,Calliphoridae,Pollenia cf pallida,m,"Rognes, 1991",
 58,35,The Wilderness (W),2015-04-07,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 58,36,The Wilderness (W),2015-04-07,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 58,37,The Wilderness (W),2015-04-07,,Syrphidae,,m,,
 58,38,The Wilderness (W),2015-04-07,,Syrphidae,,m,,
-58,39,The Wilderness (E),2015-04-07,,Calliphoridae,Calliphora vicina,f,,
-58,40,The Wilderness (E),2015-04-07,,Calliphoridae,Calliphora vicina,m,,
+58,39,The Wilderness (E),2015-04-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+58,40,The Wilderness (E),2015-04-07,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 58,41,The Wilderness (E),2015-04-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-58,42,The Wilderness (E),2015-04-07,,Calliphoridae,Pollenia sp,f,,
+58,42,The Wilderness (E),2015-04-07,,Calliphoridae,Pollenia peduculata,f,"Rognes, 1991",
 58,43,The Wilderness (E),2015-04-07,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 58,44,The Wilderness (E),2015-04-07,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 58,45,The Wilderness (E),2015-04-07,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
