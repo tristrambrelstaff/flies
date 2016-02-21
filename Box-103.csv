@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,22,Chazey Wood,2015-08-25,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 103,23,Chazey Wood,2015-08-25,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 103,24,Chazey Wood,2015-08-25,,Sarcophagidae,,f,,
-103,25,Chazey Wood,2015-08-25,,Calliphoridae,Bellardia sp,m,,
+103,25,Chazey Wood,2015-08-25,,Calliphoridae,Bellardia cf vulgaris,m,"Rognes, 1991",
 103,26,Chazey Wood,2015-08-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 103,27,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 103,28,Chazey Wood,2015-08-25,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
@@ -64,7 +64,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 103,63,Chazey Wood,2015-08-25,,Fanniidae,,m,,
 103,64,Chazey Wood,2015-08-25,,Anthomyiidae,,m,,
 103,65,Chazey Wood,2015-08-25,,Fanniidae,,m,,
-103,66,Chazey Wood,2015-08-25,,Calliphoridae,Bellardia sp,m,,
+103,66,Chazey Wood,2015-08-25,,Calliphoridae,Bellardia cf pandia,m,"Rognes, 1991",
 103,67,Chazey Wood,2015-08-25,,Lonchaeidae,,f,,
 103,68,Chazey Wood,2015-08-25,,Anthomyiidae,,f,,
 103,69,Chazey Wood,2015-08-25,,Anthomyiidae,,f,,

@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 104,1,Whiteknights Park (E-FH),2015-08-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-104,2,Whiteknights Park (E-FH),2015-08-27,,Calliphoridae,Pollenia sp,f,,
+104,2,Whiteknights Park (E-FH),2015-08-27,,Calliphoridae,Pollenia labialis,f,"Rognes, 1991",
 104,3,Whiteknights Park (E-FH),2015-08-27,,Muscidae,Graphomya maculata,f,"Fonseca, 1968; Vikhrev, 2011",As Graphomya picta
 104,4,Whiteknights Park (E-FH),2015-08-27,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 104,5,Whiteknights Park (E-FH),2015-08-27,,Ephydridae,,,,
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 104,26,Whiteknights Park (E-FH),2015-08-27,Hymenoptera,,,,,
 104,27,Whiteknights Park (E),2015-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 104,28,Whiteknights Park (E),2015-08-27,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
-104,29,Whiteknights Park (E),2015-08-27,,Calliphoridae,Lucilia sp,f,,
+104,29,Whiteknights Park (E),2015-08-27,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 104,30,Whiteknights Park (E),2015-08-27,,Conopidae,,,,
 104,31,Whiteknights Park (E),2015-08-27,,Asilidae,,f,,
 104,32,Whiteknights Park (E),2015-08-27,,Asilidae,,f,,
