@@ -33,9 +33,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,32,Field below Chazey Wood,2015-05-24,,Empidoidea,,f,,
 74,33,Field below Chazey Wood,2015-05-24,,Empidoidea,,f,,
 74,34,Field below Chazey Wood,2015-05-24,,???,,f,,
-74,35,Chazey Wood,2015-05-24,,Calliphoridae,Protocalliphora azurea,f,,
+74,35,Chazey Wood,2015-05-24,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
 74,36,Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,f,,
-74,37,Chazey Wood,2015-05-24,,Calliphoridae,Lucilia sp,m,,
+74,37,Chazey Wood,2015-05-24,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 74,38,Chazey Wood,2015-05-24,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 74,39,Chazey Wood,2015-05-24,,Muscidae,Mydaea corni,m,"Fonseca, 1968",As Mydaea scutellaris
 74,40,Chazey Wood,2015-05-24,,Tephritidae,Oxyna parietina,m,,
@@ -51,7 +51,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,50,Chazey Wood,2015-05-24,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 74,51,Chazey Wood,2015-05-24,,Muscidae,Helina depuncta,m,"Fonseca, 1968",
 74,52,Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
-74,53,Chazey Wood,2015-05-24,,Calliphoridae,Pollenia sp,f,,
+74,53,Chazey Wood,2015-05-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 74,54,Chazey Wood,2015-05-24,,Fanniidae,,m,,Antennae missing
 74,55,Chazey Wood,2015-05-24,,Fanniidae,,f,,
 74,56,Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
