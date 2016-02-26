@@ -4,8 +4,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 41,3,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 41,4,Whiteknights Park (W),2014-08-23,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 41,5,Whiteknights Park (W),2014-08-23,,Anthomyiidae,,m,,
-41,6,Whiteknights Park (W),2014-08-23,,Calliphoridae,Calliphora sp,f,,
-41,7,Whiteknights Park (W),2014-08-23,,Calliphoridae,Pollenia sp,m,,
+41,6,Whiteknights Park (W),2014-08-23,,Calliphoridae,Bellardia cf pandia,f,"Rognes, 1991",
+41,7,Whiteknights Park (W),2014-08-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 41,8,Whiteknights Park (W),2014-08-23,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 41,9,Whiteknights Park (W),2014-08-23,,Sciomyzidae,Tetanocera sp,,,
 41,10,Whiteknights Park (W),2014-08-23,,Syrphidae,Syrphus sp,,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 41,33,The Wilderness (W),2014-08-23,,Syrphidae,Xanthogramma pedissequum,,,
 41,34,The Wilderness (W),2014-08-23,,Syrphidae,Baccha elongata,f,,
 41,35,Whiteknights Park (E),2014-08-23,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993 +v5c updates",
-41,36,Whiteknights Park (E),2014-08-23,,Calliphoridae,Pollenia sp,f,,
+41,36,Whiteknights Park (E),2014-08-23,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 41,37,Field below Chazey Wood,2014-08-27,,Tachinidae,Sturmia bella,m,"Belshaw, 1993 +v5c updates",
 41,38,Field below Chazey Wood,2014-08-27,,Tachinidae,Eurithia anthophila,f,"Belshaw, 1993 +v5c updates",
 41,39,Field below Chazey Wood,2014-08-27,,Tachinidae,Eurithia anthophila,f,"Belshaw, 1993 +v5c updates",
