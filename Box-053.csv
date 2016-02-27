@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-53,1,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia sp,f,"Erzinclioglu, 1996",
-53,2,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia sp,m,"Erzinclioglu, 1996",
+53,1,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+53,2,Field below Chazey Wood,2014-10-19,,Calliphoridae,Pollenia cf labialis,m,"Rognes, 1991",Greasy
 53,3,Field below Chazey Wood,2014-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 53,4,Field below Chazey Wood,2014-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 53,5,Field below Chazey Wood,2014-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,28,Whiteknights Park (E),2014-10-26,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
 53,29,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,30,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-53,31,Whiteknights Park (E),2014-10-26,,Calliphoridae,Calliphora vicina,f,"Erzinclioglu, 1996",
+53,31,Whiteknights Park (E),2014-10-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 53,32,Whiteknights Park (E),2014-10-26,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 53,33,Whiteknights Park (E),2014-10-26,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 53,34,Whiteknights Park (E),2014-10-26,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
@@ -53,4 +53,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 53,52,Whiteknights Park (W),2014-11-01,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 53,53,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 53,54,Whiteknights Park (W),2014-11-01,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-53,55,Whiteknights Park (W),2014-11-01,,Calliphoridae,Pollenia sp,m,"Erzinclioglu, 1996",
+53,55,Whiteknights Park (W),2014-11-01,,Calliphoridae,Pollenia cf augustigena,m,"Rognes, 1991",Greasy
