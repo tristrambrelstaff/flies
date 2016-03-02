@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 2,1,Whiteknights Park,2014-03-15,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
-2,2,Whiteknights Park,2014-03-15,,Calliphoridae,Calliphora vicina,,,
+2,2,Whiteknights Park,2014-03-15,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 2,3,Whiteknights Park,2014-03-15,,Syrphidae,,,,
 2,4,Whiteknights Park,2014-03-15,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
-2,5,Whiteknights Park,2014-03-15,,Calliphoridae,Pollenia sp,,,
+2,5,Whiteknights Park,2014-03-15,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 2,6,Whiteknights Park,2014-03-15,,Anthomyiidae,,,,
 2,7,The Wilderness,2014-03-15,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 2,8,The Wilderness,2014-03-15,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
@@ -14,20 +14,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 2,13,Field below Chazey Wood,2014-03-16,Hymenoptera,Ichneumonidae,,,,
 2,14,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 2,15,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-2,16,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda sp,,,
+2,16,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 2,17,Field below Chazey Wood,2014-03-16,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
-2,18,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda sp,,,
-2,19,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia sp,,,
+2,18,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
+2,19,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia cf rudis,f,"Rognes, 1991",One wing missing
 2,20,Field below Chazey Wood,2014-03-16,,Tachinidae,Gonia picea,f,"Belshaw, 1993 +v5c updates",
-2,21,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia sp,,,
+2,21,Field below Chazey Wood,2014-03-16,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 2,22,Field below Chazey Wood,2014-03-16,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-2,23,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda sp,m,,
-2,24,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda sp,f,,
+2,23,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
+2,24,Field below Chazey Wood,2014-03-16,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 2,25,Field below Chazey Wood,2014-03-16,,Heleomyzidae,,f,,
 2,26,Field below Chazey Wood,2014-03-16,,Syrphidae,,,,
-2,27,Chazey Wood,2014-03-16,,Calliphoridae,Melinda sp,m,,
-2,28,Whiteknights Park,2014-03-23,,Calliphoridae,Calliphora vicina,f,,
-2,29,Whiteknights Park,2014-03-23,,Calliphoridae,Pollenia sp,m,,
+2,27,Chazey Wood,2014-03-16,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
+2,28,Whiteknights Park,2014-03-23,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+2,29,Whiteknights Park,2014-03-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 2,30,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 2,31,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 2,32,Whiteknights Park,2014-03-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
