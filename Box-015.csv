@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 15,10,Field below Chazey Wood,2014-05-16,,Sarcophagidae,,m,,
 15,11,Field below Chazey Wood,2014-05-16,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 15,12,Field below Chazey Wood,2014-05-16,,Sarcophagidae,,m,,
-15,13,Field below Chazey Wood,2014-05-16,,Coleoptera,,,,
+15,13,Field below Chazey Wood,2014-05-16,Coleoptera,Chrysomelidae,,,,
 15,14,Field below Chazey Wood,2014-05-16,,Fanniidae,,m,,
 15,15,Field below Chazey Wood,2014-05-16,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",
 15,16,Field below Chazey Wood,2014-05-16,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
