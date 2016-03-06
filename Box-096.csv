@@ -5,15 +5,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 96,4,Chazey Wood,2015-08-02,,Muscidae,Morellia simplex,f,"Fonseca, 1968",Hind tibia has only 3-4 anteroventral bristles
 96,5,Chazey Wood,2015-08-02,,Tachinidae,Lydella grisescens,m,"Belshaw, 1993 +v5c updates",
 96,6,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
-96,7,Chazey Wood,2015-08-02,,???,,f,,
+96,7,Chazey Wood,2015-08-02,,Lauxaniidae,,f,,
 96,8,Chazey Wood,2015-08-02,,Sarcophagidae,Metopia argyrocephala,m,"Pape, 1987",
 96,9,Chazey Wood,2015-08-02,,Anthomyiidae,,f,,
 96,10,Chazey Wood,2015-08-02,,Sarcophagidae,,m,,
 96,11,Chazey Wood,2015-08-02,,Sarcophagidae,,m,,
 96,12,Chazey Wood,2015-08-02,,Sarcophagidae,,m,,
-96,13,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
-96,14,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
-96,15,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
+96,13,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf rudis,f,"Rognes, 1991",
+96,14,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+96,15,Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,f,"Rognes, 1991",As Pollenia cf pallida
 96,16,Chazey Wood,2015-08-02,,Anthomyiidae,,m,,
 96,17,Chazey Wood,2015-08-02,,Anthomyiidae,,f,,
 96,18,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea pilitibia,f,"Fonseca, 1968",Needs checking
@@ -40,17 +40,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 96,39,Field below Chazey Wood,2015-08-02,,Tachinidae,Lydella grisescens,m,"Belshaw, 1993 +v5c updates",
 96,40,Field below Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 96,41,Field below Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-96,42,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
-96,43,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
-96,44,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
-96,45,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
-96,46,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
-96,47,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
-96,48,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,f,,
-96,49,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
-96,50,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia sp,m,,
+96,42,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,f,"Rognes, 1991",As Pollenia cf pallida
+96,43,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
+96,44,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+96,45,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,f,"Rognes, 1991",As Pollenia cf pallida
+96,46,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+96,47,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
+96,48,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+96,49,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
+96,50,Field below Chazey Wood,2015-08-02,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
 96,51,Field below Chazey Wood,2015-08-02,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
-96,52,Field below Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sp,m,,
+96,52,Field below Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 96,53,Field below Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 96,54,Field below Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 96,55,Field below Chazey Wood,2015-08-02,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",

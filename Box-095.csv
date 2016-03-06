@@ -9,9 +9,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,8,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
 95,9,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,f,,
 95,10,Whiteknights Park (W),2015-07-31,,Sarcophagidae,,m,,
-95,11,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sp,m,,
-95,12,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sp,f,,
-95,13,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sp,m,,
+95,11,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+95,12,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+95,13,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 95,14,Whiteknights Park (W),2015-07-31,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 95,15,Whiteknights Park (W),2015-07-31,,Sarcophagidae,,f,,
 95,16,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,27,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
 95,28,Chazey Wood,2015-08-02,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993 +v5c updates",
 95,29,Chazey Wood,2015-08-02,,Tachinidae,Epicampocera succincta,f,"Belshaw, 1993 +v5c updates",Some black hairs behind postocular row.
-95,30,Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sp,f,,
+95,30,Chazey Wood,2015-08-02,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 95,31,Chazey Wood,2015-08-02,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 95,32,Chazey Wood,2015-08-02,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 95,33,Chazey Wood,2015-08-02,,Sarcophagidae,Sarcophaga sp,f,,
