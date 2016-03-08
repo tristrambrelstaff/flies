@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 86,1,Highcliff,2015-06-29,,Rhagionidae,Rhagio sp,m,,
-86,2,Highcliff,2015-06-29,,Calliphoridae,Calliphora vicina,f,,
+86,2,Highcliff,2015-06-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 86,3,Highcliff,2015-06-29,,Empididae,Empis sp,m,,
 86,4,Highcliff,2015-06-29,,Muscidae,Phaonia incana,f,"Fonseca, 1968",
 86,5,Highcliff,2015-06-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
