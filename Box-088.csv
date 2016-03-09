@@ -1,12 +1,12 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-88,1,Bousdale,2015-06-30,,Calliphoridae,Lucilia sp,f,,
+88,1,Bousdale,2015-06-30,,Calliphoridae,Lucilia cf caesar,f,"Rognes, 1991",
 88,2,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
-88,3,Bousdale,2015-06-30,,Calliphoridae,Pollenia sp,m,,
+88,3,Bousdale,2015-06-30,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 88,4,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,5,Bousdale,2015-06-30,,Fanniidae,,m,,
 88,6,Bousdale,2015-06-30,,Anthomyiidae,,m,,
 88,7,Bousdale,2015-06-30,,Anthomyiidae,,m,,
-88,8,Bousdale,2015-06-30,,Calliphoridae,Pollenia sp,m,,
+88,8,Bousdale,2015-06-30,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 88,9,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,10,Bousdale,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
 88,11,Bousdale,2015-06-30,,Rhagionidae,Chrysopilus cristatus,m,,Wings damaged
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 88,47,Roseberry Common,2015-06-30,,Phoridae,,,,
 88,48,Roseberry Common,2015-06-30,,Anthomyiidae,,m,,
 88,49,Roseberry Common,2015-06-30,,Phoridae,,,,
-88,50,Roseberry Common,2015-06-30,,Calliphoridae,Calliphora vicina,f,,
+88,50,Roseberry Common,2015-06-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 88,51,Roseberry Common,2015-06-30,,Rhagionidae,Rhagio sp,,,
 88,52,Roseberry Common,2015-06-30,,Sarcophagidae,Sarcophaga sp,m,,
 88,53,Roseberry Common,2015-06-30,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
