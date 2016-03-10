@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-83,1,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia sp,m,,
-83,2,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia sp,f,,
+83,1,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
+83,2,The Wilderness (W),2015-06-26,,Calliphoridae,Lucilia cf caesar,f,"Rognes, 1991",
 83,3,The Wilderness (W),2015-06-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 83,4,The Wilderness (W),2015-06-26,,Sarcophagidae,,f,,
 83,5,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
