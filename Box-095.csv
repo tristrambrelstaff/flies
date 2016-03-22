@@ -1,24 +1,24 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,1,Whiteknights Park (W),2015-07-31,,Conopidae,,,,
 95,2,Whiteknights Park (W),2015-07-31,,Tabanidae,Haematopota pluvialis,f,,
-95,3,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
+95,3,Whiteknights Park (W),2015-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 95,4,Whiteknights Park (W),2015-07-31,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 95,5,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
 95,6,Whiteknights Park (W),2015-07-31,,Sciomyzidae,,f,,
 95,7,Whiteknights Park (W),2015-07-31,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
-95,8,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
-95,9,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,f,,
+95,8,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+95,9,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 95,10,Whiteknights Park (W),2015-07-31,,Sarcophagidae,,m,,
 95,11,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 95,12,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 95,13,Whiteknights Park (W),2015-07-31,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 95,14,Whiteknights Park (W),2015-07-31,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 95,15,Whiteknights Park (W),2015-07-31,,Sarcophagidae,,f,,
-95,16,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia sp,m,,
+95,16,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 95,17,Whiteknights Park (W),2015-07-31,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 95,18,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
-95,19,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,m,,"19,20 in cop"
-95,20,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,f,,"19,20 in cop"
+95,19,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,m,,19+20 in cop
+95,20,Whiteknights Park (W),2015-07-31,Hymenoptera,Formicidae,,f,,19+20 in cop
 95,21,Chazey Wood,2015-08-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 95,22,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
 95,23,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",Arista hairs shorter than basal diameter

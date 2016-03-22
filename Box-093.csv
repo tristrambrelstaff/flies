@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,7,The Wilderness (E),2015-07-18,,Syrphidae,Pipiza sp,f,,
 93,8,The Wilderness (E),2015-07-18,,Anthomyiidae,,m,,
 93,9,The Wilderness (E),2015-07-18,,Anthomyiidae,,m,,
-93,10,The Wilderness (E),2015-07-18,,Calliphoridae,Pollenia sp,m,,
+93,10,The Wilderness (E),2015-07-18,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 93,11,The Wilderness (E),2015-07-18,,Fanniidae,,f,,
 93,12,The Wilderness (E),2015-07-18,,Rhinophoridae,,m,,
 93,13,The Wilderness (E),2015-07-18,,Rhinophoridae,,,,
@@ -24,8 +24,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,23,Whiteknights Park (E),2015-07-18,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 93,24,Whiteknights Park (E),2015-07-18,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",2 costal spines on each wing
 93,25,Whiteknights Park (E),2015-07-18,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-93,26,Whiteknights Park (E),2015-07-18,,Calliphoridae,Pollenia sp,m,,
-93,27,Whiteknights Park (E),2015-07-18,,Calliphoridae,Pollenia sp,m,,
+93,26,Whiteknights Park (E),2015-07-18,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+93,27,Whiteknights Park (E),2015-07-18,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 93,28,Whiteknights Park (E),2015-07-18,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 93,29,Whiteknights Park (E),2015-07-18,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 93,30,Whiteknights Park (E),2015-07-18,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 93,41,Whiteknights Park (E-FH),2015-07-18,,Dolichopodidae,,f,,
 93,42,Whiteknights Park (E-FH),2015-07-18,,Muscidae,Coenosia tigrina,,"Fonseca, 1968",As Caricea tigrina
 93,43,Whiteknights Park (E-FH),2015-07-18,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-93,44,Whiteknights Park (E-FH),2015-07-18,,Calliphoridae,Pollenia sp,m,,
+93,44,Whiteknights Park (E-FH),2015-07-18,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
 93,45,Whiteknights Park (E-FH),2015-07-18,,Sciomyzidae,,m,,
 93,46,Whiteknights Park (E-FH),2015-07-18,,Sciomyzidae,,f,,
 93,47,Whiteknights Park (E-FH),2015-07-18,,Anthomyiidae,,m,,
