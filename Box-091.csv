@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,1,Field below Chazey Wood,2015-07-11,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 91,2,Field below Chazey Wood,2015-07-11,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-91,3,Field below Chazey Wood,2015-07-11,,Calliphoridae,Melinda sp,f,,
-91,4,Field below Chazey Wood,2015-07-11,,Calliphoridae,Bellardia sp,f,,
+91,3,Field below Chazey Wood,2015-07-11,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
+91,4,Field below Chazey Wood,2015-07-11,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 91,5,Field below Chazey Wood,2015-07-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata; Sternites grey
 91,6,Field below Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,7,Field below Chazey Wood,2015-07-11,,Empididae,,m,,
@@ -30,18 +30,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,29,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
 91,30,Chazey Wood,2015-07-11,,Sarcophagidae,,f,,
 91,31,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
-91,32,Chazey Wood,2015-07-11,,Calliphoridae,Pollenia sp,f,,
+91,32,Chazey Wood,2015-07-11,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
 91,33,Chazey Wood,2015-07-11,,Rhinophoridae,Rhinophora lepida,f,,
 91,34,Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
 91,35,Chazey Wood,2015-07-11,,Rhinophoridae,Rhinophora lepida,m,,
 91,36,Chazey Wood,2015-07-11,,Sepsidae,Sepsis sp,,,
 91,37,Chazey Wood,2015-07-11,,Pipunculidae,,,,
 91,38,Chazey Wood,2015-07-11,Hymenoptera,,,,,
-91,39,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,m,,39+40 in cop
-91,40,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sp,f,,39+40 in cop
-91,41,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,41+42 in cop
-91,42,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,f,,41+42 in cop
-91,43,Whiteknights Park (W),2015-07-18,,Calliphoridae,Calliphora vicina,m,,
+91,39,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",39+40 in cop
+91,40,Whiteknights Park (W),2015-07-18,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",39+40 in cop
+91,41,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",41+42 in cop
+91,42,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",41+42 in cop
+91,43,Whiteknights Park (W),2015-07-18,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 91,44,Whiteknights Park (W),2015-07-18,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993 +v5c updates",
-91,45,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,
-91,46,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia sp,m,,
+91,45,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+91,46,Whiteknights Park (W),2015-07-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
