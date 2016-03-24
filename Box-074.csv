@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-74,1,Field below Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,m,,
+74,1,Field below Chazey Wood,2015-05-24,,Calliphoridae,Bellardia cf viarum,m,"Rognes, 1991",
 74,2,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 74,3,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 74,4,Field below Chazey Wood,2015-05-24,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,8,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 74,9,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 74,10,Field below Chazey Wood,2015-05-24,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
-74,11,Field below Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,m,,
+74,11,Field below Chazey Wood,2015-05-24,,Calliphoridae,Bellardia cf vulgaris,m,"Rognes, 1991",
 74,12,Field below Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
 74,13,Field below Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
 74,14,Field below Chazey Wood,2015-05-24,,Dolichopodidae,,f,,
@@ -32,9 +32,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 74,31,Field below Chazey Wood,2015-05-24,,Anthomyiidae,,m,,
 74,32,Field below Chazey Wood,2015-05-24,,Empidoidea,,f,,
 74,33,Field below Chazey Wood,2015-05-24,,Empidoidea,,f,,
-74,34,Field below Chazey Wood,2015-05-24,,???,,f,,
+74,34,Field below Chazey Wood,2015-05-24,,Chloropidae,,f,,
 74,35,Chazey Wood,2015-05-24,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
-74,36,Chazey Wood,2015-05-24,,Calliphoridae,Bellardia sp,f,,
+74,36,Chazey Wood,2015-05-24,,Muscidae,Mydaea ancilla,f,"Fonseca, 1968",
 74,37,Chazey Wood,2015-05-24,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 74,38,Chazey Wood,2015-05-24,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 74,39,Chazey Wood,2015-05-24,,Muscidae,Mydaea corni,m,"Fonseca, 1968",As Mydaea scutellaris
