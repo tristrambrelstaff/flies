@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,5,Whiteknight Park (E-FH),2016-03-20,,Ephydridae,,,,
 121,6,Whiteknight Park (E-FH),2016-03-20,,Agromyzidae,,,,
 121,7,Whiteknight Park (E-FH),2016-03-20,,Agromyzidae,,,,
-121,8,"The Warren, Caversham",2016-03-25,,Muscidae,Phaonia subventa,f,,
+121,8,"The Warren, Caversham",2016-03-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 121,9,"The Warren, Caversham",2016-03-25,,Sciomyzidae,Pherbellia sp,m,,
 121,10,"Oscar Wilde Walk, Reading",2016-03-25,,Anthomyiidae,,m,,
 121,11,"Oscar Wilde Walk, Reading",2016-03-25,,Lonchopteridae,Lonchoptera sp,m,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,23,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia pediculata,m,,
 121,24,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia sp,f,,
 121,25,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia sp,m,,
-121,26,Quarry near Chazey Wood,2016-03-25,,Muscidae,,f,,
+121,26,Quarry near Chazey Wood,2016-03-25,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 121,27,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
 121,28,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
 121,29,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
@@ -32,12 +32,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,31,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,m,,
 121,32,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
 121,33,Quarry near Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
-121,34,Quarry near Chazey Wood,2016-03-25,,Muscidae,,m,,
-121,35,Chazey Wood,2016-03-25,,Tachinidae,Gymnocheta viridis,m,,
+121,34,Quarry near Chazey Wood,2016-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+121,35,Chazey Wood,2016-03-25,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 121,36,Chazey Wood,2016-03-25,,Calliphoridae,Pollenia sp,m,,
-121,37,Chazey Wood,2016-03-25,,Muscidae,,f,,
-121,38,Chazey Wood,2016-03-25,,Muscidae,Phaonia subventa,f,,
-121,39,Chazey Wood,2016-03-25,,Muscidae,,m,,
+121,37,Chazey Wood,2016-03-25,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+121,38,Chazey Wood,2016-03-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+121,39,Chazey Wood,2016-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 121,40,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
 121,41,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,f,,
 121,42,Chazey Wood,2016-03-25,,Anthomyiidae,,m,,
