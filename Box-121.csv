@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,19,"Oscar Wilde Walk, Reading",2016-03-25,,Drosophilidae,,,,
 121,20,"Oscar Wilde Walk, Reading",2016-03-25,,Chironomidae,,m,,
 121,21,"Oscar Wilde Walk, Reading",2016-03-25,,Chironomidae,,m,,
-121,22,Quarry near Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
+121,22,Quarry near Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 121,23,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia pediculata,m,"Rognes,1991",
 121,24,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia augstigena,f,"Rognes,1991",
 121,25,Quarry near Chazey Wood,2016-03-25,,Calliphoridae,Pollenia augstigena,m,"Rognes,1991",
@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,37,Chazey Wood,2016-03-25,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 121,38,Chazey Wood,2016-03-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 121,39,Chazey Wood,2016-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-121,40,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
-121,41,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,f,,
+121,40,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+121,41,Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 121,42,Chazey Wood,2016-03-25,,Anthomyiidae,,m,,
 121,43,Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
 121,44,Chazey Wood,2016-03-25,,Anthomyiidae,,f,,
@@ -52,7 +52,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 121,51,Chazey Wood,2016-03-25,,Agromyzidae,,f,,
 121,52,Chazey Wood,2016-03-25,,Sphaeroceridae,,f,,
 121,53,Chazey Wood,2016-03-25,,Sphaeroceridae,,f,,
-121,54,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
-121,55,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
-121,56,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,,
+121,54,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+121,55,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+121,56,Fied West of Chazey Wood,2016-03-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 121,57,Fied West of Chazey Wood,2016-03-25,,Calliphoridae,Pollenia rudis,m,"Rognes,1991",
