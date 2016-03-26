@@ -5,7 +5,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 87,4,Codhill Slack,2015-06-29,,Anthomyiidae,,m,,
 87,5,Codhill Slack,2015-06-29,,Muscidae,Spilogona surda,m,"Fonseca, 1968",
 87,6,Codhill Slack,2015-06-29,,Anthomyiidae,,m,,
-87,7,Codhill Slack,2015-06-29,,???,,f,,
+87,7,Codhill Slack,2015-06-29,,Sphaeroceridae,Rachispoda cf lutosa,f,"Pitkin, 1988",As Leptocera cf lutosa
 87,8,Codhill Slack,2015-06-29,,Anthomyiidae,,m,,
 87,9,Codhill Slack,2015-06-29,,Anthomyiidae,,m,,
 87,10,Codhill Slack,2015-06-29,,Anthomyiidae,,f,,
@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 87,13,Codhill Slack,2015-06-29,,Ephydridae,Notophila sp,,,
 87,14,Codhill Slack,2015-06-29,,Ephydridae,Notophila sp,,,
 87,15,Codhill Slack,2015-06-29,,Anthomyiidae,,m,,
-87,16,Codhill Slack,2015-06-29,,Dolichopodidae,,m,,
+87,16,Codhill Slack,2015-06-29,,Dolichopodidae,Dolichopus brevipennis,m,"Fonseca, 1978",
 87,17,Codhill Slack,2015-06-29,,Dolichopodidae,,m,,
 87,18,Behind Hangingstone,2015-06-29,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 87,19,Behind Hangingstone,2015-06-29,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",Head very short
