@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 24,1,Whiteknights Park (E),2014-06-15,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993 +v5c updates",
 24,2,Whiteknights Park (E),2014-06-15,,Tachinidae,Zophomyia temula,f,"Belshaw, 1993 +v5c updates",
-24,3,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sp,,,
-24,4,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sp,,,
-24,5,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sp,,,
+24,3,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+24,4,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+24,5,Whiteknights Park (E),2014-06-15,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 24,6,Whiteknights Park (E),2014-06-15,,Anthomyiidae,,f,,
-24,7,Whiteknights Park (E),2014-06-15,,Calliphoridae,Pollenia sp,,,
+24,7,Whiteknights Park (E),2014-06-15,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",As Discachaeta pumila
 24,8,Whiteknights Park (E),2014-06-15,,Syrphidae,Xylota segnis,m,,
 24,9,Whiteknights Park (E),2014-06-15,,Syrphidae,,m,,
 24,10,Whiteknights Park (E),2014-06-15,,Syrphidae,,,,
@@ -36,13 +36,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 24,35,Whiteknights Park (W),2014-06-25,,Syrphidae,,,,
 24,36,Whiteknights Park (W),2014-06-21,,Syrphidae,,,,
 24,37,Whiteknights Park (W),2014-06-22,,Syrphidae,,,,
-24,38,Whiteknights Park (W),2014-06-23,,Sarcophagidae,,m,,
+24,38,Whiteknights Park (W),2014-06-23,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 24,39,Whiteknights Park (W),2014-06-24,,Tephritidae,,,,
 24,40,Whiteknights Park (W),2014-06-25,,Tephritidae,,,,
 24,41,Whiteknights Park (W),2014-06-21,,Tephritidae,,,,
 24,42,Whiteknights Park (W),2014-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-24,43,Whiteknights Park (W),2014-06-23,,Calliphoridae,Pollenia sp,,,
+24,43,Whiteknights Park (W),2014-06-23,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 24,44,Whiteknights Park (W),2014-06-24,,Tachinidae,Billaea irrorata,m,"Belshaw, 1993 +v5c updates",
 24,45,Whiteknights Park (W),2014-06-25,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 24,46,Whiteknights Park (W),2014-06-21,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-24,47,Whiteknights Park (W),2014-06-22,,Calliphoridae,Pollenia sp,,,
+24,47,Whiteknights Park (W),2014-06-22,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
