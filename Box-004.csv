@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 4,1,Whiteknights Park,2014-04-05,,Tachinidae,Gymnocheta viridis,,"Belshaw, 1993 +v5c updates",
-4,2,Whiteknights Park,2014-04-05,,Calliphoridae,Pollenia sp,,,
-4,3,Whiteknights Park,2014-04-05,,Calliphoridae,Pollenia sp,,,
+4,2,Whiteknights Park,2014-04-05,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+4,3,Whiteknights Park,2014-04-05,,Calliphoridae,Pollenia cf rudis,m,"Rognes, 1991",
 4,4,Whiteknights Park,2014-04-05,,Anthomyiidae,Leucophora sp,m,,Greasy
 4,5,Whiteknights Park,2014-04-05,,Anthomyiidae,Leucophora sp,m,,
 4,6,Whiteknights Park,2014-04-05,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 4,25,Whiteknights Park,2014-04-06,,Lonchopteridae,Lonchoptera sp,,,
 4,26,Whiteknights Park,2014-04-06,Nematocera,,,,,
 4,27,The Wilderness,2014-04-06,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
-4,28,The Wilderness,2014-04-06,,Calliphoridae,Calliphora vomitoria,,,
+4,28,The Wilderness,2014-04-06,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 4,29,The Wilderness,2014-04-06,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 4,30,The Wilderness,2014-04-06,Hymenoptera,Tenthredinidae,Dolerus sp,,"Genus: Wright, 1990",
 4,31,The Wilderness,2014-04-06,Hymenoptera,Tenthredinidae,Dolerus sp,,"Genus: Wright, 1990",
