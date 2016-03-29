@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 31,1,Field below Chazey Wood,2014-07-12,,Syrphidae,Eristalis sp,f,,
 31,2,Field below Chazey Wood,2014-07-12,,Tachinidae,Billaea irrorata,m,"Belshaw, 1993 +v5c updates",
-31,3,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia sp,m,,
+31,3,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
 31,4,Field below Chazey Wood,2014-07-12,,Tephritidae,,m,,
 31,5,Field below Chazey Wood,2014-07-12,,Tachinidae,Meigenia sp,f,"Belshaw, 1993 +v5c updates",
 31,6,Chazey Wood,2014-07-12,,Sepsidae,,,,
-31,7,Chazey Wood,2014-07-12,,Calliphoridae,Melinda sp,m,,
+31,7,Chazey Wood,2014-07-12,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 31,8,Chazey Wood,2014-07-12,,Therevidae,Thereva sp,,,
 31,9,Chazey Wood,2014-07-12,Hymenoptera,Gasteruptiidae,Gasteruption sp,f,,
 31,10,Chazey Wood,2014-07-12,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -15,12 +15,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 31,14,Whiteknights Park (W),2014-07-13,,Syrphidae,Eristalis intricarius,f,,
 31,15,Whiteknights Park (W),2014-07-13,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993 +v5c updates",
 31,16,Whiteknights Park (W),2014-07-13,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-31,17,Whiteknights Park (W),2014-07-13,,Calliphoridae,Pollenia sp,f,,
+31,17,Whiteknights Park (W),2014-07-13,,Tachinidae,Estheria cristata,f,"Belshaw, 1993 +v5c updates",
 31,18,Whiteknights Park (W),2014-07-13,,Syrphidae,Leucozona sp,f,,
 31,19,Whiteknights Park (W),2014-07-13,,Asilidae,,f,,
 31,20,Whiteknights Park (W),2014-07-13,,Conopidae,Physocephala sp,m,,
 31,21,Whiteknights Park (W),2014-07-13,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
-31,22,Whiteknights Park (W),2014-07-13,,Calliphoridae,Melinda sp,m,,
+31,22,Whiteknights Park (W),2014-07-13,,Calliphoridae,Bellardia cf vulgaris,m,"Rognes, 1991",
 31,23,Whiteknights Park (W),2014-07-13,,Tephritidae,,,,
 31,24,Whiteknights Park (W),2014-07-13,,Rhinophoridae,,,,
 31,25,Whiteknights Park (W),2014-07-13,,Rhinophoridae,,,,

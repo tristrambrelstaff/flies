@@ -7,12 +7,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 39,6,Chazey Wood,2014-08-09,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 39,7,Chazey Wood,2014-08-09,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 39,8,Chazey Wood,2014-08-09,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
-39,9,Chazey Wood,2014-08-09,,Calliphoridae,Lucilia sp,m,,
-39,10,Chazey Wood,2014-08-09,,Calliphoridae,Pollenia sp,f,,
+39,9,Chazey Wood,2014-08-09,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+39,10,Chazey Wood,2014-08-09,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 39,11,Chazey Wood,2014-08-09,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 39,12,Chazey Wood,2014-08-09,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 39,13,Chazey Wood,2014-08-09,,Sarcophagidae,Sarcophaga sp,,,
-39,14,Chazey Wood,2014-08-09,,Calliphoridae,Pollenia sp,m,,
+39,14,Chazey Wood,2014-08-09,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",Greasy
 39,15,Chazey Wood,2014-08-09,,Sarcophagidae,,m,,
 39,16,Chazey Wood,2014-08-09,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 39,17,Chazey Wood,2014-08-09,,Sarcophagidae,,m,,
@@ -36,8 +36,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 39,35,Whiteknights Park (E),2014-08-16,,Muscidae,Graphomya maculata,m,"Fonseca, 1968; Vikhrev, 2011",
 39,36,Whiteknights Park (E),2014-08-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968; Vikhrev, 2011",
 39,37,Whiteknights Park (E),2014-08-16,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-39,38,Whiteknights Park (E),2014-08-16,,Calliphoridae,Pollenia sp,m,,
-39,39,Whiteknights Park (E),2014-08-16,,Calliphoridae,Lucilia sp,f,,
+39,38,Whiteknights Park (E),2014-08-16,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+39,39,Whiteknights Park (E),2014-08-16,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",Blue-green; Brown body colour; Teneral
 39,40,Whiteknights Park (E),2014-08-16,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 39,41,Whiteknights Park (E),2014-08-16,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 39,42,Whiteknights Park (E),2014-08-16,,Lauxaniidae,Minettia inusta,f,,
