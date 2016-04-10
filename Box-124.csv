@@ -38,7 +38,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 124,37,Whiteknights Park (E-FH),2016-04-05,,Lonchopteridae,Lonchoptera sp,m,,
 124,38,Whiteknights Park (E-FH),2016-04-05,,Agromyzidae,,,,
 124,39,Whiteknights Park (E-FH),2016-04-05,,Chironomidae,,f,,
-124,40,Whiteknights Park (W),2016-04-09,,Scathophagidae,Scathophaga stercoraria,f,,
+124,40,Whiteknights Park (W),2016-04-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 124,41,Whiteknights Park (W),2016-04-09,,Bibionidae,,m,,
 124,42,Whiteknights Park (W),2016-04-09,,Dolichopodidae,,f,,
 124,43,Whiteknights Park (W),2016-04-09,,Tephritidae,,f,,
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 124,52,The Wilderness (W),2016-04-09,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 124,53,The Wilderness (W),2016-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 124,54,The Wilderness (W),2016-04-09,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
-124,55,The Wilderness (W),2016-04-09,,Scathophagidae,Scathophaga stercoraria,f,,
+124,55,The Wilderness (W),2016-04-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 124,56,The Wilderness (W),2016-04-09,,Anthomyiidae,,f,,
 124,57,The Wilderness (W),2016-04-09,,Anthomyiidae,,f,,
 124,58,The Wilderness (W),2016-04-09,,Anthomyiidae,,m,,
