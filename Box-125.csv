@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-125,1,The Wilderness (W),2016-04-09,,Muscidae,Phaonia sp,f,,
-125,2,The Wilderness (W),2016-04-09,,Muscidae,Phaonia sp,f,,
-125,3,The Wilderness (W),2016-04-09,,Muscidae,,f,,
+125,1,The Wilderness (W),2016-04-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+125,2,The Wilderness (W),2016-04-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+125,3,The Wilderness (W),2016-04-09,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 125,4,The Wilderness (W),2016-04-09,,Anthomyiidae,,f,,
 125,5,The Wilderness (W),2016-04-09,,Anthomyiidae,,m,,
 125,6,The Wilderness (W),2016-04-09,,Anthomyiidae,,f,,
@@ -39,18 +39,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 125,38,The Wilderness (E),2016-04-09,,Anthomyiidae,,f,,
 125,39,The Wilderness (E),2016-04-09,,Tachinidae,Macquartia dispar,f,"Belshaw, 1993 +v5c updates",
 125,40,The Wilderness (E),2016-04-09,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-125,41,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,,
-125,42,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,,
-125,43,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,,
-125,44,The Wilderness (E),2016-04-09,,Muscidae,Muscina levida,f,,
-125,45,The Wilderness (E),2016-04-09,,Muscidae,Phaonia sp,f,,
+125,41,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+125,42,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+125,43,The Wilderness (E),2016-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+125,44,The Wilderness (E),2016-04-09,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+125,45,The Wilderness (E),2016-04-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 125,46,The Wilderness (E),2016-04-09,,Psilidae,,,,
 125,47,The Wilderness (E),2016-04-09,,Anthomyiidae,,m,,
 125,48,The Wilderness (E),2016-04-09,,Anthomyiidae,,f,,
 125,49,The Wilderness (E),2016-04-09,,Anthomyiidae,,m,,
 125,50,The Wilderness (E),2016-04-09,,Anthomyiidae,,f,,
 125,51,The Wilderness (E),2016-04-09,,Anthomyiidae,,f,,
-125,52,The Wilderness (E),2016-04-09,,Muscidae,Lispocephala sp,m,,
+125,52,The Wilderness (E),2016-04-09,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",
 125,53,Whiteknights Park (E),2016-04-09,,Scathophagidae,Scathophaga stercoraria,m,,
 125,54,Whiteknights Park (E),2016-04-09,,Heleomyzidae,Suillia sp,f,,
 125,55,Whiteknights Park (E),2016-04-09,,Anthomyiidae,,m,,
