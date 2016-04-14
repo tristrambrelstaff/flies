@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 79,9,Field below Chazey Wood,2015-06-06,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 79,10,Field below Chazey Wood,2015-06-06,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 79,11,Field below Chazey Wood,2015-06-06,,Dolichopodidae,,m,,
-79,12,Field below Chazey Wood,2015-06-06,,Sciomyzidae,,m,,
+79,12,Field below Chazey Wood,2015-06-06,,Sciomyzidae,Pherbellia cinerella,m,"Rozkosny, 1984",
 79,13,Field below Chazey Wood,2015-06-06,,Fanniidae,,f,,
 79,14,Field below Chazey Wood,2015-06-06,,Fanniidae,,f,,
 79,15,Field below Chazey Wood,2015-06-06,,Fanniidae,,f,,
@@ -61,5 +61,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 79,60,Chazey Wood,2015-06-06,,Anthomyiidae,,m,,
 79,61,Chazey Wood,2015-06-06,,Tephritidae,Oxyna parietina,m,,
 79,62,Chazey Wood,2015-06-06,,Tephritidae,Oxyna parietina,f,,
-79,63,Chazey Wood,2015-06-06,,Sciomyzidae,,m,,
+79,63,Chazey Wood,2015-06-06,,???,,m,,Not Sciomyzidae
 79,64,Chazey Wood,2015-06-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
