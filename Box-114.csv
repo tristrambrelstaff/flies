@@ -18,11 +18,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 114,17,Whiteknights Park (W),2015-10-02,,Drosophilidae,Scaptomyza cf pallida,m,,
 114,18,Whiteknights Park (W),2015-10-02,Hymenoptera,,,f,,
 114,19,Whiteknights Park (E-FH),2015-10-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
-114,20,Whiteknights Park (E-FH),2015-10-02,,Sciomyzidae,,m,,
+114,20,Whiteknights Park (E-FH),2015-10-02,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 114,21,Whiteknights Park (E-FH),2015-10-02,,Lauxaniidae,,m,,
 114,22,Whiteknights Park (E-FH),2015-10-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 114,23,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-114,24,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
+114,24,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 114,25,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 114,26,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 114,27,Whiteknights Park (E-FH),2015-10-18,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
@@ -47,11 +47,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 114,46,Whiteknights Park (E-FH),2015-10-18,,Ephydridae,,m,,
 114,47,Whiteknights Park (E-FH),2015-10-18,,Drosophilidae,,f,,
 114,48,Whiteknights Park (E-FH),2015-10-18,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
-114,49,Whiteknights Park (E-FH),2015-10-18,,Lonchopteridae,Lonchoptera sp,f,,
+114,49,Whiteknights Park (E-FH),2015-10-18,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",Teneral
 114,50,Whiteknights Park (W),2015-10-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 114,51,Whiteknights Park (W),2015-10-18,,Anthomyiidae,,f,,
 114,52,Whiteknights Park (W),2015-10-18,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
-114,53,Whiteknights Park (W),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968; Xue & Sun, 2015",As Helina laetifica
+114,53,Whiteknights Park (W),2015-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 114,54,Whiteknights Park (W),2015-10-18,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 114,55,Whiteknights Park (W),2015-10-18,,Heleomyzidae,Suillia sp,m,,
 114,56,Whiteknights Park (W),2015-10-18,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
