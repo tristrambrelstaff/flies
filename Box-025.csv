@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-25,1,Whiteknights Park (W),2014-06-21,,Sciomyzidae,Tetanocera sp,,,
+25,1,Whiteknights Park (W),2014-06-21,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
 25,2,Whiteknights Park (W),2014-06-21,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
 25,3,Whiteknights Park (W),2014-06-21,,Stratiomyidae,Chloromyia formosa,f,,
 25,4,Whiteknights Park (W),2014-06-21,,Syrphidae,Cheilosia sp,m,,
@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 25,15,Whiteknights Park (W),2014-06-21,,Lauxaniidae,Minettia sp,,,
 25,16,Whiteknights Park (W),2014-06-21,,Lauxaniidae,Minettia sp,,,
 25,17,Whiteknights Park (W),2014-06-21,,Syrphidae,Cheilosia sp,m,,
-25,18,Whiteknights Park (W),2014-06-21,,Sciomyzidae,Tetanocera sp,m,,
+25,18,Whiteknights Park (W),2014-06-21,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
 25,19,Whiteknights Park (W),2014-06-21,,Empididae,Empis sp,,,
 25,20,Whiteknights Park (W),2014-06-21,,Syrphidae,Sphaerophoria scripta,m,,
 25,21,Whiteknights Park (W),2014-06-21,,Syrphidae,Melanostoma sp,m,,
@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 25,25,Whiteknights Park (E),2014-06-21,,Tephritidae,,,,
 25,26,Whiteknights Park (E),2014-06-21,,Anthomyiidae,,f,,
 25,27,Whiteknights Park (E),2014-06-21,,Tabanidae,Haematopota pluvialis,f,,
-25,28,Whiteknights Park (E),2014-06-21,,Sciomyzidae,Tetanocera sp,,,
+25,28,Whiteknights Park (E),2014-06-21,,Sciomyzidae,Ilione albiseta,,"Rozkosny, 1984",
 25,29,Whiteknights Park (E),2014-06-21,,Syrphidae,Sphaerophoria scripta,m,,29+30 in cop
 25,30,Whiteknights Park (E),2014-06-21,,Syrphidae,Sphaerophoria scripta,f,,29+30 in cop
 25,31,Whiteknights Park (E),2014-06-21,,Syrphidae,Cheilosia sp,f,,
