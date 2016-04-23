@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 119,30,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 119,31,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 119,32,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
-119,33,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+119,33,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 119,34,Whiteknights Park (W),2016-03-12,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 119,35,Whiteknights Park (W),2016-03-12,,Agromyzidae,,f,,
 119,36,Whiteknights Park (W),2016-03-12,,Agromyzidae,,f,,
@@ -47,10 +47,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 119,46,Whiteknights Park (E),2016-03-12,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 119,47,Whiteknights Park (E),2016-03-12,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 119,48,Whiteknights Park (E),2016-03-12,,Drosophilidae,,,,
-119,49,Whiteknights Park (E),2016-03-12,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+119,49,Whiteknights Park (E),2016-03-12,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 119,50,Whiteknights Park (E-FH),2016-03-12,,Anthomyiidae,,m,,
-119,51,Whiteknights Park (E-FH),2016-03-12,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
-119,52,Whiteknights Park (E-FH),2016-03-12,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+119,51,Whiteknights Park (E-FH),2016-03-12,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+119,52,Whiteknights Park (E-FH),2016-03-12,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 119,53,Charvil Meadows,2016-03-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 119,54,Charvil Meadows,2016-03-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 119,55,Charvil Meadows,2016-03-13,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
@@ -64,4 +64,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 119,63,Charvil Meadows,2016-03-13,,Sphaeroceridae,Copromyza stercoraria,f,"Pitkin, 1988",
 119,64,Charvil Meadows,2016-03-13,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 119,65,Charvil Meadows,2016-03-13,,Agromyzidae,,f,,
-119,66,Charvil Meadows,2016-03-13,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+119,66,Charvil Meadows,2016-03-13,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
