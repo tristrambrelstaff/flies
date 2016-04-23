@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-128,1,Whiteknights Park (W),2016-04-23,,Scathophagidae,,f,,
+128,1,Whiteknights Park (W),2016-04-23,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 128,2,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,m,,
 128,3,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,f,,
 128,4,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,f,,
@@ -15,13 +15,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 128,14,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,m,,
 128,15,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,m,,
 128,16,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,f,,
-128,17,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,f,,
-128,18,Whiteknights Park (W),2016-04-23,,Anthomyiidae,,f,,Teneral
+128,17,Whiteknights Park (W),2016-04-23,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
+128,18,Whiteknights Park (W),2016-04-23,,Scathophagidae,Nanna cf fasciata,f,"Ball, 2014",Teneral
 128,19,Whiteknights Park (W),2016-04-23,,Tephritidae,Tephritis neesii,m,,
 128,20,Whiteknights Park (W),2016-04-23,,Tephritidae,Tephritis neesii,m,,
 128,21,Whiteknights Park (W),2016-04-23,,Tephritidae,Tephritis neesii,f,,
 128,22,Whiteknights Park (W),2016-04-23,,Tephritidae,Tephritis neesii,f,,
-128,23,Whiteknights Park (W),2016-04-23,,Lonchopteridae,Lonchoptera sp,m,,
+128,23,Whiteknights Park (W),2016-04-23,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 128,24,Whiteknights Park (W),2016-04-23,,Agromyzidae,,f,,
 128,25,Whiteknights Park (W),2016-04-23,,Chironomidae,,f,,
 128,26,Whiteknights Park (W),2016-04-23,,Chironomidae,,m,,
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 128,28,Whiteknights Park (W),2016-04-23,,Chironomidae,,f,,
 128,29,Whiteknights Park (W),2016-04-23,,Chironomidae,,f,,
 128,30,Whiteknights Park (E-FH),2016-04-23,,Sarcophagidae,Sarcophaga sp,m,,
-128,31,Whiteknights Park (E-FH),2016-04-23,,Fanniidae,Fannia lustrator,f,,
+128,31,Whiteknights Park (E-FH),2016-04-23,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 128,32,Whiteknights Park (E-FH),2016-04-23,,Anthomyiidae,,m,,
 128,33,Whiteknights Park (E-FH),2016-04-23,,Anthomyiidae,,m,,
 128,34,Whiteknights Park (E-FH),2016-04-23,,Anthomyiidae,,f,,
@@ -38,4 +38,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 128,37,Whiteknights Park (E-FH),2016-04-23,,Tephritidae,Tephritis neesii,f,,
 128,38,Whiteknights Park (E-FH),2016-04-23,,Tephritidae,Tephritis neesii,f,,
 128,39,Whiteknights Park (E-FH),2016-04-23,,Anthomyiidae,,f,,
-128,40,Whiteknights Park (E-FH),2016-04-23,,Sphaeroceridae,,m,,
+128,40,Whiteknights Park (E-FH),2016-04-23,,Sphaeroceridae,Spelobia clunipes,m,"Pitkin, 1988",
