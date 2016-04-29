@@ -4,7 +4,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,3,Whiteknights Park (W),2015-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 95,4,Whiteknights Park (W),2015-07-31,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 95,5,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
-95,6,Whiteknights Park (W),2015-07-31,,Sciomyzidae,,f,,
+95,6,Whiteknights Park (W),2015-07-31,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 95,7,Whiteknights Park (W),2015-07-31,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 95,8,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 95,9,Whiteknights Park (W),2015-07-31,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
@@ -22,8 +22,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,21,Chazey Wood,2015-08-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 95,22,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
 95,23,Chazey Wood,2015-08-02,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",Arista hairs shorter than basal diameter
-95,24,Chazey Wood,2015-08-02,,Sciomyzidae,,m,,
-95,25,Chazey Wood,2015-08-02,,Sciomyzidae,Coremacera marginata,m,,
+95,24,Chazey Wood,2015-08-02,,Heleomyzidae,,m,,
+95,25,Chazey Wood,2015-08-02,,Sciomyzidae,Coremacera marginata,m,"Rozkosny, 1984",
 95,26,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
 95,27,Chazey Wood,2015-08-02,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
 95,28,Chazey Wood,2015-08-02,,Tachinidae,Linnaemya picta,m,"Belshaw, 1993 +v5c updates",
