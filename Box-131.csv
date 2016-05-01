@@ -15,12 +15,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 131,14,Whiteknights Park (E-FH),2016-04-30,,Chironomidae,,f,,
 131,15,Whiteknights Park (W),2016-04-30,,Scathophagidae,Scathophaga sp,m,,
 131,16,Whiteknights Park (W),2016-04-30,,Scathophagidae,Scathophaga sp,f,,
-131,17,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia sp,f,,
-131,18,Whiteknights Park (W),2016-04-30,,Muscidae,Eudasyphora cyanella,m,,
-131,19,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia sp,f,,
-131,20,Whiteknights Park (W),2016-04-30,,Calliphoridae,Bellardia sp,f,,
-131,21,Whiteknights Park (W),2016-04-30,,Muscidae,Hydrotaea sp,f,,
-131,22,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia sp,m,,
+131,17,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+131,18,Whiteknights Park (W),2016-04-30,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+131,19,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+131,20,Whiteknights Park (W),2016-04-30,,Calliphoridae,Bellardia cf pandia,f,"Rognes, 1991",
+131,21,Whiteknights Park (W),2016-04-30,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
+131,22,Whiteknights Park (W),2016-04-30,,Muscidae,Phaonia bitincta,m,"Fonseca, 1968",Arista only as wide as 3rd antenna segment
 131,23,Whiteknights Park (W),2016-04-30,,Sarcophagidae,Sarcophaga sp,m,,
 131,24,Whiteknights Park (W),2016-04-30,,Sarcophagidae,Sarcophaga sp,m,,
 131,25,Whiteknights Park (W),2016-04-30,,Sarcophagidae,Sarcophaga sp,f,,
