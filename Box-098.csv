@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 98,1,Whiteknights Park (E),2015-08-09,,Agromyzidae,,f,,
-98,2,Whiteknights Park (E),2015-08-09,,Sphaeroceridae,Rachispoda limosa,f,"Pitkin, 1988",As Leptocera limosa; Has acari mite
+98,2,Whiteknights Park (E),2015-08-09,,Sphaeroceridae,Rachispoda limosa,f,"Pitkin, 1988",As Leptocera limosa; Has Acari mite
 98,3,Whiteknights Park (E-FH),2015-08-09,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
 98,4,Whiteknights Park (E-FH),2015-08-09,,Sarcophagidae,Sarcophaga sp,m,,
 98,5,Whiteknights Park (E-FH),2015-08-09,,Syrphidae,Cheilosia sp,m,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 98,40,Chazey Wood,2015-08-15,,Tachinidae,Phryxe cf vulgaris,f,"Belshaw, 1993 +v5c updates",
 98,41,Chazey Wood,2015-08-15,,Anthomyiidae,,f,,
 98,42,Chazey Wood,2015-08-15,,Anthomyiidae,,m,,
-98,43,Chazey Wood,2015-08-15,,Rhinophoridae,,f,,Has acari mite
+98,43,Chazey Wood,2015-08-15,,Rhinophoridae,,f,,Has Acari mite
 98,44,Chazey Wood,2015-08-15,,Rhinophoridae,,f,,
 98,45,Chazey Wood,2015-08-15,,Fanniidae,,m,,
 98,46,Chazey Wood,2015-08-15,,Anthomyiidae,,m,,
