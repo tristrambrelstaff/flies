@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 134,1,Quarry near Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga sp,m,,
-134,2,Quarry near Chazey Wood,2016-05-07,,Calliphoridae,Pollenia sp,m,,02+03 in cop
-134,3,Quarry near Chazey Wood,2016-05-07,,Calliphoridae,Pollenia sp,f,,02+03 in cop
+134,2,Quarry near Chazey Wood,2016-05-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",02+03 in cop
+134,3,Quarry near Chazey Wood,2016-05-07,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",02+03 in cop
 134,4,Quarry near Chazey Wood,2016-05-07,,Fanniidae,,m,,
 134,5,Quarry near Chazey Wood,2016-05-07,,Anthomyiidae,,m,,
 134,6,Quarry near Chazey Wood,2016-05-07,,Anthomyiidae,,m,,
@@ -19,18 +19,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 134,18,Chazey Wood,2016-05-07,,Bibionidae,Bibio marci,f,,
 134,19,Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga sp,m,,
 134,20,Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga sp,m,,
-134,21,Chazey Wood,2016-05-07,,Calliphoridae,Pollenia sp,m,,
-134,22,Chazey Wood,2016-05-07,,Calliphoridae,Pollenia sp,m,,
-134,23,Chazey Wood,2016-05-07,,Calliphoridae,Melinda sp,m,,
+134,21,Chazey Wood,2016-05-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+134,22,Chazey Wood,2016-05-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+134,23,Chazey Wood,2016-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 134,24,Chazey Wood,2016-05-07,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata; Greasy
 134,25,Chazey Wood,2016-05-07,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
-134,26,Chazey Wood,2016-05-07,,Fanniidae,Fannia lustrator,m,,
+134,26,Chazey Wood,2016-05-07,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 134,27,Chazey Wood,2016-05-07,,Syrphidae,Rhingia sp,f,,
 134,28,Chazey Wood,2016-05-07,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 134,29,Chazey Wood,2016-05-07,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
-134,30,Chazey Wood,2016-05-07,,Calliphoridae,Bellardia sp,m,,
-134,31,Chazey Wood,2016-05-07,,Calliphoridae,Bellardia sp,m,,
-134,32,Chazey Wood,2016-05-07,,Calliphoridae,Melinda sp,m,,
+134,30,Chazey Wood,2016-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
+134,31,Chazey Wood,2016-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
+134,32,Chazey Wood,2016-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 134,33,Chazey Wood,2016-05-07,,Anthomyiidae,,f,,
 134,34,Chazey Wood,2016-05-07,,Fanniidae,,f,,
 134,35,Chazey Wood,2016-05-07,,Anthomyiidae,,m,,
