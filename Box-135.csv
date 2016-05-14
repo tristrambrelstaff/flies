@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-135,1,Field West of Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga sp,m,,
+135,1,Field West of Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga carnaria grp,m,,
 135,2,Field West of Chazey Wood,2016-05-07,,Sarcophagidae,Sarcophaga sp,m,,
 135,3,Field West of Chazey Wood,2016-05-07,,Scathophagidae,Scathophaga stercoraria,m,,
 135,4,Field West of Chazey Wood,2016-05-07,,Sciomyzidae,Pherbellia cinerella,m,"Rozkosny, 1984",
@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 135,20,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,,f,,
 135,21,Kings Meadow Tescos,2016-05-07,Hymenoptera,,,,,
 135,22,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,,f,,
-135,23,Kings Meadow Tescos,2016-05-07,,Sarcophagidae,,m,,Not Sarcophaga
+135,23,Kings Meadow Tescos,2016-05-07,,Sarcophagidae,Amobia signata,m,"Pape, 1987",
 135,24,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,,m,,
 135,25,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,,f,,
 135,26,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,,m,,
