@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 137,1,Kings Meadow Tescos,2016-05-15,,Fanniidae,Fannia lustrator,f,,
-137,2,Kings Meadow Tescos,2016-05-15,,Muscidae,Hydrotaea sp,m,,
+137,2,Kings Meadow Tescos,2016-05-15,,Muscidae,Hydrotaea dentipes,m,"Fonseca, 1968",
 137,3,Kings Meadow Tescos,2016-05-15,,Tachinidae,Ocytata pallipes,m,"Belshaw, 1993 +v5c updates",
 137,4,Kings Meadow Tescos,2016-05-15,,Sarcophagidae,,m,,
 137,5,Kings Meadow Tescos,2016-05-15,,Fanniidae,,f,,
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 137,17,Kings Meadow Tescos,2016-05-15,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
 137,18,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,,m,,
 137,19,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,,f,,
-137,20,Kings Meadow Tescos,2016-05-15,,Muscidae,,f,,
+137,20,Kings Meadow Tescos,2016-05-15,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 137,21,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,,m,,
 137,22,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
 137,23,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
@@ -26,15 +26,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 137,25,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
 137,26,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
 137,27,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
-137,28,Kings Meadow Tescos,2016-05-15,,Muscidae,Coenosia sp,f,,
+137,28,Kings Meadow Tescos,2016-05-15,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 137,29,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
-137,30,Kings Meadow Tescos,2016-05-15,,Muscidae,,f,,
+137,30,Kings Meadow Tescos,2016-05-15,,Muscidae,Hydrotaea cinerea,f,"Fonseca, 1968",
 137,31,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
 137,32,Kings Meadow Tescos,2016-05-15,,Fanniidae,,f,,
 137,33,Kings Meadow Tescos,2016-05-15,,Fanniidae,,f,,
 137,34,Kings Meadow Tescos,2016-05-15,,Tachinidae,Medina collaris,f,"Belshaw, 1993 +v5c updates",
 137,35,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
 137,36,Kings Meadow Tescos,2016-05-15,,Dolichopodidae,Rhaphium sp,m,,
-137,37,Kings Meadow Tescos,2016-05-15,,Muscidae,Coenosia sp,m,,
+137,37,Kings Meadow Tescos,2016-05-15,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia alleni
 137,38,Kings Meadow Tescos,2016-05-15,,Agromyzidae,,f,,
 137,39,Kings Meadow Tescos,2016-05-15,,Chaoboridae,,f,,
