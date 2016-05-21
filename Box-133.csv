@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 133,1,The Wilderness (W),2016-05-02, ,Anthomyiidae,,f,,
 133,2,The Wilderness (W),2016-05-02,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow
-133,3,The Wilderness (W),2016-05-02,,Scathophagidae,Nanna sp,f,,
+133,3,The Wilderness (W),2016-05-02,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",Greasy
 133,4,The Wilderness (W),2016-05-02,,Stratiomyidae,Beris sp,m,,
 133,5,The Wilderness (W),2016-05-02,,Ephydridae,,f,,
 133,6,The Wilderness (W),2016-05-02,,Ephydridae,,m,,
@@ -18,9 +18,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 133,17,The Wilderness (W),2016-05-02,,Agromyzidae,,f,,
 133,18,The Wilderness (W),2016-05-02,,Drosophilidae,,f,,
 133,19,The Wilderness (W),2016-05-02,,Mycetophilidae,,m,,
-133,20,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna sp,f,,
+133,20,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna inermis,f,"Ball, 2014",
 133,21,Whiteknights Park (E-FH),2016-05-05,,Anthomyiidae,,f,,
-133,22,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna sp,m,,
+133,22,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna inermis,m,"Ball, 2014",
 133,23,Whiteknights Park (E-FH),2016-05-05,,Empididae,Empis sp,f,,
 133,24,Whiteknights Park (E-FH),2016-05-05,,Empididae,Empis sp,m,,
 133,25,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
@@ -28,12 +28,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 133,27,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 133,28,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 133,29,Whiteknights Park (E-FH),2016-05-05,,Anthomyiidae,,f,,
-133,30,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna sp,f,,
+133,30,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 133,31,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,,
 133,32,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,,
 133,33,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,,33+34 in cop
 133,34,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,,33+34 in cop
-133,35,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna sp,f,,
+133,35,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 133,36,Whiteknights Park (E-FH),2016-05-05,,???,,,,
 133,37,Whiteknights Park (E-FH),2016-05-05,,Chironomidae,,m,,
 133,38,Whiteknights Park (E-FH),2016-05-05,,Chaoboridae,,m,,Antennae missing
