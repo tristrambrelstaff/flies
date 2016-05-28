@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-12,1,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs and Falk, 2002",
-12,2,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs and Falk, 2002",
-12,3,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs and Falk, 2002",
+12,1,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs & Falk, 2002",
+12,2,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs & Falk, 2002",
+12,3,Chazey Wood,2014-05-04,,Syrphidae,Brachyopa scutellaris,m,"Stubbs & Falk, 2002",
 12,4,Chazey Wood,2014-05-04,,Syrphidae,Baccha elongata,f,,
 12,5,Chazey Wood,2014-05-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 12,6,Chazey Wood,2014-05-04,,Syrphidae,,,,
@@ -52,4 +52,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 12,52,The Wilderness,2014-05-05,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 12,53,The Wilderness,2014-05-05,,Syrphidae,,,,
 12,54,The Wilderness,2014-05-05,,Syrphidae,,,,
-12,55,The Wilderness,2014-05-05,,Syrphidae,Brachypalpus laphriformis,m,"Stubbs and Falk, 2002",
+12,55,The Wilderness,2014-05-05,,Syrphidae,Brachypalpus laphriformis,m,"Stubbs & Falk, 2002",
