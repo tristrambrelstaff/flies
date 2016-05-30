@@ -36,9 +36,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 139,35,Kings Meadow Tescos,2016-05-22,,Fanniidae,,f,,
 139,36,Kings Meadow Tescos,2016-05-22,,???,,f,,Muscoidea; Wings damaged
 139,37,Kings Meadow Tescos,2016-05-22,,Fanniidae,,f,,
-139,38,Kings Meadow Tescos,2016-05-22,,Tachinidae,Triarthria setipennis,m,,"Belshaw, 1993 +v5c updates"
-139,39,Kings Meadow Tescos,2016-05-22,,Tachinidae,Phasia barbifrons,m,,"Belshaw, 1993 +v5c updates"
-139,40,Kings Meadow Tescos,2016-05-22,,Calliphoridae,Melanomya nana,m,,"Rognes, 1991"
+139,38,Kings Meadow Tescos,2016-05-22,,Tachinidae,Triarthria setipennis,m,"Belshaw, 1993 +v5c updates",
+139,39,Kings Meadow Tescos,2016-05-22,,Tachinidae,Phasia barbifrons,m,"Belshaw, 1993 +v5c updates",
+139,40,Kings Meadow Tescos,2016-05-22,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 139,41,Kings Meadow Tescos,2016-05-22,,Platypezidae,,m,,
 139,42,Kings Meadow Tescos,2016-05-22,,Pipunculidae,,m,,
 139,43,Kings Meadow Tescos,2016-05-22,,Fanniidae,,f,,
@@ -78,7 +78,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 139,77,Kings Meadow Tescos,2016-05-22,,Muscidae,Coenosia sp,m,,
 139,78,Kings Meadow Tescos,2016-05-22,,Agromyzidae,,m,,
 139,79,Whiteknights Park (W),2016-05-27,,Scathophagidae,Scathophaga stercoraria,f,,
-139,80,Whiteknights Park (W),2016-05-27,,Tachinidae,Tachina fera,f,,
+139,80,Whiteknights Park (W),2016-05-27,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 139,81,Whiteknights Park (W),2016-05-27,,Empididae,Empis sp,m,,
 139,82,Whiteknights Park (W),2016-05-27,,Empididae,Empis sp,m,,
 139,83,Whiteknights Park (W),2016-05-27,,Rhagionidae,Chrysopilus cristatus,m,,
