@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,12,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,m,"Family: Oosterbroek, 2006",
 54,13,Whiteknights Park (W),2014-11-01,,Anthomyiidae,,f,"Family: Oosterbroek, 2006",
 54,14,Whiteknights Park (W),2014-11-01,,Opomyzidae,,f,"Family: Oosterbroek, 2006",
-54,15,Whiteknights Park (W),2014-11-01,,Lonchopteridae,,f,"Family: Oosterbroek, 2006",
+54,15,Whiteknights Park (W),2014-11-01,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 54,16,Malvern Court,2014-11-22,,Lauxaniidae,,m,"Family: Oosterbroek, 2006",
 54,17,Whiteknights Park (W),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,18,Whiteknights Park (E),2014-11-29,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
@@ -21,19 +21,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,20,Whiteknights Park (E),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,21,Whiteknights Park (E),2014-11-29,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 54,22,Whiteknights Park (E),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
-54,23,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera sp,f,,
-54,24,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera sp,m,,
+54,23,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+54,24,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 54,25,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,f,,
 54,26,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,m,,
 54,27,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,f,,
 54,28,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,m,,
 54,29,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,f,,
 54,30,Whiteknights Park (E),2014-11-29,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
-54,31,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera sp,f,,
+54,31,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 54,32,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,m,"Kurina et al, 2011; Family: Oosterbroek, 2006",
 54,33,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,f,"Kurina et al, 2011; Family: Oosterbroek, 2006",
 54,34,Whiteknights Park (E),2014-11-29,,Mycetophilidae,Greenomyia mongolica,m,"Kurina et al, 2011; Family: Oosterbroek, 2006",
-54,35,Whiteknights Park (W),2014-11-30,,Lonchopteridae,Lonchoptera sp,m,,
+54,35,Whiteknights Park (W),2014-11-30,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 54,36,Whiteknights Park (W),2014-11-30,,Anthomyiidae,,m,,
 54,37,Whiteknights Park (W),2014-11-30,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 54,38,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
