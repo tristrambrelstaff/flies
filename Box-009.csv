@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-9,1,Field below Chazey Wood,2014-04-21,,Bibionidae,Bibio sp,m,,
+9,1,Field below Chazey Wood,2014-04-21,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 9,2,Field below Chazey Wood,2014-04-21,Megaloptera,Sialidae,Sialis sp,,,
 9,3,Field below Chazey Wood,2014-04-21,,Syrphidae,,,,
 9,4,Field below Chazey Wood,2014-04-21,,Fanniidae,,m,,
@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 9,21,Whiteknights Park,2014-04-26,,Tachinidae,Macquartia dispar,f,"Belshaw, 1993 +v5c updates",
 9,22,Whiteknights Park,2014-04-26,,Dolichopodidae,,,,
 9,23,Whiteknights Park,2014-04-26,,Dolichopodidae,,,,
-9,24,Whiteknights Park,2014-04-26,,Bibionidae,Bibio lanigerus,m,,
+9,24,Whiteknights Park,2014-04-26,,Bibionidae,Bibio lanigerus,m,"Freeman & Lane, 1985",
 9,25,Whiteknights Park,2014-04-26,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 9,26,Whiteknights Park,2014-04-26,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 9,27,Whiteknights Park,2014-04-26,,Tachinidae,Macquartia dispar,m,"Belshaw, 1993 +v5c updates",
