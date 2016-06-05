@@ -4,16 +4,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 140,3,Whiteknights Park (W),2016-05-27,,Muscidae,,m,,
 140,4,Whiteknights Park (W),2016-05-27,,Muscidae,,m,,
 140,5,Whiteknights Park (W),2016-05-27,,Anthomyiidae,Anthomyia procellaris grp,m,,
-140,6,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,,
-140,7,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,,
+140,6,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+140,7,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 140,8,Whiteknights Park (W),2016-05-27,,Anthomyiidae,,m,,
 140,9,Whiteknights Park (W),2016-05-27,,Anthomyiidae,,f,,
-140,10,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,m,,
-140,11,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,m,,
+140,10,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+140,11,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 140,12,Whiteknights Park (W),2016-05-27,,Dolichopodidae,,f,,
 140,13,Whiteknights Park (W),2016-05-27,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
 140,14,Whiteknights Park (W),2016-05-27,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
-140,15,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,,
+140,15,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 140,16,Whiteknights Park (W),2016-05-27,,Anthomyiidae,Anthomyia procellaris grp,m,,
 140,17,Whiteknights Park (W),2016-05-27,,Fanniidae,,m,,
 140,18,Whiteknights Park (W),2016-05-27,,Anthomyiidae,,f,,
@@ -47,11 +47,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 140,46,Whiteknights Park (E-FH),2016-05-27,,Empididae,Empis sp,f,,
 140,47,Whiteknights Park (E-FH),2016-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 140,48,Whiteknights Park (E-FH),2016-05-27,,Muscidae,,f,,
-140,49,Whiteknights Park (E-FH),2016-05-27,,Muscidae,,m,,
+140,49,Whiteknights Park (E-FH),2016-05-27,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 140,50,Whiteknights Park (E-FH),2016-05-27,,Rhagionidae,Chrysopilus cristatus,m,,
 140,51,Whiteknights Park (E-FH),2016-05-27,,Rhagionidae,Chrysopilus cristatus,f,,
 140,52,Whiteknights Park (E-FH),2016-05-27,,Anthomyiidae,,f,,
-140,53,Whiteknights Park (E-FH),2016-05-27,,Muscidae,Coenosia tigrina,f,,
+140,53,Whiteknights Park (E-FH),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 140,54,Whiteknights Park (E-FH),2016-05-27,,Anthomyiidae,,m,,
 140,55,Whiteknights Park (E-FH),2016-05-27,,Lauxaniidae,Minettia sp,,,
 140,56,Whiteknights Park (E-FH),2016-05-27,,Lauxaniidae,Minettia sp,,,
