@@ -22,9 +22,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 143,21,Kings Meadow Tescos,2016-06-05,,Muscidae,,f,,
 143,22,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
 143,23,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
-143,24,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,,f,,
-143,25,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,,m,,
-143,26,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,,m,,
+143,24,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",Aristae missing
+143,25,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
+143,26,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
 143,27,Kings Meadow Tescos,2016-06-05,,Tephritidae,Tephritis sp,m,,
 143,28,Kings Meadow Tescos,2016-06-05,,Tephritidae,Tephritis sp,m,,
 143,29,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
