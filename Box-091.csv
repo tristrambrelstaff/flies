@@ -11,13 +11,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,10,Field below Chazey Wood,2015-07-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 91,11,Field below Chazey Wood,2015-07-11,,Anthomyiidae,,m,,
 91,12,Field below Chazey Wood,2015-07-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
-91,13,Field West of Chazey Wood,2015-07-11,,Asilidae,,f,,
+91,13,Field West of Chazey Wood,2015-07-11,,Asilidae,Machimus rusticus,f,"Stubbs & Drake, 2001",Antennae damaged
 91,14,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,cf Blaesoxipha plumicornis,m,"Pape, 1987",
 91,15,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,,m,,
 91,16,Field West of Chazey Wood,2015-07-11,,Sarcophagidae,,m,,
 91,17,Field West of Chazey Wood,2015-07-11,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
 91,18,Chazey Wood,2015-07-11,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,,
-91,19,Chazey Wood,2015-07-11,,Asilidae,,,,
+91,19,Chazey Wood,2015-07-11,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",Thorax greasy
 91,20,Chazey Wood,2015-07-11,,Syrphidae,Chrysotoxum bicinctum,m,,
 91,21,Chazey Wood,2015-07-11,,Sarcophagidae,Sarcophaga sp,m,,
 91,22,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 91,24,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,25,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,26,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-91,27,Chazey Wood,2015-07-11,,Asilidae,Dioctria sp,f,,
+91,27,Chazey Wood,2015-07-11,,Asilidae,Dioctria baumhaueri,f,"Stubbs & Drake, 2001",
 91,28,Chazey Wood,2015-07-11,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 91,29,Chazey Wood,2015-07-11,,Syrphidae,Cheilosia sp,m,,
 91,30,Chazey Wood,2015-07-11,,Sarcophagidae,,f,,
