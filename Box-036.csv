@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-36,1,Chazey Wood,2014-07-27,,Asilidae,,m,,
+36,1,Chazey Wood,2014-07-27,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 36,2,Chazey Wood,2014-07-27,,Syrphidae,Eristalis sp,m,,
 36,3,Chazey Wood,2014-07-27,,Tachinidae,Eurithia caesia,m,"Belshaw, 1993 +v5c updates",ID needs checking
 36,4,Chazey Wood,2014-07-27,,Tachinidae,Eurithia caesia,m,"Belshaw, 1993 +v5c updates",ID needs checking
@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 36,10,Chazey Wood,2014-07-27,,Syrphidae,Cheilosia sp,m,,
 36,11,Chazey Wood,2014-07-27,,Syrphidae,Eristalis sp,f,,
 36,12,Chazey Wood,2014-07-27,,Syrphidae,Cheilosia sp,m,,
-36,13,Chazey Wood,2014-07-27,,Asilidae,,m,,13+14 in cop
-36,14,Chazey Wood,2014-07-27,,Asilidae,,f,,13+14 in cop
+36,13,Chazey Wood,2014-07-27,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",13+14 in cop
+36,14,Chazey Wood,2014-07-27,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",13+14 in cop
 36,15,Chazey Wood,2014-07-27,,Tachinidae,Phryxe nemea,m,"Belshaw, 1993 +v5c updates",
 36,16,Chazey Wood,2014-07-27,,Tachinidae,Phryxe nemea,m,"Belshaw, 1993 +v5c updates",
 36,17,Chazey Wood,2014-07-27,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
