@@ -5,16 +5,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 59,4,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 59,5,Whiteknights Park (E),2015-04-07,,Anthomyiidae,Leucophora sp,m,,Greasy abdomen
 59,6,Whiteknights Park (E),2015-04-07,,Anthomyiidae,Leucophora sp,f,,Greasy
-59,7,Whiteknights Park (E),2015-04-07,,Bibionidae,Bibio sp,m,,
+59,7,Whiteknights Park (E),2015-04-07,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 59,8,Whiteknights Park (E),2015-04-07,,Anthomyiidae,,m,,
 59,9,Whiteknights Park (E-FH),2015-04-07,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 59,10,Whiteknights Park (E-FH),2015-04-07,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 59,11,Whiteknights Park (E-FH),2015-04-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 59,12,Whiteknights Park (E-FH),2015-04-07,,Anthomyiidae,,m,,
 59,13,Whiteknights Park (E-FH),2015-04-07,,Anthomyiidae,,f,,
-59,14,Whiteknights Park (E-FH),2015-04-07,,Lonchopteridae,Lonchoptera sp,,,
-59,15,Whiteknights Park (E-FH),2015-04-07,,Bibionidae,Bibio sp,m,,
-59,16,Whiteknights Park (E),2015-04-07,,Lonchopteridae,Lonchoptera sp,m,,
+59,14,Whiteknights Park (E-FH),2015-04-07,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+59,15,Whiteknights Park (E-FH),2015-04-07,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+59,16,Whiteknights Park (E),2015-04-07,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 59,17,Whiteknights Park (E),2015-04-07,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 59,18,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia fuscata,m,"Fonseca, 1968",
 59,19,Whiteknights Park (E),2015-04-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
