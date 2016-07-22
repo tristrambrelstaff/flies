@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 149,8,Kings Meadow Tescos,2016-06-19,,Dolichopodidae,,f,,
 149,9,Kings Meadow Tescos,2016-06-19,,Dolichopodidae,,f,,
 149,10,Kings Meadow Tescos,2016-06-19,,Dolichopodidae,,f,,
-149,11,Kings Meadow Tescos,2016-06-19,,Stratiomyidae,Beris sp,m,,
+149,11,Kings Meadow Tescos,2016-06-19,,Stratiomyidae,Beris morrisii,m,"Stubbs & Drake, 2001",
 149,12,Kings Meadow Tescos,2016-06-19,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 149,13,Kings Meadow Tescos,2016-06-19,,Anthomyiidae,Anthomyia procellaris grp,m,,
 149,14,Kings Meadow Tescos,2016-06-19,,Anthomyiidae,,m,,
@@ -69,7 +69,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 149,68,Kings Road Gardens,2016-06-25,,Tephritidae,,m,,
 149,69,Kings Road Gardens,2016-06-25,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 149,70,Kings Road Gardens,2016-06-25,,Sarcophagidae,,f,,
-149,71,Kings Road Gardens,2016-06-25,,Stratiomyidae,Chloromyia formosa,m,,
+149,71,Kings Road Gardens,2016-06-25,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
 149,72,Kings Road Gardens,2016-06-25,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 149,73,Kings Road Gardens,2016-06-25,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 149,74,Kings Road Gardens,2016-06-25,,Sciomyzidae,Pherbellia cinerella,m,"Rozkosny, 1984",
