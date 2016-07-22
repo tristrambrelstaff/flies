@@ -61,9 +61,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,60,The Wilderness (E-FH),2016-07-10,,Tephritidae,Urophora sp,f,,
 157,61,The Wilderness (E-FH),2016-07-10,,Tephritidae,Urophora sp,m,,61+62 in cop
 157,62,The Wilderness (E-FH),2016-07-10,,Tephritidae,Urophora sp,f,,61+62 in cop
-157,63,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,,m,,
-157,64,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,,m,,
-157,65,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,,f,,
+157,63,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
+157,64,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,Euthycera chaerophylli ,m,"Rozkosny, 1984",
+157,65,The Wilderness (E-FH),2016-07-10,,Sciomyzidae,Pherbina coryleti,f,"Rozkosny, 1984",
 157,66,The Wilderness (E-FH),2016-07-10,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 157,67,The Wilderness (E-FH),2016-07-10,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 157,68,The Wilderness (E-FH),2016-07-10,,Tachinidae,Drino lota,f,"Belshaw, 1993 +v5c updates",
