@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 81,1,Whiteknights Park (NW),2015-06-13,,Syrphidae,Leucozona laternaria,m,,
 81,2,Whiteknights Park (NW),2015-06-13,,Syrphidae,Melanostoma sp,f,,
-81,3,Whiteknights Park (NW),2015-06-13,,Stratiomyidae,Chloromyia formosa,f,,
-81,4,Whiteknights Park (NW),2015-06-13,,Stratiomyidae,Beris sp,m,,
+81,3,Whiteknights Park (NW),2015-06-13,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
+81,4,Whiteknights Park (NW),2015-06-13,,Stratiomyidae,Beris geniculata,m,"Stubbs & Drake, 2001",
 81,5,Whiteknights Park (NW),2015-06-13,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
 81,6,Whiteknights Park (NW),2015-06-13,,Dolichopodidae,,m,,
 81,7,Whiteknights Park (NW),2015-06-13,,Dolichopodidae,,f,,

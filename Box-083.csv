@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,6,The Wilderness (W),2015-06-26,,Dolichopodidae,,f,,
 83,7,The Wilderness (W),2015-06-26,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 83,8,The Wilderness (W),2015-06-26,,Muscidae,Phaonia scutellata,f,"Fonseca, 1968",
-83,9,The Wilderness (W),2015-06-26,,Tabanidae,Haematopota pluvialis,f,,Wings damaged
+83,9,The Wilderness (W),2015-06-26,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",Wings damaged
 83,10,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 83,11,The Wilderness (W),2015-06-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 83,12,The Wilderness (W),2015-06-26,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
@@ -37,13 +37,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 83,36,Whiteknights Park (E),2015-06-26,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
 83,37,Whiteknights Park (E),2015-06-26,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 83,38,Whiteknights Park (E),2015-06-26,,Sarcophagidae,,m,,
-83,39,Whiteknights Park (E),2015-06-26,,Rhagionidae,Rhagio sp,m,,
+83,39,Whiteknights Park (E),2015-06-26,,Rhagionidae,Rhagio tringarius,m,"Stubbs & Drake, 2001",
 83,40,Whiteknights Park (E),2015-06-26,,Anthomyiidae,,f,,
 83,41,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 83,42,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 83,43,Whiteknights Park (E),2015-06-26,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 83,44,Whiteknights Park (E),2015-06-26,,Anthomyiidae,,m,,
-83,45,Whiteknights Park (E),2015-06-26,,Stratiomyidae,Chloromyia formosa,m,,
+83,45,Whiteknights Park (E),2015-06-26,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
 83,46,Whiteknights Park (E),2015-06-26,,Syrphidae,Sphaerophoria sp,m,,
 83,47,Whiteknights Park (E),2015-06-26,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
 83,48,Whiteknights Park (E),2015-06-26,,Empididae,Empis sp,m,,48+49 in cop

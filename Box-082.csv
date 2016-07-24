@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 82,5,Whiteknights Park (NW),2015-06-19,,Syrphidae,Eupeodes sp,f,,
 82,6,Whiteknights Park (NW),2015-06-19,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
 82,7,Whiteknights Park (NW),2015-06-19,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
-82,8,Whiteknights Park (NW),2015-06-19,,Stratiomyidae,Chloromyia formosa,f,,
+82,8,Whiteknights Park (NW),2015-06-19,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
 82,9,Whiteknights Park (NW),2015-06-19,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 82,10,Whiteknights Park (NW),2015-06-19,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 82,11,Whiteknights Park (NW),2015-06-19,,Tachinidae,Platymya fimbriata,m,"Belshaw, 1993 +v5c updates",
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 82,29,Whiteknights Park (NW),2015-06-19,,Lauxaniidae,Minettia longipennis,f,,
 82,30,Whiteknights Park (NW),2015-06-19,,Empididae,Empis lutea,f,,
 82,31,Whiteknights Park (NW),2015-06-19,,Dolichopodidae,,m,,
-82,32,Whiteknights Park (E-FH),2015-06-19,,Stratiomyidae,Oplodontha viridula,m,,
+82,32,Whiteknights Park (E-FH),2015-06-19,,Stratiomyidae,Oplodontha viridula,m,"Stubbs & Drake, 2001",
 82,33,Whiteknights Park (E-FH),2015-06-19,,Scathophagidae,Norellisoma spinimanum,m,"Ball, 2014",
 82,34,Whiteknights Park (E-FH),2015-06-19,,Anthomyiidae,,f,,
 82,35,Whiteknights Park (E-FH),2015-06-19,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina

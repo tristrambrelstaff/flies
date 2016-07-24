@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-86,1,Highcliff,2015-06-29,,Rhagionidae,Rhagio sp,m,,
+86,1,Highcliff,2015-06-29,,Rhagionidae,Rhagio scolopaceus,m,"Stubbs & Drake, 2001",
 86,2,Highcliff,2015-06-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 86,3,Highcliff,2015-06-29,,Empididae,Empis sp,m,,
 86,4,Highcliff,2015-06-29,,Muscidae,Phaonia incana,f,"Fonseca, 1968",
@@ -21,8 +21,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 86,20,Highcliff,2015-06-29,,Scathophagidae,Scathophaga stercoraria,,"Ball, 2014",
 86,21,Highcliff,2015-06-29,,Syrphidae,Platycheirus rosarum,m,,
 86,22,Highcliff,2015-06-29,,Syrphidae,,f,,
-86,23,Codhill Slack,2015-06-29,,Rhagionidae,Rhagio sp,m,,
-86,24,Codhill Slack,2015-06-29,,Rhagionidae,Rhagio sp,m,,
+86,23,Codhill Slack,2015-06-29,,Rhagionidae,Rhagio scolopaceus,m,"Stubbs & Drake, 2001",
+86,24,Codhill Slack,2015-06-29,,Rhagionidae,Rhagio scolopaceus,m,"Stubbs & Drake, 2001",
 86,25,Codhill Slack,2015-06-29,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 86,26,Codhill Slack,2015-06-29,,Muscidae,Helina obscurata,f,"Fonseca, 1968",
 86,27,Codhill Slack,2015-06-29,,Muscidae,Helina obscurata,m,"Fonseca, 1968",
