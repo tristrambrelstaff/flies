@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-159,1,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-159,2,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,f,,
+159,1,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga cf crassimargo,m,"Pape, 1987",As Helicophagella crassimargo
+159,2,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",As Discachaeta pumila
 159,3,Whiteknights Park (W),2016-07-16,,Tachinidae,Dufouria nigrita,m,"Belshaw, 1993 +v5c updates",
 159,4,Whiteknights Park (W),2016-07-16,,Tachinidae,Cyrtophleba ruricola,m,"Belshaw, 1993 +v5c updates",Middle leg glued on
 159,5,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-159,6,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-159,7,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-159,8,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-159,9,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga sp,m,,
+159,6,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+159,7,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+159,8,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+159,9,Whiteknights Park (W),2016-07-16,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",As Heteronychia depressifrons
 159,10,Whiteknights Park (W),2016-07-16,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 159,11,Whiteknights Park (W),2016-07-16,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 159,12,Whiteknights Park (W),2016-07-16,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
