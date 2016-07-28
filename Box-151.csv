@@ -12,9 +12,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 151,11,Kings Meadow Tescos,2016-06-26,,Anthomyiidae,,f,,
 151,12,Kings Meadow Tescos,2016-06-26,,Anthomyiidae,,m,,
 151,13,Kings Meadow Tescos,2016-06-26,,Muscidae,Helina latitarsis,m,"Fonseca, 1968",Wings darkened
-151,14,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,,m,,
-151,15,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,,m,,
-151,16,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,,m,,
+151,14,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,Sarcophaga cf depressifrons,m,"Pape, 1987",As Heteronychia depressifrons
+151,15,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,Sarcophaga cf depressifrons,m,"Pape, 1987",As Heteronychia depressifrons
+151,16,Kings Meadow Tescos,2016-06-26,,Sarcophagidae,Sarcophaga cf depressifrons,m,"Pape, 1987",As Heteronychia depressifrons;Postgenal hairs mostly black
 151,17,Kings Meadow Tescos,2016-06-26,,Anthomyiidae,,m,,
 151,18,Kings Meadow Tescos,2016-06-26,,Anthomyiidae,,m,,
 151,19,Kings Meadow Tescos,2016-06-26,,Anthomyiidae,Anthomyia procellaris grp,m,,

@@ -9,15 +9,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,8,Chazey Wood,2016-07-02,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 153,9,Chazey Wood,2016-07-02,,Muscidae,,f,,
 153,10,Chazey Wood,2016-07-02,,Muscidae,Morellia sp,f,,
-153,11,Chazey Wood,2016-07-02,,Sarcophagidae,,m,,
+153,11,Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
 153,12,Chazey Wood,2016-07-02,,Dolichopodidae,,m,,
 153,13,Chazey Wood,2016-07-02,,Dolichopodidae,,f,,
 153,14,Chazey Wood,2016-07-02,,Dolichopodidae,,f,,
 153,15,Chazey Wood,2016-07-02,,Dolichopodidae,,f,,
 153,16,Chazey Wood,2016-07-02,,Empididae,Empis sp,f,,
 153,17,Chazey Wood,2016-07-02,,Muscidae,,m,,
-153,18,Chazey Wood,2016-07-02,,Sarcophagidae,,m,,
-153,19,Chazey Wood,2016-07-02,,Sarcophagidae,,m,,
+153,18,Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+153,19,Chazey Wood,2016-07-02,,Tachinidae,,m,,
 153,20,Chazey Wood,2016-07-02,,Calliphoridae,Bellardia pandia,m,"Rognes, 1991",
 153,21,Chazey Wood,2016-07-02,,Anthomyiidae,Pegomya sp,m,,
 153,22,Chazey Wood,2016-07-02,,Anthomyiidae,,f,,
@@ -64,7 +64,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,63,Field West of Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
 153,64,Field West of Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
 153,65,Field West of Chazey Wood,2016-07-02,,Muscidae,Hebecnema sp,m,,
-153,66,Field West of Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga sp,m,,
+153,66,Field West of Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 153,67,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 153,68,Field West of Chazey Wood,2016-07-02,,Tachinidae,Meigenia sp,m,"Belshaw, 1993 +v5c updates",Abdomen glued on
 153,69,Field West of Chazey Wood,2016-07-02,,Tachinidae,Meigenia mutabilis,m,"Belshaw, 1993 +v5c updates",
