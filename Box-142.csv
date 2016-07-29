@@ -11,10 +11,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 142,10,Whiteknights Park (E),2016-05-29,,Syrphidae,Melanogaster sp,f,,
 142,11,Whiteknights Park (E),2016-05-29,,Anthomyiidae,Anthomyia procellaris grp,m,,
 142,12,Whiteknights Park (E),2016-05-29,,Anthomyiidae,,f,,
-142,13,Whiteknights Park (E),2016-05-29,,Sarcophagidae,Nyctia halterata,m,,
+142,13,Whiteknights Park (E),2016-05-29,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 142,14,Whiteknights Park (E),2016-05-29,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened
 142,15,Whiteknights Park (E),2016-05-29,,Anthomyiidae,,m,,
-142,16,Whiteknights Park (E),2016-05-29,,Sarcophagidae,,m,,
+142,16,Whiteknights Park (E),2016-05-29,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",As Heteronychia depressifrons
 142,17,Whiteknights Park (E),2016-05-29,,Anthomyiidae,,m,,
 142,18,Whiteknights Park (E),2016-05-29,,Anthomyiidae,,m,,
 142,19,Whiteknights Park (E),2016-05-29,,Anthomyiidae,,m,,
@@ -30,8 +30,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 142,29,Whiteknights Park (E),2016-05-29,,Dolichopodidae,,f,,
 142,30,Whiteknights Park (E),2016-05-29,,Agromyzidae,,,,
 142,31,Whiteknights Park (E),2016-05-29,,Sepsidae,,,,
-142,32,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,32+33 in cop
-142,33,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,f,,32+33 in cop
+142,32,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",32+33 in cop; As Heteronychia depressifrons
+142,33,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga depressifrons,f,"Pape, 1987",32+33 in cop; As Heteronychia depressifrons
 142,34,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
 142,35,Kings Meadow Tescos,2016-06-05,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 142,36,Kings Meadow Tescos,2016-06-05,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 142,46,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,f,,
 142,47,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
 142,48,Kings Meadow Tescos,2016-06-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-142,49,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,,m,,
+142,49,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",
 142,50,Kings Meadow Tescos,2016-06-05,,Muscidae,,m,,
 142,51,Kings Meadow Tescos,2016-06-05,,Muscidae,,m,,
 142,52,Kings Meadow Tescos,2016-06-05,,Muscidae,,m,,

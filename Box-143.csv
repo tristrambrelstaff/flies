@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-143,1,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
+143,1,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
 143,2,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,f,,
 143,3,Kings Meadow Tescos,2016-06-05,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 143,4,Kings Meadow Tescos,2016-06-05,,Muscidae,,m,,
@@ -18,9 +18,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 143,17,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
 143,18,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
 143,19,Kings Meadow Tescos,2016-06-05,,Dolichopodidae,,f,,
-143,20,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Metopia sp?,f,,
+143,20,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Oebalia cylindrica,f,"Pape, 1987",
 143,21,Kings Meadow Tescos,2016-06-05,,Muscidae,,f,,
-143,22,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga sp,m,,
+143,22,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 143,23,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
 143,24,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",Aristae missing
 143,25,Kings Meadow Tescos,2016-06-05,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
@@ -33,9 +33,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 143,32,Kings Meadow Tescos,2016-06-05,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 143,33,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
 143,34,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
-143,35,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,,m,,
+143,35,Kings Meadow Tescos,2016-06-05,,Tachinidae,Billaea irrorata,m,"Belshaw, 1993 +v5c updates",
 143,36,Kings Meadow Tescos,2016-06-05,,Syrphidae,,f,,
-143,37,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,,f,,
+143,37,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,Sarcophagidae depressifrons,f,"Pape, 1987",As Heteronychia depressifrons
 143,38,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,f,,
 143,39,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,Anthomyia procellaris grp,m,,
 143,40,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
@@ -54,7 +54,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 143,53,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,Anthomyia procellaris grp,m,,
 143,54,Kings Meadow Tescos,2016-06-05,,Fanniidae,,m,,
 143,55,Kings Meadow Tescos,2016-06-05,,Tachinidae,Ocytata pallipes,m,"Belshaw, 1993 +v5c updates",
-143,56,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,,,,
+143,56,Kings Meadow Tescos,2016-06-05,,Sarcophagidae,,m,,
 143,57,Kings Meadow Tescos,2016-06-05,,Anthomyiidae,,m,,
 143,58,Kings Meadow Tescos,2016-06-05,,Lauxaniidae,Minettia sp,,,
 143,59,Kings Meadow Tescos,2016-06-05,,Dolichopodidae,,f,,
