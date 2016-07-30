@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-148,1,Whiteknights Park (W),2016-06-17,,Sarcophagidae,Sarcophaga sp,m,,
-148,2,Whiteknights Park (W),2016-06-17,,Sarcophagidae,Sarcophaga sp,m,,
+148,1,Whiteknights Park (W),2016-06-17,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+148,2,Whiteknights Park (W),2016-06-17,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
 148,3,Whiteknights Park (W),2016-06-17,,Anthomyiidae,,f,,
 148,4,Whiteknights Park (W),2016-06-17,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 148,5,Whiteknights Park (W),2016-06-17,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 148,52,Kings Meadow Tescos,2016-06-19,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 148,53,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,Sarcophaga sp,f,,
 148,54,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,Sarcophaga sp,m,,
-148,55,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,Sarcophaga sp,m,,
+148,55,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,Sarcophaga sp,m,,Abdomen glued on
 148,56,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,Sarcophaga sp,f,,
 148,57,Kings Meadow Tescos,2016-06-19,,Sarcophagidae,,f,,
 148,58,Kings Meadow Tescos,2016-06-19,,Muscidae,Hydrotaea dentipes,m,"Fonseca, 1968",
