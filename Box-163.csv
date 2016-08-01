@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 163,1,Kings Road Gardens,2016-07-30,,Syrphidae,Eristalis sp,f,,
-163,2,Kings Road Gardens,2016-07-30,,Tabanidae,Haematopota pluvialis,f,,
+163,2,Kings Road Gardens,2016-07-30,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 163,3,Kings Road Gardens,2016-07-30,,Calliphoridae,Calliphora vicina,m,,
 163,4,Kings Road Gardens,2016-07-30,,Calliphoridae,Calliphora vicina,f,,
 163,5,Kings Road Gardens,2016-07-30,,Calliphoridae,Pollenia pediculata,m,,
@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 163,13,Kings Road Gardens,2016-07-30,,Rhinophoridae,Rhinophora lepida,f,,
 163,14,Kings Road Gardens,2016-07-30,,Lauxaniidae,Minettia sp,,,
 163,15,Kings Meadow Tescos,2016-07-31,,Calliphoridae,Calliphora vomitoria,m,,
-163,16,Kings Meadow Tescos,2016-07-31,,Tabanidae,Chrysops relictus,f,,
-163,17,Kings Meadow Tescos,2016-07-31,,Tabanidae,Chrysops relictus,f,,
+163,16,Kings Meadow Tescos,2016-07-31,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
+163,17,Kings Meadow Tescos,2016-07-31,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 163,18,Kings Meadow Tescos,2016-07-31,,Calliphoridae,Lucilia sericata,f,,
 163,19,Kings Meadow Tescos,2016-07-31,,Calliphoridae,Lucilia sericata,f,,
 163,20,Kings Meadow Tescos,2016-07-31,,Calliphoridae,Lucilia sericata,m,,
