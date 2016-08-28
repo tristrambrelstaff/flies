@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 170,1,Beck Field,2016-08-20,,Calliphoridae,Lucilia sp,f,,
-170,2,Beck Field,2016-08-20,,Tachinidae,,f,,
+170,2,Beck Field,2016-08-20,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 170,3,Beck Field,2016-08-20,,Muscidae,,f,,
 170,4,Beck Field,2016-08-20,,Muscidae,,f,,
 170,5,Beck Field,2016-08-20,,Sarcophagidae,,m,,
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 170,29,Above Hutton Village,2016-08-21,,Calliphoridae,Calliphora vicina,m,,
 170,30,Above Hutton Village,2016-08-21,,Muscidae,,f,,
 170,31,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga sp,m,,
-170,32,Above Hutton Village,2016-08-21,,Tachinidae,Voria ruralis,f,,
+170,32,Above Hutton Village,2016-08-21,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 170,33,Above Hutton Village,2016-08-21,,Muscidae,Eudasyphora cyanella,f,,
 170,34,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga sp,f,,
 170,35,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga sp,m,,
