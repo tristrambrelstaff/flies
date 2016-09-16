@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-174,1,Roseberry Common,2016-08-23,,Calliphoridae,Cynomya mortuorum,m,,
-174,2,Roseberry Common,2016-08-23,,Calliphoridae,Calliphora vomitoria,m,,
+174,1,Roseberry Common,2016-08-23,,Calliphoridae,Cynomya mortuorum,m,"Rognes, 1991",
+174,2,Roseberry Common,2016-08-23,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 174,3,Roseberry Common,2016-08-23,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
-174,4,Roseberry Common,2016-08-23,,Calliphoridae,Melinda sp,f,,
+174,4,Roseberry Common,2016-08-23,,Calliphoridae,Protophormia terraenovae,f,"Rognes, 1991",
 174,5,Roseberry Common,2016-08-23,,Muscidae,Orthellia sp,f,,
 174,6,Roseberry Common,2016-08-23,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
 174,7,Roseberry Common,2016-08-23,,Tachinidae,Linnaemya vulpina,m,"Belshaw, 1993 +v5c updates",Left mid and hind legs missing
@@ -32,8 +32,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 174,31,Roseberry Common,2016-08-23,,Fanniidae,,m,,
 174,32,Roseberry Common,2016-08-23,,Anthomyiidae,Botanophila striolata,m,"Ackland draft keys, 2012 & 2015",As Botanophila striolata & Botanophila discreta
 174,33,Roseberry Common,2016-08-23,,Muscidae,,m,,
-174,34,Roseberry Common,2016-08-23,,Calliphoridae,Pollenia sp,m,,
-174,35,Roseberry Common,2016-08-23,,Calliphoridae,Pollenia sp,m,,
+174,34,Roseberry Common,2016-08-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+174,35,Roseberry Common,2016-08-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 174,36,Roseberry Common,2016-08-23,,Muscidae,,m,,
 174,37,Roseberry Common,2016-08-23,,Anthomyiidae,Botanophila striolata,m,"Ackland draft keys, 2012 & 2015",As Botanophila striolata & Botanophila discreta
 174,38,Roseberry Common,2016-08-23,,Tachinidae,Siphona cristata,m,"Belshaw, 1993 +v5c updates",
