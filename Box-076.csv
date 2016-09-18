@@ -14,12 +14,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,13,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 76,14,Whiteknights Park (W),2015-05-30,,Fanniidae,,m,,
 76,15,Whiteknights Park (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-76,16,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+76,16,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 76,17,Whiteknights Park (W),2015-05-30,,Anthomyiidae,,f,,
 76,18,Whiteknights Park (W),2015-05-30,,Tachinidae,Dufouria nigrita,m,"Belshaw, 1993 +v5c updates",
 76,19,Whiteknights Park (W),2015-05-30,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",
 76,20,Whiteknights Park (W),2015-05-30,,Tachinidae,Cyrtophleba ruricola,f,"Belshaw, 1993 +v5c updates",
-76,21,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+76,21,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii; Has 3-4 postsutural dorsocentral bristles
 76,22,Whiteknights Park (W),2015-05-30,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 76,23,Whiteknights Park (W),2015-05-30,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 76,24,Whiteknights Park (W),2015-05-30,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
@@ -55,9 +55,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 76,54,The Wilderness (W),2015-05-30,,Muscidae,Hydrotaea similis,f,"Fonseca, 1968",
 76,55,The Wilderness (W),2015-05-30,,Muscidae,Phaonia serva,f,"Fonseca, 1968",
 76,56,The Wilderness (W),2015-05-30,,Syrphidae,Xanthogramma sp,m,,
-76,57,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+76,57,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 76,58,The Wilderness (W),2015-05-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 76,59,The Wilderness (W),2015-05-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-76,60,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-76,61,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+76,60,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
+76,61,The Wilderness (W),2015-05-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 76,62,The Wilderness (W),2015-05-30,,Anthomyiidae,,f,,

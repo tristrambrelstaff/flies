@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-67,1,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+67,1,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 67,2,Chazey Wood,2015-05-09,,Anthomyiidae,,m,,
 67,3,Chazey Wood,2015-05-09,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; 1 mid and 1 hind leg missing
 67,4,Chazey Wood,2015-05-09,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 67,10,Chazey Wood,2015-05-09,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 67,11,Chazey Wood,2015-05-09,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 67,12,Chazey Wood,2015-05-09,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
-67,13,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+67,13,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 67,14,Chazey Wood,2015-05-09,,Agromyzidae,,f,,
 67,15,Chazey Wood,2015-05-09,,Agromyzidae,,m,,
 67,16,Chazey Wood,2015-05-09,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
@@ -43,7 +43,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 67,42,Chazey Wood,2015-05-09,,Dolichopodidae,Argyra sp,m,,
 67,43,Chazey Wood,2015-05-09,,Dolichopodidae,Rhaphium sp,m,,
 67,44,Chazey Wood,2015-05-09,,Calliphoridae,Bellardia cf vulgaris,m,"Rognes, 1991",Fore tibiae with no posteroventral bristles
-67,45,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+67,45,Chazey Wood,2015-05-09,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 67,46,Chazey Wood,2015-05-09,,Muscidae,Hydrotaea meteorica,m,"Fonseca, 1968",
 67,47,Chazey Wood,2015-05-09,,Anthomyiidae,,f,,
 67,48,Chazey Wood,2015-05-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",

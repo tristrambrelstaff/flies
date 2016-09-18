@@ -22,10 +22,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 55,21,The Wilderness (E),2015-01-11,,Anthomyiidae,,,,
 55,22,The Wilderness (E),2015-01-11,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
 55,23,The Wilderness (E),2015-01-11,,Calliphoridae,Calliphora vomitoria,f,"Rognes, 1991",
-55,24,The Wilderness (E),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+55,24,The Wilderness (E),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 55,25,The Wilderness (E),2015-01-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata; Mid tibia has 3 posterior bristles
 55,26,The Wilderness (E),2015-01-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-55,27,The Wilderness (W),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+55,27,The Wilderness (W),2015-01-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii; Has 4 postsutural dorsocentral bristles
 55,28,The Wilderness (W),2015-01-11,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 55,29,The Wilderness (W),2015-01-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 55,30,Field below Chazey Wood,2015-02-08,,Anthomyiidae,,m,,

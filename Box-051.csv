@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,17,Whiteknights Park (E),2014-10-05,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 51,18,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 51,19,Whiteknights Park (E),2014-10-05,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
-51,20,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+51,20,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 51,21,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 51,22,Whiteknights Park (E),2014-10-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 51,23,Whiteknights Park (E),2014-10-05,,Anthomyiidae,,m,,
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,32,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 51,33,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 51,34,Dinton Pastures,2014-10-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
-51,35,Dinton Pastures,2014-10-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+51,35,Dinton Pastures,2014-10-11,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 51,36,Dinton Pastures,2014-10-11,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 51,37,Dinton Pastures,2014-10-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 51,38,Dinton Pastures,2014-10-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
