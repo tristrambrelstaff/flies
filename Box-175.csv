@@ -21,14 +21,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 175,20,Saltburn beach,2016-08-23,,Anthomyiidae,Fucellia fucorum,f,"Ackland draft keys, 2012 & 2015",With Acari mite
 175,21,Saltburn beach,2016-08-23,,Anthomyiidae,Fucellia fucorum,f,"Ackland draft keys, 2012 & 2015",
 175,22,Saltburn beach,2016-08-23,,Anthomyiidae,Fucellia fucorum,m,"Ackland draft keys, 2012 & 2015",
-175,23,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia sp,f,,
+175,23,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 175,24,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",24+25 in cop
 175,25,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",24+25 in cop
 175,26,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Lucilia ampullacea,m,"Rognes, 1991",
 175,27,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 175,28,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-175,29,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia agromyzina,m,,
-175,30,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia agromyzina,m,,
+175,29,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
+175,30,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
 175,31,Kings Meadow Tescos,2016-09-03,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
 175,32,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
 175,33,Kings Meadow Tescos,2016-09-03,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
@@ -41,20 +41,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 175,40,Kings Meadow Tescos,2016-09-03,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
 175,41,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Hylemya partita,f,"Ackland draft keys, 2012 & 2015",
 175,42,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Hylemya variata,f,"Ackland draft keys, 2012 & 2015",
-175,43,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia tigrina,f,,
+175,43,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 175,44,Kings Meadow Tescos,2016-09-03,,Opomyzidae,Opomyza sp,m,,
 175,45,Kings Meadow Tescos,2016-09-03,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
 175,46,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Delia platura,f,"Ackland draft keys, 2012 & 2015",
 175,47,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Delia platura,f,"Ackland draft keys, 2012 & 2015",
-175,48,Kings Meadow Tescos,2016-09-03,,Muscidae,,f,,
+175,48,Kings Meadow Tescos,2016-09-03,,Fanniidae,,f,,
 175,49,Kings Meadow Tescos,2016-09-03,,Lauxaniidae,Minettia sp,f,,
 175,50,Kings Meadow Tescos,2016-09-03,,Lauxaniidae,Minettia sp,m,,
 175,51,Kings Meadow Tescos,2016-09-03,,Lauxaniidae,Minettia sp,m,,
 175,52,Kings Meadow Tescos,2016-09-03,,Fanniidae,,m,,
 175,53,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Botanophila striolata,m,"Ackland draft keys, 2012 & 2015",As Botanophila striolata or Botanophila discreta
-175,54,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia sp,f,,
+175,54,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 175,55,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Botanophila striolata,m,"Ackland draft keys, 2012 & 2015",As Botanophila striolata or Botanophila discreta
-175,56,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia sp,f,,
+175,56,Kings Meadow Tescos,2016-09-03,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 175,57,Kings Meadow Tescos,2016-09-03,,Anthomyiidae,Hylemya sp,f,"Ackland draft keys, 2012 & 2015",As Hylemya vagans or Hylemya nigrimana
 175,58,Kings Meadow Tescos,2016-09-03,,Sarcophagidae,,f,,
 175,59,Kings Meadow Tescos,2016-09-03,,Sarcophagidae,Sarcophaga sp,m,,
