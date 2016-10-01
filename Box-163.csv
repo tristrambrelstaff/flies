@@ -4,10 +4,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 163,3,Kings Road Gardens,2016-07-30,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 163,4,Kings Road Gardens,2016-07-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 163,5,Kings Road Gardens,2016-07-30,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
-163,6,Kings Road Gardens,2016-07-30,,Muscidae,,f,,
-163,7,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,f,,
-163,8,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,f,,
-163,9,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,m,,
+163,6,Kings Road Gardens,2016-07-30,,Muscidae,Helina setiventris,f,"Fonseca, 1968",
+163,7,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+163,8,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+163,9,Kings Road Gardens,2016-07-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 163,10,Kings Road Gardens,2016-07-30,,Syrphidae,Syritta pipiens,m,,
 163,11,Kings Road Gardens,2016-07-30,,Fanniidae,,m,,
 163,12,Kings Road Gardens,2016-07-30,,Anthomyiidae,,m,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 163,33,Kings Meadow Tescos,2016-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 163,34,Kings Meadow Tescos,2016-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 163,35,Kings Meadow Tescos,2016-07-31,,Sarcophagidae,Sarcophaga sp,m,,
-163,36,Kings Meadow Tescos,2016-07-31,,Muscidae,Muscina levida,m,,
+163,36,Kings Meadow Tescos,2016-07-31,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 163,37,Kings Meadow Tescos,2016-07-31,,Anthomyiidae,,m,,
 163,38,Kings Meadow Tescos,2016-07-31,,Anthomyiidae,,m,,
 163,39,Kings Meadow Tescos,2016-07-31,,Anthomyiidae,Anthomyia procellaris grp,m,,
