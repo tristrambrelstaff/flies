@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 167,5,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 167,6,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 167,7,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-167,8,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Muscina prolapsa,f,,
+167,8,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 167,9,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 167,10,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 167,11,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
@@ -30,19 +30,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 167,29,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 167,30,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 167,31,Whiteknights Park (E-FH),2016-07-13,,Sarcophagidae,Sarcophaga cf nigriventris,m,"Pape, 1987",As Pierretia nigriventris
-167,32,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,33,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,34,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,35,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,36,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,37,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,,
-167,38,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,39,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,,
-167,40,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,,
-167,41,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,42,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,,
-167,43,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,,
-167,44,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,,
+167,32,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,33,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,34,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,35,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,36,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,37,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+167,38,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,39,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+167,40,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+167,41,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,42,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+167,43,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+167,44,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 167,45,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,,f,,
 167,46,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,,m,,
 167,47,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,Anthomyia procellaris grp,m,,
@@ -50,5 +50,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 167,49,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,,m,,
 167,50,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,,f,,
 167,51,Whiteknights Park (E-FH),2016-07-13,,Anthomyiidae,,m,,
-167,52,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia sp,f,,
-167,53,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Hebecnema sp,m,,
+167,52,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Coenosia intermedia,f,"Fonseca, 1968",
+167,53,Whiteknights Park (E-FH),2016-07-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened; Hind tibiae have 2 anteroventral bristles
