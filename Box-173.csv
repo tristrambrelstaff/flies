@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 173,1,Below Hangingstone,2016-08-21,,Syrphidae,Xylota segnis,m,,
 173,2,Below Hangingstone,2016-08-21,,Rhagionidae,Rhagio sp,f,,
-173,3,Below Hangingstone,2016-08-21,,Muscidae,Graphomya maculata,f,,
-173,4,Below Hangingstone,2016-08-21,,Muscidae,,f,,
-173,5,Below Hangingstone,2016-08-21,,Muscidae,,f,,
+173,3,Below Hangingstone,2016-08-21,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
+173,4,Below Hangingstone,2016-08-21,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+173,5,Below Hangingstone,2016-08-21,,Muscidae,Mydaea orthonevra,f,"Fonseca, 1968",As Mydaea detrita
 173,6,Below Hangingstone,2016-08-21,,Anthomyiidae,,m,,
-173,7,Below Hangingstone,2016-08-21,,Muscidae,Eudasyphora cyanicolor,f,,
+173,7,Below Hangingstone,2016-08-21,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
 173,8,Below Hangingstone,2016-08-21,,Dolichopodidae,,m,,
 173,9,Below Hangingstone,2016-08-21,,Dolichopodidae,,m,,
 173,10,Below Hangingstone,2016-08-21,,Dolichopodidae,Argyra sp,m,,
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 173,17,Below Hangingstone,2016-08-21,,Dolichopodidae,,m,,
 173,18,Below Hangingstone,2016-08-21,,Dolichopodidae,,f,,
 173,19,Below Hangingstone,2016-08-21,,Dolichopodidae,,f,,
-173,20,Below Hangingstone,2016-08-21,,Muscidae,Morellia sp,f,,
+173,20,Below Hangingstone,2016-08-21,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 173,21,Below Hangingstone,2016-08-21,,Anthomyiidae,,m,,
 173,22,Below Hangingstone,2016-08-21,,Anthomyiidae,,m,,
 173,23,Below Hangingstone,2016-08-21,,Anthomyiidae,,m,,
@@ -42,11 +42,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 173,41,Below Hangingstone,2016-08-21,,Phoridae,,,,
 173,42,Below Hangingstone,2016-08-21,,Sphaeroceridae,Limosininae,f,"Pitkin, 1988",
 173,43,Below Hangingstone,2016-08-21,Ixodida,Ixodidae,Ixodes ricinus,,,
-173,44,Below Hangingstone,2016-08-23,,Muscidae,,f,,
-173,45,Below Hangingstone,2016-08-23,,Muscidae,,f,,
-173,46,Below Hangingstone,2016-08-23,,Muscidae,,f,,
-173,47,Below Hangingstone,2016-08-23,,Muscidae,,f,,Greasy
-173,48,Below Hangingstone,2016-08-23,,Muscidae,,f,,
+173,44,Below Hangingstone,2016-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+173,45,Below Hangingstone,2016-08-23,,Muscidae,Mydaea urbana,f,"Fonseca, 1968",
+173,46,Below Hangingstone,2016-08-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+173,47,Below Hangingstone,2016-08-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",Greasy
+173,48,Below Hangingstone,2016-08-23,,Muscidae,Paonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 173,49,Below Hangingstone,2016-08-23,,Dryomyzidae,Dryomyza anilis,m,,
 173,50,Below Hangingstone,2016-08-23,,Dryomyzidae,Dryomyza anilis,m,,
 173,51,Below Hangingstone,2016-08-23,,Muscidae,Limnophora sp,f,,
