@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 170,1,Beck Field,2016-08-20,,Calliphoridae,Lucilia cf caesar,f,"Rognes, 1991",
 170,2,Beck Field,2016-08-20,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
-170,3,Beck Field,2016-08-20,,Muscidae,,f,,
-170,4,Beck Field,2016-08-20,,Muscidae,,f,,
+170,3,Beck Field,2016-08-20,,Muscidae,Mydaea urbana,f,"Fonseca, 1968",
+170,4,Beck Field,2016-08-20,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 170,5,Beck Field,2016-08-20,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 170,6,Beck Field,2016-08-20,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
 170,7,Beck Field,2016-08-20,,Muscidae,Eudasyphora cyanicolor,m,"Fonseca, 1968",
@@ -28,21 +28,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 170,27,Above Hutton Village,2016-08-21,,Muscidae,Polietes meridionalis,m,"Fonseca, 1968; Pont & Falk, 2013",
 170,28,Above Hutton Village,2016-08-21,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 170,29,Above Hutton Village,2016-08-21,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-170,30,Above Hutton Village,2016-08-21,,Muscidae,,f,,
+170,30,Above Hutton Village,2016-08-21,,Muscidae,Lophosceles cinereiventris,f,"Fonseca, 1968",
 170,31,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 170,32,Above Hutton Village,2016-08-21,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 170,33,Above Hutton Village,2016-08-21,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",
 170,34,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 170,35,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 170,36,Above Hutton Village,2016-08-21,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
-170,37,Above Hutton Village,2016-08-21,,Muscidae,,m,,
-170,38,Above Hutton Village,2016-08-21,,Muscidae,,m,,
-170,39,Above Hutton Village,2016-08-21,,Muscidae,,m,,
+170,37,Above Hutton Village,2016-08-21,,Muscidae,Mydaea urbana,m,"Fonseca, 1968",
+170,38,Above Hutton Village,2016-08-21,,Muscidae,Mydaea scutellaris,m,"Fonseca, 1968",
+170,39,Above Hutton Village,2016-08-21,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 170,40,Above Hutton Village,2016-08-21,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-170,41,Above Hutton Village,2016-08-21,,Muscidae,,f,,
+170,41,Above Hutton Village,2016-08-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Greasy
 170,42,Above Hutton Village,2016-08-21,,Anthomyiidae,,m,,
-170,43,Above Hutton Village,2016-08-21,,Muscidae,,f,,
-170,44,Above Hutton Village,2016-08-21,,Muscidae,,f,,
+170,43,Above Hutton Village,2016-08-21,,Muscidae,Myospila meditabunda,f,"Fonseca, 1968",
+170,44,Above Hutton Village,2016-08-21,,Muscidae,Lophosceles cinereiventris,f,"Fonseca, 1968",
 170,45,Above Hutton Village,2016-08-21,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres dark; Wings darkened
 170,46,Above Hutton Village,2016-08-21,,Anthomyiidae,,f,,
 170,47,Above Hutton Village,2016-08-21,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
@@ -59,7 +59,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 170,58,Above Hutton Village,2016-08-21,,Fanniidae,,m,,
 170,59,Above Hutton Village,2016-08-21,,Fanniidae,,m,,
 170,60,Highcliff,2016-08-21,,Anthomyiidae,,m,,
-170,61,Highcliff,2016-08-21,,Muscidae,,f,,
+170,61,Highcliff,2016-08-21,,Muscidae,Coenosia intermedia,f,"Fonseca, 1968",
 170,62,Highcliff,2016-08-21,,Anthomyiidae,,f,,
 170,63,Highcliff,2016-08-21,,Anthomyiidae,,m,,
 170,64,Highcliff,2016-08-21,,Anthomyiidae,,m,,

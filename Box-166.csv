@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-166,1,Quarry near Chazey Wood,2016-08-07,,Muscidae,Morellia sp,m,,
+166,1,Quarry near Chazey Wood,2016-08-07,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 166,2,Quarry near Chazey Wood,2016-08-06,,Muscidae,,m,,
 166,3,Quarry near Chazey Wood,2016-08-05,,Anthomyiidae,,f,,
 166,4,Quarry near Chazey Wood,2016-08-04,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",
@@ -26,17 +26,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 166,25,Chazey Wood,2016-0817,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 166,26,Chazey Wood,2016-0818,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 166,27,Chazey Wood,2016-0819,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
-166,28,Chazey Wood,2016-0820,,Muscidae,Morellia sp,m,,
+166,28,Chazey Wood,2016-0820,,Muscidae,Morellia simplex,m,"Fonseca, 1968",
 166,29,Chazey Wood,2016-0821,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 166,30,Chazey Wood,2016-0822,,Sarcophagidae,Sarcophaga rosellei,m,"Pape, 1987",As Helicophagella rosellei
 166,31,Chazey Wood,2016-0823,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987 nor Richet et al, 2011"
 166,32,Chazey Wood,2016-0824,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 166,33,Chazey Wood,2016-0825,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-166,34,Chazey Wood,2016-0826,,Muscidae,Morellia sp,f,,
+166,34,Chazey Wood,2016-0826,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 166,35,Chazey Wood,2016-0827,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 166,36,Chazey Wood,2016-0828,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
-166,37,Chazey Wood,2016-0829,,Muscidae,Graphomya maculata,m,,
-166,38,Chazey Wood,2016-0830,,Muscidae,Musca autumnalis,m,,
+166,37,Chazey Wood,2016-0829,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+166,38,Chazey Wood,2016-0830,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 166,39,Chazey Wood,2016-0831,,Anthomyiidae,,m,,
 166,40,Chazey Wood,2016-0832,,Lauxaniidae,Minettia sp,,,
 166,41,Chazey Wood,2016-0833,,Rhinophoridae,Rhinophora lepida,m,,
@@ -49,8 +49,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 166,48,Field West of Chazey Wood,2016-0840,,Anthomyiidae,,f,,
 166,49,Field West of Chazey Wood,2016-0841,,Anthomyiidae,,m,,
 166,50,Field West of Chazey Wood,2016-0842,,Tachinidae,Phania funesta,,"Belshaw, 1993 +v5c updates",
-166,51,Field West of Chazey Wood,2016-0843,,Muscidae,Coenosia tigrina,m,,
-166,52,Field West of Chazey Wood,2016-0844,,Muscidae,Coenosia tigrina,m,,
+166,51,Field West of Chazey Wood,2016-0843,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+166,52,Field West of Chazey Wood,2016-0844,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 166,53,Field West of Chazey Wood,2016-0845,,Anthomyiidae,,f,,
 166,54,Field West of Chazey Wood,2016-0846,,Anthomyiidae,,f,,
 166,55,Field West of Chazey Wood,2016-0847,,Lauxaniidae,Minettia sp,,,
