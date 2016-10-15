@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,30,Whiteknights Park (W),2016-08-06,,Tabanidae,Haemotopota pluvialis,f,,
 164,31,Whiteknights Park (W),2016-08-06,,Conopidae,,,,
 164,32,Whiteknights Park (W),2016-08-06,,Conopidae,,,,
-164,33,Whiteknights Park (W),2016-08-06,,Muscidae,Morellia sp,m,,
-164,34,Whiteknights Park (W),2016-08-06,,Muscidae,Morellia sp,m,,
+164,33,Whiteknights Park (W),2016-08-06,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+164,34,Whiteknights Park (W),2016-08-06,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 164,35,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 164,36,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 164,37,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
@@ -50,14 +50,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,49,Whiteknights Park (W),2016-08-06,,Rhagionidae,Rhagio lineola,m,,
 164,50,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,f,,
 164,51,Whiteknights Park (W),2016-08-06,,Lauxaniidae,Minettia sp,,,
-164,52,Whiteknights Park (W),2016-08-06,,Muscidae,,m,,
+164,52,Whiteknights Park (W),2016-08-06,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
 164,53,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,m,,
 164,54,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,m,,
 164,55,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,m,,
 164,56,Whiteknights Park (W),2016-08-06,,Dolichopodidae,,f,,
 164,57,Whiteknights Park (W),2016-08-06,,Dolichopodidae,,m,,
-164,58,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia sp,m,,
-164,59,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia sp,f,,
+164,58,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia mollicula,m,"Fonseca, 1968",
+164,59,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 164,60,Whiteknights Park (W),2016-08-06,,Calliphoridae,Melanomya nana,f,"Rognes, 1991",
 164,61,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza sp,f,,
 164,62,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza sp,f,,
