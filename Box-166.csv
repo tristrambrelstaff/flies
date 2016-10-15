@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 166,1,Quarry near Chazey Wood,2016-08-07,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-166,2,Quarry near Chazey Wood,2016-08-06,,Muscidae,,m,,
+166,2,Quarry near Chazey Wood,2016-08-06,,Anthomyiidae,,m,,
 166,3,Quarry near Chazey Wood,2016-08-05,,Anthomyiidae,,f,,
 166,4,Quarry near Chazey Wood,2016-08-04,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",
 166,5,Quarry near Chazey Wood,2016-08-03,,Anthomyiidae,,m,,
@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 166,13,Quarry near Chazey Wood,2016-0805,,Fanniidae,,m,,
 166,14,Quarry near Chazey Wood,2016-0806,,Fanniidae,,f,,
 166,15,Quarry near Chazey Wood,2016-0807,,Fanniidae,,f,,
-166,16,Quarry near Chazey Wood,2016-0808,,Muscidae,Coenosia sp,f,,
-166,17,Quarry near Chazey Wood,2016-0809,,Muscidae,Coenosia sp,m,,
+166,16,Quarry near Chazey Wood,2016-0808,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+166,17,Quarry near Chazey Wood,2016-0809,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 166,18,Quarry near Chazey Wood,2016-0810,,Dolichopodidae,,f,,
 166,19,Quarry near Chazey Wood,2016-0811,,Drosophila,,,,
 166,20,Chazey Wood,2016-0812,,Tachinidae,Eurithia consobrina,m,"Belshaw, 1993 +v5c updates",
