@@ -31,9 +31,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 159,30,Whiteknights Park (W),2016-07-16,,Fanniidae,,f,,
 159,31,Whiteknights Park (W),2016-07-16,,Anthomyiidae,,m,,
 159,32,Whiteknights Park (W),2016-07-16,,Anthomyiidae,Anthomyia procellaris grp,m,,
-159,33,Whiteknights Park (W),2016-07-16,,Muscidae,,f,,
-159,34,Whiteknights Park (W),2016-07-16,,Muscidae,Muscina levida,m,,
-159,35,Whiteknights Park (W),2016-07-16,,Muscidae,Coenosia tigrina,f,,
+159,33,Whiteknights Park (W),2016-07-16,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+159,34,Whiteknights Park (W),2016-07-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+159,35,Whiteknights Park (W),2016-07-16,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 159,36,Whiteknights Park (W),2016-07-16,,Anthomyiidae,,m,,
 159,37,Whiteknights Park (W),2016-07-16,,Anthomyiidae,Anthomyia procellaris grp,m,,
 159,38,Whiteknights Park (W),2016-07-16,,Fanniidae,,m,,
@@ -54,7 +54,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 159,53,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza sp,m,,
 159,54,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza sp,f,,
 159,55,Whiteknights Park (E-FH),2016-07-16,,Dolichopodidae,,m,,
-159,56,Whiteknights Park (E-FH),2016-07-16,,Muscidae,,m,,
+159,56,Whiteknights Park (E-FH),2016-07-16,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 159,57,Whiteknights Park (E-FH),2016-07-16,,Lauxaniidae,Minettia sp,,,
 159,58,Whiteknights Park (E-FH),2016-07-16,,Rhinophoridae,Rhinophora lepida,f,,
 159,59,Whiteknights Park (E-FH),2016-07-16,,Tephritidae,,m,,
