@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,1,Whiteknights Park (E),2014-05-17,,Syrphidae,Xylota segnis,m,"Stubbs & Falk, 2002",
-17,2,Whiteknights Park (E),2014-05-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
+17,2,Whiteknights Park (E),2014-05-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 17,3,Whiteknights Park (E),2014-05-17,,Anthomyiidae,,f,,
 17,4,Whiteknights Park (E),2014-05-17,,Anthomyiidae,,f,,
 17,5,Whiteknights Park (E),2014-05-17,,Anthomyiidae,,f,,
@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,12,Whiteknights Park (W),2014-05-18,,Conopidae,Sicus ferrugineus,m,"Clements, 1995",
 17,13,Whiteknights Park (W),2014-05-18,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
 17,14,Whiteknights Park (W),2014-05-18,,Syrphidae,Episyrphus balteatus,f,"Stubbs & Falk, 2002",
-17,15,Whiteknights Park (W),2014-05-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
+17,15,Whiteknights Park (W),2014-05-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 17,16,Whiteknights Park (W),2014-05-18,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 17,17,Whiteknights Park (W),2014-05-18,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 17,18,Whiteknights Park (W),2014-05-18,,Tephritidae,Chaetorellia jaceae,m,,
@@ -48,5 +48,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,47,Whiteknights Park (E),2014-05-24,,Empididae,Empis sp,f,,
 17,48,Whiteknights Park (E),2014-05-24,,Heleomyzidae,Suillia sp,,,
 17,49,Whiteknights Park (E),2014-05-24,,Sarcophagidae,,,,
-17,50,Whiteknights Park (E),2014-05-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
+17,50,Whiteknights Park (E),2014-05-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 17,51,Whiteknights Park (E),2014-05-24,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
