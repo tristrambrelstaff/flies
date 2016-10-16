@@ -6,12 +6,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,5,The Wilderness (E),2016-07-06,,Asilidae,Leptogaster cylindrica,m,"Stubbs & Drake, 2001",
 157,6,The Wilderness (E),2016-07-06,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
 157,7,The Wilderness (E),2016-07-06,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
-157,8,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,9,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,10,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,11,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,12,The Wilderness (E),2016-07-06,,Muscidae,,f,,
-157,13,The Wilderness (E),2016-07-06,,Muscidae,,f,,
+157,8,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+157,9,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+157,10,The Wilderness (E),2016-07-06,,Muscidae,Helina latitarsis,m,"Fonseca, 1968",
+157,11,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+157,12,The Wilderness (E),2016-07-06,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+157,13,The Wilderness (E),2016-07-06,,Muscidae,Helina setiventris,f,"Fonseca, 1968",
 157,14,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,
 157,15,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,
 157,16,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,

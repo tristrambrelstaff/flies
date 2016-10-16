@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-140,1,Whiteknights Park (W),2016-05-27,,Muscidae,,m,,
+140,1,Whiteknights Park (W),2016-05-27,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 140,2,Whiteknights Park (W),2016-05-27,,Anthomyiidae,,f,,
-140,3,Whiteknights Park (W),2016-05-27,,Muscidae,,m,,
-140,4,Whiteknights Park (W),2016-05-27,,Muscidae,,m,,
+140,3,Whiteknights Park (W),2016-05-27,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+140,4,Whiteknights Park (W),2016-05-27,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 140,5,Whiteknights Park (W),2016-05-27,,Anthomyiidae,Anthomyia procellaris grp,m,,
 140,6,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 140,7,Whiteknights Park (W),2016-05-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 140,45,Whiteknights Park (E-FH),2016-05-27,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 140,46,Whiteknights Park (E-FH),2016-05-27,,Empididae,Empis sp,f,,
 140,47,Whiteknights Park (E-FH),2016-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-140,48,Whiteknights Park (E-FH),2016-05-27,,Muscidae,,f,,
+140,48,Whiteknights Park (E-FH),2016-05-27,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 140,49,Whiteknights Park (E-FH),2016-05-27,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 140,50,Whiteknights Park (E-FH),2016-05-27,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
 140,51,Whiteknights Park (E-FH),2016-05-27,,Rhagionidae,Chrysopilus cristatus,f,"Stubbs & Drake, 2001",
