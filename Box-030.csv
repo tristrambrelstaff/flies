@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 30,21,Field below Chazey Wood,2014-07-12,,Tachinidae,Billaea irrorata,m,"Belshaw, 1993 +v5c updates",
 30,22,Field below Chazey Wood,2014-07-12,,Tachinidae,Phryxe cf vulgaris,m,"Belshaw, 1993 +v5c updates",
 30,23,Field below Chazey Wood,2014-07-12,,Tachinidae,Phryxe cf vulgaris,f,"Belshaw, 1993 +v5c updates",
-30,24,Field below Chazey Wood,2014-07-12,,Tabanidae,Haematopota pluvialis,f,,
+30,24,Field below Chazey Wood,2014-07-12,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 30,25,Field below Chazey Wood,2014-07-12,,Syrphidae,Leucozona sp,,,
 30,26,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
 30,27,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 30,39,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia cf viatica,m,"Rognes, 1991",As Pollenia cf pallida
 30,40,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 30,41,Field below Chazey Wood,2014-07-12,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
-30,42,Field below Chazey Wood,2014-07-12,,Rhagionidae,Chrysopilus asiliformis,f,,
+30,42,Field below Chazey Wood,2014-07-12,,Rhagionidae,Chrysopilus asiliformis,f,"Stubbs & Drake, 2001",
 30,43,Field below Chazey Wood,2014-07-12,,Tachinidae,Billaea irrorata,f,"Belshaw, 1993 +v5c updates",
 30,44,Field below Chazey Wood,2014-07-12,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 30,45,Field below Chazey Wood,2014-07-12,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",

@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-20,1,Whiteknights Park (E),2014-05-31,,Rhagionidae,Rhagio sp,m,,
-20,2,Whiteknights Park (E),2014-05-31,,Rhagionidae,Rhagio sp,m,,
+20,1,Whiteknights Park (E),2014-05-31,,Rhagionidae,Rhagio tringarius,m,"Stubbs & Drake, 2001",
+20,2,Whiteknights Park (E),2014-05-31,,Rhagionidae,Rhagio tringarius,m,"Stubbs & Drake, 2001",
 20,3,Whiteknights Park (E),2014-05-31,,Asilidae,Dioctria atricapilla,f,"Stubbs & Drake, 2001",
 20,4,Whiteknights Park (E),2014-05-31,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 20,5,Whiteknights Park (E),2014-05-31,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",Blue-green
@@ -14,13 +14,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 20,13,Whiteknights Park (W),2014-06-01,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 20,14,Whiteknights Park (W),2014-06-01,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 20,15,Whiteknights Park (W),2014-06-01,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-20,16,Whiteknights Park (W),2014-06-01,,Stratiomyidae,Chloromyia formosa,m,,
+20,16,Whiteknights Park (W),2014-06-01,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
 20,17,Whiteknights Park (W),2014-06-01,,Heleomyzidae,Suillia variegata,,,
 20,18,Whiteknights Park (W),2014-06-01,,Syrphidae,,f,,
 20,19,Whiteknights Park (W),2014-06-01,,Syrphidae,,f,,
 20,20,Whiteknights Park (W),2014-06-01,,Syrphidae,,f,,
 20,21,Whiteknights Park (W),2014-06-01,,Syrphidae,Cheilosia sp,f,,
-20,22,Whiteknights Park (W),2014-06-01,,Rhagionidae,Chrysopilus cristatus,m,,
+20,22,Whiteknights Park (W),2014-06-01,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
 20,23,Whiteknights Park (W),2014-06-01,,Syrphidae,Anasimyia lineata,,,
 20,24,Whiteknights Park (W),2014-06-07,,Tachinidae,Phasia hemiptera,m,"Belshaw, 1993 +v5c updates",
 20,25,Whiteknights Park (W),2014-06-07,,Tachinidae,Phasia hemiptera,f,"Belshaw, 1993 +v5c updates",

@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 25,1,Whiteknights Park (W),2014-06-21,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
 25,2,Whiteknights Park (W),2014-06-21,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
-25,3,Whiteknights Park (W),2014-06-21,,Stratiomyidae,Chloromyia formosa,f,,
+25,3,Whiteknights Park (W),2014-06-21,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
 25,4,Whiteknights Park (W),2014-06-21,,Syrphidae,Cheilosia sp,m,,
 25,5,Whiteknights Park (W),2014-06-21,,Anthomyiidae,Anthomyia sp,m,,
 25,6,Whiteknights Park (W),2014-06-21,,Anthomyiidae,Anthomyia sp,m,,
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 25,24,Whiteknights Park (W),2014-06-21,Hymenoptera,,,f,,
 25,25,Whiteknights Park (E),2014-06-21,,Tephritidae,,,,
 25,26,Whiteknights Park (E),2014-06-21,,Anthomyiidae,,f,,
-25,27,Whiteknights Park (E),2014-06-21,,Tabanidae,Haematopota pluvialis,f,,
+25,27,Whiteknights Park (E),2014-06-21,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 25,28,Whiteknights Park (E),2014-06-21,,Sciomyzidae,Ilione albiseta,,"Rozkosny, 1984",
 25,29,Whiteknights Park (E),2014-06-21,,Syrphidae,Sphaerophoria scripta,m,,29+30 in cop
 25,30,Whiteknights Park (E),2014-06-21,,Syrphidae,Sphaerophoria scripta,f,,29+30 in cop
@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 25,37,Whiteknights Park (W),2014-06-28,,Syrphidae,Episyrphus balteatus,m,,
 25,38,Whiteknights Park (W),2014-06-28,,Syrphidae,Episyrphus balteatus,f,,
 25,39,Whiteknights Park (W),2014-06-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-25,40,Whiteknights Park (W),2014-06-28,,Rhagionidae,Chrysopilus cristatus,m,,
-25,41,Whiteknights Park (W),2014-06-28,,Rhagionidae,Chrysopilus cristatus,f,,
+25,40,Whiteknights Park (W),2014-06-28,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
+25,41,Whiteknights Park (W),2014-06-28,,Rhagionidae,Chrysopilus cristatus,f,"Stubbs & Drake, 2001",
 25,42,Whiteknights Park (W),2014-06-28,,Syrphidae,,f,,
 25,43,Whiteknights Park (W),2014-06-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 25,44,Whiteknights Park (W),2014-06-28,,Sarcophagidae,,m,,

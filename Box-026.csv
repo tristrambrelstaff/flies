@@ -37,8 +37,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 26,36,Field below Chazey Wood,2014-06-29,,Dolichopodidae,Poecilobothrus nobilitatus,m,,
 26,37,Field below Chazey Wood,2014-06-29,,Dolichopodidae,,f,,
 26,38,Field below Chazey Wood,2014-06-29,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Has 3 Acari mites
-26,39,Field below Chazey Wood,2014-06-29,,Rhagionidae,Chrysopilus asiliformis,,,
-26,40,Field below Chazey Wood,2014-06-29,,Rhagionidae,Chrysopilus asiliformis,,,
+26,39,Field below Chazey Wood,2014-06-29,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
+26,40,Field below Chazey Wood,2014-06-29,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 26,41,Field below Chazey Wood,2014-06-29,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 26,42,Field below Chazey Wood,2014-06-29,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 26,43,Field below Chazey Wood,2014-06-29,,Anthomyiidae,Anthomyia sp,f,,
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 26,45,Field below Chazey Wood,2014-06-29,,Anthomyiidae,,f,,
 26,46,Field below Chazey Wood,2014-06-29,,Syrphidae,,f,,
 26,47,Field below Chazey Wood,2014-06-29,,Syrphidae,Sphaerophoria sp,f,,
-26,48,Field below Chazey Wood,2014-06-29,,Stratiomyidae,Chloromyia formosa,m,,
+26,48,Field below Chazey Wood,2014-06-29,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
 26,49,Field below Chazey Wood,2014-06-29,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 26,50,Field below Chazey Wood,2014-06-29,,Calliphoridae,Pollenia cf augustigena,m,"Rognes, 1991",Antennae enclosed; Teneral
 26,51,Field below Chazey Wood,2014-06-29,,Sarcophagidae,,,,

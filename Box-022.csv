@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 22,1,Field below Chazey Wood,2014-06-08,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
-22,2,Field below Chazey Wood,2014-06-08,,Tabanidae,Haematopota pluvialis,f,,
+22,2,Field below Chazey Wood,2014-06-08,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 22,3,Field below Chazey Wood,2014-06-08,,Syrphidae,,,,
 22,4,Field below Chazey Wood,2014-06-08,,Syrphidae,,,,
 22,5,Field below Chazey Wood,2014-06-08,,Syrphidae,,,,
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 22,8,Field below Chazey Wood,2014-06-08,,Syrphidae,,,,
 22,9,Field below Chazey Wood,2014-06-08,,Syrphidae,,,,
 22,10,Field below Chazey Wood,2014-06-08,,Empididae,Empis sp,,,
-22,11,Field below Chazey Wood,2014-06-08,,Rhagionidae,Chrysopilus cristatus,m,,
+22,11,Field below Chazey Wood,2014-06-08,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
 22,12,Chazey Wood,2014-06-08,,Tachinidae,Macquartia praefica,m,"Belshaw, 1993 +v5c updates",
 22,13,Chazey Wood,2014-06-08,,Syrphidae,Xylota sylvarum,f,,
 22,14,Chazey Wood,2014-06-08,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
@@ -40,4 +40,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 22,39,Whiteknights Park (W),2014-06-14,,Anthomyiidae,,m,,
 22,40,The Wilderness (W),2014-06-15,,Syrphidae,Sphaerophoria scripta,m,,40+41 in cop
 22,41,The Wilderness (W),2014-06-15,,Syrphidae,Sphaerophoria scripta,f,,40+41 in cop
-22,42,The Wilderness (W),2014-06-15,,Stratiomyidae,,f,,
+22,42,The Wilderness (W),2014-06-15,,Stratiomyidae,Beris vallata,f,"Stubbs & Drake, 2001",

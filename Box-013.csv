@@ -15,8 +15,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 13,14,The Wilderness,2014-05-05,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
 13,15,The Wilderness,2014-05-05,,Syrphidae,Eristalis sp,f,,
 13,16,The Wilderness,2014-05-05,,Syrphidae,Cheilosia sp,f,,
-13,17,The Wilderness,2014-05-05,,Stratiomyidae,,,,
-13,18,The Wilderness,2014-05-05,,Stratiomyidae,,,,
+13,17,The Wilderness,2014-05-05,,Stratiomyidae,Beris chalybata,f,"Stubbs & Drake, 2001",
+13,18,The Wilderness,2014-05-05,,Stratiomyidae,Beris chalybata,f,"Stubbs & Drake, 2001",
 13,19,The Wilderness,2014-05-05,,Syrphidae,Cheilosia sp,f,,
 13,20,The Wilderness,2014-05-05,,Syrphidae,,,,
 13,21,The Wilderness,2014-05-05,,Anthomyiidae,,m,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 13,38,The Wilderness,2014-05-05,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 13,39,The Wilderness,2014-05-05,,Syrphidae,,,,
 13,40,The Wilderness,2014-05-05,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-13,41,The Wilderness,2014-05-05,,Rhagionidae,Rhagio sp,,,
+13,41,The Wilderness,2014-05-05,,Rhagionidae,Rhagio tringarius,m,"Stubbs & Drake, 2001",
 13,42,The Wilderness,2014-05-05,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 13,43,The Wilderness,2014-05-05,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 13,44,The Wilderness,2014-05-05,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
