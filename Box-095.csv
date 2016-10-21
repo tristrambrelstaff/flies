@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,1,Whiteknights Park (W),2015-07-31,,Conopidae,,,,
-95,2,Whiteknights Park (W),2015-07-31,,Tabanidae,Haematopota pluvialis,f,,
+95,2,Whiteknights Park (W),2015-07-31,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 95,3,Whiteknights Park (W),2015-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 95,4,Whiteknights Park (W),2015-07-31,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 95,5,Whiteknights Park (W),2015-07-31,,Anthomyiidae,,m,,
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 95,32,Chazey Wood,2015-08-02,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 95,33,Chazey Wood,2015-08-02,,Sarcophagidae,Sarcophaga sp,f,,
 95,34,Chazey Wood,2015-08-02,,Sarcophagidae,Sarcophaga sp,m,,
-95,35,Chazey Wood,2015-08-02,,Therevidae,Thereva sp,f,,
+95,35,Chazey Wood,2015-08-02,,Therevidae,Thereva nobilitata,f,"Stubbs & Drake, 2001",
 95,36,Chazey Wood,2015-08-02,,Syrphidae,Scaeva pyrastri,m,,
 95,37,Chazey Wood,2015-08-02,,Syrphidae,Chrysotoxum bicinctum,m,,
 95,38,Chazey Wood,2015-08-02,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
