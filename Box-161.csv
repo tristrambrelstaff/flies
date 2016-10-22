@@ -17,9 +17,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,16,Kings Meadow Tescos,2016-07-17,,Chloropidae,Meromyza sp,f,,
 161,17,Kings Meadow Tescos,2016-07-17,,Chloropidae,Meromyza sp,f,,
 161,18,Kings Meadow Tescos,2016-07-17,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
-161,19,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera sp,m,,
-161,20,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera sp,f,,
-161,21,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera sp,f,,
+161,19,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+161,20,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+161,21,Kings Meadow Tescos,2016-07-17,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 161,22,Kings Meadow Tescos,2016-07-17,,Dolichopodidae,,f,,
 161,23,Kings Meadow Tescos,2016-07-17,,Dolichopodidae,,f,,Has Acari mite
 161,24,Whiteknights Park (W),2016-07-23,,Syrphidae,Eristalis sp,m,,
