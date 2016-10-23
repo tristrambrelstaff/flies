@@ -4,11 +4,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,3,Chazey Wood,2016-07-02,,Anthomyiidae,,f,,
 153,4,Chazey Wood,2016-07-02,,Calliphoridae,Bellardia cf pandia,m,"Rognes, 1991",
 153,5,Chazey Wood,2016-07-02,,Rhinophoridae,Rhinophora lepida,m,,
-153,6,Chazey Wood,2016-07-02,,Muscidae,,m,,
+153,6,Chazey Wood,2016-07-02,,Muscidae,Helina setiventris,m,"Fonseca, 1968",
 153,7,Chazey Wood,2016-07-02,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 153,8,Chazey Wood,2016-07-02,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-153,9,Chazey Wood,2016-07-02,,Muscidae,,f,,
-153,10,Chazey Wood,2016-07-02,,Muscidae,Morellia sp,f,,
+153,9,Chazey Wood,2016-07-02,,Muscidae,Helina sp,f,,
+153,10,Chazey Wood,2016-07-02,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 153,11,Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
 153,12,Chazey Wood,2016-07-02,,Dolichopodidae,,m,,
 153,13,Chazey Wood,2016-07-02,,Dolichopodidae,,f,,
@@ -40,8 +40,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,39,Chazey Wood,2016-07-02,,Drosophilidae,,,,
 153,40,Chazey Wood,2016-07-02,,Anthomyiidae,,f,,
 153,41,Chazey Wood,2016-07-02,,Fanniidae,,m,,
-153,42,Chazey Wood,2016-07-02,,Muscidae,Hebecnema sp,m,,
-153,43,Chazey Wood,2016-07-02,,Muscidae,Hebecnema sp,m,,
+153,42,Chazey Wood,2016-07-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+153,43,Chazey Wood,2016-07-02,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 153,44,Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
 153,45,Chazey Wood,2016-07-02,,Anthomyiidae,,f,,
 153,46,Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
@@ -63,7 +63,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,62,Field West of Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
 153,63,Field West of Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
 153,64,Field West of Chazey Wood,2016-07-02,,Anthomyiidae,,m,,
-153,65,Field West of Chazey Wood,2016-07-02,,Muscidae,Hebecnema sp,m,,
+153,65,Field West of Chazey Wood,2016-07-02,,Muscidae,Hydrotaea armipes,m,"Fonseca, 1968",
 153,66,Field West of Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 153,67,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 153,68,Field West of Chazey Wood,2016-07-02,,Tachinidae,Meigenia sp,m,"Belshaw, 1993 +v5c updates",Abdomen glued on

@@ -1,16 +1,16 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-146,1,Whiteknights Park (E),2016-06-11,,Muscidae,Coenosia tigrina,,,
-146,2,Whiteknights Park (E),2016-06-11,,Muscidae,,m,,
-146,3,Whiteknights Park (E),2016-06-11,,Muscidae,Phaonia subventa,m,,
-146,4,Whiteknights Park (E),2016-06-11,,Muscidae,Eudasyphora cyanella,m,,
-146,5,Whiteknights Park (E),2016-06-11,,Muscidae,,m,,
+146,1,Whiteknights Park (E),2016-06-11,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",
+146,2,Whiteknights Park (E),2016-06-11,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+146,3,Whiteknights Park (E),2016-06-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+146,4,Whiteknights Park (E),2016-06-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+146,5,Whiteknights Park (E),2016-06-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 146,6,Whiteknights Park (E),2016-06-11,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 146,7,Whiteknights Park (E),2016-06-11,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 146,8,Whiteknights Park (E),2016-06-11,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 146,9,Whiteknights Park (E),2016-06-11,,Anthomyiidae,Leucophora sp,m,,
-146,10,Whiteknights Park (E),2016-06-11,,Muscidae,Coenosia tigrina,,,
-146,11,Whiteknights Park (E),2016-06-11,,Muscidae,,m,,
-146,12,Whiteknights Park (E),2016-06-11,,Muscidae,,m,,
+146,10,Whiteknights Park (E),2016-06-11,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+146,11,Whiteknights Park (E),2016-06-11,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+146,12,Whiteknights Park (E),2016-06-11,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 146,13,Whiteknights Park (E),2016-06-11,,Anthomyiidae,Leucophora sp,m,,
 146,14,Whiteknights Park (E),2016-06-11,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 146,15,Whiteknights Park (E),2016-06-11,,Tachinidae,Dufouria chalybeata,f,"Belshaw, 1993 +v5c updates",
@@ -49,7 +49,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 146,48,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,f,,
 146,49,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,m,,
 146,50,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,m,,Orange
-146,51,Whiteknights Park (E),2016-06-11,,Muscidae,,m,,
+146,51,Whiteknights Park (E),2016-06-11,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 146,52,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,m,,
 146,53,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,m,,
 146,54,Whiteknights Park (E),2016-06-11,,Anthomyiidae,,m,,
