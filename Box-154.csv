@@ -10,9 +10,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 154,9,Field West of Chazey Wood,2016-07-02,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 154,10,Field West of Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
 154,11,Field West of Chazey Wood,2016-07-02,,Sarcophagidae,Sarcophaga sp,m,,"Not in Pape, 1987?"
-154,12,Field West of Chazey Wood,2016-07-02,,Muscidae,,f,,
+154,12,Field West of Chazey Wood,2016-07-02,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 154,13,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-154,14,Field West of Chazey Wood,2016-07-02,,Muscidae,,m,,
+154,14,Field West of Chazey Wood,2016-07-02,,Muscidae,Helina depuncta,m,"Fonseca, 1968",
 154,15,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",Head glued on
 154,16,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 154,17,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 154,24,Kings Road Gardens,2016-07-05,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 154,25,Kings Road Gardens,2016-07-05,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 154,26,Kings Road Gardens,2016-07-05,,Tephritidae,Tephritis sp,f,,
-154,27,Kings Road Gardens,2016-07-05,,Muscidae,,m,,
+154,27,Kings Road Gardens,2016-07-05,,Muscidae,Lispe pygmaea,m,"Fonseca, 1968",
 154,28,Kings Road Gardens,2016-07-05,,Anthomyiidae,,m,,
 154,29,Kings Road Gardens,2016-07-05,,Anthomyiidae,,m,,
 154,30,Kings Road Gardens,2016-07-05,,Anthomyiidae,,m,,
@@ -43,10 +43,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 154,42,Kings Road Gardens,2016-07-05,,Chironomidae,,m,,Has Acari mites
 154,43,"Station Road, Reading",2016-07-05,,???,,f,,
 154,44,Whiteknights Park (W),2016-07-06,,Tachinidae,Thelaira nigripes,f,"Belshaw, 1993 +v5c updates",
-154,45,Whiteknights Park (W),2016-07-06,,Muscidae,,f,,
-154,46,Whiteknights Park (W),2016-07-06,,Muscidae,,f,,
-154,47,Whiteknights Park (W),2016-07-06,,Muscidae,,m,,
-154,48,Whiteknights Park (W),2016-07-06,,Muscidae,,m,,
-154,49,Whiteknights Park (W),2016-07-06,,Muscidae,,f,,
-154,50,Whiteknights Park (W),2016-07-06,,Muscidae,,m,,
-154,51,Whiteknights Park (W),2016-07-06,,Muscidae,,f,,
+154,45,Whiteknights Park (W),2016-07-06,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+154,46,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+154,47,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+154,48,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+154,49,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+154,50,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+154,51,Whiteknights Park (W),2016-07-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
