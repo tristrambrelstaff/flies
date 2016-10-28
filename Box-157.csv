@@ -15,14 +15,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,14,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,
 157,15,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,
 157,16,The Wilderness (E),2016-07-06,,Anthomyiidae,Pegomya sp,m,,
-157,17,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,18,The Wilderness (E),2016-07-06,,Muscidae,,f,,
+157,17,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",
+157,18,The Wilderness (E),2016-07-06,,Muscidae,Helina quadrum,f,"Fonseca, 1968",
 157,19,The Wilderness (E),2016-07-06,,Anthomyiidae,,f,,
-157,20,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,21,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,22,The Wilderness (E),2016-07-06,,Muscidae,,m,,
-157,23,The Wilderness (E),2016-07-06,,Muscidae,,f,,
-157,24,The Wilderness (E),2016-07-06,,Muscidae,Eudasyphora cyanicolor,f,,
+157,20,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+157,21,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+157,22,The Wilderness (E),2016-07-06,,Muscidae,Helina quadrum,m,"Fonseca, 1968",
+157,23,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+157,24,The Wilderness (E),2016-07-06,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 157,25,The Wilderness (E),2016-07-06,,Tephritidae,,m,,
 157,26,The Wilderness (E),2016-07-06,,Tephritidae,,m,,
 157,27,The Wilderness (E),2016-07-06,,Chloropidae,Meromyza sp,f,,
@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,44,The Wilderness (E),2016-07-06,,Anthomyiidae,,m,,
 157,45,The Wilderness (E),2016-07-06,,Lauxaniidae,Minettia sp,,,
 157,46,The Wilderness (E),2016-07-06,,Lauxaniidae,Minettia sp,,,
-157,47,The Wilderness (E),2016-07-06,,Muscidae,Hebecnema sp,m,,
+157,47,The Wilderness (E),2016-07-06,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968",As Hebecnema vespertina; Halteres black
 157,48,The Wilderness (E),2016-07-06,,Dolichopodidae,,m,,
 157,49,The Wilderness (E),2016-07-06,,Syrphidae,,f,,
 157,50,The Wilderness (E),2016-07-06,,Syrphidae,,f,,
