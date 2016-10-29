@@ -25,10 +25,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 150,24,Kings Road Gardens,2016-06-25,,Chloropidae,Meromyza sp,m,,
 150,25,Kings Road Gardens,2016-06-25,,Chloropidae,Meromyza sp,f,,
 150,26,Kings Road Gardens,2016-06-25,,Chloropidae,Meromyza sp,f,,
-150,27,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera sp,f,,
-150,28,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera sp,f,,
-150,29,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera sp,f,,
-150,30,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera sp,f,,
+150,27,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+150,28,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+150,29,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+150,30,Kings Road Gardens,2016-06-25,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 150,31,Kings Road Gardens,2016-06-25,,Chironomidae,,m,,Has Acari mites
 150,32,Kings Road Gardens,2016-06-25,,Chironomidae,,f,,Has Acari mites
 150,33,Kings Road Gardens,2016-06-25,,Chironomidae,,f,,Has Acari mites
@@ -58,10 +58,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 150,57,"Oscar Wilde Walk, Reading",2016-06-25,,Opomyzidae,Geomyza sp,f,,
 150,58,"Oscar Wilde Walk, Reading",2016-06-25,,Opomyzidae,Geomyza sp,f,,
 150,59,"Oscar Wilde Walk, Reading",2016-06-25,,Opomyzidae,Geomyza sp,f,,
-150,60,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera sp,m,,
-150,61,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera sp,m,,
-150,62,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera sp,f,,
-150,63,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera sp,m,,
+150,60,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+150,61,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+150,62,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+150,63,"Oscar Wilde Walk, Reading",2016-06-25,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 150,64,"Oscar Wilde Walk, Reading",2016-06-25,,Chironomidae,,f,,Has Acari mites
 150,65,"Oscar Wilde Walk, Reading",2016-06-25,,Chironomidae,,m,,
 150,66,"Oscar Wilde Walk, Reading",2016-06-25,,Chironomidae,,m,,
