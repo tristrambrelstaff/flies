@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 107,1,Chazey Wood,2015-09-01,,Rhagionidae,Rhagio strigosus,m,"Stubbs & Drake, 2001",
 107,2,Chazey Wood,2015-09-01,,Syrphidae,Rhingia campestris,f,,
-107,3,Chazey Wood,2015-09-01,,Dryomyzidae,Dryomyza anilis,,,
-107,4,Chazey Wood,2015-09-01,,Dryomyzidae,Dryomyza anilis,,,
+107,3,Chazey Wood,2015-09-01,,Dryomyzidae,Dryomyza anilis,f,"Shtakelberg, 1989",As Neuroctena anilis
+107,4,Chazey Wood,2015-09-01,,Dryomyzidae,Dryomyza anilis,f,"Shtakelberg, 1989",As Neuroctena anilis
 107,5,Chazey Wood,2015-09-01,,Muscidae,Polietes meridionalis,m,"Pont & Falk, 2013; Genus: Fonseca, 1968",
 107,6,Chazey Wood,2015-09-01,,Sarcophagidae,,m,,
 107,7,Chazey Wood,2015-09-01,,Sarcophagidae,,f,,
