@@ -34,8 +34,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,33,Whiteknights Park (W),2016-07-23,,Anthomyiidae,,m,,
 161,34,Whiteknights Park (W),2016-07-23,,Anthomyiidae,,f,,
 161,35,Whiteknights Park (W),2016-07-23,,Rhinophoridae,Rhinophora lepida,f,,
-161,36,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza sp,f,,
-161,37,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza sp,f,,
+161,36,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
+161,37,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 161,38,Whiteknights Park (W),2016-07-23,,Sepsidae,Sepsis sp,,,
 161,39,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,m,,39+40 in cop
 161,40,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,,39+40 in cop
@@ -58,9 +58,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,57,The Wilderness (W),2016-07-23,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 161,58,The Wilderness (W),2016-07-23,,Anthomyiidae,,m,,
 161,59,The Wilderness (W),2016-07-23,,Tabanidae,Haematopota pluvialis,m,"Stubbs & Drake, 2001",
-161,60,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza sp,f,,
-161,61,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza sp,m,,
-161,62,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza sp,f,,
+161,60,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
+161,61,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza florum,m,"Drake, 1993",
+161,62,The Wilderness (W),2016-07-23,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
 161,63,The Wilderness (W),2016-07-23,,Dolichopodidae,,m,,
 161,64,The Wilderness (W),2016-07-23,,Dolichopodidae,,m,,
 161,65,The Wilderness (W),2016-07-23,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",

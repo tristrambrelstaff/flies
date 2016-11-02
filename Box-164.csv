@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,1,Kings Meadow Tescos,2016-07-31,,Tephritidae,Terellia tussilaginis,m,,
-164,2,Kings Meadow Tescos,2016-07-31,,Opomyzidae,Opomyza sp,f,,
+164,2,Kings Meadow Tescos,2016-07-31,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
 164,3,Kings Meadow Tescos,2016-07-31,,Lauxaniidae,Minettia sp,,,
 164,4,Kings Meadow Tescos,2016-07-31,,Sepsidae,Sepsis sp,,,
 164,5,Kings Meadow Tescos,2016-07-31,,Dolichopodidae,,f,,
@@ -59,5 +59,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,58,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia mollicula,m,"Fonseca, 1968",
 164,59,Whiteknights Park (W),2016-08-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 164,60,Whiteknights Park (W),2016-08-06,,Calliphoridae,Melanomya nana,f,"Rognes, 1991",
-164,61,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza sp,f,,
-164,62,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza sp,f,,
+164,61,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
+164,62,Whiteknights Park (W),2016-08-06,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
