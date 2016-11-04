@@ -5,7 +5,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 120,4,Charvil Country Park,2016-03-13,,Lonchopteridae,Lonchoptera scutellata,m,"Smith, 1969",
 120,5,Charvil Country Park,2016-03-13,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 120,6,Charvil Country Park,2016-03-13,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
-120,7,Whiteknights Park (W),2016-03-17,,Opomyzidae,Geomyza tripunctata,f,,
+120,7,Whiteknights Park (W),2016-03-17,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
 120,8,Whiteknights Park (W),2016-03-17,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 120,9,Whiteknights Park (W),2016-03-17,,Chironomidae,,m,,
 120,10,Whiteknights Park (W),2016-03-17,,Anthomyiidae,,m,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 120,33,Whiteknights Park (W),2016-03-20,,Chironomidae,,f,,
 120,34,Whiteknights Park (W),2016-03-20,,Chironomidae,,f,,
 120,35,Whiteknights Park (W),2016-03-20,,Ephydridae,,,,
-120,36,Whiteknights Park (W),2016-03-20,,Opomyzidae,Geomyza tripunctata,m,,
+120,36,Whiteknights Park (W),2016-03-20,,Opomyzidae,Geomyza tripunctata,m,"Drake, 1993",
 120,37,Whiteknights Park (W),2016-03-20,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 120,38,Whiteknights Park (W),2016-03-20,,Agromyzidae,,f,,
 120,39,Whiteknights Park (W),2016-03-20,,Agromyzidae,,f,,
