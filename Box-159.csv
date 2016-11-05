@@ -50,9 +50,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 159,49,Whiteknights Park (W),2016-07-16,,Dolichopodidae,,f,,
 159,50,Whiteknights Park (W),2016-07-16,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 159,51,Whiteknights Park (W),2016-07-16,,Chloropidae,,f,,
-159,52,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza sp,m,,
-159,53,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza sp,m,,
-159,54,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza sp,f,,
+159,52,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
+159,53,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
+159,54,Whiteknights Park (W),2016-07-16,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 159,55,Whiteknights Park (E-FH),2016-07-16,,Dolichopodidae,,m,,
 159,56,Whiteknights Park (E-FH),2016-07-16,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 159,57,Whiteknights Park (E-FH),2016-07-16,,Lauxaniidae,Minettia sp,,,
