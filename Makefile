@@ -1,4 +1,4 @@
-FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Coelopidae.csv todo.Calliphoridae.csv todo.Dryomyzidae.csv todo.Fannia_lustrator.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Rhagionidae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv
+FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Coelopidae.csv todo.Calliphoridae.csv todo.Dryomyzidae.csv todo.Fannia_lustrator.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv
 
 all: ${FILES}
 
@@ -54,6 +54,9 @@ todo.Opomyzidae.csv: Box-*.csv
 
 todo.Rhagionidae.csv: Box-*.csv
 	- grep Rhagionidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+
+todo.Rhinophoridae.csv: Box-*.csv
+	- grep Rhinophoridae B*csv | grep -v "Falk draft key, 2016" >$@ || true
 
 todo.Sarcophagidae.csv: Box-*.csv
 	- grep Sarcophagidae B*csv | grep -v "Pape, 1987" >$@ || true
