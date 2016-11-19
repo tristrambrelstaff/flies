@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 159,19,Whiteknights Park (W),2016-07-16,,Stratiomyidae,Pachygaster atra,f,"Stubbs & Drake, 2001",
 159,20,Whiteknights Park (W),2016-07-16,,Sepsidae,,,,
 159,21,Whiteknights Park (W),2016-07-16,,Sepsidae,,,,
-159,22,Whiteknights Park (W),2016-07-16,,Tephritidae,,f,,
+159,22,Whiteknights Park (W),2016-07-16,,Tephritidae,Tephritis ruralis,f,"White, 1988",
 159,23,Whiteknights Park (W),2016-07-16,,Dolichopodidae,,m,,
 159,24,Whiteknights Park (W),2016-07-16,,Dolichopodidae,,m,,
 159,25,Whiteknights Park (W),2016-07-16,,Fanniidae,,f,,
@@ -57,7 +57,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 159,56,Whiteknights Park (E-FH),2016-07-16,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 159,57,Whiteknights Park (E-FH),2016-07-16,,Lauxaniidae,Minettia sp,,,
 159,58,Whiteknights Park (E-FH),2016-07-16,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
-159,59,Whiteknights Park (E-FH),2016-07-16,,Tephritidae,,m,,
+159,59,Whiteknights Park (E-FH),2016-07-16,,Tephritidae,Tephritis vespertina,m,"White, 1988",
 159,60,Whiteknights Park (E-FH),2016-07-16,,Anthomyiidae,,f,,
 159,61,Whiteknights Park (E-FH),2016-07-16,,Anthomyiidae,,m,,
 159,62,Whiteknights Park (E-FH),2016-07-16,,Anthomyiidae,,m,,

@@ -23,8 +23,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,22,The Wilderness (E),2016-07-06,,Muscidae,Helina quadrum,m,"Fonseca, 1968",
 157,23,The Wilderness (E),2016-07-06,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 157,24,The Wilderness (E),2016-07-06,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
-157,25,The Wilderness (E),2016-07-06,,Tephritidae,,m,,
-157,26,The Wilderness (E),2016-07-06,,Tephritidae,,m,,
+157,25,The Wilderness (E),2016-07-06,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
+157,26,The Wilderness (E),2016-07-06,,Tephritidae,Tephritis vespertina,m,"White, 1988",
 157,27,The Wilderness (E),2016-07-06,,Chloropidae,Meromyza sp,f,,
 157,28,The Wilderness (E),2016-07-06,,Chloropidae,Meromyza sp,f,,
 157,29,The Wilderness (E),2016-07-06,,Chloropidae,Meromyza sp,f,,
@@ -54,13 +54,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 157,53,Whiteknights Park (E-FH),2016-07-10,,Stratiomyidae,Stratiomys potamida,f,"Stubbs & Drake, 2001",
 157,54,Whiteknights Park (E-FH),2016-07-10,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 157,55,Whiteknights Park (E-FH),2016-07-10,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
-157,56,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Tephritis sp,f,,
-157,57,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,,m,,
-157,58,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,,m,,
-157,59,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,,,,
-157,60,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora sp,f,,
-157,61,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora sp,m,,61+62 in cop
-157,62,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora sp,f,,61+62 in cop
+157,56,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Tephritis formosa,f,"White, 1988",Oviscape black
+157,57,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Euleia heraclei,m,"White, 1988",As Euleia heracleii
+157,58,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Terellia serratulae,m,"White, 1988",
+157,59,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Anomoia purmunda,m,"White, 1988",
+157,60,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora stylata,f,"White, 1988",
+157,61,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora stylata,m,"White, 1988",61+62 in cop
+157,62,Whiteknights Park (E-FH),2016-07-10,,Tephritidae,Urophora stylata,f,"White, 1988",61+62 in cop
 157,63,Whiteknights Park (E-FH),2016-07-10,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
 157,64,Whiteknights Park (E-FH),2016-07-10,,Sciomyzidae,Euthycera chaerophylli ,m,"Rozkosny, 1984",
 157,65,Whiteknights Park (E-FH),2016-07-10,,Sciomyzidae,Pherbina coryleti,f,"Rozkosny, 1984",
