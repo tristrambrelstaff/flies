@@ -30,16 +30,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,29,Whiteknights Park (W),2016-07-23,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 161,30,Whiteknights Park (W),2016-07-23,,Dolichopodidae,,f,,
 161,31,Whiteknights Park (W),2016-07-23,,Dolichopodidae,,f,,
-161,32,Whiteknights Park (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,,
+161,32,Whiteknights Park (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,"White, 1988",As Cerajocera tussilaginis
 161,33,Whiteknights Park (W),2016-07-23,,Anthomyiidae,,m,,
 161,34,Whiteknights Park (W),2016-07-23,,Anthomyiidae,,f,,
 161,35,Whiteknights Park (W),2016-07-23,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 161,36,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 161,37,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 161,38,Whiteknights Park (W),2016-07-23,,Sepsidae,Sepsis sp,,,
-161,39,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,m,,39+40 in cop
-161,40,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,,39+40 in cop
-161,41,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,,
+161,39,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,m,"White, 1988",39+40 in cop; As Cerajocera tussilaginis
+161,40,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,"White, 1988",39+40 in cop; As Cerajocera tussilaginis
+161,41,The Wilderness (W),2016-07-23,,Tephritidae,Chaetostomella cylindrica,f,"White, 1988",
 161,42,The Wilderness (W),2016-07-23,,Syrphidae,Xylota sylvarum,m,,
 161,43,The Wilderness (W),2016-07-23,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
 161,44,The Wilderness (W),2016-07-23,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans

@@ -32,11 +32,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 160,31,Kings Meadow Tescos,2016-07-17,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 160,32,Kings Meadow Tescos,2016-07-17,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 160,33,Kings Meadow Tescos,2016-07-17,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
-160,34,Kings Meadow Tescos,2016-07-17,,Tephritidae,Dithryca guttularis,,,
-160,35,Kings Meadow Tescos,2016-07-17,,Tephritidae,,f,,
-160,36,Kings Meadow Tescos,2016-07-17,,Tephritidae,,f,,
-160,37,Kings Meadow Tescos,2016-07-17,,Tephritidae,,f,,
-160,38,Kings Meadow Tescos,2016-07-17,,Tephritidae,,m,,
+160,34,Kings Meadow Tescos,2016-07-17,,Tephritidae,Dithryca guttularis,m,"White, 1988",
+160,35,Kings Meadow Tescos,2016-07-17,,Tephritidae,Chaetorellia jaceae,f,"White, 1988",
+160,36,Kings Meadow Tescos,2016-07-17,,Tephritidae,Terellia tussilaginis,f,"White, 1988",As Cerajocera tussilaginis
+160,37,Kings Meadow Tescos,2016-07-17,,Tephritidae,Terellia tussilaginis,f,"White, 1988",As Cerajocera tussilaginis
+160,38,Kings Meadow Tescos,2016-07-17,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 160,39,Kings Meadow Tescos,2016-07-17,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 160,40,Kings Meadow Tescos,2016-07-17,,Sciomyzidae,Limnia sp,m,"Rozkosny, 1984",
 160,41,Kings Meadow Tescos,2016-07-17,,Rhagionidae,Chrysopilus asiliformis,f,"Stubbs & Drake, 2001",
