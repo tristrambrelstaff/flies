@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 92,21,Whiteknights Park (W),2015-07-18,,Anthomyiidae,,m,,
 92,22,Whiteknights Park (W),2015-07-18,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 92,23,Whiteknights Park (W),2015-07-18,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
-92,24,Whiteknights Park (W),2015-07-18,,Tephritidae,,m,,
+92,24,Whiteknights Park (W),2015-07-18,,Tephritidae,Chaetostomella cylindrica,m,"White, 1988",
 92,25,The Wilderness (W),2015-07-18,,Conopidae,Sicus ferrugineus,,,
 92,26,The Wilderness (W),2015-07-18,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
 92,27,The Wilderness (W),2015-07-18,,Tachinidae,Eurithia connivens,m,"Belshaw, 1993 +v5c updates",
@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 92,44,The Wilderness (W),2015-07-18,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii; Left fore leg glued back on
 92,45,The Wilderness (W),2015-07-18,,Fanniidae,,f,,
 92,46,The Wilderness (W),2015-07-18,,Anthomyiidae,Anthomyia procellaris grp,m,,
-92,47,The Wilderness (W),2015-07-18,,Tephritidae,,f,,
+92,47,The Wilderness (W),2015-07-18,,Tephritidae,Chaetostomella cylindrica,f,"White, 1988",
 92,48,The Wilderness (W),2015-07-18,,Dolichopodidae,,f,,
 92,49,The Wilderness (W),2015-07-18,,Ephydridae,,,,
 92,50,The Wilderness (W),2015-07-18,,Ephydridae,,,,
