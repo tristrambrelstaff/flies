@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 119,1,Whiteknights Park (E),2016-03-06,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 119,2,Whiteknights Park (E),2016-03-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
-119,3,Whiteknights Park (W),2016-03-12,,Tephritidae,,m,,
-119,4,Whiteknights Park (W),2016-03-12,,Tephritidae,,f,,
+119,3,Whiteknights Park (W),2016-03-12,,Tephritidae,Tephritis conura,m,"White, 1988",
+119,4,Whiteknights Park (W),2016-03-12,,Tephritidae,Tephritis vespertina,f,"White, 1988",
 119,5,Whiteknights Park (W),2016-03-12,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 119,6,Whiteknights Park (W),2016-03-12,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 119,7,Whiteknights Park (W),2016-03-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata

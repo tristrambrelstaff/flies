@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 124,1,Below Hangingstone,2016-04-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 124,2,Below Hangingstone,2016-04-03,,Anthomyiidae,,m,,
 124,3,Below Hangingstone,2016-04-03,,Anthomyiidae,,f,,
-124,4,Thweng Way,2016-04-03,,Tephritidae,,f,,On Rosemary bush
+124,4,Thweng Way,2016-04-03,,Tephritidae,Tephritis formosa,f,"White, 1988",On Rosemary bush
 124,5,Whiteknights Park (W),2016-04-05,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 124,6,Whiteknights Park (W),2016-04-05,,Anthomyiidae,Leucophora sp,m,,
 124,7,Whiteknights Park (W),2016-04-05,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 124,11,Whiteknights Park (W),2016-04-05,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 124,12,Whiteknights Park (W),2016-04-05,,Sphaeroceridae,Copromyza similis,f,"Pitkin, 1988",
 124,13,Whiteknights Park (W),2016-04-05,,Sphaeroceridae,Copromyza similis,m,"Pitkin, 1988",
-124,14,Whiteknights Park (W),2016-04-05,,Tephritidae,,f,,
+124,14,Whiteknights Park (W),2016-04-05,,Tephritidae,Tephritis leontodontis,f,"White, 1988",
 124,15,Whiteknights Park (W),2016-04-05,,???,,f,,
 124,16,Whiteknights Park (W),2016-04-05,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 124,17,Whiteknights Park (W),2016-04-05,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 124,40,Whiteknights Park (W),2016-04-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 124,41,Whiteknights Park (W),2016-04-09,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 124,42,Whiteknights Park (W),2016-04-09,,Dolichopodidae,,f,,
-124,43,Whiteknights Park (W),2016-04-09,,Tephritidae,,f,,
+124,43,Whiteknights Park (W),2016-04-09,,Tephritidae,Tephritis neesii,f,"White, 1988",
 124,44,Whiteknights Park (W),2016-04-09,,Anthomyiidae,,m,,
 124,45,Whiteknights Park (W),2016-04-09,,Anthomyiidae,,m,,
 124,46,Whiteknights Park (W),2016-04-09,,Anthomyiidae,,f,,
