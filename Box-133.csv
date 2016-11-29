@@ -29,10 +29,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 133,28,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 133,29,Whiteknights Park (E-FH),2016-05-05,,Anthomyiidae,,f,,
 133,30,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
-133,31,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,,
-133,32,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,,
-133,33,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,,33+34 in cop
-133,34,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,,33+34 in cop
+133,31,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",
+133,32,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,"White, 1988",
+133,33,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",33+34 in cop
+133,34,Whiteknights Park (E-FH),2016-05-05,,Tephritidae,Tephritis neesii,f,"White, 1988",33+34 in cop
 133,35,Whiteknights Park (E-FH),2016-05-05,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 133,36,Whiteknights Park (E-FH),2016-05-05,,???,,,,
 133,37,Whiteknights Park (E-FH),2016-05-05,,Chironomidae,,m,,
@@ -48,8 +48,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 133,47,Whiteknights Park (W),2016-05-05,,Bibionidae,Dilophus febrilis,m,"Freeman & Lane, 1985",
 133,48,Whiteknights Park (W),2016-05-05,,Bibionidae,Dilophus febrilis,m,"Freeman & Lane, 1985",
 133,49,Whiteknights Park (W),2016-05-05,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
-133,50,Whiteknights Park (W),2016-05-05,,Tephritidae,Tephritis neesii,m,,
-133,51,Whiteknights Park (W),2016-05-05,,Tephritidae,Tephritis neesii,m,,
+133,50,Whiteknights Park (W),2016-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",
+133,51,Whiteknights Park (W),2016-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",
 133,52,Whiteknights Park (W),2016-05-05,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 133,53,Whiteknights Park (W),2016-05-05,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 133,54,Whiteknights Park (W),2016-05-05,,Mycetophilidae,,f,,
