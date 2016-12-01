@@ -50,8 +50,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,49,Whiteknights Park (W),2015-04-25,,Scathophagidae,Norellisoma spinimanum,f,"Ball, 2014",
 63,50,Whiteknights Park (W),2015-04-25,,Dolichopodidae,Rhaphium sp,m,,
 63,51,Whiteknights Park (W),2015-04-25,,Fanniidae,,f,,
-63,52,Whiteknights Park (W),2015-04-25,,Tephritidae,,m,,
-63,53,Whiteknights Park (W),2015-04-25,,Tephritidae,,f,,
+63,52,Whiteknights Park (W),2015-04-25,,Tephritidae,Tephritis vespertina,m,"White, 1988",
+63,53,Whiteknights Park (W),2015-04-25,,Tephritidae,Tephritis neesii,f,"White, 1988",
 63,54,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
 63,55,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
 63,56,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,m,,
@@ -74,5 +74,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,73,Whiteknights Park (E-FH),2015-04-25,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 63,74,Whiteknights Park (E-FH),2015-04-25,,Anthomyiidae,,f,,
 63,75,Whiteknights Park (E-FH),2015-04-25,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968",As Hebecnema affinis; Halteres yellow; Wings darkened
-63,76,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,,m,,
-63,77,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,,m,,
+63,76,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,Tephritis neesii,m,"White, 1988",
+63,77,Whiteknights Park (E-FH),2015-04-25,,Tephritidae,Tephritis neesii,m,"White, 1988",
