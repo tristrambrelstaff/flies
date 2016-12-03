@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,15,Whiteknights Park (W),2014-05-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 17,16,Whiteknights Park (W),2014-05-18,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 17,17,Whiteknights Park (W),2014-05-18,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-17,18,Whiteknights Park (W),2014-05-18,,Tephritidae,Chaetorellia jaceae,m,,
+17,18,Whiteknights Park (W),2014-05-18,,Tephritidae,Chaetostomella cylindrica,m,"White, 1988",
 17,19,Whiteknights Park (W),2014-05-18,,Anthomyiidae,,f,,
 17,20,Whiteknights Park (W),2014-05-18,,Anthomyiidae,Anthomyia sp,m,,
 17,21,Whiteknights Park (W),2014-05-18,,Anthomyiidae,Anthomyia sp,m,,
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 17,41,Whiteknights Park (E),2014-05-24,,Heleomyzidae,Suillia sp,,,
 17,42,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 17,43,Whiteknights Park (E),2014-05-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-17,44,Whiteknights Park (E),2014-05-24,,Tephritidae,,f,,
+17,44,Whiteknights Park (E),2014-05-24,,Tephritidae,Tephritis neesii,f,"White, 1988",
 17,45,Whiteknights Park (E),2014-05-24,,Lauxaniidae,,,,
 17,46,Whiteknights Park (E),2014-05-24,,Platypezidae,,m,,
 17,47,Whiteknights Park (E),2014-05-24,,Empididae,Empis sp,f,,
