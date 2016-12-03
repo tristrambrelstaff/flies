@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 35,10,Field below Chazey Wood,2014-07-27,,Syrphidae,Eristalis sp,m,,
 35,11,Field below Chazey Wood,2014-07-27,,Conopidae,Conops sp,,,
 35,12,Field below Chazey Wood,2014-07-27,,Syrphidae,Myolepta dubia,f,"Stubbs & Falk, 2002",
-35,13,Field below Chazey Wood,2014-07-27,,Tephritidae,,m,,
-35,14,Field below Chazey Wood,2014-07-27,,Tephritidae,,f,,
+35,13,Field below Chazey Wood,2014-07-27,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
+35,14,Field below Chazey Wood,2014-07-27,,Tephritidae,Terellia tussilaginis,f,"White, 1988",As Cerajocera tussilaginis
 35,15,Field below Chazey Wood,2014-07-27,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 35,16,Field below Chazey Wood,2014-07-27,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 35,17,Field below Chazey Wood,2014-07-27,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
