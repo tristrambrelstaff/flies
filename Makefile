@@ -41,7 +41,7 @@ todo.Coelopidae.csv: Box-*.csv
 	- grep Coelopidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
 
 todo.Conopidae.csv: Box-*.csv
-	- grep Conopidae B*csv | grep -v "Smith, 1969" >$@ || true
+	- grep Conopidae B*csv | grep -v "Clements, 1995" >$@ || true
 
 todo.Calliphoridae.csv: Box-*.csv
 	- grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
