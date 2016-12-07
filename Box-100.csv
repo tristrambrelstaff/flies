@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-100,1,Field below Chazey Wood,2015-08-15,,Conopidae,,m,,1+2 in cop
-100,2,Field below Chazey Wood,2015-08-15,,Conopidae,,f,,1+2 in cop
-100,3,Field below Chazey Wood,2015-08-15,,Conopidae,,m,,
+100,1,Field below Chazey Wood,2015-08-15,,Conopidae,Conops quadrifasciatus,m,"Clements, 1995",1+2 in cop
+100,2,Field below Chazey Wood,2015-08-15,,Conopidae,Conops quadrifasciatus,f,"Clements, 1995",1+2 in cop
+100,3,Field below Chazey Wood,2015-08-15,,Conopidae,Physocephala rufipes,m,"Clements, 1995",
 100,4,Field below Chazey Wood,2015-08-15,,Tachinidae,Nowickia ferox,f,"Belshaw, 1993 +v5c updates",
 100,5,Field below Chazey Wood,2015-08-15,,Sarcophagidae,,m,,
 100,6,Field below Chazey Wood,2015-08-15,,Tachinidae,Eurithia consobrina,f,"Belshaw, 1993 +v5c updates",
