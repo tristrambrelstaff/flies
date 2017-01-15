@@ -32,8 +32,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 27,31,The Wilderness (W),2014-07-01,,Syrphidae,,m,,
 27,32,The Wilderness (W),2014-07-01,,Fanniidae,,f,,
 27,33,The Wilderness (W),2014-07-01,,Tachinidae,Ocytata pallipes,f,"Belshaw, 1993 +v5c updates",
-27,34,The Wilderness (W),2014-07-01,,Conopidae,Sicus ferrugineus,,,34+35 in cop
-27,35,The Wilderness (W),2014-07-01,,Conopidae,Sicus ferrugineus,,,34+35 in cop
+27,34,The Wilderness (W),2014-07-01,,Conopidae,Sicus ferrugineus,f,"Clements, 1995",34+35 in cop
+27,35,The Wilderness (W),2014-07-01,,Conopidae,Sicus ferrugineus,m,"Clements, 1995",34+35 in cop
 27,36,The Wilderness (W),2014-07-01,,Empididae,Empis sp,m,,36+37 in cop
 27,37,The Wilderness (W),2014-07-01,,Empididae,Empis sp,f,,36+37 in cop
 27,38,The Wilderness (E),2014-07-01,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 27,41,The Wilderness (E),2014-07-01,,Anthomyiidae,Pegomya sp,m,,
 27,42,Whiteknights Park (E),2014-07-01,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 27,43,Whiteknights Park (E),2014-07-01,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
-27,44,Whiteknights Park (E),2014-07-01,,Conopidae,Physocephala sp,m,,
+27,44,Whiteknights Park (E),2014-07-01,,Conopidae,Physocephala rufipes,m,"Clements, 1995",
 27,45,Whiteknights Park (E),2014-07-01,Hymenoptera,Chrysididae,,,,
 27,46,Whiteknights Park (E),2014-07-01,,Syrphidae,Eristalinus sepulchralis,m,"Stubbs & Falk, 2002",
 27,47,Whiteknights Park (E),2014-07-01,,Syrphidae,Cheilosia sp,f,,
