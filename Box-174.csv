@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 174,7,Roseberry Common,2016-08-23,,Tachinidae,Linnaemya vulpina,m,"Belshaw, 1993 +v5c updates",Left mid and hind legs missing
 174,8,Roseberry Common,2016-08-23,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 174,9,Roseberry Common,2016-08-23,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
-174,10,Roseberry Common,2016-08-23,,Conopidae,,,,
+174,10,Roseberry Common,2016-08-23,,Conopidae,Conops quadrifasciatus,f,"Clements, 1995",
 174,11,Roseberry Common,2016-08-23,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
 174,12,Roseberry Common,2016-08-23,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 174,13,Roseberry Common,2016-08-23,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
