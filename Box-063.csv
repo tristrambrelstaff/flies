@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,1,Whiteknights Park (W),2015-04-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-63,2,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
-63,3,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
+63,2,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora obtusa,f,"Loonstra & van Erkelans, 2011",
+63,3,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora obtusa,f,"Loonstra & van Erkelans, 2011",
 63,4,Whiteknights Park (W),2015-04-25,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
 63,5,Whiteknights Park (W),2015-04-25,,Sarcophagidae,,m,,
 63,6,Whiteknights Park (W),2015-04-25,,Anthomyiidae,,f,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 63,40,Whiteknights Park (W),2015-04-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 63,41,Whiteknights Park (W),2015-04-25,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 63,42,Whiteknights Park (W),2015-04-25,,Sarcophagidae,,m,,
-63,43,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,,
+63,43,Whiteknights Park (W),2015-04-25,,Anthomyiidae,Leucophora sp,f,"Loonstra & van Erkelans, 2011",Not Leucophora obtusa
 63,44,Whiteknights Park (W),2015-04-25,,Sarcophagidae,,m,,
 63,45,Whiteknights Park (W),2015-04-25,,Syrphidae,Baccha elongata,m,,
 63,46,Whiteknights Park (W),2015-04-25,,Lonchaeidae,,f,,
