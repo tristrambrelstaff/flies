@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 135,30,Kings Meadow Tescos,2016-05-07,,Tephritidae,Tephritis neesii,f,"White, 1988",
 135,31,Kings Meadow Tescos,2016-05-07,,Fanniidae,,f,,
 135,32,Kings Meadow Tescos,2016-05-07,,Pipunculidae,,m,,
-135,33,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
+135,33,Kings Meadow Tescos,2016-05-07,,Anthomyiidae,Anthomyia pluvialis,m,"Ackland draft keys, 2012 & 2015",
 135,34,Kings Meadow Tescos,2016-05-07,,???,,f,,
 135,35,Kings Meadow Tescos,2016-05-07,,Mycetophilidae,,f,,
 135,36,Kings Meadow Tescos,2016-05-07,,Agromyzidae,,m,,
@@ -42,6 +42,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 135,41,Whiteknights Park (W),2016-05-13,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 135,42,Whiteknights Park (W),2016-05-13,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 135,43,Whiteknights Park (W),2016-05-13,,Anthomyiidae,,m,,
-135,44,Whiteknights Park (W),2016-05-13,,Anthomyiidae,Anthomyia procellaris grp,m,,
+135,44,Whiteknights Park (W),2016-05-13,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 135,45,Whiteknights Park (W),2016-05-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 135,46,Whiteknights Park (W),2016-05-13,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",Arista hairs as long as basal diameter
