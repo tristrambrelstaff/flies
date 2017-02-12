@@ -1,4 +1,4 @@
-FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyia.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Calliphoridae.csv todo.Dryomyzidae.csv todo.Fannia_lustrator.csv todo.Lauxaniidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv
+FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Calliphoridae.csv todo.Dryomyzidae.csv todo.Fannia_lustrator.csv todo.Lauxaniidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv
 
 all: ${FILES}
 
@@ -21,9 +21,6 @@ keys.csv: Box-*.csv
 	cat Box-*.csv | csvfix summary -frq 9 | csvfix order -f 10,1 | csvfix unique -f 1 | csvfix sort -f 1 -rh >$@
 
 # grep returns exit status 2 on finding no matches so we use '|| true' to prevent this being treated as an error:
-
-todo.Anthomyia.csv: Box-*.csv
-	grep Anthomyia B*csv | grep -v "Ackland" >$@ || true
 
 todo.Anthomyiidae.csv: Box-*.csv
 	grep Anthomyiidae B*csv | grep -v "Ackland" >$@ || true
