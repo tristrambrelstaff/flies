@@ -4,7 +4,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 136,3,Whiteknights Park (W),2016-05-13,,Anthomyiidae,,m,,
 136,4,Whiteknights Park (W),2016-05-13,,Anthomyiidae,,m,,
 136,5,Whiteknights Park (W),2016-05-13,,Anthomyiidae,,m,,
-136,6,Whiteknights Park (W),2016-05-13,,Fanniidae,,m,,
+136,6,Whiteknights Park (W),2016-05-13,,Fanniidae,Fannia sociella,m,"Rozkosny et al, 1997",
 136,7,Whiteknights Park (W),2016-05-13,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",Wing leading edge darkened
 136,8,Whiteknights Park (W),2016-05-13,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",Wing leading edge darkened
 136,9,Whiteknights Park (W),2016-05-13,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
@@ -59,5 +59,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 136,58,Kings Meadow Tescos,2016-05-15,,Lauxaniidae,,,,
 136,59,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,,f,,
 136,60,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,Anthomyia pluvialis,m,"Ackland draft keys, 2012 & 2015",
-136,61,Kings Meadow Tescos,2016-05-15,,Fanniidae,,m,,
+136,61,Kings Meadow Tescos,2016-05-15,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 136,62,Kings Meadow Tescos,2016-05-15,,Anthomyiidae,,f,,
