@@ -15,15 +15,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 177,14,Whiteknights Park (W),2017-03-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 177,15,Whiteknights Park (W),2017-03-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 177,16,Whiteknights Park (W),2017-03-04,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-177,17,Whiteknights Park (W),2017-03-04,,Scathophagidae,Scathophaga inquinata,m,"Ball, 2014",
-177,18,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,f,,
-177,19,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,f,,
-177,20,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,f,,
-177,21,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,f,,
-177,22,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
-177,23,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
-177,24,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
-177,25,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
+177,17,Whiteknights Park (W),2017-03-04,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
+177,18,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,f,"Ackland draft keys, 2012 & 2015",
+177,19,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,f,"Ackland draft keys, 2012 & 2015",
+177,20,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,f,"Ackland draft keys, 2012 & 2015",
+177,21,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,f,"Ackland draft keys, 2012 & 2015",
+177,22,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Egle ciliata,m,"Ackland draft keys, 2012 & 2015",
+177,23,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland draft keys, 2012 & 2015",
+177,24,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland draft keys, 2012 & 2016",
+177,25,Whiteknights Park (W),2017-03-04,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland draft keys, 2012 & 2015",
 177,26,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
 177,27,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
 177,28,Whiteknights Park (W),2017-03-04,,Anthomyiidae,,m,,
@@ -35,4 +35,3 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 177,34,Whiteknights Park (W),2017-03-04,,Sepsidae,Sepsis sp,,,
 177,35,Whiteknights Park (W),2017-03-04,,Simuliidae,,,,
 177,36,Whiteknights Park (E-FH),2017-03-04,,Pallopteridae,Palloptera scutellata,f,"De Jong & van Aartsen, 2007",Antennae missing
-
