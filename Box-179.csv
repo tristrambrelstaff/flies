@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 179,43,"Oscar Wilde Walk, Reading",2017-03-25,,Lonchopteridae,Lonchoptera sp,f,,
 179,44,"Oscar Wilde Walk, Reading",2017-03-25,,Mycetophilidae,,f,,
 179,45,"Oscar Wilde Walk, Reading",2017-03-25,,Mycetophilidae,,f,,
-179,46,"The Warren, Caversham",2017-03-25,,Tachinidae,Gymnocheta viridis,m,,
+179,46,"The Warren, Caversham",2017-03-25,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 179,47,"The Warren, Caversham",2017-03-25,,Muscidae,,m,,
 179,48,"The Warren, Caversham",2017-03-25,,Muscidae,,m,,
 179,49,"The Warren, Caversham",2017-03-25,,Muscidae,Lispocephala sp,m,,
@@ -53,10 +53,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 179,52,Quarry near Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
 179,53,Quarry near Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
 179,54,Quarry near Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
-179,55,Quarry near Chazey Wood,2017-03-25,,Tachinidae,Gymnocheta viridis,f,,
+179,55,Quarry near Chazey Wood,2017-03-25,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",Bluish-green
 179,56,Quarry near Chazey Wood,2017-03-25,,Calliphoridae,Melinda sp,m,,
 179,57,Quarry near Chazey Wood,2017-03-25,,Calliphoridae,Melinda sp,m,,
-179,58,Quarry near Chazey Wood,2017-03-25,,Scathophagidae,Scathophaga sp,f,,
-179,59,Quarry near Chazey Wood,2017-03-25,,Scathophagidae,Scathophaga stercoraria,f,,
+179,58,Quarry near Chazey Wood,2017-03-25,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
+179,59,Quarry near Chazey Wood,2017-03-25,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 179,60,Quarry near Chazey Wood,2017-03-25,,Muscidae,,m,,Leading edges of wings darkened
 179,61,Quarry near Chazey Wood,2017-03-25,,Sepsidae,Sepsis sp,m,,
