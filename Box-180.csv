@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 180,1,Chazey Wood,2017-03-25,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 180,2,Chazey Wood,2017-03-25,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-180,3,Chazey Wood,2017-03-25,,Calliphoridae,Melinda sp,m,,
-180,4,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
-180,5,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,f,,
-180,6,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,f,,
-180,7,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
-180,8,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
-180,9,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia sp,m,,
+180,3,Chazey Wood,2017-03-25,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",Greenish
+180,4,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+180,5,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+180,6,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+180,7,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+180,8,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+180,9,Chazey Wood,2017-03-25,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 180,10,Chazey Wood,2017-03-25,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 180,11,Chazey Wood,2017-03-25,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 180,12,Chazey Wood,2017-03-25,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
@@ -33,8 +33,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 180,32,Chazey Wood,2017-03-25,,Sepsidae,Sepsis sp,m,,
 180,33,Chazey Wood,2017-03-25,,Chloropidae,,f,,
 180,34,Chazey Wood,2017-03-25,,Chloropidae,,m,,
-180,35,Kings Meadow Tescos,2017-03-25,,Calliphoridae,Calliphora vicina,m,,
-180,36,Kings Meadow Tescos,2017-03-25,,Calliphoridae,Pollenia sp,f,,
+180,35,Kings Meadow Tescos,2017-03-25,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+180,36,Kings Meadow Tescos,2017-03-25,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 180,37,Kings Meadow Tescos,2017-03-25,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 180,38,Kings Meadow Tescos,2017-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 180,39,Kings Meadow Tescos,2017-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
