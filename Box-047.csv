@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-47,1,Field below Chazey Wood,2014-09-06,,Anthomyiidae,Eustalomyia sp,f,,
-47,2,Field below Chazey Wood,2014-09-06,,Anthomyiidae,,f,,
+47,1,Field below Chazey Wood,2014-09-06,,Anthomyiidae,Eustalomyia hilaris,f,"Ackland draft keys, 2012 & 2015 & 2017",
+47,2,Field below Chazey Wood,2014-09-06,,Anthomyiidae,Hylemya variata,f,"Ackland draft keys, 2012 & 2015",
 47,3,Field below Chazey Wood,2014-09-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 47,4,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
 47,5,Field below Chazey Wood,2014-09-06,,Calliphoridae,Bellardia cf vulgaris,f,"Rognes, 1991",
@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 47,21,Whiteknights Park (W),2014-09-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 47,22,Whiteknights Park (W),2014-09-13,,Lonchaeidae,,f,,
 47,23,Whiteknights Park (W),2014-09-13,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
-47,24,Whiteknights Park (W),2014-09-13,,Anthomyiidae,,f,,
+47,24,Whiteknights Park (W),2014-09-13,,Anthomyiidae,Botanophila spinosa,f,"Ackland draft keys, 2012 & 2015",
 47,25,Whiteknights Park (W),2014-09-13,,Hybotidae,,,,
 47,26,Whiteknights Park (W),2014-09-13,,Syrphidae,,,,
 47,27,Whiteknights Park (W),2014-09-13,,Syrphidae,,f,,
@@ -41,8 +41,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 47,40,The Wilderness (W),2014-09-13,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 47,41,The Wilderness (W),2014-09-13,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Helina vespertina; Halteres black
 47,42,The Wilderness (W),2014-09-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
-47,43,The Wilderness (W),2014-09-13,,Anthomyiidae,,f,,
-47,44,The Wilderness (W),2014-09-13,,Anthomyiidae,,f,,
+47,43,The Wilderness (W),2014-09-13,,Anthomyiidae,Botanophila laterella,f,"Ackland draft keys, 2012 & 2015",Greasy
+47,44,The Wilderness (W),2014-09-13,,Anthomyiidae,Botanophila laterella,f,"Ackland draft keys, 2012 & 2015",
 47,45,The Wilderness (W),2014-09-13,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 47,46,The Wilderness (W),2014-09-13,,Dryomyzidae,Dryomyza anilis,f,"Shtakelberg, 1989",As Neuroctena anilis
 47,47,The Wilderness (W),2014-09-13,,Heleomyzidae,,m,,
