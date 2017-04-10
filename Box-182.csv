@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,43,Whiteknights Park (W),2017-04-07,,Ichneumonidae,,,,
 182,44,Whiteknights Park (W),2017-04-07,,Ichneumonidae,,,,
 182,45,Whiteknights Park (W),2017-04-07,,Torymidae,Torymus sp,f,,
-182,46,Whiteknights Park (E-FH),2017-04-07,,Tachinidae,Gymnocheta viridis,m,,Has only 3 legs
+182,46,Whiteknights Park (E-FH),2017-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",Has only 3 legs
 182,47,Whiteknights Park (E-FH),2017-04-07,,Calliphoridae,Pollenia sp,f,,
 182,48,Whiteknights Park (E-FH),2017-04-07,,Muscidae,Helina evecta,m,,
 182,49,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
@@ -61,5 +61,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,60,Whiteknights Park (E-FH),2017-04-07,,Scathophagidae,,f,,
 182,61,Whiteknights Park (E-FH),2017-04-07,,Agromyzidae,,f,,
 182,62,Whiteknights Park (W),2017-04-08,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
-182,63,Whiteknights Park (W),2017-04-08,,Tachinidae,Gymnocheta viridis,f,,
+182,63,Whiteknights Park (W),2017-04-08,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
 182,64,Whiteknights Park (W),2017-04-08,,Calliphoridae,Protocalliphora azurea,f,,
