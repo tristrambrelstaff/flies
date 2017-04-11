@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,1,Whiteknights Park (W),2017-04-07,,Syrphidae,Eristalinus sp,m,,
-182,2,Whiteknights Park (W),2017-04-07,,Calliphoridae,Calliphora vicina,f,,
+182,2,Whiteknights Park (W),2017-04-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 182,3,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia sp,m,,
 182,4,Whiteknights Park (W),2017-04-07,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 182,5,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia sp,f,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,23,Whiteknights Park (W),2017-04-07,,Agromyzidae,,,,
 182,24,Whiteknights Park (W),2017-04-07,,Tephritidae,Tephritis neesii,m,"White, 1988",
 182,25,Whiteknights Park (W),2017-04-07,,Tephritidae,Tephritis neesii,f,"White, 1988",
-182,26,Whiteknights Park (W),2017-04-07,,Sphaeroceridae,,f,,
+182,26,Whiteknights Park (W),2017-04-07,,Sphaeroceridae,Sphaerocera stercoraria,f,"Pitkin, 1988",
 182,27,Whiteknights Park (W),2017-04-07,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 182,28,Whiteknights Park (W),2017-04-07,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 182,29,Whiteknights Park (W),2017-04-07,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,44,Whiteknights Park (W),2017-04-07,,Ichneumonidae,,,,
 182,45,Whiteknights Park (W),2017-04-07,,Torymidae,Torymus sp,f,,
 182,46,Whiteknights Park (E-FH),2017-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",Has only 3 legs
-182,47,Whiteknights Park (E-FH),2017-04-07,,Calliphoridae,Pollenia sp,f,,
+182,47,Whiteknights Park (E-FH),2017-04-07,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 182,48,Whiteknights Park (E-FH),2017-04-07,,Muscidae,Helina evecta,m,,
 182,49,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
 182,50,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
@@ -62,4 +62,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,61,Whiteknights Park (E-FH),2017-04-07,,Agromyzidae,,f,,
 182,62,Whiteknights Park (W),2017-04-08,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 182,63,Whiteknights Park (W),2017-04-08,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
-182,64,Whiteknights Park (W),2017-04-08,,Calliphoridae,Protocalliphora azurea,f,,
+182,64,Whiteknights Park (W),2017-04-08,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
