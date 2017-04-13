@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,1,Whiteknights Park (W),2017-04-07,,Syrphidae,Eristalinus sp,m,,
 182,2,Whiteknights Park (W),2017-04-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-182,3,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia sp,m,,
+182,3,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
 182,4,Whiteknights Park (W),2017-04-07,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-182,5,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia sp,f,,
+182,5,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 182,6,Whiteknights Park (W),2017-04-07,,Anthomyiidae,Leucophora sp,f,,
-182,7,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia sp,f,,
+182,7,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 182,8,Whiteknights Park (W),2017-04-07,,Sarcophagidae,Sarcophaga sp,f,,
-182,9,Whiteknights Park (W),2017-04-07,,Muscidae,,m,,Wings darkened
+182,9,Whiteknights Park (W),2017-04-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres dark; Wings darkened
 182,10,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,11,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,12,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,45,Whiteknights Park (W),2017-04-07,,Torymidae,Torymus sp,f,,
 182,46,Whiteknights Park (E-FH),2017-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",Has only 3 legs
 182,47,Whiteknights Park (E-FH),2017-04-07,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
-182,48,Whiteknights Park (E-FH),2017-04-07,,Muscidae,Helina evecta,m,,
+182,48,Whiteknights Park (E-FH),2017-04-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 182,49,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
 182,50,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
 182,51,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
