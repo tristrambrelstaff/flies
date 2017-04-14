@@ -71,7 +71,7 @@ todo.Rhinophoridae.csv: Box-*.csv
 	- grep Rhinophoridae B*csv | grep -v "Falk draft key, 2016" >$@ || true
 
 todo.Sarcophagidae.csv: Box-*.csv
-	- grep Sarcophagidae B*csv | grep -v "Pape, 1987" >$@ || true
+	- grep Sarcophagidae B*csv | grep -v "Pape, 1987" | grep -v "Richet et al, 2011" >$@ || true
 
 todo.Scathophagidae.csv: Box-*.csv
 	- grep Scathophagidae B*csv | grep -v "Ball, 2014" >$@ || true
