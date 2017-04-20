@@ -1,19 +1,19 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 186,1,Whiteknights Park (W),2017-04-16,,Anthomyiidae,Leucophora sp,m,,
-186,2,Whiteknights Park (W),2017-04-16,,Muscidae,,m,,
+186,2,Whiteknights Park (W),2017-04-16,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 186,3,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,m,,
 186,4,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,m,,
 186,5,Whiteknights Park (W),2017-04-16,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
-186,6,Whiteknights Park (W),2017-04-16,,Muscidae,,f,,
-186,7,Whiteknights Park (W),2017-04-16,,Muscidae,,f,,
+186,6,Whiteknights Park (W),2017-04-16,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+186,7,Whiteknights Park (W),2017-04-16,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 186,8,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,f,,
 186,9,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,f,,
 186,10,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,f,,
 186,11,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,f,,
 186,12,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,f,,
 186,13,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,m,,
-186,14,Whiteknights Park (W),2017-04-16,,Muscidae,,m,,
-186,15,Whiteknights Park (W),2017-04-16,,Muscidae,,m,,
+186,14,Whiteknights Park (W),2017-04-16,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+186,15,Whiteknights Park (W),2017-04-16,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 186,16,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,m,,
 186,17,Whiteknights Park (W),2017-04-16,,Anthomyiidae,,m,,
 186,18,Whiteknights Park (W),2017-04-16,,Fanniidae,,m,,
@@ -39,16 +39,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 186,38,Whiteknights Park (W),2017-04-16,,Fanniidae,,m,,
 186,39,Whiteknights Park (W),2017-04-16,,Chironomidae,,m,,
 186,40,Kings Meadow Tescos,2017-04-18,,Tachinidae,Macquartia tenebricosa,f,"Belshaw, 1993 +v5c updates",
-186,41,Kings Meadow Tescos,2017-04-18,,Muscidae,,m,,
-186,42,Kings Meadow Tescos,2017-04-18,,Muscidae,,m,,
-186,43,Kings Meadow Tescos,2017-04-18,,Muscidae,,m,,
+186,41,Kings Meadow Tescos,2017-04-18,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+186,42,Kings Meadow Tescos,2017-04-18,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+186,43,Kings Meadow Tescos,2017-04-18,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 186,44,Kings Meadow Tescos,2017-04-18,,Syrphidae,Didea fasciata,m,"Stubbs & Falk, 2002",
 186,45,Kings Meadow Tescos,2017-04-18,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 186,46,Kings Meadow Tescos,2017-04-18,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 186,47,Kings Meadow Tescos,2017-04-18,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 186,48,Kings Meadow Tescos,2017-04-18,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 186,49,Kings Meadow Tescos,2017-04-18,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
-186,50,Kings Meadow Tescos,2017-04-18,,Muscidae,,m,,
+186,50,Kings Meadow Tescos,2017-04-18,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 186,51,Kings Meadow Tescos,2017-04-18,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 186,52,Kings Meadow Tescos,2017-04-18,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
 186,53,Kings Meadow Tescos,2017-04-18,,Muscidae,Hydrotaea dentipes,f,"Fonseca, 1968",
