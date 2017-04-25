@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 189,7,The Wilderness (W),2017-04-22,,Calliphoridae,Bellardia sp,f,,
 189,8,The Wilderness (W),2017-04-22,,Calliphoridae,Bellardia sp,f,,
 189,9,The Wilderness (W),2017-04-22,,Calliphoridae,Bellardia sp,m,,
-189,10,The Wilderness (W),2017-04-22,,Sarcophagidae,Sarcophaga sp,f,,
+189,10,The Wilderness (W),2017-04-22,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 189,11,The Wilderness (W),2017-04-22,,Syrphidae,Leucozona lucorum,f,,
 189,12,The Wilderness (W),2017-04-22,,Syrphidae,Cheilosia sp,m,,
 189,13,The Wilderness (W),2017-04-22,Hymenoptera,Apidae,Nomada sp,f,,
@@ -43,7 +43,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 189,42,The Wilderness (W),2017-04-22,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 189,43,The Wilderness (W),2017-04-22,,Muscidae,Phaonia palpata,f,,
 189,44,The Wilderness (W),2017-04-22,,Muscidae,Phaonia palpata,f,,
-189,45,The Wilderness (W),2017-04-22,,Sarcophagidae,Sarcophaga sp,m,,
+189,45,The Wilderness (W),2017-04-22,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 189,46,The Wilderness (W),2017-04-22,,Muscidae,Phaonia palpata,f,,
 189,47,The Wilderness (W),2017-04-22,,Muscidae,Phaonia palpata,f,,
 189,48,The Wilderness (W),2017-04-22,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
