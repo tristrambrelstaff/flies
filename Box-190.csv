@@ -3,11 +3,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 190,2,Whiteknights Park (E),2017-04-23,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 190,3,Whiteknights Park (E),2017-04-23,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 190,4,Whiteknights Park (E),2017-04-23,,Scathophagidae,Nanna fasciata,f,,
-190,5,Whiteknights Park (E),2017-04-23,,Muscidae,Phaonia sp,f,,
+190,5,Whiteknights Park (E),2017-04-23,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 190,6,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
-190,7,Whiteknights Park (E),2017-04-23,,Muscidae,Phaonia sp,m,,
+190,7,Whiteknights Park (E),2017-04-23,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 190,8,Whiteknights Park (E),2017-04-23,,Anthomyiidae,Leucophora sp,m,,
-190,9,Whiteknights Park (E),2017-04-23,,Muscidae,,m,,
+190,9,Whiteknights Park (E),2017-04-23,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 190,10,Whiteknights Park (E),2017-04-23,,Empididae,Empis sp,m,,
 190,11,Whiteknights Park (E),2017-04-23,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 190,12,Whiteknights Park (E),2017-04-23,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
@@ -18,15 +18,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 190,17,Whiteknights Park (E),2017-04-23,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 190,18,Whiteknights Park (E),2017-04-23,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 190,19,Whiteknights Park (E),2017-04-23,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
-190,20,Whiteknights Park (E),2017-04-23,,Muscidae,,m,,
+190,20,Whiteknights Park (E),2017-04-23,,Muscidae,Helina latitarsis,m,"Fonseca, 1968",
 190,21,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
-190,22,Whiteknights Park (E),2017-04-23,,Muscidae,,m,,
+190,22,Whiteknights Park (E),2017-04-23,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 190,23,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
 190,24,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
 190,25,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
 190,26,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,f,,
-190,27,Whiteknights Park (E),2017-04-23,,Muscidae,Hebecnema sp,m,,
-190,28,Whiteknights Park (E),2017-04-23,,Muscidae,Hebecnema sp,f,,
+190,27,Whiteknights Park (E),2017-04-23,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+190,28,Whiteknights Park (E),2017-04-23,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 190,29,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,m,,
 190,30,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,f,,
 190,31,Whiteknights Park (E),2017-04-23,,Anthomyiidae,,f,,
