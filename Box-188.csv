@@ -6,31 +6,31 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 188,5,The Wilderness (E),2017-04-22,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 188,6,The Wilderness (E),2017-04-22,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 188,7,The Wilderness (E),2017-04-22,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
-188,8,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,9,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,10,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,11,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,12,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,13,The Wilderness (E),2017-04-22,,Muscidae,,f,,
-188,14,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
+188,8,The Wilderness (E),2017-04-22,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+188,9,The Wilderness (E),2017-04-22,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+188,10,The Wilderness (E),2017-04-22,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+188,11,The Wilderness (E),2017-04-22,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+188,12,The Wilderness (E),2017-04-22,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
+188,13,The Wilderness (E),2017-04-22,,Muscidae,Helina pertusa,f,"Fonseca, 1968",
+188,14,The Wilderness (E),2017-04-22,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 188,15,The Wilderness (E),2017-04-22,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
-188,16,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,f,,
+188,16,The Wilderness (E),2017-04-22,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
 188,17,The Wilderness (E),2017-04-22,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
-188,18,The Wilderness (E),2017-04-22,,Muscidae,,f,,
-188,19,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
+188,18,The Wilderness (E),2017-04-22,,Muscidae,Phaonia evecta,f,"Fonseca, 1968",As Phaonia laetifica
+188,19,The Wilderness (E),2017-04-22,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 188,20,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
-188,21,The Wilderness (E),2017-04-22,,Muscidae,,f,,
-188,22,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
+188,21,The Wilderness (E),2017-04-22,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+188,22,The Wilderness (E),2017-04-22,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 188,23,The Wilderness (E),2017-04-22,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 188,24,The Wilderness (E),2017-04-22,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 188,25,The Wilderness (E),2017-04-22,,Calliphoridae,Lucilia sp,m,,Teneral; Blue
-188,26,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
-188,27,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
+188,26,The Wilderness (E),2017-04-22,,Anthomyiidae,,m,,
+188,27,The Wilderness (E),2017-04-22,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 188,28,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
 188,29,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
 188,30,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
 188,31,The Wilderness (E),2017-04-22,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-188,32,The Wilderness (E),2017-04-22,,Muscidae,Phaonia sp,m,,
+188,32,The Wilderness (E),2017-04-22,,Muscidae,Thricops semicinereus,m,"Fonseca, 1968",
 188,33,The Wilderness (E),2017-04-22,,Fanniidae,Fannia sp,m,,
 188,34,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
 188,35,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 188,44,The Wilderness (E),2017-04-22,,Fanniidae,,m,,
 188,45,The Wilderness (E),2017-04-22,,Anthomyiidae,Anthomyia procellaris,m,,
 188,46,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
-188,47,The Wilderness (E),2017-04-22,,Muscidae,,f,,
+188,47,The Wilderness (E),2017-04-22,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 188,48,The Wilderness (E),2017-04-22,,Anthomyiidae,,f,,
 188,49,The Wilderness (E),2017-04-22,,Fanniidae,,f,,
 188,50,The Wilderness (E),2017-04-22,,Anthomyiidae,,m,,
@@ -56,10 +56,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 188,55,The Wilderness (E),2017-04-22,,Dolichopodidae,,m,,
 188,56,The Wilderness (E),2017-04-22,,Dolichopodidae,,f,,
 188,57,The Wilderness (E),2017-04-22,,Dolichopodidae,,m,,
-188,58,The Wilderness (E),2017-04-22,,Muscidae,Coenosia sp,f,,
-188,59,The Wilderness (E),2017-04-22,,Muscidae,Coenosia sp,f,,
-188,60,The Wilderness (E),2017-04-22,,Muscidae,Coenosia sp,f,,
-188,61,The Wilderness (E),2017-04-22,,Muscidae,Coenosia sp,m,,
+188,58,The Wilderness (E),2017-04-22,,Muscidae,Coenosia agomyzina,f,"Fonseca, 1968",As Allognota agromyzina
+188,59,The Wilderness (E),2017-04-22,,Muscidae,Coenosia agomyzina,f,"Fonseca, 1968",As Allognota agromyzina
+188,60,The Wilderness (E),2017-04-22,,Muscidae,Coenosia agomyzina,f,"Fonseca, 1968",As Allognota agromyzina
+188,61,The Wilderness (E),2017-04-22,,Muscidae,Coenosia agomyzina,m,"Fonseca, 1968",As Allognota agromyzina
 188,62,The Wilderness (E),2017-04-22,,Fanniidae,,f,,
 188,63,The Wilderness (E),2017-04-22,,Fanniidae,,m,,
 188,64,The Wilderness (E),2017-04-22,,Fanniidae,,m,,
