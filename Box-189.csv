@@ -13,8 +13,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 189,12,The Wilderness (W),2017-04-22,,Syrphidae,Cheilosia sp,m,,
 189,13,The Wilderness (W),2017-04-22,Hymenoptera,Apidae,Nomada sp,f,,
 189,14,The Wilderness (W),2017-04-22,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",
-189,15,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",
-189,16,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",
+189,15,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+189,16,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 189,17,The Wilderness (W),2017-04-22,,Calliphoridae,Melinda sp,f,,
 189,18,The Wilderness (W),2017-04-22,,Calliphoridae,Melinda sp,m,,
 189,19,The Wilderness (W),2017-04-22,,Calliphoridae,Melinda sp,m,,
@@ -62,7 +62,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 189,61,The Wilderness (W),2017-04-22,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 189,62,The Wilderness (W),2017-04-22,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
 189,63,The Wilderness (W),2017-04-22,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
-189,64,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",
+189,64,The Wilderness (W),2017-04-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 189,65,The Wilderness (W),2017-04-22,,Calliphoridae,Bellardia sp,f,,
 189,66,The Wilderness (W),2017-04-22,,Tachinidae,Phryxe nemea,f,"Belshaw, 1993 +v5c updates",
 189,67,The Wilderness (W),2017-04-22,,Muscidae,Muscina levida,f,"Fonseca, 1968",
