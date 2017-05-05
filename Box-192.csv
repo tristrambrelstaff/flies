@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 192,18,Whiteknights Park (W),2017-04-30,,Syrphidae,,m,,
 192,19,Whiteknights Park (W),2017-04-30,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011",
 192,20,Whiteknights Park (W),2017-04-30,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
-192,21,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,m,,
-192,22,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,m,,
+192,21,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Botanophila fugax,m,"Ackland draft keys, 2012 & 2015",Antennal 3rd segments missing
+192,22,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Botanophila fugax,m,"Ackland draft keys, 2012 & 2015",
 192,23,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,f,,
 192,24,Whiteknights Park (W),2017-04-30,,Fanniidae,Fannia sp,f,,
 192,25,Whiteknights Park (W),2017-04-30,,Muscidae,Helina lasiopthalma,m,"Fonseca, 1968",
@@ -44,8 +44,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 192,43,Whiteknights Park (W),2017-04-30,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 192,44,Whiteknights Park (W),2017-04-30,,Stratiomyidae,Beris chalybata,m,"Stubbs & Drake, 2001",
 192,45,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,f,,
-192,46,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,m,,
-192,47,Whiteknights Park (W),2017-04-30,,Anthomyiidae,,m,,
+192,46,Whiteknights Park (W),2017-04-30,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
+192,47,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Botanophila fugax,m,"Ackland draft keys, 2012 & 2015",
 192,48,Whiteknights Park (W),2017-04-30,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 192,49,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 192,50,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 192,52,Whiteknights Park (W),2017-04-30,,Fanniidae,,m,,
 192,53,Whiteknights Park (W),2017-04-30,,Fanniidae,,m,,
 192,54,Whiteknights Park (W),2017-04-30,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
-192,55,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Botanophila striolata,m,"Ackland draft keys, 2012 & 2015",As Botanophila striolata or Botanophila discreta
+192,55,Whiteknights Park (W),2017-04-30,,Anthomyiidae,Alliopsis conifrons,m,"Ackland draft keys, 2012 & 2015",
 192,56,Whiteknights Park (W),2017-04-30,,Empididae,Empis sp,f,,
 192,57,Whiteknights Park (W),2017-04-30,,Empididae,Empis sp,f,,
 192,58,Whiteknights Park (W),2017-04-30,,Empididae,Empis sp,f,,
