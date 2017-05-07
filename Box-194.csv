@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-194,1,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,,
-194,2,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,f,,
-194,3,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,,
+194,1,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+194,2,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+194,3,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 194,4,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
 194,5,Kings Meadow Tescos,2017-05-06,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
-194,6,Kings Meadow Tescos,2017-05-06,,Muscidae,Eudasyphora cyanella,f,,
+194,6,Kings Meadow Tescos,2017-05-06,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
 194,7,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,f,,
 194,8,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,m,,
 194,9,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,m,,
@@ -18,14 +18,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 194,17,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,18,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,m,,
 194,19,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,m,,
-194,20,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,,
+194,20,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,21,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,22,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
-194,23,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,,
-194,24,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,,
-194,25,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,,
+194,23,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
+194,24,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
+194,25,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,26,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
-194,27,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,,
+194,27,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,28,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,29,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
 194,30,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,

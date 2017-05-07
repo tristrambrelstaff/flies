@@ -22,9 +22,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 193,21,Kings Meadow Tescos,2017-05-06,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 193,22,Kings Meadow Tescos,2017-05-06,,Empididae,Empis sp,m,,
 193,23,Kings Meadow Tescos,2017-05-06,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-193,24,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina prolapsa,f,,
-193,25,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina prolapsa,m,,Has many Acari mites!
-193,26,Kings Meadow Tescos,2017-05-06,,Muscidae,Hydrotaea sp,m,,
+193,24,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
+193,25,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum; Has many Acari mites!
+193,26,Kings Meadow Tescos,2017-05-06,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
 193,27,Kings Meadow Tescos,2017-05-06,,Sarcophagidae,Sarcophaga sp,m,,
 193,28,Kings Meadow Tescos,2017-05-06,,Sarcophagidae,Sarcophaga sp,m,,
 193,29,Kings Meadow Tescos,2017-05-06,,Sarcophagidae,Sarcophaga sp,m,,
