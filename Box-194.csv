@@ -2,17 +2,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 194,1,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 194,2,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 194,3,Kings Meadow Tescos,2017-05-06,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-194,4,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
+194,4,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 194,5,Kings Meadow Tescos,2017-05-06,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 194,6,Kings Meadow Tescos,2017-05-06,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
-194,7,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,f,,
-194,8,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,m,,
-194,9,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina sp,m,,
-194,10,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
+194,7,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+194,8,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+194,9,Kings Meadow Tescos,2017-05-06,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+194,10,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 194,11,Kings Meadow Tescos,2017-05-06,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
-194,12,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
-194,13,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
-194,14,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
+194,12,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia cincta,m,"Fonseca, 1968",
+194,13,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia cincta,m,"Fonseca, 1968",
+194,14,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia cincta,m,"Fonseca, 1968",
 194,15,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,16,Kings Meadow Tescos,2017-05-06,,Syrphidae,,f,,
 194,17,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 194,19,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,m,,
 194,20,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,21,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
-194,22,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
+194,22,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 194,23,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,24,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
 194,25,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow; Wings darkened
@@ -30,17 +30,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 194,29,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
 194,30,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
 194,31,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
-194,32,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia sp,m,,
+194,32,Kings Meadow Tescos,2017-05-06,,Muscidae,Phaonia cincta,m,"Fonseca, 1968",
 194,33,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,m,,
 194,34,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,35,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
-194,36,Kings Meadow Tescos,2017-05-06,,Muscidae,,f,,
+194,36,Kings Meadow Tescos,2017-05-06,,Muscidae,Hydrotaea basdeni,f,"Fonseca, 1968",
 194,37,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,38,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
 194,39,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,40,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,m,,
 194,41,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
-194,42,Kings Meadow Tescos,2017-05-06,,Muscidae,,f,,
+194,42,Kings Meadow Tescos,2017-05-06,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968",As Hebecnema assimilis; Halteres yellow
 194,43,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,f,,
 194,44,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
 194,45,Kings Meadow Tescos,2017-05-06,,Fanniidae,Fannia sp,f,,
@@ -60,4 +60,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 194,59,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,m,,
 194,60,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,m,,
 194,61,Kings Meadow Tescos,2017-05-06,,Anthomyiidae,,m,,
-194,62,Kings Meadow Tescos,2017-05-06,,Muscidae,Coenosia sp,f,,
+194,62,Kings Meadow Tescos,2017-05-06,,Muscidae,Coenosia albicornis,f,"Fonseca, 1968",As Coenosia lineatipes; One hind leg missing
