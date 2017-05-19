@@ -16,11 +16,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 196,15,Whiteknights Park (E-FH),2017-05-13,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
 196,16,Whiteknights Park (E-FH),2017-05-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 196,17,Whiteknights Park (E-FH),2017-05-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-196,18,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Graphomya maculata,f,,
+196,18,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 196,19,Whiteknights Park (E-FH),2017-05-13,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 196,20,Whiteknights Park (E-FH),2017-05-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 196,21,Whiteknights Park (E-FH),2017-05-13,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
-196,22,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Muscina levida,f,,
+196,22,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina affinis
 196,23,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 196,24,Whiteknights Park (E-FH),2017-05-13,,Syrphidae,,f,,
 196,25,Whiteknights Park (E-FH),2017-05-13,,Dolichopodidae,,m,,
@@ -28,21 +28,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 196,27,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 196,28,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 196,29,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-196,30,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,f,,Abdomen greasy
-196,31,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,m,,
-196,32,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,m,,
+196,30,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Greasy
+196,31,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
+196,32,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
 196,33,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-196,34,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,f,,
-196,35,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,f,,
-196,36,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,f,,
-196,37,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,m,,
+196,34,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
+196,35,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
+196,36,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+196,37,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 196,38,Whiteknights Park (E-FH),2017-05-13,,Anthomyiidae,,f,,
 196,39,Whiteknights Park (E-FH),2017-05-13,,Anthomyiidae,,f,,
-196,40,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema sp,f,,
-196,41,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema sp,f,,
+196,40,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+196,41,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 196,42,Whiteknights Park (E-FH),2017-05-13,,Fanniidae,Fannia sp,m,,
-196,43,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia sp,m,,
-196,44,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema sp,f,,
+196,43,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
+196,44,Whiteknights Park (E-FH),2017-05-13,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 196,45,Whiteknights Park (E-FH),2017-05-13,,Agromyzidae,,f,,
 196,46,Whiteknights Park (E-FH),2017-05-13,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 196,47,Whiteknights Park (E-FH),2017-05-13,,Tephritidae,Chaetostomella cylindrica,m,"White, 1988",

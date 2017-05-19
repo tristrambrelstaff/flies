@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 195,30,Whiteknights Park (W),2017-05-13,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Thorax greasy
 195,31,Whiteknights Park (W),2017-05-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 195,32,Whiteknights Park (W),2017-05-13,,Syrphidae,,m,,
-195,33,Whiteknights Park (W),2017-05-13,,Muscidae,Phaonia sp,m,,
-195,34,Whiteknights Park (W),2017-05-13,,Muscidae,Phaonia sp,f,,
+195,33,Whiteknights Park (W),2017-05-13,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
+195,34,Whiteknights Park (W),2017-05-13,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 195,35,Whiteknights Park (W),2017-05-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 195,36,Whiteknights Park (W),2017-05-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 195,37,Whiteknights Park (W),2017-05-13,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
@@ -41,12 +41,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 195,40,Whiteknights Park (W),2017-05-13,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 195,41,Whiteknights Park (W),2017-05-13,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 195,42,Whiteknights Park (W),2017-05-13,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
-195,43,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema sp,f,,
-195,44,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema sp,f,,
-195,45,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,m,,
-195,46,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,m,,
-195,47,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema sp,f,,
-195,48,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema sp,f,,
+195,43,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+195,44,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+195,45,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+195,46,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+195,47,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+195,48,Whiteknights Park (W),2017-05-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 195,49,Whiteknights Park (W),2017-05-13,,Fanniidae,Fannia sp,f,,
 195,50,Whiteknights Park (W),2017-05-13,,Fanniidae,Fannia sp,f,,
 195,51,Whiteknights Park (W),2017-05-13,,Fanniidae,Fannia sp,m,,
