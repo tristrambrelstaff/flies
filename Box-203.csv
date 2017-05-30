@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 203,1,Roseberry Common,2017-05-22,,Muscidae,Mesembrina meridiana,m,,
 203,2,Roseberry Common,2017-05-22,,Calliphoridae,Calliphora vicina,m,,
-203,3,Roseberry Common,2017-05-22,,Tachinidae,Gymnocheta viridis,m,,
-203,4,Roseberry Common,2017-05-22,,Tachinidae,Gymnocheta viridis,f,,
+203,3,Roseberry Common,2017-05-22,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
+203,4,Roseberry Common,2017-05-22,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
 203,5,Roseberry Common,2017-05-22,,Muscidae,,m,,
 203,6,Roseberry Common,2017-05-22,,Muscidae,Morellia sp,f,,
 203,7,Roseberry Common,2017-05-22,,Muscidae,Morellia sp,m,,
