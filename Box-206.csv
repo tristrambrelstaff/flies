@@ -21,10 +21,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 206,20,Chazey Wood,2017-06-03,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
 206,21,Chazey Wood,2017-06-03,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 206,22,Chazey Wood,2017-06-03,,Syrphidae,Cheilosia sp,f,,
-206,23,Chazey Wood,2017-06-03,,Muscidae,,m,,
-206,24,Chazey Wood,2017-06-03,,Muscidae,Phaonia sp,f,,
-206,25,Chazey Wood,2017-06-03,,Muscidae,Phaonia sp,f,,
-206,26,Chazey Wood,2017-06-03,,Muscidae,,m,,
+206,23,Chazey Wood,2017-06-03,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+206,24,Chazey Wood,2017-06-03,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+206,25,Chazey Wood,2017-06-03,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+206,26,Chazey Wood,2017-06-03,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 206,27,Chazey Wood,2017-06-03,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 206,28,Chazey Wood,2017-06-03,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 206,29,Chazey Wood,2017-06-03,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 206,39,Chazey Wood,2017-06-03,,Anthomyiidae,,m,,
 206,40,Chazey Wood,2017-06-03,,Anthomyiidae,,f,,
 206,41,Chazey Wood,2017-06-03,,Anthomyiidae,,f,,
-206,42,Chazey Wood,2017-06-03,,Muscidae,Coenosia sp,,,
+206,42,Chazey Wood,2017-06-03,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 206,43,Chazey Wood,2017-06-03,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 206,44,Chazey Wood,2017-06-03,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 206,45,Chazey Wood,2017-06-03,,Tachinidae,Macquartia dispar,f,"Belshaw, 1993 +v5c updates",
