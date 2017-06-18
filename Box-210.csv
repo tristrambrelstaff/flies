@@ -24,19 +24,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 210,23,Kings Meadow Tescos,2017-06-17,,Dolichopodidae,,m,,
 210,24,Kings Meadow Tescos,2017-06-17,,Dolichopodidae,,m,,
 210,25,Kings Meadow Tescos,2017-06-17,,Dolichopodidae,,f,,
-210,26,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,,
-210,27,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina prolapsa,m,,
-210,28,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,,
-210,29,Kings Meadow Tescos,2017-06-17,,Muscidae,,m,,
-210,30,Kings Meadow Tescos,2017-06-17,,Muscidae,,m,,
-210,31,Kings Meadow Tescos,2017-06-17,,Muscidae,,,,
+210,26,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+210,27,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
+210,28,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+210,29,Kings Meadow Tescos,2017-06-17,,Muscidae,Mydaea ancilla,m,"Fonseca, 1968",
+210,30,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+210,31,Kings Meadow Tescos,2017-06-17,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 210,32,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,m,,
 210,33,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
 210,34,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
 210,35,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
 210,36,Kings Meadow Tescos,2017-06-17,,Sciomyzidae,,m,,
 210,37,Kings Meadow Tescos,2017-06-17,,Sciomyzidae,,f,,
-210,38,Kings Meadow Tescos,2017-06-17,,Muscidae,Coenosia sp,f,,
+210,38,Kings Meadow Tescos,2017-06-17,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
 210,39,Kings Meadow Tescos,2017-06-17,,Lauxaniidae,,f,,
 210,40,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,f,,
 210,41,Kings Meadow Tescos,2017-06-17,,Syrphidae,,m,,
