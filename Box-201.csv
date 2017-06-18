@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-201,1,Below Hangingstone,2017-05-21,,Muscidae,Phaonia palpata,f,,
+201,1,Below Hangingstone,2017-05-21,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 201,2,Below Hangingstone,2017-05-21,,Muscidae,Hebecnema vespertina,m,,
 201,3,Below Hangingstone,2017-05-21,,Anthomyiidae,,f,,
 201,4,Below Hangingstone,2017-05-21,,Anthomyiidae,,m,,
@@ -30,16 +30,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 201,29,Bousdale,2017-05-22,,Muscidae,,f,,Abdomen greasy
 201,30,Bousdale,2017-05-22,,Muscidae,Mydaea sp,m,,
 201,31,Bousdale,2017-05-22,,Muscidae,Phaonia sp,m,,
-201,32,Bousdale,2017-05-22,,Muscidae,Graphomya maculata,f,,
+201,32,Bousdale,2017-05-22,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 201,33,Bousdale,2017-05-22,,Muscidae,Mydaea sp,m,,
 201,34,Bousdale,2017-05-22,,Anthomyiidae,,f,,
-201,35,Bousdale,2017-05-22,,Muscidae,Morellia sp,f,,
-201,36,Bousdale,2017-05-22,,Muscidae,Morellia sp,f,,
-201,37,Bousdale,2017-05-22,,Muscidae,Morellia sp,f,,
-201,38,Bousdale,2017-05-22,,Muscidae,Morellia sp,f,,
-201,39,Bousdale,2017-05-22,,Muscidae,Hydrotaea diabolus,m,,
-201,40,Bousdale,2017-05-22,,Muscidae,Hydrotaea diabolus,m,,
-201,41,Bousdale,2017-05-22,,Muscidae,Eudasyphora cyanella,f,,
+201,35,Bousdale,2017-05-22,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
+201,36,Bousdale,2017-05-22,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
+201,37,Bousdale,2017-05-22,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
+201,38,Bousdale,2017-05-22,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
+201,39,Bousdale,2017-05-22,,Muscidae,Hydrotaea diabolus,m,"Fonseca, 1968",As Hydrotaea bimaculata
+201,40,Bousdale,2017-05-22,,Muscidae,Hydrotaea diabolus,m,"Fonseca, 1968",As Hydrotaea bimaculata
+201,41,Bousdale,2017-05-22,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 201,42,Bousdale,2017-05-22,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 201,43,Bousdale,2017-05-22,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 201,44,Bousdale,2017-05-22,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
