@@ -12,9 +12,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 214,11,Whiteknights Park (W),2017-07-02,,Anthomyiidae,,f,,
 214,12,Whiteknights Park (W),2017-07-02,,Anthomyiidae,,f,,
 214,13,Whiteknights Park (W),2017-07-02,,Anthomyiidae,,f,,
-214,14,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus cristatus,m,,
-214,15,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus cristatus,m,,
-214,16,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus asiliformis,f,,
+214,14,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
+214,15,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
+214,16,Whiteknights Park (W),2017-07-02,,Rhagionidae,Chrysopilus asiliformis,f,"Stubbs & Drake, 2001",Antennae missing
 214,17,Whiteknights Park (W),2017-07-02,,Syrphidae,Sphaerophoria sp,f,,
 214,18,Whiteknights Park (W),2017-07-02,,Muscidae,Phaonia palpata,m,,
 214,19,Whiteknights Park (W),2017-07-02,,Sciomyzidae,Pherbellia sp,m,,
