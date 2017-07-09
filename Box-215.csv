@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-215,1,Malvern Court,2017-07-07,,Stratiomyidae,Beris sp,f,,
+215,1,Malvern Court,2017-07-07,,Scenopinidae,Scenopinius fenestralis,f,"Stubbs & Drake, 2001",Antennae missing
 215,2,Kings Meadow Tescos,2017-07-07,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,,
 215,3,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,m,,
 215,4,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,f,,
 215,5,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Lucilia sp,m,,
-215,6,Kings Meadow Tescos,2017-07-07,,Conopidae,Physocephala rufipes,,,
+215,6,Kings Meadow Tescos,2017-07-07,,Conopidae,Physocephala rufipes,m,"Clements, 1995",
 215,7,Kings Meadow Tescos,2017-07-07,,Sarcophagidae,Sarcophaga sp,m,,
 215,8,Kings Meadow Tescos,2017-07-07,,Sarcophagidae,Sarcophaga sp,m,,
 215,9,Kings Meadow Tescos,2017-07-07,,Sarcophagidae,Sarcophaga sp,m,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,23,Kings Meadow Tescos,2017-07-07,,Rhinophoridae,Rhinophora lepida,,,
 215,24,Kings Meadow Tescos,2017-07-07,,Rhinophoridae,Rhinophora lepida,,,
 215,25,Kings Meadow Tescos,2017-07-07,,Rhinophoridae,Rhinophora lepida,,,
-215,26,Kings Meadow Tescos,2017-07-07,,Lauxaniidae,,f,,
+215,26,Kings Meadow Tescos,2017-07-07,,Lauxaniidae,Homoneura sp,f,"Schacht et al, 2004 translation of Shatalkin, 2000",
 215,27,Kings Meadow Tescos,2017-07-07,,Tachinidae,Nemorilla floralis,f,"Belshaw, 1993 +v5c updates",
 215,28,Kings Meadow Tescos,2017-07-07,,Tachinidae,Meigenia sp,f,"Belshaw, 1993 +v5c updates",
 215,29,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,,f,,
@@ -39,5 +39,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,38,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
 215,39,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
 215,40,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Pollenia sp,m,,
-215,41,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,,
-215,42,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,,
+215,41,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+215,42,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
