@@ -2,18 +2,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 199,1,Highcliff,2017-05-21,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 199,2,Highcliff,2017-05-21,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 199,3,Highcliff,2017-05-21,,Calliphoridae,Bellardia cf viarum,f,"Rognes, 1991",
-199,4,Highcliff,2017-05-21,,Muscidae,Phaonia sp,m,,
-199,5,Highcliff,2017-05-21,,Muscidae,Phaonia sp,f,,
+199,4,Highcliff,2017-05-21,,Muscidae,Phaonia fusca,m,"Fonseca, 1968",
+199,5,Highcliff,2017-05-21,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 199,6,Highcliff,2017-05-21,,Anthomyiidae,,m,,
-199,7,Highcliff,2017-05-21,,Muscidae,Phaonia sp,m,,
+199,7,Highcliff,2017-05-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 199,8,Highcliff,2017-05-21,,Anthomyiidae,,m,,
 199,9,Highcliff,2017-05-21,,Anthomyiidae,,m,,
-199,10,Highcliff,2017-05-21,,Muscidae,,f,,
-199,11,Highcliff,2017-05-21,,Muscidae,,m,,
-199,12,Highcliff,2017-05-21,,Muscidae,,m,,
-199,13,Highcliff,2017-05-21,,Muscidae,,m,,
+199,10,Highcliff,2017-05-21,,Muscidae,Helina arctata,f,"Fonseca, 1968",
+199,11,Highcliff,2017-05-21,,Muscidae,Helina arctata,m,"Fonseca, 1968",
+199,12,Highcliff,2017-05-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+199,13,Highcliff,2017-05-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 199,14,Highcliff,2017-05-21,,Anthomyiidae,,m,,
-199,15,Highcliff,2017-05-21,,Muscidae,,m,,
+199,15,Highcliff,2017-05-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 199,16,Highcliff,2017-05-21,,Anthomyiidae,,m,,
 199,17,Highcliff,2017-05-21,,Anthomyiidae,,m,,
 199,18,Highcliff,2017-05-21,Hymenoptera,Tenthredinidae,Dolerus sp,,,
@@ -33,8 +33,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 199,32,Highcliff,2017-05-21,,Anthomyiidae,,m,,
 199,33,Codhill Slack,2017-05-21,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 199,34,Codhill Slack,2017-05-21,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
-199,35,Codhill Slack,2017-05-21,,Muscidae,,f,,
-199,36,Codhill Slack,2017-05-21,,Muscidae,,f,,
+199,35,Codhill Slack,2017-05-21,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+199,36,Codhill Slack,2017-05-21,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 199,37,Codhill Slack,2017-05-21,,Anthomyiidae,,f,,
 199,38,Codhill Slack,2017-05-21,,Anthomyiidae,,m,,
 199,39,Codhill Slack,2017-05-21,,Anthomyiidae,,m,,
