@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,2,Kings Meadow Tescos,2017-07-07,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,,
 215,3,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,m,,
 215,4,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,f,,
-215,5,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Lucilia sp,m,,
+215,5,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 215,6,Kings Meadow Tescos,2017-07-07,,Conopidae,Physocephala rufipes,m,"Clements, 1995",
 215,7,Kings Meadow Tescos,2017-07-07,,Sarcophagidae,Sarcophaga sp,m,,
 215,8,Kings Meadow Tescos,2017-07-07,,Sarcophagidae,Sarcophaga sp,m,,
@@ -38,6 +38,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,37,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
 215,38,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
 215,39,Kings Meadow Tescos,2017-07-07,,Anthomyiidae,Anthomyia procellaris grp,m,,
-215,40,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Pollenia sp,m,,
+215,40,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 215,41,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 215,42,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
