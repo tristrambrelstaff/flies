@@ -1,28 +1,28 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-205,1,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga sp,m,,
-205,2,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga sp,f,,
-205,3,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga sp,f,,
+205,1,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+205,2,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+205,3,"Mill Field Meadow, Saltburn",2017-05-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 205,4,"Mill Field Meadow, Saltburn",2017-05-23,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 205,5,Whiteknights Park (E-FH),2017-05-26,Mecoptera,Panorpidae,Panorpa sp,f,,
 205,6,Whiteknights Park (E-FH),2017-05-26,,Empididae,Empis sp,f,,
 205,7,Whiteknights Park (E-FH),2017-05-26,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
-205,8,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,9,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,10,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,11,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,12,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,13,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
+205,8,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+205,9,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+205,10,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+205,11,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata; Cerci missing
+205,12,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+205,13,Whiteknights Park (E-FH),2017-05-26,,Sarcophagidae,Sarcophaga dissmilis,m,"Richet et al, 2011",
 205,14,Whiteknights Park (W),2017-05-26,,Empididae,Empis sp,f,,
-205,15,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,16,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,f,,
-205,17,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
+205,15,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+205,16,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+205,17,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 205,18,Whiteknights Park (W),2017-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 205,19,Whiteknights Park (W),2017-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 205,20,Whiteknights Park (W),2017-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 205,21,Whiteknights Park (W),2017-05-26,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
 205,22,Whiteknights Park (W),2017-05-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 205,23,Whiteknights Park (W),2017-05-26,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
-205,24,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
+205,24,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 205,25,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
 205,26,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,f,,
 205,27,"Oscar Wilde Walk, Reading",2017-06-03,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
