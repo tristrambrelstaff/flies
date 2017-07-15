@@ -23,8 +23,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 205,22,Whiteknights Park (W),2017-05-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 205,23,Whiteknights Park (W),2017-05-26,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 205,24,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
-205,25,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,m,,
-205,26,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga sp,f,,
+205,25,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata; 2 legs on attached slip
+205,26,Whiteknights Park (W),2017-05-26,,Sarcophagidae,Sarcophaga cf pumila,f,"Pape, 1987",As Discachaeta pumila
 205,27,"Oscar Wilde Walk, Reading",2017-06-03,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 205,28,"Oscar Wilde Walk, Reading",2017-06-03,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 205,29,"Oscar Wilde Walk, Reading",2017-06-03,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
