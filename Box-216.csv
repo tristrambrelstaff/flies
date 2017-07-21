@@ -28,10 +28,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 216,27,Whiteknights Park (W),2017-07-16,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 216,28,Whiteknights Park (W),2017-07-16,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 216,29,Whiteknights Park (W),2017-07-16,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-216,30,Whiteknights Park (W),2017-07-16,,Muscidae,Muscina levida,m,,
-216,31,Whiteknights Park (W),2017-07-16,,Muscidae,Hydrotaea sp,m,,Wings darkened
-216,32,Whiteknights Park (W),2017-07-16,,Muscidae,Phaonia sp,f,,
-216,33,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomyia maculata,m,,
-216,34,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomyia maculata,m,,
-216,35,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomyia maculata,f,,
-216,36,Whiteknights Park (W),2017-07-16,,Muscidae,Helina sp,f,,
+216,30,Whiteknights Park (W),2017-07-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+216,31,Whiteknights Park (W),2017-07-16,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
+216,32,Whiteknights Park (W),2017-07-16,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+216,33,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+216,34,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+216,35,Whiteknights Park (W),2017-07-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
+216,36,Whiteknights Park (W),2017-07-16,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
