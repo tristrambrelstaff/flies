@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 217,41,Whiteknights Park (W),2017-07-16,,Anthomyiidae,,m,,
 217,42,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 217,43,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
-217,44,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga sp,f,,
+217,44,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga agnata,f,"Pape, 1987",As Helicophagella agnata
 217,45,Whiteknights Park (E-FH),2017-07-16,,Tachinidae,Solieria sp,f,"Belshaw, 1993 +v5c updates",
 217,46,Whiteknights Park (E-FH),2017-07-16,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 217,47,Whiteknights Park (E-FH),2017-07-16,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
@@ -51,8 +51,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 217,50,Whiteknights Park (E-FH),2017-07-16,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 217,51,Whiteknights Park (E-FH),2017-07-16,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 217,52,Whiteknights Park (E-FH),2017-07-16,,Rhinophoridae,Stevenia atramentaria,m,"Falk draft key, 2016",
-217,53,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga sp,m,,
-217,54,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Sarcophaga sp,m,,
+217,53,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
+217,54,Whiteknights Park (E-FH),2017-07-16,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
 217,55,Whiteknights Park (E-FH),2017-07-16,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 217,56,Whiteknights Park (E-FH),2017-07-16,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
 217,57,Whiteknights Park (E-FH),2017-07-16,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
