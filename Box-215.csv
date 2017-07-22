@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,1,Malvern Court,2017-07-07,,Scenopinidae,Scenopinius fenestralis,f,"Stubbs & Drake, 2001",Antennae missing
-215,2,Kings Meadow Tescos,2017-07-07,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,,
+215,2,Kings Meadow Tescos,2017-07-07,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,f,"Achterberg & Talebi, 2014",
 215,3,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,m,,
 215,4,Kings Meadow Tescos,2017-07-07,,Lonchaeidae,,f,,
 215,5,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 215,40,Kings Meadow Tescos,2017-07-07,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 215,41,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 215,42,Kings Meadow Tescos,2017-07-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-215,43,Whiteknights Park (W),2017-07-16,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,m,,
+215,43,Whiteknights Park (W),2017-07-16,Hymenoptera,Gasteruptiidae,Gasteruption jaculator,m,"Achterberg & Talebi, 2014",
 215,44,Whiteknights Park (W),2017-07-16,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 215,45,Whiteknights Park (W),2017-07-16,,Tachinidae,Gymnosoma sp,m,"Belshaw, 1993 +v5c updates",
 215,46,Whiteknights Park (W),2017-07-16,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
