@@ -18,11 +18,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 219,17,Chazey Wood,2017-07-23,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 219,18,Chazey Wood,2017-07-23,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 219,19,Chazey Wood,2017-07-23,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
-219,20,Chazey Wood,2017-07-23,,Muscidae,Morellia sp,f,,
-219,21,Chazey Wood,2017-07-23,,Muscidae,Morellia sp,f,,
-219,22,Chazey Wood,2017-07-23,,Muscidae,Morellia sp,m,,
-219,23,Chazey Wood,2017-07-23,,Muscidae,Morellia sp,f,,
-219,24,Chazey Wood,2017-07-23,,Muscidae,Helina sp,f,,
+219,20,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
+219,21,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
+219,22,Chazey Wood,2017-07-23,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
+219,23,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
+219,24,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 219,25,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
 219,26,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
 219,27,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
@@ -35,8 +35,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 219,34,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
 219,35,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
 219,36,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,37,Chazey Wood,2017-07-23,,Muscidae,Helina sp,f,,
-219,38,Chazey Wood,2017-07-23,,Muscidae,Helina sp,f,,
+219,37,Chazey Wood,2017-07-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+219,38,Chazey Wood,2017-07-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 219,39,Chazey Wood,2017-07-23,,Anthomyiidae,Anthomyia procellaris grp,f,,
 219,40,Chazey Wood,2017-07-23,,Anthomyiidae,,m,,
 219,41,Chazey Wood,2017-07-23,,Anthomyiidae,,m,,
