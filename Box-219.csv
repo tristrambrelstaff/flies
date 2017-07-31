@@ -4,15 +4,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 219,3,Chazey Wood,2017-07-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 219,4,Chazey Wood,2017-07-23,,Sarcophagidae,Sarcophaga agnata,m,"Pape, 1987",As Helicophagella agnata
 219,5,Chazey Wood,2017-07-23,Hymenoptera,Crabronidae,,f,,
-219,6,Chazey Wood,2017-07-23,,Calliphoridae,Melinda sp,f,,
-219,7,Chazey Wood,2017-07-23,,Calliphoridae,Melinda sp,f,,
+219,6,Chazey Wood,2017-07-23,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
+219,7,Chazey Wood,2017-07-23,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 219,8,Chazey Wood,2017-07-23,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 219,9,Chazey Wood,2017-07-23,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 219,10,Chazey Wood,2017-07-23,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 219,11,Chazey Wood,2017-07-23,,Tachinidae,Aplomya confinis,m,"Belshaw, 1993 +v5c updates",
 219,12,Chazey Wood,2017-07-23,,Tachinidae,Aplomya confinis,m,"Belshaw, 1993 +v5c updates",
-219,13,Chazey Wood,2017-07-23,,Calliphoridae,Lucilia sp,m,,
-219,14,Chazey Wood,2017-07-23,,Calliphoridae,Lucilia sp,m,,
+219,13,Chazey Wood,2017-07-23,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+219,14,Chazey Wood,2017-07-23,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 219,15,Chazey Wood,2017-07-23,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
 219,16,Chazey Wood,2017-07-23,,Syrphidae,Pipiza sp,m,,
 219,17,Chazey Wood,2017-07-23,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
@@ -23,18 +23,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 219,22,Chazey Wood,2017-07-23,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina affinis
 219,23,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 219,24,Chazey Wood,2017-07-23,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
-219,25,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
-219,26,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
-219,27,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,f,,
-219,28,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,29,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,30,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,31,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,32,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,33,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,34,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,35,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
-219,36,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia sp,m,,
+219,25,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+219,26,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+219,27,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+219,28,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+219,29,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+219,30,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+219,31,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+219,32,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+219,33,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+219,34,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+219,35,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+219,36,Chazey Wood,2017-07-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 219,37,Chazey Wood,2017-07-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 219,38,Chazey Wood,2017-07-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 219,39,Chazey Wood,2017-07-23,,Anthomyiidae,Anthomyia procellaris grp,f,,
