@@ -14,23 +14,23 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 222,13,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,m,,
 222,14,The Wilderness (W),2017-08-01,,Sarcophagidae,Pollenia sp,m,,
 222,15,The Wilderness (W),2017-08-01,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
-222,16,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,f,,
-222,17,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,f,,
-222,18,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,f,,
-222,19,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,f,,
-222,20,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,f,,
-222,21,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,m,,
-222,22,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,m,,
-222,23,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,f,,
-222,24,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,m,,
-222,25,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,m,,
-222,26,The Wilderness (W),2017-08-01,,Muscidae,Phaonia sp,m,,
-222,27,The Wilderness (W),2017-08-01,,Muscidae,Morellia sp,m,,
+222,16,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+222,17,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+222,18,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+222,19,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+222,20,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+222,21,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",As Graphomya picta
+222,22,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",As Graphomya picta
+222,23,The Wilderness (W),2017-08-01,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",As Graphomya picta
+222,24,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+222,25,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+222,26,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,m,"Fonseca, 1968",As Phaonia basalis
+222,27,The Wilderness (W),2017-08-01,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 222,28,The Wilderness (W),2017-08-01,,Syrphidae,Leucozona laternaria,f,,
 222,29,The Wilderness (W),2017-08-01,,Anthomyiidae,,m,,
 222,30,The Wilderness (W),2017-08-01,,Anthomyiidae,,m,,
-222,31,The Wilderness (W),2017-08-01,,Muscidae,,f,,
-222,32,The Wilderness (W),2017-08-01,,Muscidae,,f,,
+222,31,The Wilderness (W),2017-08-01,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+222,32,The Wilderness (W),2017-08-01,,Muscidae,Hydrotaea meridionalis,f,"Fonseca, 1968",
 222,33,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,,
 222,34,The Wilderness (W),2017-08-01,,Lauxaniidae,Sapromyza sp,,,
 222,35,The Wilderness (W),2017-08-01,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
