@@ -1,14 +1,14 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-220,1,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,1+2 in cop
-220,2,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,f,,1+2 in cop
-220,3,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,4,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,5,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,6,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,7,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,8,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,9,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,10,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,f,,
+220,1,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",1+2 in cop; As Discachaeta pumila
+220,2,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",1+2 in cop; As Discachaeta pumila
+220,3,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+220,4,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
+220,5,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+220,6,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+220,7,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+220,8,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+220,9,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga melanura,m,"Pape, 1987",As Helicophagella melanura
+220,10,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 220,11,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
 220,12,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,f,,
 220,13,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,f,,
@@ -20,17 +20,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 220,19,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
 220,20,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
 220,21,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,22,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,,
-220,23,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,,
-220,24,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,,
-220,25,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,,
-220,26,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
-220,27,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
+220,22,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+220,23,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+220,24,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+220,25,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+220,26,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011",
+220,27,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011",
 220,28,Whiteknights Park (W),2017-07-29,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 220,29,Whiteknights Park (W),2017-07-29,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
-220,30,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
+220,30,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 220,31,Whiteknights Park (W),2017-07-29,,Tachinidae,Phryxe vulgaris,m,"Belshaw, 1993 +v5c updates",
-220,32,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
+220,32,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 220,33,Whiteknights Park (W),2017-07-29,,Tachinidae,Solieria sp,f,"Belshaw, 1993 +v5c updates",
 220,34,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista cf rustica,f,"Belshaw, 1993 +v5c updates",
 220,35,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista cf rustica,f,"Belshaw, 1993 +v5c updates",
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 220,43,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 220,44,Whiteknights Park (W),2017-07-29,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 220,45,Whiteknights Park (W),2017-07-29,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-220,46,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga sp,m,,
+220,46,Whiteknights Park (W),2017-07-29,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
 220,47,Whiteknights Park (W),2017-07-29,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 220,48,Whiteknights Park (W),2017-07-29,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 220,49,Whiteknights Park (W),2017-07-29,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
