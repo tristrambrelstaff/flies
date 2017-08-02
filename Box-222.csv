@@ -7,12 +7,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 222,6,The Wilderness (W),2017-08-01,,Tachinidae,Solieria sp,f,"Belshaw, 1993 +v5c updates",
 222,7,The Wilderness (W),2017-08-01,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
 222,8,The Wilderness (W),2017-08-01,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-222,9,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,,
-222,10,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,m,,
-222,11,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,,
-222,12,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,m,,
-222,13,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,m,,
-222,14,The Wilderness (W),2017-08-01,,Sarcophagidae,Pollenia sp,m,,
+222,9,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+222,10,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+222,11,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+222,12,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+222,13,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+222,14,The Wilderness (W),2017-08-01,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 222,15,The Wilderness (W),2017-08-01,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 222,16,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 222,17,The Wilderness (W),2017-08-01,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 222,30,The Wilderness (W),2017-08-01,,Anthomyiidae,,m,,
 222,31,The Wilderness (W),2017-08-01,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 222,32,The Wilderness (W),2017-08-01,,Muscidae,Hydrotaea meridionalis,f,"Fonseca, 1968",
-222,33,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,,
+222,33,The Wilderness (W),2017-08-01,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 222,34,The Wilderness (W),2017-08-01,,Lauxaniidae,Sapromyza sp,,,
 222,35,The Wilderness (W),2017-08-01,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
 222,36,The Wilderness (W),2017-08-01,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
