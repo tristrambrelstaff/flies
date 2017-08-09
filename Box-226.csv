@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 226,1,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Sarcophaga sp,m,,
-226,2,Whiteknights Park (E-FH),2017-08-06,,Asilidae,,f,,
-226,3,Whiteknights Park (E-FH),2017-08-06,,Asilidae,,f,,
-226,4,Whiteknights Park (E-FH),2017-08-06,,Asilidae,,f,,
+226,2,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
+226,3,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
+226,4,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus rusticus,f,"Stubbs & Drake, 2001",
 226,5,Whiteknights Park (E-FH),2017-08-06,,Tachinidae,Estheria cristata,f,"Belshaw, 1993 +v5c updates",
 226,6,Whiteknights Park (E-FH),2017-08-06,,Tachinidae,Estheria cristata,f,"Belshaw, 1993 +v5c updates",
 226,7,Whiteknights Park (E-FH),2017-08-06,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
