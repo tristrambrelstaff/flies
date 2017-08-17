@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-226,1,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Sarcophaga sp,m,,
+226,1,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 226,2,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
 226,3,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
 226,4,Whiteknights Park (E-FH),2017-08-06,,Asilidae,Machimus rusticus,f,"Stubbs & Drake, 2001",
@@ -13,10 +13,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 226,12,Whiteknights Park (E-FH),2017-08-06,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 226,13,Whiteknights Park (E-FH),2017-08-06,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 226,14,Whiteknights Park (E-FH),2017-08-06,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
-226,15,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Sarcophaga sp,f,,
+226,15,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",As Discachaeta pumila
 226,16,Whiteknights Park (E-FH),2017-08-06,,Lauxaniidae,,f,,
-226,17,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Nyctia halterata,f,,
-226,18,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Nyctia halterata,m,,
+226,17,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Nyctia halterata,f,"Pape, 1987",
+226,18,Whiteknights Park (E-FH),2017-08-06,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 226,19,Whiteknights Park (W),2017-09-12,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates with diagrams from Tsorschnig & Herting, 1993",
 226,20,Whiteknights Park (W),2017-08-12,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates with diagrams from Tsorschnig & Herting, 1993",
 226,21,Whiteknights Park (W),2017-08-12,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
@@ -29,13 +29,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 226,28,Whiteknights Park (W),2017-08-12,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 226,29,Whiteknights Park (W),2017-08-12,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 226,30,Whiteknights Park (W),2017-08-12,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
-226,31,Whiteknights Park (W),2017-08-12,,Sarcophagidae,,m,,
+226,31,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Blaesoxipha sp,m,"Pape, 1987",
 226,32,Whiteknights Park (W),2017-08-12,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 226,33,Whiteknights Park (W),2017-08-12,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-226,34,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,,
-226,35,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,,
-226,36,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-226,37,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
+226,34,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
+226,35,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+226,36,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+226,37,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
 226,38,Whiteknights Park (W),2017-08-12,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 226,39,Whiteknights Park (W),2017-08-12,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 226,40,Whiteknights Park (W),2017-08-12,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",

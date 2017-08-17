@@ -12,10 +12,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 224,11,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 224,12,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga sexpunctata,f,"Pape, 1987",As Pierretia sexpunctata; Maybe Sarcophaga dissimilis?
 224,13,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Pierretia sexpunctata in Pape, 1987 but genitalia don't match"
-224,14,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga sp,m,,
-224,15,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga sp,m,,
-224,16,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga sp,m,,
-224,17,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga sp,m,,
+224,14,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",Heteronychia haemorrhoa
+224,15,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
+224,16,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
+224,17,Whiteknights Park (E),2017-08-04,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 224,18,Whiteknights Park (E),2017-08-04,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 224,19,Whiteknights Park (E),2017-08-04,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 224,20,Whiteknights Park (E),2017-08-04,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
