@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-230,1,Chazey Wood,2017-08-19,,Sciomyzidae,,f,,
+230,1,Chazey Wood,2017-08-19,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
 230,2,Chazey Wood,2017-08-19,,Muscidae,,f,,
 230,3,Chazey Wood,2017-08-19,,Muscidae,Eudasyphora cyanicolor,m,,
 230,4,Chazey Wood,2017-08-19,,Muscidae,Musca autumnalis,m,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 230,23,Chazey Wood,2017-08-19,,Tachinidae,,f,,
 230,24,Chazey Wood,2017-08-19,,Anthomyiidae,,m,,
 230,25,Chazey Wood,2017-08-19,,Anthomyiidae,,m,,
-230,26,Chazey Wood,2017-08-19,,Bibionidae,Dilophus sp,f,,
+230,26,Chazey Wood,2017-08-19,,Bibionidae,Dilophus febrilis,f,"Freeman & Lane, 1985",
 230,27,Chazey Wood,2017-08-19,,Fanniidae,,,,
 230,28,Chazey Wood,2017-08-19,,Fanniidae,Fannia armata,m,,
 230,29,Chazey Wood,2017-08-19,,Fanniidae,Fannia armata,m,,
