@@ -1,14 +1,14 @@
 Box,0,Location,Date,Order,Family,Species,Sex,Key,Notes
 227,1,Whiteknights Park (W),2017-08-12,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-227,2,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,3,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,4,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,,
-227,5,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,6,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,7,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,8,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,9,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,10,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
+227,2,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+227,3,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+227,4,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+227,5,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
+227,6,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011",
+227,7,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga aratrix,m,"Pape, 1987",As Parasarcophaga aratrix
+227,8,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+227,9,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+227,10,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 227,11,Whiteknights Park (W),2017-08-12,,Dolichopodidae,,m,,
 227,12,Whiteknights Park (W),2017-08-12,,Dolichopodidae,,m,,
 227,13,Whiteknights Park (W),2017-08-12,,Dolichopodidae,,m,,
@@ -20,7 +20,7 @@ Box,0,Location,Date,Order,Family,Species,Sex,Key,Notes
 227,19,Whiteknights Park (W),2017-08-12,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 227,20,Whiteknights Park (W),2017-08-12,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 227,21,Whiteknights Park (W),2017-08-12,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-227,22,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,,
+227,22,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 227,23,Whiteknights Park (W),2017-08-12,,Conopidae,Conops ceriaeformis,m,"Clements, 1995",
 227,24,Whiteknights Park (W),2017-08-12,Hymenoptera,Ichneumonidae,,m,,
 227,25,Whiteknights Park (W),2017-08-12,,Syrphidae,,m,,
@@ -29,16 +29,16 @@ Box,0,Location,Date,Order,Family,Species,Sex,Key,Notes
 227,28,Whiteknights Park (W),2017-08-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 227,29,Whiteknights Park (W),2017-08-12,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 227,30,Whiteknights Park (W),2017-08-12,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
-227,31,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,f,,
-227,32,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
+227,31,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga subulata,f,"Pape, 1987",As Bellierioma subulata
+227,32,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga similis,m,"Pape, 1987",As Parasarcophaga similis
 227,33,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 227,34,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 227,35,Whiteknights Park (W),2017-08-12,,Anthomyiidae,,f,,
 227,36,Whiteknights Park (W),2017-08-12,,Anthomyiidae,,f,,
 227,37,Whiteknights Park (W),2017-08-12,,Anthomyiidae,,f,,
 227,38,Whiteknights Park (W),2017-08-12,,Anthomyiidae,,f,,
-227,39,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
-227,40,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga sp,m,,
+227,39,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+227,40,Whiteknights Park (W),2017-08-12,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 227,41,Whiteknights Park (W),2017-08-12,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
 227,42,Whiteknights Park (W),2017-08-12,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
 227,43,Whiteknights Park (W),2017-08-12,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
