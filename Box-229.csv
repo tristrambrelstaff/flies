@@ -37,8 +37,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 229,36,Chazey Wood,2017-08-19,,Calliphoridae,Bellardia sp,m,,
 229,37,Chazey Wood,2017-08-19,,Calliphoridae,Bellardia sp,f,,
 229,38,Chazey Wood,2017-08-19,,Calliphoridae,Bellardia sp,m,,
-229,39,Chazey Wood,2017-08-19,,Muscidae,Mydaea sp,m,,
-229,40,Chazey Wood,2017-08-19,,Muscidae,,f,,
-229,41,Chazey Wood,2017-08-19,,Muscidae,Helina evecta,f,,
-229,42,Chazey Wood,2017-08-19,,Muscidae,,f,,
-229,43,Chazey Wood,2017-08-19,,Muscidae,Helina evecta,f,,
+229,39,Chazey Wood,2017-08-19,,Muscidae,Mydaea ancilla,m,"Fonseca, 1968",
+229,40,Chazey Wood,2017-08-19,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+229,41,Chazey Wood,2017-08-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+229,42,Chazey Wood,2017-08-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+229,43,Chazey Wood,2017-08-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
