@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 229,1,Chazey Wood,2017-08-19,,Tachinidae,Dexiosoma caninum,m,,
 229,2,Chazey Wood,2017-08-19,,Tachinidae,Eurithia sp,f,,
 229,3,Chazey Wood,2017-08-19,,Tachinidae,Eurithia sp,f,,
-229,4,Chazey Wood,2017-08-19,,Sarcophagidae,,f,,
+229,4,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sexpunctata,f,"Pape, 1987",As Pierretia sexpunctata
 229,5,Chazey Wood,2017-08-19,,Tachinidae,,f,,
 229,6,Chazey Wood,2017-08-19,,Tachinidae,,m,,
 229,7,Chazey Wood,2017-08-19,,Tachinidae,,f,,
@@ -12,17 +12,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 229,11,Chazey Wood,2017-08-19,,Calliphoridae,Calliphora vomitoria,m,,
 229,12,Chazey Wood,2017-08-19,,Calliphoridae,Calliphora vomitoria,m,,
 229,13,Chazey Wood,2017-08-19,,Calliphoridae,Calliphora vicina,m,,
-229,14,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,15,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,16,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,17,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,18,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,19,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,20,Chazey Wood,2017-08-19,,Sarcophagidae,Nyctia halterata,m,,
-229,21,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,22,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,f,,
-229,23,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,m,,
-229,24,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,f,,
+229,14,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga subulata,m,"Pape, 1987",As Bellieriomima subulata
+229,15,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+229,16,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+229,17,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga agnata,m,"Pape, 1987",As Helicophagella agnata
+229,18,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+229,19,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+229,20,Chazey Wood,2017-08-19,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+229,21,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga subulata,m,"Pape, 1987",As Bellieriomima subulata
+229,22,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+229,23,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+229,24,Chazey Wood,2017-08-19,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 229,25,Chazey Wood,2017-08-19,,Asilidae,Machimus atricapillus,m,,"Stubbs & Drake, 2001"
 229,26,Chazey Wood,2017-08-19,,Syrphidae,Xanthogramma pedissequum,f,,
 229,27,Chazey Wood,2017-08-19,Hymenoptera,Crabronidae,,m,,
