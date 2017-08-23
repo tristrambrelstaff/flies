@@ -1,12 +1,12 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 230,1,Chazey Wood,2017-08-19,,Sciomyzidae,Tetanocera elata,f,"Rozkosny, 1984",
-230,2,Chazey Wood,2017-08-19,,Muscidae,,f,,
+230,2,Chazey Wood,2017-08-19,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 230,3,Chazey Wood,2017-08-19,,Muscidae,Eudasyphora cyanicolor,m,"Fonseca, 1968",As Dasyphora cyanicolor
 230,4,Chazey Wood,2017-08-19,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 230,5,Chazey Wood,2017-08-19,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 230,6,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
-230,7,Chazey Wood,2017-08-19,,Muscidae,,f,,
-230,8,Chazey Wood,2017-08-19,,Muscidae,,f,,
+230,7,Chazey Wood,2017-08-19,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+230,8,Chazey Wood,2017-08-19,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 230,9,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 230,10,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 230,11,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 230,15,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 230,16,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 230,17,Chazey Wood,2017-08-19,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
-230,18,Chazey Wood,2017-08-19,,Muscidae,Hydrotaea cinerea,f,"Fonseca, 1968",
+230,18,Chazey Wood,2017-08-19,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 230,19,Chazey Wood,2017-08-19,,Anthomyiidae,Anthomyia procellaris grp,m,,
 230,20,Chazey Wood,2017-08-19,,Anthomyiidae,Anthomyia procellaris grp,m,,
 230,21,Chazey Wood,2017-08-19,,Anthomyiidae,Anthomyia procellaris grp,m,,
