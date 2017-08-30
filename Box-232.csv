@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,1,The Wilderness (W),2017-08-27,,Muscidae,Muscina levida,m,,
 232,2,The Wilderness (W),2017-08-25,,Muscidae,Musca autumnalis,f,,
-232,3,The Wilderness (W),2017-08-25,,Anthomyiidae,,f,"Ackland draft keys, 2012 & 2015",Hylemya vagans or Hylema nigrimana
+232,3,The Wilderness (W),2017-08-25,,Anthomyiidae,Hylemya sp,f,"Ackland draft keys, 2012 & 2015",Hylemya vagans or Hylema nigrimana
 232,4,The Wilderness (W),2017-08-25,,Heleomyzidae,,m,,
 232,5,The Wilderness (W),2017-08-25,,Calliphoridae,Pollenia sp,m,,
-232,6,The Wilderness (W),2017-08-25,,Tachinidae,Siphona sp,f,,
+232,6,The Wilderness (W),2017-08-25,,Tachinidae,Siphona cf geniculata,f,"Belshaw, 1993 +v5c updates",
 232,7,The Wilderness (W),2017-08-25,,Muscidae,Coenosia agromyzina,f,,
 232,8,The Wilderness (W),2017-08-25,,Anthomyiidae,,f,,
 232,9,The Wilderness (W),2017-08-25,,Fanniidae,Fannia sp,f,,
@@ -41,9 +41,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,40,The Wilderness (E),2017-08-27,,Mycetophilidae,,m,,
 232,41,The Wilderness (E),2017-08-27,,Hybotidae,Hybos sp,f,,
 232,42,The Wilderness (E),2017-08-27,,Hybotidae,Hybos sp,m,,
-232,43,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,,,
-232,44,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,,,
-232,45,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,,,
+232,43,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
+232,44,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
+232,45,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 232,46,The Wilderness (E),2017-08-27,Hymenoptera,Crabronidae,Ectemnius sp,f,,
 232,47,The Wilderness (E),2017-08-27,,Lauxaniidae,,f,,
 232,48,The Wilderness (E),2017-08-27,,Lauxaniidae,,f,,
