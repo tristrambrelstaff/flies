@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,2,The Wilderness (W),2017-08-25,,Muscidae,Musca autumnalis,f,,
 232,3,The Wilderness (W),2017-08-25,,Anthomyiidae,Hylemya sp,f,"Ackland draft keys, 2012 & 2015",Hylemya vagans or Hylema nigrimana
 232,4,The Wilderness (W),2017-08-25,,Heleomyzidae,,m,,
-232,5,The Wilderness (W),2017-08-25,,Calliphoridae,Pollenia sp,m,,
+232,5,The Wilderness (W),2017-08-25,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 232,6,The Wilderness (W),2017-08-25,,Tachinidae,Siphona cf geniculata,f,"Belshaw, 1993 +v5c updates",
 232,7,The Wilderness (W),2017-08-25,,Muscidae,Coenosia agromyzina,f,,
 232,8,The Wilderness (W),2017-08-25,,Anthomyiidae,,f,,
@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,13,The Wilderness (W),2017-08-25,,Tenthredinidae,Athalia sp,m,,
 232,14,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
 232,15,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
-232,16,The Wilderness (E),2017-08-25,,Calliphoridae,Lucilia sp,m,,
+232,16,The Wilderness (E),2017-08-25,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 232,17,The Wilderness (E),2017-08-25,,Muscidae,Phaonia pallida,f,,
 232,18,The Wilderness (E),2017-08-25,,Muscidae,Phaonia pallida,f,,
 232,19,The Wilderness (E),2017-08-25,,Heleomyzidae,,m,,
