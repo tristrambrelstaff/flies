@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-233,1,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Phaonia valida,f,,
+233,1,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 233,2,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga sp,m,,
 233,3,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
 233,4,Whiteknights Park (E-FH),2017-09-02,,Calliphoridae,Lucilia sp,f,,
@@ -14,11 +14,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 233,13,Whiteknights Park (E-FH),2017-09-02,,Muscidae,,m,,
 233,14,Whiteknights Park (E-FH),2017-09-02,,Muscidae,,f,,
 233,15,Whiteknights Park (E-FH),2017-09-02,,Anthomyiidae,,f,,
-233,16,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,,
-233,17,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,,
-233,18,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,,
-233,19,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,m,,
-233,20,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,,
+233,16,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+233,17,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+233,18,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+233,19,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+233,20,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 233,21,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Hebecnema vespertina,m,,
 233,22,Whiteknights Park (E-FH),2017-09-02,,Anthomyiidae,,m,,
 233,23,Whiteknights Park (E-FH),2017-09-02,,Calliphoridae,,m,,
@@ -43,8 +43,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 233,42,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,m,,
 233,43,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
 233,44,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
-233,45,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia sp,f,,
-233,46,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia sp,f,,
+233,45,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+233,46,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 233,47,Whiteknights Park (E),2017-09-02,,Scathophagidae,Scathophaga stercoraria,f,,
 233,48,Whiteknights Park (E),2017-09-02,,Tachinidae,Dexiosoma caninum,f,,
 233,49,Whiteknights Park (E),2017-09-02,,Tachinidae,Eriothrix rufomaculata,f,,
