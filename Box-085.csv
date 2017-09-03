@@ -45,6 +45,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 85,44,Highcliff,2015-06-29,,Anthomyiidae,,m,,
 85,45,Highcliff,2015-06-29,,Sarcophagidae,Sarcophaga sp,m,,
 85,46,Highcliff,2015-06-29,,Bibionidae,Bibio pomonae,m,"Freeman & Lane, 1985",
-85,47,Highcliff,2015-06-29,Mecoptera,Panorpidae,Panorpa sp,m,,
-85,48,Highcliff,2015-06-29,Mecoptera,Panorpidae,Panorpa sp,f,,
+85,47,Highcliff,2015-06-29,Mecoptera,Panorpidae,Panorpa germanica,m,"Fraser, 1959",
+85,48,Highcliff,2015-06-29,Mecoptera,Panorpidae,Panorpa communis,f,"Fraser, 1959",
 85,49,Highcliff,2015-06-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
