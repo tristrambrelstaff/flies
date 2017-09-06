@@ -1,16 +1,16 @@
-Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+Boxconfinis,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 234,1,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-234,2,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina sp,f,,
-234,3,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina sp,f,,
-234,4,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina sp,f,,
-234,5,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina sp,f,,
-234,6,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina sp,f,,
+234,2,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+234,3,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+234,4,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+234,5,Whiteknights Park (E) 2017-09-02,,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+234,6,Whiteknights Park (E) 2017-09-02,,,Muscidae,Myospila meditabunda,f,"Fonseca, 1968",
 234,7,Whiteknights Park (E) 2017-09-02,,,Anthomyiidae,,f,,
 234,8,Whiteknights Park (E) 2017-09-02,,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 234,9,Whiteknights Park (E) 2017-09-02,,,Anthomyiidae,,f,,
 234,10,Whiteknights Park (E) 2017-09-02,,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 234,11,Whiteknights Park (E) 2017-09-02,,,Sciomyzidae,Tetanocera elata,m,"Rozkosny, 1984",
 234,12,Whiteknights Park (E) 2017-09-02,,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-234,13,Whiteknights Park (E) 2017-09-02,,,Muscidae,Hydrotaea sp,f,,
-234,14,Whiteknights Park (E) 2017-09-02,,,Muscidae,Hebecnema sp,f,,
+234,13,Whiteknights Park (E) 2017-09-02,,,Muscidae,Hydrotaea meteorica,f,"Fonseca, 1968",
+234,14,Whiteknights Park (E) 2017-09-02,,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 234,15,Whiteknights Park (E) 2017-09-02,,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
