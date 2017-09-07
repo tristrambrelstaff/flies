@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 233,1,Whiteknights Park (E-FH),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-233,2,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga sp,m,,
-233,3,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
+233,2,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga cf variegata,m,"Pape, 1987",
+233,3,Whiteknights Park (E-FH),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 233,4,Whiteknights Park (E-FH),2017-09-02,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 233,5,Whiteknights Park (E-FH),2017-09-02,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 233,6,Whiteknights Park (E-FH),2017-09-02,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
@@ -40,9 +40,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 233,39,Whiteknights Park (E),2017-09-02,,Anthomyiidae,,f,,
 233,40,Whiteknights Park (E),2017-09-02,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 233,41,Whiteknights Park (E),2017-09-02,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
-233,42,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,m,,
-233,43,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
-233,44,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,,
+233,42,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+233,43,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+233,44,Whiteknights Park (E),2017-09-02,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 233,45,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 233,46,Whiteknights Park (E),2017-09-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 233,47,Whiteknights Park (E),2017-09-02,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
