@@ -4,12 +4,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 231,3,Whiteknights Park (W),2017-08-25,,Anthomyiidae,,f,,
 231,4,Whiteknights Park (W),2017-08-25,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 231,5,Whiteknights Park (W),2017-08-25,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",Abdomen greasy
-231,6,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga sp,f,,
-231,7,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga sp,m,,
+231,6,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga agnata,f,"Pape, 1987",As Helicophagella aganata
+231,7,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 231,8,Whiteknights Park (W),2017-08-25,,Anthomyiidae,,m,,
 231,9,Whiteknights Park (W),2017-08-25,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 231,10,Whiteknights Park (W),2017-08-25,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-231,11,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga sp,f,,
+231,11,Whiteknights Park (W),2017-08-25,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 231,12,Whiteknights Park (W),2017-08-25,,Anthomyiidae,,m,,
 231,13,Whiteknights Park (W),2017-08-25,,Anthomyiidae,,f,,
 231,14,Whiteknights Park (W),2017-08-25,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
@@ -27,8 +27,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 231,26,Whiteknights Park (W),2017-08-27,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 231,27,Whiteknights Park (W),2017-08-27,,Anthomyiidae,,f,,
 231,28,Whiteknights Park (W),2017-08-27,,Sciomyzidae,Pherbellia cinerella,f,"Rozkosny, 1984",
-231,29,Whiteknights Park (W),2017-08-27,,Sarcophagidae,Sarcophaga sp,m,,
-231,30,Whiteknights Park (W),2017-08-27,,Sarcophagidae,Sarcophaga sp,m,,
+231,29,Whiteknights Park (W),2017-08-27,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+231,30,Whiteknights Park (W),2017-08-27,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 231,31,Whiteknights Park (W),2017-08-27,,Dolichopodidae,,m,,
 231,32,Whiteknights Park (W),2017-08-27,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 231,33,Whiteknights Park (W),2017-08-27,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
