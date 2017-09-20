@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 239,1,Highcliff,2017-09-12,Hymenoptera,Ichneumonidae,,,,
 239,2,Highcliff,2017-09-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-239,3,Highcliff,2017-09-12,,Calliphoridae,Lucilia sp,f,,
-239,4,Highcliff,2017-09-12,,Calliphoridae,Lucilia sp,f,,
+239,3,Highcliff,2017-09-12,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+239,4,Highcliff,2017-09-12,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 239,5,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,,
 239,6,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,,
 239,7,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,,
