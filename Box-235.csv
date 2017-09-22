@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-235,1,Bousdale,2017-09-10,,Muscidae,Hebecnema sp,f,,
+235,1,Bousdale,2017-09-10,,Muscidae,Lophosceles cinereiventris,f,"Fonseca, 1968",
 235,2,Bousdale,2017-09-10,,Anthomyiidae,,m,,
 235,3,Bousdale,2017-09-10,,Anthomyiidae,,m,,
 235,4,Bousdale,2017-09-10,,Anthomyiidae,,m,,
@@ -18,8 +18,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 235,17,Below Hangingstone,2017-09-11,,Muscidae,Polietes sp,f,,
 235,18,Below Hangingstone,2017-09-11,,Muscidae,,f,,
 235,19,Below Hangingstone,2017-09-11,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
-235,20,Below Hangingstone,2017-09-11,,Muscidae,Eudasyphora cyanicolor,f,,
-235,21,Below Hangingstone,2017-09-11,,Muscidae,Eudasyphora cyanella,m,,
+235,20,Below Hangingstone,2017-09-11,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
+235,21,Below Hangingstone,2017-09-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 235,22,Below Hangingstone,2017-09-11,,Muscidae,Stomoxys calcitrans,f,"Fonseca, 1968",
 235,23,Below Hangingstone,2017-09-11,,Muscidae,Stomoxys calcitrans,m,"Fonseca, 1968",
 235,24,Below Hangingstone,2017-09-11,,Muscidae,Stomoxys calcitrans,m,"Fonseca, 1968",

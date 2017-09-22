@@ -15,10 +15,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 234,14,Whiteknights Park (E), 2017-09-02,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 234,15,Whiteknights Park (E), 2017-09-02,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
 234,16,Bousdale,2017-09-10,,Syrphidae,Leucozona glaucia,f,,
-234,17,Bousdale,2017-09-10,,Muscidae,Phaonia sp,f,,
-234,18,Bousdale,2017-09-10,,Muscidae,Phaonia sp,f,,
-234,19,Bousdale,2017-09-10,,Muscidae,Helina evecta,m,,
-234,20,Bousdale,2017-09-10,,Muscidae,Helina evecta,m,,
+234,17,Bousdale,2017-09-10,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+234,18,Bousdale,2017-09-10,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+234,19,Bousdale,2017-09-10,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+234,20,Bousdale,2017-09-10,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 234,21,Bousdale,2017-09-10,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",Thorax greasy
 234,22,Bousdale,2017-09-10,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 234,23,Bousdale,2017-09-10,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
@@ -26,24 +26,24 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 234,25,Bousdale,2017-09-10,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 234,26,Bousdale,2017-09-10,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 234,27,Bousdale,2017-09-10,,Anthomyiidae,Hylemya sp,m,,
-234,28,Bousdale,2017-09-10,,Muscidae,Coenosia tigrina,f,,
-234,29,Bousdale,2017-09-10,,Muscidae,Coenosia tigrina,f,,
+234,28,Bousdale,2017-09-10,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+234,29,Bousdale,2017-09-10,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 234,30,Bousdale,2017-09-10,,Tachinidae,Siphona cristata,m,"Belshaw, 1993 +v5c updates",
 234,31,Bousdale,2017-09-10,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 234,32,Bousdale,2017-09-10,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 234,33,Bousdale,2017-09-10,,Opomyzidae,Opomyza florea,f,"Drake, 1993",
 234,34,Bousdale,2017-09-10,,Opomyzidae,Opomyza florea,m,"Drake, 1993",
 234,35,Bousdale,2017-09-10,,Lauxaniidae,,,,
-234,36,Bousdale,2017-09-10,,???,,m,,
-234,37,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,Wings darkened
-234,38,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,Wings darkened
-234,39,Bousdale,2017-09-10,,Muscidae,Hydrotaea sp,f,,
-234,40,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,Wings darkened
-234,41,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,
-234,42,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,
-234,43,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,
-234,44,Bousdale,2017-09-10,,Muscidae,,f,,Left wing shrivelled; Has Acari mite
-234,45,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,,
+234,36,Bousdale,2017-09-10,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+234,37,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+234,38,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+234,39,Bousdale,2017-09-10,,Muscidae,Hydrotaea militaris,f,"Fonseca, 1968",
+234,40,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+234,41,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+234,42,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+234,43,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+234,44,Bousdale,2017-09-10,,Muscidae,Hydrotaea armipes,f,"Fonseca, 1968",Left wing shrivelled; Has Acari mite
+234,45,Bousdale,2017-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 234,46,Bousdale,2017-09-10,,Muscidae,Coenosia sp,f,,
 234,47,Bousdale,2017-09-10,,Muscidae,Coenosia sp,f,,
 234,48,Bousdale,2017-09-10,,Muscidae,Coenosia sp,f,,
