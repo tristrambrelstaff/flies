@@ -10,15 +10,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,9,"Oscar Wilde Walk, Reading",2017-09-23,,Tephritidae,Sphenella marginata,f,"White, 1988",
 240,10,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,m,,
 240,11,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,f,,
-240,12,"Oscar Wilde Walk, Reading",2017-09-23,,Calliphoridae,Melanomya nana,m,,
-240,13,"Oscar Wilde Walk, Reading",2017-09-23,,Calliphoridae,Melanomya nana,m,,
+240,12,"Oscar Wilde Walk, Reading",2017-09-23,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
+240,13,"Oscar Wilde Walk, Reading",2017-09-23,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 240,14,"Oscar Wilde Walk, Reading",2017-09-23,,Sciomyzidae,Pherbellia cinerella,m,"Rozkosny, 1984",
 240,15,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,f,,
 240,16,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,f,,
 240,17,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,f,,
 240,18,"Oscar Wilde Walk, Reading",2017-09-23,,Anthomyiidae,,f,,
-240,19,Quarry near Chazey Wood,2017-09-23,,Calliphoridae,Lucilia sp,f,,
-240,20,Quarry near Chazey Wood,2017-09-23,,Calliphoridae,Lucilia sp,f,,
+240,19,Quarry near Chazey Wood,2017-09-23,,Calliphoridae,Lucilia ampulacea,f,"Rognes, 1991",
+240,20,Quarry near Chazey Wood,2017-09-23,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 240,21,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
 240,22,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
 240,23,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
@@ -46,8 +46,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,45,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,,
 240,46,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,,
 240,47,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,,
-240,48,Chazey Wood,2017-09-23,,Calliphoridae,Melinda sp,f,,
-240,49,Chazey Wood,2017-09-23,,Calliphoridae,Melinda sp,m,,
+240,48,Chazey Wood,2017-09-23,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
+240,49,Chazey Wood,2017-09-23,,Calliphoridae,Eudasyphora cyanicolor,m,"Fonseca, 1968",As Dasyphora cyanicolor
 240,50,Chazey Wood,2017-09-23,,Anthomyiidae,,f,,
 240,51,Chazey Wood,2017-09-23,,Anthomyiidae,,f,,
 240,52,Chazey Wood,2017-09-23,,Muscidae,Coenosia tigrina,f,,
