@@ -1,34 +1,34 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 243,1,Kings Meadow Tescos,2017-09-23,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 243,2,Kings Meadow Tescos,2017-09-23,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
-243,3,Kings Meadow Tescos,2017-09-23,,Muscidae,Phaonia palpata,f,,
+243,3,Kings Meadow Tescos,2017-09-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 243,4,Kings Meadow Tescos,2017-09-23,,Anthomyiidae,,f,,
 243,5,Kings Meadow Tescos,2017-09-23,,Sepsidae,Sepsis sp,,,
 243,6,Kings Meadow Tescos,2017-09-23,,Fanniidae,Fannia sp,f,,
-243,7,Kings Meadow Tescos,2017-09-23,,Muscidae,Hebecnema vespertina,m,,
-243,8,Kings Meadow Tescos,2017-09-23,,Muscidae,Coenosia sp,f,,
-243,9,Whiteknights Park (W),2017-09-30,,Muscidae,Helina evecta,m,,
-243,10,Whiteknights Park (W),2017-09-30,,Muscidae,Helina evecta,m,,
+243,7,Kings Meadow Tescos,2017-09-23,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+243,8,Kings Meadow Tescos,2017-09-23,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+243,9,Whiteknights Park (W),2017-09-30,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+243,10,Whiteknights Park (W),2017-09-30,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 243,11,Whiteknights Park (W),2017-09-30,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-243,12,Whiteknights Park (W),2017-09-30,,Muscidae,Phaonia sp,f,,
-243,13,Whiteknights Park (W),2017-09-30,,Muscidae,Phaonia sp,f,,
+243,12,Whiteknights Park (W),2017-09-30,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+243,13,Whiteknights Park (W),2017-09-30,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 243,14,Whiteknights Park (W),2017-09-30,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
-243,15,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,m,,
-243,16,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,f,,
-243,17,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,m,,
-243,18,Whiteknights Park (W),2017-09-30,,Muscidae,Helina sp,f,,
+243,15,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",
+243,16,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,f,"Fonseca, 1968",
+243,17,Whiteknights Park (W),2017-09-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",
+243,18,Whiteknights Park (W),2017-09-30,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 243,19,Whiteknights Park (W),2017-09-30,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-243,20,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,f,,
-243,21,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,f,,
-243,22,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,m,,
-243,23,Whiteknights Park (W),2017-09-30,,Muscidae,Hebecnema vespertina,f,,
+243,20,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+243,21,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+243,22,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+243,23,Whiteknights Park (W),2017-09-30,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 243,24,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,f,,
 243,25,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,f,,
 243,26,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,f,,
 243,27,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,f,,
 243,28,Whiteknights Park (W),2017-09-30,,Fanniidae,Fannia sp,f,,
 243,29,Whiteknights Park (W),2017-09-30,,Fanniidae,Fannia sp,f,,
-243,30,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,m,,
+243,30,Whiteknights Park (W),2017-09-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 243,31,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,m,,
 243,32,Whiteknights Park (W),2017-09-30,,Anthomyiidae,,m,,
 243,33,Whiteknights Park (W),2017-09-30,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
