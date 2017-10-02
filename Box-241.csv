@@ -6,10 +6,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 241,5,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 241,6,Chazey Wood,2017-09-23,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
 241,7,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
-241,8,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,,
-241,9,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,,
+241,8,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
+241,9,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",Abdomen greasy
 241,10,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
-241,11,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,,
+241,11,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 241,12,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 241,13,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 241,14,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 241,17,Chazey Wood,2017-09-23,,Muscidae,Morellia sp,f,,
 241,18,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
 241,19,Chazey Wood,2017-09-23,,Muscidae,,f,,
-241,20,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,,
+241,20,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 241,21,Chazey Wood,2017-09-23,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 241,22,Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,m,,
 241,23,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
@@ -38,16 +38,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 241,37,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,38,Chazey Wood,2017-09-23,,Muscidae,Eudasyphora cyanicolor,f,,
 241,39,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea sp,m,,
-241,40,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,f,,
+241,40,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 241,41,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 241,42,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,43,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,44,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 241,45,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 241,46,Chazey Wood,2017-09-23,,Anthomyiidae,,m,,
-241,47,Chazey Wood,2017-09-23,,Muscidae,Morellia sp,f,,
+241,47,Chazey Wood,2017-09-23,,Muscidae,Morellia cf aenescens,f,"Fonseca, 1968",Front tibae have no posterior bristles
 241,48,Chazey Wood,2017-09-23,,Calliphoridae,Bellardia cf pandia,f,"Rognes, 1991",
-241,49,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea sp,m,,
-241,50,Chazey Wood,2017-09-23,,Muscidae,Phaonia palpata,f,,
+241,49,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Has many Acari mites
+241,50,Chazey Wood,2017-09-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 241,51,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,52,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
