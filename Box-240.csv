@@ -23,10 +23,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,22,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
 240,23,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
 240,24,Quarry near Chazey Wood,2017-09-23,,Dryomyzidae,Dryomyza anilis,f,"Shtakelberg, 1989",As Neuroctena anilis
-240,25,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia palpata,f,,
-240,26,Quarry near Chazey Wood,2017-09-23,,Muscidae,Hydrotaea sp,m,,
-240,27,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,f,,
-240,28,Quarry near Chazey Wood,2017-09-23,,Muscidae,Hebecnema vespertina,f,,
+240,25,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+240,26,Quarry near Chazey Wood,2017-09-23,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+240,27,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia mystica,f,"Fonseca, 1968",As Phaonia vittifer; Antenna missing
+240,28,Quarry near Chazey Wood,2017-09-23,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont,1984",As Hebecnema affinis; Halteres yellow
 240,29,Quarry near Chazey Wood,2017-09-23,,Fanniidae,Fannia sp,f,,
 240,30,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,f,,
 240,31,Quarry near Chazey Wood,2017-09-23,Hymenoptera,Ichneumonidae,,,,
@@ -50,6 +50,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,49,Chazey Wood,2017-09-23,,Muscidae,Eudasyphora cyanicolor,m,"Fonseca, 1968",As Dasyphora cyanicolor
 240,50,Chazey Wood,2017-09-23,,Anthomyiidae,,f,,
 240,51,Chazey Wood,2017-09-23,,Anthomyiidae,,f,,
-240,52,Chazey Wood,2017-09-23,,Muscidae,Coenosia tigrina,f,,
-240,53,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea sp,m,,
+240,52,Chazey Wood,2017-09-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+240,53,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 240,54,Chazey Wood,2017-09-23,,Anthomyiidae,,f,,
