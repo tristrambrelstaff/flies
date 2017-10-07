@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,1,Behind Hangingstone,2017-09-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",Thorax greasy
-240,2,Behind Hangingstone,2017-09-12,,Muscidae,Helina sp,f,,
+240,2,Behind Hangingstone,2017-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968; Gregor et al, 2016",
 240,3,Behind Hangingstone,2017-09-12,,Anthomyiidae,,f,,
 240,4,Behind Hangingstone,2017-09-12,,Muscidae,Spilogona brunneisquama,f,"Fonseca, 1968",
 240,5,"Oscar Wilde Walk, Reading",2017-09-23,,Agromyzidae,,m,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 240,27,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia mystica,f,"Fonseca, 1968",As Phaonia vittifer; Antenna missing
 240,28,Quarry near Chazey Wood,2017-09-23,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont,1984",As Hebecnema affinis; Halteres yellow
 240,29,Quarry near Chazey Wood,2017-09-23,,Fanniidae,Fannia sp,f,,
-240,30,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,f,,
+240,30,Quarry near Chazey Wood,2017-09-23,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 240,31,Quarry near Chazey Wood,2017-09-23,Hymenoptera,Ichneumonidae,,,,
 240,32,Quarry near Chazey Wood,2017-09-23,,Anthomyiidae,,m,,
 240,33,Quarry near Chazey Wood,2017-09-23,,Hybotidae,Bicellaria sp,f,,
