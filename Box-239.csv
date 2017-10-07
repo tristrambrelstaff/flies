@@ -6,16 +6,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 239,5,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,6,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,7,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-239,8,Highcliff,2017-09-12,,Muscidae,Helina sp,f,,
-239,9,Highcliff,2017-09-12,,Muscidae,Phaonia sp,m,,
-239,10,Highcliff,2017-09-12,,Muscidae,Helina sp,f,,
+239,8,Highcliff,2017-09-12,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+239,9,Highcliff,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+239,10,Highcliff,2017-09-12,,Muscidae,Myospila meditabunda,f,"Fonseca, 1968",
 239,11,Highcliff,2017-09-12,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 239,12,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,13,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,14,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,15,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,16,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-239,17,Highcliff,2017-09-12,,Muscidae,Coenosia tigrina,m,,
+239,17,Highcliff,2017-09-12,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 239,18,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,19,Highcliff,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 239,20,Highcliff,2017-09-12,,Anthomyiidae,,f,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 239,27,Codhill Slack,2017-09-12,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
 239,28,Codhill Slack,2017-09-12,,Muscidae,Polietes lardarius,m,"Fonseca, 1968; Zielke, 2016",
 239,29,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-239,30,Codhill Slack,2017-09-12,,Muscidae,Phaonia sp,f,,
+239,30,Codhill Slack,2017-09-12,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 239,31,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 239,32,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 239,33,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -41,13 +41,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 239,40,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 239,41,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 239,42,Codhill Slack,2017-09-12,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-239,43,Codhill Slack,2017-09-12,,Muscidae,Phaonia sp,m,,
-239,44,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,f,,
+239,43,Codhill Slack,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+239,44,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 239,45,Codhill Slack,2017-09-12,,Anthomyiidae,,f,,
 239,46,Codhill Slack,2017-09-12,,Anthomyiidae,,m,,
 239,47,Codhill Slack,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-239,48,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,m,,
-239,49,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,f,,
+239,48,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+239,49,Codhill Slack,2017-09-12,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 239,50,Codhill Slack,2017-09-12,,Anthomyiidae,,f,,
 239,51,Codhill Slack,2017-09-12,,Anthomyiidae,,f,,
 239,52,Codhill Slack,2017-09-12,,Anthomyiidae,,f,,
