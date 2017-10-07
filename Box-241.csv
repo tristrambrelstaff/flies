@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 241,1,Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,f,,
-241,2,Chazey Wood,2017-09-23,,Muscidae,Polietes sp,f,,
-241,3,Chazey Wood,2017-09-23,,Muscidae,Polietes sp,f,,
+241,2,Chazey Wood,2017-09-23,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
+241,3,Chazey Wood,2017-09-23,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
 241,4,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 241,5,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 241,6,Chazey Wood,2017-09-23,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
