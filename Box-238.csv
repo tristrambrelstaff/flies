@@ -4,17 +4,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 238,3,Behind Hangingstone,2017-09-11,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 238,4,Hutton Village Road,2017-09-11,,Tachinidae,Phryxe nemea,f,"Belshaw, 1993 +v5c updates",
 238,5,Hutton Village Road,2017-09-11,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-238,6,Hutton Village Road,2017-09-11,,Muscidae,Phaonia sp,f,,
-238,7,Hutton Village Road,2017-09-11,,Muscidae,Phaonia sp,f,,
-238,8,Hutton Village Road,2017-09-11,,Muscidae,Phaonia sp,f,,
-238,9,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,f,,
-238,10,Above Hutton Village,2017-09-12,,Muscidae,Helina sp,f,,
-238,11,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,m,,
-238,12,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,f,,
-238,13,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,m,,
-238,14,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,m,,
-238,15,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,m,,
-238,16,Above Hutton Village,2017-09-12,,Muscidae,Phaonia sp,m,,
+238,6,Hutton Village Road,2017-09-11,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
+238,7,Hutton Village Road,2017-09-11,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+238,8,Hutton Village Road,2017-09-11,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+238,9,Above Hutton Village,2017-09-12,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
+238,10,Above Hutton Village,2017-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+238,11,Above Hutton Village,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+238,12,Above Hutton Village,2017-09-12,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
+238,13,Above Hutton Village,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+238,14,Above Hutton Village,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+238,15,Above Hutton Village,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+238,16,Above Hutton Village,2017-09-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 238,17,Above Hutton Village,2017-09-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 238,18,Above Hutton Village,2017-09-12,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 238,19,Above Hutton Village,2017-09-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 238,39,Above Hutton Village,2017-09-12,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 238,40,Above Hutton Village,2017-09-12,,Muscidae,Haematobosca stimulans,m,"Fonseca, 1968",As Haematobia stimulans
 238,41,Above Hutton Village,2017-09-12,,Muscidae,Haematobosca stimulans,m,"Fonseca, 1968",As Haematobia stimulans
-238,42,Above Hutton Village,2017-09-12,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",Palps narrow
+238,42,Above Hutton Village,2017-09-12,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Palps narrow; Not Phaonia tiefii
 238,43,Above Hutton Village,2017-09-12,,Anthomyiidae,,f,,
 238,44,Above Hutton Village,2017-09-12,,Anthomyiidae,,f,,
 238,45,Above Hutton Village,2017-09-12,,Fanniidae,Fannia sp,f,,
