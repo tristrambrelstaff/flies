@@ -1,40 +1,40 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-241,1,Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,f,,
+241,1,Chazey Wood,2017-09-23,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 241,2,Chazey Wood,2017-09-23,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
 241,3,Chazey Wood,2017-09-23,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
 241,4,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 241,5,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 241,6,Chazey Wood,2017-09-23,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
-241,7,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,7,Chazey Wood,2017-09-23,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 241,8,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 241,9,Chazey Wood,2017-09-23,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",Abdomen greasy
-241,10,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,10,Chazey Wood,2017-09-23,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Abdomen and thorax greasy
 241,11,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 241,12,Chazey Wood,2017-09-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 241,13,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 241,14,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,15,Chazey Wood,2017-09-23,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 241,16,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-241,17,Chazey Wood,2017-09-23,,Muscidae,Morellia sp,f,,
+241,17,Chazey Wood,2017-09-23,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 241,18,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
-241,19,Chazey Wood,2017-09-23,,Muscidae,,f,,
+241,19,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 241,20,Chazey Wood,2017-09-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 241,21,Chazey Wood,2017-09-23,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
-241,22,Chazey Wood,2017-09-23,,Muscidae,Phaonia sp,m,,
-241,23,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
-241,24,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,22,Chazey Wood,2017-09-23,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+241,23,Chazey Wood,2017-09-23,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+241,24,Chazey Wood,2017-09-23,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 241,25,Chazey Wood,2017-09-23,,Calliphoridae,Bellardia cf pandia,f,"Rognes, 1991",
 241,26,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-241,27,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,27,Chazey Wood,2017-09-23,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 241,28,Chazey Wood,2017-09-23,,Tachinidae,Macquartia tenebricosa,f,"Belshaw, 1993 +v5c updates",
 241,29,Chazey Wood,2017-09-23,,Anthomyiidae,,m,,
 241,30,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,31,Chazey Wood,2017-09-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",Greasy
-241,32,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,32,Chazey Wood,2017-09-23,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 241,33,Chazey Wood,2017-09-23,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
-241,34,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,34,Chazey Wood,2017-09-23,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 241,35,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
-241,36,Chazey Wood,2017-09-23,,Muscidae,Helina sp,f,,
+241,36,Chazey Wood,2017-09-23,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 241,37,Chazey Wood,2017-09-23,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 241,38,Chazey Wood,2017-09-23,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
 241,39,Chazey Wood,2017-09-23,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",

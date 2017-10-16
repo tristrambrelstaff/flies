@@ -41,14 +41,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 243,40,Whiteknights Park (W),2017-09-30,,Sepsidae,Sepsis sp,,,
 243,41,Whiteknights Park (W),2017-09-30,Hymenoptera,Ormyridae,Ormyrus sp,m,,
 243,42,Whiteknights Park (W),2017-10-08,,Heleomyzidae,Suillia affinis,f,"Withers, 1987",
-243,43,The Wilderness (W),2017-10-08,,Muscidae,Neomyia sp,f,,
-243,44,The Wilderness (W),2017-10-08,,Muscidae,,,,
-243,45,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,,
-243,46,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,,
-243,47,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,,
-243,48,The Wilderness (W),2017-10-08,,Muscidae,,f,,
+243,43,The Wilderness (W),2017-10-08,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
+243,44,The Wilderness (W),2017-10-08,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+243,45,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+243,46,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+243,47,The Wilderness (W),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+243,48,The Wilderness (W),2017-10-08,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 243,49,The Wilderness (W),2017-10-08,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 243,50,The Wilderness (W),2017-10-08,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 243,51,The Wilderness (W),2017-10-08,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 243,52,The Wilderness (W),2017-10-08,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-243,53,The Wilderness (W),2017-10-08,,Muscidae,Phaonia sp,f,,
+243,53,The Wilderness (W),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
