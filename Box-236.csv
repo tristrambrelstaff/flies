@@ -2,14 +2,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 236,1,Below Hangingstone,2017-09-11,,Syrphidae,Leucozona glaucia,f,,
 236,2,Below Hangingstone,2017-09-11,,Syrphidae,Leucozona glaucia,f,,
 236,3,Below Hangingstone,2017-09-11,Hymenoptera,Ichneumonidae,,,,
-236,4,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,,
+236,4,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 236,5,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
 236,6,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
-236,7,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,,
+236,7,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 236,8,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
 236,9,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
 236,10,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
-236,11,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,,
+236,11,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 236,12,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
 236,13,Below Hangingstone,2017-09-11,,Muscidae,Hydrotaea sp,m,,
 236,14,Below Hangingstone,2017-09-11,,Muscidae,Hebecnema sp,f,,
@@ -50,10 +50,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 236,49,Roseberry Common,2017-09-11,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 236,50,Roseberry Common,2017-09-11,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 236,51,Roseberry Common,2017-09-11,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-236,52,Roseberry Common,2017-09-11,,Muscidae,Hebecnema vespertina,m,,
-236,53,Roseberry Common,2017-09-11,,Muscidae,Phaonia palpata,m,,
-236,54,Roseberry Common,2017-09-11,,Muscidae,Helina sp,f,,
-236,55,Roseberry Common,2017-09-11,,Muscidae,Helina sp,f,,
+236,52,Roseberry Common,2017-09-11,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+236,53,Roseberry Common,2017-09-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+236,54,Roseberry Common,2017-09-11,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata; Abdomen greasy
+236,55,Roseberry Common,2017-09-11,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 236,56,Roseberry Common,2017-09-11,,Anthomyiidae,,f,,
 236,57,Roseberry Common,2017-09-11,,Anthomyiidae,,f,,
 236,58,Roseberry Common,2017-09-11,,Anthomyiidae,,f,,
