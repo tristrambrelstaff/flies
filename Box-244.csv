@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,1,The Wilderness (W),2017-10-08,,Muscidae,Phaonia sp,f,,
-244,2,The Wilderness (W),2017-10-08,,Muscidae,Phaonia palpata,f,,
+244,2,The Wilderness (W),2017-10-08,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 244,3,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
-244,4,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,,
+244,4,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 244,5,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia flavifrons,m,"Withers, 1987",
 244,6,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia fuscicornis,m,"Withers, 1987",
 244,7,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia atricornis,f,"Withers, 1987",
@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,9,The Wilderness (W),2017-10-08,,Platypezidae,,f,,
 244,10,The Wilderness (W),2017-10-08,,Fanniidae,Fannia sp,f,,
 244,11,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
-244,12,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,,
+244,12,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 244,13,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
 244,14,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
 244,15,The Wilderness (W),2017-10-08,,Muscidae,Phaonia sp,f,,
@@ -57,8 +57,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,56,The Wilderness (E),2017-10-08,,Drosophilidae,,,,
 244,57,The Wilderness (E),2017-10-08,,Drosophilidae,,,,
 244,58,Whiteknights Park (E),2017-10-08,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
-244,59,Whiteknights Park (E),2017-10-08,,Muscidae,Phaonia valida,f,,
-244,60,Whiteknights Park (E),2017-10-08,,Muscidae,Graphomya maculata,f,,
-244,61,Whiteknights Park (E),2017-10-08,,Muscidae,Phaonia pallida,f,,
-244,62,Whiteknights Park (E),2017-10-08,,Muscidae,Helina sp,f,,
-244,63,Whiteknights Park (E),2017-10-08,,Muscidae,Helina sp,f,,
+244,59,Whiteknights Park (E),2017-10-08,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+244,60,Whiteknights Park (E),2017-10-08,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
+244,61,Whiteknights Park (E),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+244,62,Whiteknights Park (E),2017-10-08,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+244,63,Whiteknights Park (E),2017-10-08,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
