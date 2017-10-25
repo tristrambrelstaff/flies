@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,12,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 244,13,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
 244,14,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
-244,15,The Wilderness (W),2017-10-08,,Muscidae,Phaonia sp,f,,
+244,15,The Wilderness (W),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 244,16,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
 244,17,The Wilderness (W),2017-10-08,,Mycetophilidae,,,,
 244,18,The Wilderness (W),2017-10-08,,Mycetophilidae,,,,
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,26,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
 244,27,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
 244,28,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
-244,29,The Wilderness (W),2017-10-08,,Muscidae,Coenosia agromyzina,f,,
+244,29,The Wilderness (W),2017-10-08,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 244,30,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
 244,31,The Wilderness (E),2017-10-08,Hymenoptera,Ichneumonidae,,f,,
 244,32,The Wilderness (E),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -38,20 +38,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,37,The Wilderness (E),2017-10-08,,Muscidae,Helina sp,f,,
 244,38,The Wilderness (E),2017-10-08,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 244,39,The Wilderness (E),2017-10-08,,Muscidae,Helina sp,f,,
-244,40,The Wilderness (E),2017-10-08,,Muscidae,Phaonia sp,f,,
-244,41,The Wilderness (E),2017-10-08,,Muscidae,Phaonia sp,f,,
+244,40,The Wilderness (E),2017-10-08,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
+244,41,The Wilderness (E),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 244,42,The Wilderness (E),2017-10-08,,Heleomyzidae,Suillia pallida,f,"Withers, 1987",
 244,43,The Wilderness (E),2017-10-08,,Anthomyiidae,,f,,
-244,44,The Wilderness (E),2017-10-08,,Muscidae,,f,,
+244,44,The Wilderness (E),2017-10-08,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 244,45,The Wilderness (E),2017-10-08,,Heleomyzidae,,m,,Not Suillia sp
 244,46,The Wilderness (E),2017-10-08,,Anthomyiidae,,f,,
 244,47,The Wilderness (E),2017-10-08,,Anthomyiidae,Hydrophoria ruralis,m,"Ackland draft keys, 2012 & 2015",
 244,48,The Wilderness (E),2017-10-08,,Anthomyiidae,Hydrophoria ruralis,m,"Ackland draft keys, 2012 & 2015",
 244,49,The Wilderness (E),2017-10-08,,Anthomyiidae,Hydrophoria ruralis,m,"Ackland draft keys, 2012 & 2015",
 244,50,The Wilderness (E),2017-10-08,,Anthomyiidae,Hydrophoria ruralis,m,"Ackland draft keys, 2012 & 2015",
-244,51,The Wilderness (E),2017-10-08,,Muscidae,Coenosia agromyzina,f,,
-244,52,The Wilderness (E),2017-10-08,,Muscidae,Coenosia agromyzina,f,,
-244,53,The Wilderness (E),2017-10-08,,Muscidae,Coenosia sp,f,,
+244,51,The Wilderness (E),2017-10-08,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+244,52,The Wilderness (E),2017-10-08,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+244,53,The Wilderness (E),2017-10-08,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 244,54,The Wilderness (E),2017-10-08,,Drosophilidae,,,,
 244,55,The Wilderness (E),2017-10-08,,Drosophilidae,,,,
 244,56,The Wilderness (E),2017-10-08,,Drosophilidae,,,,
