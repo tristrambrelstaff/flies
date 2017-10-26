@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-244,1,The Wilderness (W),2017-10-08,,Muscidae,Phaonia sp,f,,
+244,1,The Wilderness (W),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 244,2,The Wilderness (W),2017-10-08,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-244,3,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
+244,3,The Wilderness (W),2017-10-08,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Abdomen greasy
 244,4,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 244,5,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia flavifrons,m,"Withers, 1987",
 244,6,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia fuscicornis,m,"Withers, 1987",
@@ -9,10 +9,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,8,The Wilderness (W),2017-10-08,,Heleomyzidae,Suillia atricornis,m,"Withers, 1987",
 244,9,The Wilderness (W),2017-10-08,,Platypezidae,,f,,
 244,10,The Wilderness (W),2017-10-08,,Fanniidae,Fannia sp,f,,
-244,11,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
+244,11,The Wilderness (W),2017-10-08,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 244,12,The Wilderness (W),2017-10-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
-244,13,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
-244,14,The Wilderness (W),2017-10-08,,Muscidae,Helina sp,f,,
+244,13,The Wilderness (W),2017-10-08,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Abdomen greasy
+244,14,The Wilderness (W),2017-10-08,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 244,15,The Wilderness (W),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 244,16,The Wilderness (W),2017-10-08,,Anthomyiidae,,f,,
 244,17,The Wilderness (W),2017-10-08,,Mycetophilidae,,,,
@@ -35,9 +35,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 244,34,The Wilderness (E),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 244,35,The Wilderness (E),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 244,36,The Wilderness (E),2017-10-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-244,37,The Wilderness (E),2017-10-08,,Muscidae,Helina sp,f,,
+244,37,The Wilderness (E),2017-10-08,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 244,38,The Wilderness (E),2017-10-08,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-244,39,The Wilderness (E),2017-10-08,,Muscidae,Helina sp,f,,
+244,39,The Wilderness (E),2017-10-08,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Abdomen greasy
 244,40,The Wilderness (E),2017-10-08,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 244,41,The Wilderness (E),2017-10-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 244,42,The Wilderness (E),2017-10-08,,Heleomyzidae,Suillia pallida,f,"Withers, 1987",
