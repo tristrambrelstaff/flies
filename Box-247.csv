@@ -10,11 +10,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 247,9,Chazey Wood,2017-10-28,,Muscidae,Hydrotaea militaris,f,"Fonseca, 1968",Not Hydrotaea cyrtoneurina
 247,10,Chazey Wood,2017-10-28,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 247,11,Chazey Wood,2017-10-28,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-247,12,Chazey Wood,2017-10-28,,Tephritidae,,f,,
+247,12,Chazey Wood,2017-10-28,,Tephritidae,Euleia heraclei,f,"White, 1988",As Euleia heracleii
 247,13,Chazey Wood,2017-10-28,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 247,14,Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
 247,15,Chazey Wood,2017-10-28,,Fanniidae,Fannia sp,f,,
-247,16,Chazey Wood,2017-10-28,,???,,f,,
+247,16,Chazey Wood,2017-10-28,,Diastatidae,Diastata sp,f,"Family: Oosterbroek, 2006",
 247,17,Chazey Wood,2017-10-28,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 247,18,Chazey Wood,2017-10-28,,Mycetophilidae,,,,
 247,19,Chazey Wood,2017-10-28,,Mycetophilidae,,,,
@@ -31,4 +31,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 247,30,Quarry near Chazey Wood,2017-10-28,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
 247,31,Quarry near Chazey Wood,2017-10-28,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
 247,32,Quarry near Chazey Wood,2017-10-28,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",Wings darkened
-247,33,Quarry near Chazey Wood,2017-10-28,,Lauxaniidae,,,,
+247,33,Quarry near Chazey Wood,2017-10-28,,Lauxaniidae,Homoneura hospes,f,"Schacht et al, 2004 translation of Shatalkin, 2000",
