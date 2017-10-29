@@ -38,20 +38,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 246,37,Chazey Wood,2017-10-28,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
 246,38,Chazey Wood,2017-10-28,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 246,39,Chazey Wood,2017-10-28,,Calliphoridae,Lucilia ampullacea,m,"Rognes, 1991",
-246,40,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,,
-246,41,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,,
-246,42,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,,
-246,43,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,,
-246,44,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,,
-246,45,Chazey Wood,2017-10-28,,Muscidae,Eudasyphora viridicyanea,f,,
-246,46,Chazey Wood,2017-10-28,,Muscidae,Phaonia sp,f,,
-246,47,Chazey Wood,2017-10-28,,Muscidae,Phaonia sp,m,,
-246,48,Chazey Wood,2017-10-28,,Muscidae,Helina sp,f,,
-246,49,Chazey Wood,2017-10-28,,Muscidae,Helina sp,f,,
-246,50,Chazey Wood,2017-10-28,,Muscidae,Helina sp,f,,
-246,51,Chazey Wood,2017-10-28,,Muscidae,Helina evecta,m,,
-246,52,Chazey Wood,2017-10-28,,Muscidae,Helina sp,f,,
-246,53,Chazey Wood,2017-10-28,,Muscidae,Helina evecta,f,,
+246,40,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+246,41,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+246,42,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+246,43,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+246,44,Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+246,45,Chazey Wood,2017-10-28,,Muscidae,Eudasyphora cyanicolor,f,"Fonseca, 1968",As Dasyphora cyanicolor
+246,46,Chazey Wood,2017-10-28,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
+246,47,Chazey Wood,2017-10-28,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+246,48,Chazey Wood,2017-10-28,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+246,49,Chazey Wood,2017-10-28,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+246,50,Chazey Wood,2017-10-28,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+246,51,Chazey Wood,2017-10-28,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+246,52,Chazey Wood,2017-10-28,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+246,53,Chazey Wood,2017-10-28,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 246,54,Chazey Wood,2017-10-28,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 246,55,Chazey Wood,2017-10-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 246,56,Chazey Wood,2017-10-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
