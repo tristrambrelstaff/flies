@@ -1,14 +1,14 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-248,1,Whiteknights Park (W),2017-11-12,,Muscidae,Helina sp,f,,
-248,2,Whiteknights Park (W),2017-11-12,,Muscidae,Helina sp,f,,
-248,3,Whiteknights Park (W),2017-11-12,,Muscidae,Helina sp,f,,
-248,4,Whiteknights Park (W),2017-11-12,,Muscidae,Helina evecta,m,,
-248,5,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia sp,f,,
-248,6,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia sp,f,,
+248,1,Whiteknights Park (W),2017-11-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,2,Whiteknights Park (W),2017-11-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,3,Whiteknights Park (W),2017-11-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,4,Whiteknights Park (W),2017-11-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+248,5,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+248,6,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 248,7,Whiteknights Park (W),2017-11-12,,Anthomyiidae,,m,,
-248,8,Whiteknights Park (W),2017-11-12,,Muscidae,Coenosia tigrina,f,,
-248,9,Whiteknights Park (W),2017-11-12,,Muscidae,Coenosia tigrina,m,,
-248,10,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia palpata,f,,
+248,8,Whiteknights Park (W),2017-11-12,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+248,9,Whiteknights Park (W),2017-11-12,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+248,10,Whiteknights Park (W),2017-11-12,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 248,11,Whiteknights Park (W),2017-11-12,,Muscidae,Hebecnema vespertina,m,,
 248,12,Whiteknights Park (W),2017-11-12,,Muscidae,Hebecnema vespertina,f,,
 248,13,Whiteknights Park (W),2017-11-12,,Anthomyiidae,,f,,
