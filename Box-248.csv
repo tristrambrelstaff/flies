@@ -28,8 +28,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 248,27,Whiteknights Park (W),2017-11-19,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata; Antennae missing
 248,28,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 248,29,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
-248,30,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
-248,31,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
+248,30,Whiteknights Park (W),2017-11-19,,Anthomyiidae,Botanophila laterella,f,"Ackland draft keys, 2012 & 2015",
+248,31,Whiteknights Park (W),2017-11-19,,Anthomyiidae,Delia platura,f,"Ackland draft keys, 2012 & 2015",
 248,32,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
 248,33,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
 248,34,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
@@ -38,5 +38,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 248,37,Whiteknights Park (W),2017-11-19,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 248,38,Whiteknights Park (W),2017-11-19,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 248,39,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
-248,40,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
+248,40,Whiteknights Park (W),2017-11-19,,Anthomyiidae,Hylemya urbica,f,"Ackland draft keys, 2012 & 2015",
 248,41,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
