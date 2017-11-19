@@ -16,18 +16,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 248,15,Whiteknights Park (W),2017-11-12,,Anthomyiidae,,f,,
 248,16,Whiteknights Park (W),2017-11-12,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968",As Hebecnema vespertina; Halteres black
 248,17,Whiteknights Park (W),2017-11-12,,Anthomyiidae,,f,,
-248,18,Whiteknights Park (W),2017-11-19,,Muscidae,Polietes lardarius,f,,
+248,18,Whiteknights Park (W),2017-11-19,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Zielke, 2016",
 248,19,Whiteknights Park (W),2017-11-19,,Syrphidae,,m,,
-248,20,Whiteknights Park (W),2017-11-19,,Muscidae,Helina sp,f,,
-248,21,Whiteknights Park (W),2017-11-19,,Muscidae,Helina sp,f,,
-248,22,Whiteknights Park (W),2017-11-19,,Muscidae,Helina sp,f,,
-248,23,Whiteknights Park (W),2017-11-19,,Muscidae,Helina sp,f,,
-248,24,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia sp,m,,
-248,25,Whiteknights Park (W),2017-11-19,,Muscidae,Neomyia sp,m,,
+248,20,Whiteknights Park (W),2017-11-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,21,Whiteknights Park (W),2017-11-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,22,Whiteknights Park (W),2017-11-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,23,Whiteknights Park (W),2017-11-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+248,24,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+248,25,Whiteknights Park (W),2017-11-19,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
 248,26,Whiteknights Park (W),2017-11-19,,Calliphoridae,Stomorhina lunata,f,"Rognes, 1991",
-248,27,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia sp,f,,
-248,28,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,,
-248,29,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,,
+248,27,Whiteknights Park (W),2017-11-19,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata; Antennae missing
+248,28,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+248,29,Whiteknights Park (W),2017-11-19,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 248,30,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
 248,31,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
 248,32,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
@@ -37,6 +37,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 248,36,Whiteknights Park (W),2017-11-19,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 248,37,Whiteknights Park (W),2017-11-19,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 248,38,Whiteknights Park (W),2017-11-19,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
-248,39,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia palpata,f,,
+248,39,Whiteknights Park (W),2017-11-19,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 248,40,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,f,,
 248,41,Whiteknights Park (W),2017-11-19,,Anthomyiidae,,m,,
