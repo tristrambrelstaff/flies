@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 250,1,The Wilderness (E),2018-02-04,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 250,2,The Wilderness (E),2018-02-04,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
-250,3,The Wilderness (E),2018-02-11,,Muscidae,Phaonia sp,f,,
-250,4,The Wilderness (E),2018-02-11,,Muscidae,Phaonia sp,m,,
-250,5,The Wilderness (E),2018-02-11,,Muscidae,Phaonia sp,m,,
-250,6,The Wilderness (E),2018-02-11,,Calliphoridae,Calliphora vicina,f,,
-250,7,The Wilderness (W),2018-02-11,,Calliphoridae,Calliphora vicina,m,,
-250,8,The Wilderness (W),2018-02-11,,Calliphoridae,Calliphora vomitoria,m,,
-250,9,The Wilderness (W),2018-02-11,,Muscidae,Phaonia sp,m,,
-250,10,The Wilderness (W),2018-02-11,,Muscidae,Phaonia sp,f,,
+250,3,The Wilderness (E),2018-02-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+250,4,The Wilderness (E),2018-02-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+250,5,The Wilderness (E),2018-02-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+250,6,The Wilderness (E),2018-02-11,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+250,7,The Wilderness (W),2018-02-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+250,8,The Wilderness (W),2018-02-11,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
+250,9,The Wilderness (W),2018-02-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+250,10,The Wilderness (W),2018-02-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
