@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 250,11,Whiteknights Park (W),2018-02-17,,Syrphidae,Episyrphus balteatus,f,"Stubbs & Falk, 2002",
 250,12,Whiteknights Park (W),2018-02-17,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 250,13,Whiteknights Park (W),2018-02-17,,Sphaeroceridae,Copromyza stercoraria,f,"Pitkin, 1988",
-250,14,Whiteknights Park (W),2018-02-17,,Heleomyzidae,,f,,
+250,14,Whiteknights Park (W),2018-02-17,,Heleomyzidae,Heteromyza sp,f,"Gorodkov, 1989",
 250,15,Whiteknights Park (W),2018-02-17,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
 250,16,Whiteknights Park (W),2018-02-17,,Anthomyiidae,,m,,
 250,17,The Wilderness (W),2018-02-17,,Calliphoridae,Calliphora vomitoria,f,"Rognes, 1991",
