@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 202,10,Bousdale,2017-05-22,,Muscidae,Morellia simplex,m,"Fonseca, 1968",
 202,11,Bousdale,2017-05-22,,Tachinidae,Siphona geniculata,,"Belshaw, 1993 +v5c updates",
 202,12,Bousdale,2017-05-22,,Sciomyzidae,Tetanocera hyalipennis,m,"Rozkosny, 1984",
-202,13,Bousdale,2017-05-22,,Heleomyzidae,,f,,
+202,13,Bousdale,2017-05-22,,Heleomyzidae,Gymnomus amplicornis,f,"Gorodkov, 1989; Woznica, 2006",As Scoliocentra amplicornis
 202,14,Bousdale,2017-05-22,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 202,15,Bousdale,2017-05-22,,Sarcophagidae,Sarcophaga rosellei,m,"Pape, 1987",As Helicophagella rosellei
 202,16,Bousdale,2017-05-22,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
