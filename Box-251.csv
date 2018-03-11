@@ -21,15 +21,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 251,20,Whiteknights Park (W),2018-03-11,,Calliphoridae,Pollenia sp,m,,
 251,21,Whiteknights Park (W),2018-03-11,,Calliphoridae,Pollenia sp,m,,
 251,22,Whiteknights Park (W),2018-03-11,,Calliphoridae,Pollenia sp,m,,
-251,23,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,,
-251,24,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,,
-251,25,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,,
-251,26,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,,
-251,27,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia sp,m,,
-251,28,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia sp,f,,
-251,29,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia sp,m,,
-251,30,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia sp,f,,
-251,31,Whiteknights Park (W),2018-03-11,,Muscidae,Hebecnema sp,f,,
+251,23,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+251,24,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+251,25,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+251,26,Whiteknights Park (W),2018-03-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+251,27,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+251,28,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+251,29,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+251,30,Whiteknights Park (W),2018-03-11,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+251,31,Whiteknights Park (W),2018-03-11,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 251,32,Whiteknights Park (W),2018-03-11,,Anthomyiidae,,f,,
 251,33,Whiteknights Park (W),2018-03-11,,Sphaeroceridae,,m,,
 251,34,Whiteknights Park (W),2018-03-11,,Simuliidae,,,,
@@ -46,6 +46,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 251,45,Whiteknights Park (E-FH),2018-03-11,,Calliphoridae,Pollenia sp,m,,
 251,46,Whiteknights Park (E-FH),2018-03-11,,Scathophagidae,Scathophaga stercoraria,f,,
 251,47,Whiteknights Park (E-FH),2018-03-11,,Scathophagidae,Scathophaga stercoraria,f,,
-251,48,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Eudasyphora cyanella,m,,
-251,49,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Neomyia sp,m,,
-251,50,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Neomyia sp,m,,
+251,48,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+251,49,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+251,50,Whiteknights Park (E-FH),2018-03-11,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
