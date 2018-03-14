@@ -28,9 +28,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 49,27,The Wilderness (E),2014-09-20,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 49,28,The Wilderness (E),2014-09-20,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 49,29,The Wilderness (E),2014-09-20,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
-49,30,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia sp,f,,
-49,31,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia sp,m,,
-49,32,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia sp,m,,
+49,30,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia notata,f,"Withers, 1987",
+49,31,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia variegata,m,"Withers, 1987",
+49,32,The Wilderness (E),2014-09-20,,Heleomyzidae,Suillia variegata,m,"Withers, 1987",
 49,33,The Wilderness (E),2014-09-20,,Platypezidae,,,,
 49,34,The Wilderness (E),2014-09-20,,Platypezidae,,,,
 49,35,The Wilderness (E),2014-09-20,,Platypezidae,,,,
@@ -49,7 +49,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 49,48,The Wilderness (E),2014-09-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 49,49,The Wilderness (E),2014-09-21,,Calliphoridae,Lucilia ampullacea,m,"Rognes, 1991",
 49,50,The Wilderness (E),2014-09-21,,Anthomyiidae,,f,,
-49,51,The Wilderness (E),2014-09-21,,Heleomyzidae,Suillia sp,f,,
+49,51,The Wilderness (E),2014-09-21,,Heleomyzidae,Suillia notata,f,"Withers, 1987",
 49,52,The Wilderness (E),2014-09-21,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 49,53,The Wilderness (E),2014-09-21,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 49,54,The Wilderness (E),2014-09-21,,Anthomyiidae,,f,,

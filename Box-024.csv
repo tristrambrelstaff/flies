@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 24,14,Whiteknights Park (E),2014-06-15,,Anthomyiidae,,f,,
 24,15,Whiteknights Park (E),2014-06-15,,Anthomyiidae,,f,,
 24,16,Whiteknights Park (E),2014-06-15,,Anthomyiidae,,f,,
-24,17,Whiteknights Park (E),2014-06-15,,Heleomyzidae,,,,
+24,17,Whiteknights Park (E),2014-06-15,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 24,18,Whiteknights Park (E),2014-06-15,,Syrphidae,,,,
 24,19,Whiteknights Park (E),2014-06-15,,Syrphidae,,,,
 24,20,Whiteknights Park (E),2014-06-15,,Syrphidae,,,,
@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 24,25,Whiteknights Park (W),2014-06-21,,Rhagionidae,Chrysopilus cristatus,f,"Stubbs & Drake, 2001",
 24,26,Whiteknights Park (W),2014-06-21,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
 24,27,Whiteknights Park (W),2014-06-21,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
-24,28,Whiteknights Park (W),2014-06-21,,Heleomyzidae,,,,
+24,28,Whiteknights Park (W),2014-06-21,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 24,29,Whiteknights Park (W),2014-06-21,,Syrphidae,Cheilosia sp,m,,29+30 in cop
 24,30,Whiteknights Park (W),2014-06-21,,Syrphidae,Cheilosia sp,f,,29+30 in cop
 24,31,Whiteknights Park (W),2014-06-21,,Tephritidae,Urophora quadrifasciata,m,"White, 1988",31+32 in cop
