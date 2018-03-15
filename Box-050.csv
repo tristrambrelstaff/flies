@@ -14,12 +14,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,13,The Wilderness (W),2014-09-27,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 50,14,The Wilderness (W),2014-09-27,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 50,15,The Wilderness (W),2014-09-27,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-50,16,The Wilderness (W),2014-09-27,,Heleomyzidae,Suillia sp,f,,
+50,16,The Wilderness (W),2014-09-27,,Heleomyzidae,Suillia affinis,f,"Withers, 1987",
 50,17,The Wilderness (W),2014-09-27,,Muscidae,Phaonia palpata,f,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
-50,18,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
-50,19,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
-50,20,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
-50,21,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
+50,18,The Wilderness (W),2014-09-27,,Heleomyzidae,Neoleria ruficeps,m,"Gorodkov, 1989",
+50,19,The Wilderness (W),2014-09-27,,Heleomyzidae,Neoleria ruficeps,m,"Gorodkov, 1989",
+50,20,The Wilderness (W),2014-09-27,,Heleomyzidae,Neoleria ruficeps,m,"Gorodkov, 1989",
+50,21,The Wilderness (W),2014-09-27,,Heleomyzidae,Neoleria ruficeps,m,"Gorodkov, 1989",
 50,22,The Wilderness (W),2014-09-27,,Drosophilidae,,,,
 50,23,The Wilderness (W),2014-09-27,,Drosophilidae,,,,
 50,24,The Wilderness (W),2014-09-27,,Drosophilidae,,,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,30,The Wilderness (W),2014-09-27,,Fanniidae,,m,,
 50,31,The Wilderness (W),2014-09-27,,Fanniidae,,f,,
 50,32,The Wilderness (W),2014-09-27,,Muscidae,Azelia trigonica,f,"Fonseca, 1968",
-50,33,The Wilderness (W),2014-09-27,,Heleomyzidae,,,,
+50,33,The Wilderness (W),2014-09-27,,Heleomyzidae,Suillia atricornis,m,"Withers, 1987",
 50,34,The Wilderness (W),2014-09-27,,Nematocera,,,,
 50,35,The Wilderness (W),2014-09-27,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
 50,36,The Wilderness (E),2014-09-27,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
@@ -51,7 +51,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 50,50,The Wilderness (E),2014-09-27,,Tachinidae,Paracraspedothrix montivaga,f,"Belshaw, 1993 +v5c updates",
 50,51,The Wilderness (E),2014-09-27,,Platypezidae,Polyporivora sp,f,,
 50,52,Whiteknights Park (E),2014-10-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-50,53,Whiteknights Park (W),2014-10-04,,Heleomyzidae,,m,,
+50,53,Whiteknights Park (W),2014-10-04,,Heleomyzidae,Suillia affinis,m,"Withers, 1987",
 50,54,Whiteknights Park (W),2014-10-04,,Anthomyiidae,,f,,Orange
 50,55,Whiteknights Park (W),2014-10-04,,Anthomyiidae,,f,,
 50,56,Whiteknights Park (W),2014-10-04,,Platypezidae,,m,,

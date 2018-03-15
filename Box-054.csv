@@ -23,9 +23,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,22,Whiteknights Park (E),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,23,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 54,24,Whiteknights Park (E),2014-11-29,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
-54,25,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,f,,
-54,26,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,m,,
-54,27,Whiteknights Park (E),2014-11-29,,Heleomyzidae,,f,,
+54,25,Whiteknights Park (E),2014-11-29,,Heleomyzidae,Suillia dumicola,m,"Withers, 1987",Fungus
+54,26,Whiteknights Park (E),2014-11-29,,Heleomyzidae,Morpholeria sp,m,"Gorodkov, 1989",Fungus
+54,27,Whiteknights Park (E),2014-11-29,,Heleomyzidae,Suillia dumicola,m,"Withers, 1987",Fungus
 54,28,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,m,,
 54,29,Whiteknights Park (E),2014-11-29,,Anthomyiidae,,f,,
 54,30,Whiteknights Park (E),2014-11-29,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
