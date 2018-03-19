@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 97,12,Field below Chazey Wood,2015-08-02,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
 97,13,Field below Chazey Wood,2015-08-02,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
 97,14,Field below Chazey Wood,2015-08-02,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",Has Acari mite
-97,15,Field below Chazey Wood,2015-08-02,,Lauxaniidae,,f,,
+97,15,Field below Chazey Wood,2015-08-02,,Lauxaniidae,Homoneura sp,f,"Schacht et al, 2004 translation of Shatalkin, 2000",Fungus
 97,16,Whiteknights Park (W),2015-08-09,,Anthomyiidae,,m,,
 97,17,Whiteknights Park (W),2015-08-09,,Anthomyiidae,,f,,
 97,18,Whiteknights Park (W),2015-08-09,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 97,47,Whiteknights Park (E),2015-08-09,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 97,48,Whiteknights Park (E),2015-08-09,,Sarcophagidae,Nyctia halterata,m,,
 97,49,Whiteknights Park (E),2015-08-09,,Anthomyiidae,,m,,
-97,50,Whiteknights Park (E),2015-08-09,,Lauxaniidae,Minettia sp,,,
+97,50,Whiteknights Park (E),2015-08-09,,Lauxaniidae,Minettia fasciata,,"Schacht et al, 2004 translation of Shatalkin, 2000",Fungus
 97,51,Whiteknights Park (E),2015-08-09,,Dolichopodidae,,m,,
 97,52,Whiteknights Park (E),2015-08-09,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 97,53,Whiteknights Park (E),2015-08-09,,Sarcophagidae,Sarcophaga sp,m,,
