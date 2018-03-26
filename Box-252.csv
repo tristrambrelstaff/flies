@@ -25,13 +25,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 252,24,Whiteknights Park (E-FH),2018-03-16,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 252,25,Whiteknights Park (E-FH),2018-03-16,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
 252,26,Whiteknights Park (E-FH),2018-03-16,,Drosophilidae,,,,
-252,27,The Wilderness (E),2018-03-25,,Muscidae,,f,,
+252,27,The Wilderness (E),2018-03-25,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 252,28,The Wilderness (W),2018-03-25,,Mycetophilidae,,f,,
 252,29,The Wilderness (W),2018-03-25,Hymenoptera,Cynipdae,,,,
-252,30,Whiteknights Park (E),2018-03-25,,Muscidae,Helina sp,m,,
-252,31,Whiteknights Park (E),2018-03-25,,Muscidae,Helina sp,m,,
-252,32,Whiteknights Park (E),2018-03-25,,Muscidae,Helina sp,f,,
-252,33,Whiteknights Park (E),2018-03-25,,Muscidae,Lispocephala sp,m,,
+252,30,Whiteknights Park (E),2018-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+252,31,Whiteknights Park (E),2018-03-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+252,32,Whiteknights Park (E),2018-03-25,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+252,33,Whiteknights Park (E),2018-03-25,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 252,34,Whiteknights Park (E),2018-03-25,,Anthomyiidae,,m,,
 252,35,Whiteknights Park (E),2018-03-25,,Anthomyiidae,,f,,
 252,36,Whiteknights Park (E),2018-03-25,,Simuliidae,,,,
@@ -45,8 +45,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 252,44,Whiteknights Park (E-FH),2018-03-25,,Calliphoridae,Pollenia sp,m,,
 252,45,Whiteknights Park (E-FH),2018-03-25,,Calliphoridae,Pollenia sp,m,,
 252,46,Whiteknights Park (E-FH),2018-03-25,,Calliphoridae,Pollenia sp,f,,
-252,47,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Neomyia sp,m,,
-252,48,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Neomyia sp,f,,
-252,49,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Phaonia sp,f,,
+252,47,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+252,48,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+252,49,Whiteknights Park (E-FH),2018-03-25,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 252,50,Whiteknights Park (E-FH),2018-03-25,,Anthomyiidae,,f,,
 252,51,Whiteknights Park (E-FH),2018-03-25,,Anthomyiidae,,f,,
