@@ -47,7 +47,7 @@ todo.Dryomyzidae.csv: Box-*.csv
 	- grep Dryomyzidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
 
 todo.Ephydridae.csv: Box-*.csv
-	- grep Ephydridae B*csv | grep -v "Narchuk, 1989" >$@ || true
+	- grep Ephydridae B*csv | grep -v "Narchuk, 1989" | grep -v "Drake, 2006" >$@ || true
 
 todo.Fannia_lustrator.csv: Box-*.csv
 	- grep "Fannia lustrator" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
