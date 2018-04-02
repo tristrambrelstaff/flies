@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 210,29,Kings Meadow Tescos,2017-06-17,,Muscidae,Mydaea ancilla,m,"Fonseca, 1968",
 210,30,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 210,31,Kings Meadow Tescos,2017-06-17,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
-210,32,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,m,,
+210,32,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,Hylemya vagans,m,"Ackland draft keys, 2012 & 2015",Surstyli missing
 210,33,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
 210,34,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
 210,35,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
@@ -38,7 +38,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 210,37,Kings Meadow Tescos,2017-06-17,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 210,38,Kings Meadow Tescos,2017-06-17,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
 210,39,Kings Meadow Tescos,2017-06-17,,Lauxaniidae,Sapromyza sp,f,"Schacht et al, 2004 translation of Shatalkin, 2000",
-210,40,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,f,,
+210,40,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,Botanophila fugax,f,"Ackland draft keys, 2012 & 2015",
 210,41,Kings Meadow Tescos,2017-06-17,,Syrphidae,,m,,
 210,42,Kings Meadow Tescos,2017-06-17,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 210,43,Kings Meadow Tescos,2017-06-17,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
@@ -48,8 +48,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 210,47,Kings Meadow Tescos,2017-06-17,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 210,48,Kings Meadow Tescos,2017-06-17,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 210,49,Kings Meadow Tescos,2017-06-17,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
-210,50,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,m,,
-210,51,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,,m,,
+210,50,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,Paregle audacula,m,"Ackland draft keys, 2012 & 2015",
+210,51,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,Anthomyia liturata,m,"Ackland draft keys, 2012 & 2015",
 210,52,Kings Meadow Tescos,2017-06-17,,Fanniidae,Fannia sp,f,,
 210,53,Kings Meadow Tescos,2017-06-17,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 210,54,Kings Meadow Tescos,2017-06-17,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",

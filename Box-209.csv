@@ -15,8 +15,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 209,14,The Wilderness (E),2017-06-10,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 209,15,The Wilderness (E),2017-06-10,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 209,16,The Wilderness (E),2017-06-10,,Fanniidae,Fannia sp,f,,
-209,17,The Wilderness (E),2017-06-10,,Anthomyiidae,,m,,
-209,18,The Wilderness (E),2017-06-10,,Anthomyiidae,,m,,
+209,17,The Wilderness (E),2017-06-10,,Anthomyiidae,Delia platura,m,"Ackland draft keys, 2012 & 2015",Abdomen greasy
+209,18,The Wilderness (E),2017-06-10,,Anthomyiidae,Delia florilega,m,"Ackland draft keys, 2012 & 2015",
 209,19,The Wilderness (E),2017-06-10,,Empididae,Hilara sp,f,,
 209,20,The Wilderness (E),2017-06-10,,Empididae,Hilara sp,m,,
 209,21,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,m,,21+22 in cop
@@ -44,6 +44,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 209,43,Whiteknights Park (E),2017-06-10,,Tephritidae,Chaetostomella cylindrica,m,"White, 1988",
 209,44,Whiteknights Park (E),2017-06-10,,Fanniidae,Fannia sp,f,,
 209,45,Whiteknights Park (E),2017-06-10,,Fanniidae,Fannia sp,f,,
-209,46,Whiteknights Park (E),2017-06-10,,Anthomyiidae,,f,,
-209,47,Whiteknights Park (E),2017-06-10,,Anthomyiidae,,m,,
-209,48,Whiteknights Park (E),2017-06-10,,Anthomyiidae,,m,,
+209,46,Whiteknights Park (E),2017-06-10,,Anthomyiidae,Botanophila sp,f,"Ackland draft keys, 2012 & 2015",
+209,47,Whiteknights Park (E),2017-06-10,,Anthomyiidae,Delia florilega,m,"Ackland draft keys, 2012 & 2015",Surstyli missing
+209,48,Whiteknights Park (E),2017-06-10,,Anthomyiidae,Delia florilega,m,"Ackland draft keys, 2012 & 2015",Surstyli missing
