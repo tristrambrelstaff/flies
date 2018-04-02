@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,10,The Wilderness (W),2017-08-25,,Anthomyiidae,,f,,
 232,11,The Wilderness (W),2017-08-25,,Fanniidae,Fannia sp,f,,
 232,12,The Wilderness (W),2017-08-25,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
-232,13,The Wilderness (W),2017-08-25,,Tenthredinidae,Athalia sp,m,,
+232,13,The Wilderness (W),2017-08-25,Hymenoptera,Tenthredinidae,Athalia sp,m,"Benson, 1952",
 232,14,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
 232,15,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
 232,16,The Wilderness (E),2017-08-25,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
