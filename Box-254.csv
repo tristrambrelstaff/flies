@@ -26,8 +26,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,25,Codhill Slack,2018-04-05,,Chironomidae,,m,,Antennae missing
 254,26,Codhill Slack,2018-04-05,,Chironomidae,,m,,Antennae missing
 254,27,Below Hangingstone,2018-04-05,,Sepsidae,Sepsis sp,,,
-254,28,Roseberry Common,2018-04-06,,Muscidae,Phaonia sp,f,,
-254,29,Roseberry Common,2018-04-06,,Muscidae,Phaonia sp,f,,
+254,28,Roseberry Common,2018-04-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+254,29,Roseberry Common,2018-04-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 254,30,Roseberry Common,2018-04-06,,Agromyzidae,,,,
 254,31,Roseberry Common,2018-04-06,,Agromyzidae,,,,
 254,32,Roseberry Common,2018-04-06,Hymenoptera,Tenthredinidae,,f,,
@@ -41,15 +41,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,40,Roseberry Common,2018-04-06,,Sepsidae,Sepsis sp,,,
 254,41,Roseberry Common,2018-04-06,,Sepsidae,Sepsis sp,,,
 254,42,Below Hangingstone,2018-04-06,,Calliphoridae,Pollenia sp,m,,
-254,43,Below Hangingstone,2018-04-06,,Muscidae,Phaonia sp,f,,
+254,43,Below Hangingstone,2018-04-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 254,44,Below Hangingstone,2018-04-06,,Heleomyzidae,Suillia ustulata,m,"Withers, 1987",Antennae missing
 254,45,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 254,46,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 254,47,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 254,48,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 254,49,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga stercoraia,f,"Ball, 2014",
-254,50,Below Hangingstone,2018-04-06,,Muscidae,,f,,
-254,51,Below Hangingstone,2018-04-06,,Muscidae,,f,,
+254,50,Below Hangingstone,2018-04-06,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+254,51,Below Hangingstone,2018-04-06,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 254,52,Below Hangingstone,2018-04-06,,Muscidae,,f,,Antennae missing
 254,53,Below Hangingstone,2018-04-06,,Sciomyzidae,Pherbellia dubia,m,"Rozkosny, 1984",
 254,54,Below Hangingstone,2018-04-06,,Sphaeroceridae,,m,,
