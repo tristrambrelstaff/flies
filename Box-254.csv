@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,1,Above Hutton Village,2018-04-05,,Tachinidae,Tachina ursina,m,"Belshaw, 1993 +v5c updates",
 254,2,Above Hutton Village,2018-04-05,,Syrphidae,,f,,
-254,3,Above Hutton Village,2018-04-05,,Calliphoridae,Pollenia sp,f,,
+254,3,Above Hutton Village,2018-04-05,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 254,4,Above Hutton Village,2018-04-05,,Sepsidae,Sepsis sp,,,
 254,5,Above Hutton Village,2018-04-05,,Sepsidae,Sepsis sp,,,
 254,6,Above Hutton Village,2018-04-05,,Lonchopteridae,Lonchoptera sp,f,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,39,Roseberry Common,2018-04-06,,Sepsidae,Sepsis sp,,,
 254,40,Roseberry Common,2018-04-06,,Sepsidae,Sepsis sp,,,
 254,41,Roseberry Common,2018-04-06,,Sepsidae,Sepsis sp,,,
-254,42,Below Hangingstone,2018-04-06,,Calliphoridae,Pollenia sp,m,,
+254,42,Below Hangingstone,2018-04-06,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
 254,43,Below Hangingstone,2018-04-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 254,44,Below Hangingstone,2018-04-06,,Heleomyzidae,Suillia ustulata,m,"Withers, 1987",Antennae missing
 254,45,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
