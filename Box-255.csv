@@ -1,5 +1,5 @@
-Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-255,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera sp,f,,
+Boxlutea,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+lutea,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 255,2,Below Hangingstone,2018-04-06,,Phoridae,,f,,
 255,3,Below Hangingstone,2018-04-06,,Dolichopodidae,,f,,
 255,4,Below Hangingstone,2018-04-06,,Drosophilidae,,,,
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 255,8,Below Hangingstone,2018-04-06,,Sepsidae,Sepsis sp,,,
 255,9,Below Hangingstone,2018-04-06,,Sepsidae,Sepsis sp,,,
 255,10,Above Hutton Village,2018-04-07,,Phoridae,,m,,
-255,11,Above Hutton Village,2018-04-07,,Lonchopteridae,Lonchoptera sp,m,,
+255,11,Above Hutton Village,2018-04-07,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 255,12,Above Hutton Village,2018-04-07,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 255,13,Codhill Slack,2018-04-07,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 255,14,Codhill Slack,2018-04-07,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
@@ -20,10 +20,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 255,19,Codhill Slack,2018-04-07,,Sepsidae,Sepsis sp,,,
 255,20,Codhill Slack,2018-04-07,,Sepsidae,Sepsis sp,,,
 255,21,Codhill Slack,2018-04-07,,Sepsidae,Sepsis sp,,,
-255,22,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera sp,f,,
-255,23,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera sp,m,,
-255,24,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera sp,f,,
-255,25,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera sp,f,,
+255,22,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+255,23,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+255,24,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+255,25,Codhill Slack,2018-04-07,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 255,26,Codhill Slack,2018-04-07,,Mycetophilidae,,f,,
 255,27,Codhill Slack,2018-04-07,,Agromyzidae,,f,,
 255,28,Codhill Slack,2018-04-07,,Drosophilidae,,,,
@@ -52,7 +52,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 255,51,Highcliff,2018-04-08,,Opomyzidae,Geomyza tripunctata,m,"Drake, 1993",
 255,52,Highcliff,2018-04-08,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
 255,53,Highcliff,2018-04-08,,Phoridae,,,,
-255,54,Highcliff,2018-04-08,,Lonchopteridae,Lonchoptera sp,m,,
+255,54,Highcliff,2018-04-08,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 255,55,Highcliff,2018-04-08,,Sepsidae,Sepsis sp,,,
 255,56,Highcliff,2018-04-08,,Sepsidae,Sepsis sp,,,
 255,57,Highcliff,2018-04-08,,Sphaeroceridae,,f,,
