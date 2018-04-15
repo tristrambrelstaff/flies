@@ -19,21 +19,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 256,18,Roseberry Common,2018-04-09,,Sphaeroceridae,,,,
 256,19,Whiteknights Park (W),2018-04-14,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 256,20,Whiteknights Park (W),2018-04-14,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-256,21,Whiteknights Park (W),2018-04-14,,Muscidae,Eudasyphora cyanella,f,,
-256,22,Whiteknights Park (W),2018-04-14,,Muscidae,Eudasyphora cyanella,f,,
+256,21,Whiteknights Park (W),2018-04-14,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+256,22,Whiteknights Park (W),2018-04-14,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 256,23,Whiteknights Park (W),2018-04-14,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-256,24,Whiteknights Park (W),2018-04-14,,Muscidae,Neomyia sp,m,,
-256,25,Whiteknights Park (W),2018-04-14,,Muscidae,Neomyia sp,f,,
-256,26,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia sp,m,,
-256,27,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia sp,f,,
-256,28,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia sp,m,,
+256,24,Whiteknights Park (W),2018-04-14,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+256,25,Whiteknights Park (W),2018-04-14,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+256,26,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+256,27,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+256,28,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 256,29,Whiteknights Park (W),2018-04-14,,Anthomyiidae,Leucophora sp,m,,
 256,30,Whiteknights Park (W),2018-04-14,,Anthomyiidae,Leucophora sp,m,,
 256,31,Whiteknights Park (W),2018-04-14,,Anthomyiidae,Leucophora sp,m,,
 256,32,Whiteknights Park (W),2018-04-14,,Calliphoridae,Calliphora vicina,f,,
-256,33,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia sp,f,,
-256,34,Whiteknights Park (W),2018-04-14,,Muscidae,Helina evecta,m,,
-256,35,Whiteknights Park (W),2018-04-14,,Muscidae,Helina evecta,m,,
+256,33,Whiteknights Park (W),2018-04-14,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
+256,34,Whiteknights Park (W),2018-04-14,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+256,35,Whiteknights Park (W),2018-04-14,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 256,36,Whiteknights Park (W),2018-04-14,,Calliphoridae,Pollenia pediculata,f,,
 256,37,Whiteknights Park (W),2018-04-14,,Calliphoridae,Pollenia sp,f,,
 256,38,Whiteknights Park (W),2018-04-14,,Calliphoridae,Pollenia sp,f,,
