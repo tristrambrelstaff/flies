@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 247,1,Chazey Wood,2017-10-28,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
-247,2,Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
+247,2,Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya cf vagans,f,"Ackland draft keys, 2012 & 2015",Could also be Hylemya nigrimana
 247,3,Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya vagans,m,"Ackland draft keys, 2012 & 2015",
 247,4,Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya vagans,m,"Ackland draft keys, 2012 & 2015",
-247,5,Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
-247,6,Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
+247,5,Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya variata,f,"Ackland draft keys, 2012 & 2015",
+247,6,Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya cf vagans,f,"Ackland draft keys, 2012 & 2015",Could also be Hylemya nigrimana
 247,7,Chazey Wood,2017-10-28,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
 247,8,Chazey Wood,2017-10-28,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",Wings darkened
 247,9,Chazey Wood,2017-10-28,,Muscidae,Hydrotaea militaris,f,"Fonseca, 1968",Not Hydrotaea cyrtoneurina
@@ -12,14 +12,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 247,11,Chazey Wood,2017-10-28,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 247,12,Chazey Wood,2017-10-28,,Tephritidae,Euleia heraclei,f,"White, 1988",As Euleia heracleii
 247,13,Chazey Wood,2017-10-28,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
-247,14,Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
+247,14,Chazey Wood,2017-10-28,,Anthomyiidae,Botanophila sp,f,"Ackland draft keys, 2012 & 2015",
 247,15,Chazey Wood,2017-10-28,,Fanniidae,Fannia sp,f,,
 247,16,Chazey Wood,2017-10-28,,Diastatidae,Diastata fuscula,f,"Shtakelberg, 1989; Family: Oosterbroek, 2006",
 247,17,Chazey Wood,2017-10-28,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 247,18,Chazey Wood,2017-10-28,,Mycetophilidae,,,,
 247,19,Chazey Wood,2017-10-28,,Mycetophilidae,,,,
-247,20,Quarry near Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
-247,21,Quarry near Chazey Wood,2017-10-28,,Anthomyiidae,,f,,
+247,20,Quarry near Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya cf vagans,f,"Ackland draft keys, 2012 & 2015",Could also be Hylemya nigrimana
+247,21,Quarry near Chazey Wood,2017-10-28,,Anthomyiidae,Hylemya cf vagans,f,"Ackland draft keys, 2012 & 2015",Could also be Hylemya nigrimana
 247,22,Quarry near Chazey Wood,2017-10-28,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 247,23,Quarry near Chazey Wood,2017-10-28,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 247,24,Quarry near Chazey Wood,2017-10-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
