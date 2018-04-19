@@ -1,5 +1,5 @@
-Boxlutea,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-lutea,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+255,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 255,2,Below Hangingstone,2018-04-06,,Phoridae,,f,,
 255,3,Below Hangingstone,2018-04-06,,Dolichopodidae,,f,,
 255,4,Below Hangingstone,2018-04-06,,Drosophilidae,,,,
@@ -37,7 +37,7 @@ lutea,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith
 255,36,Below Hangingstone,2018-04-07,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
 255,37,Below Hangingstone,2018-04-07,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
 255,38,Below Hangingstone,2018-04-07,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
-255,39,Below Hangingstone,2018-04-07,,Sphaeroceridae,Leptocera frontinalis,f,"Pitkin, 1988",
+255,39,Below Hangingstone,2018-04-07,,Sphaeroceridae,Leptocera fontinalis,f,"Pitkin, 1988",
 255,40,Below Hangingstone,2018-04-07,,Phoridae,,m,,
 255,41,Below Hangingstone,2018-04-07,,Sepsidae,Sepsis sp,,,
 255,42,Below Hangingstone,2018-04-07,,Sepsidae,Sepsis sp,,,
@@ -57,7 +57,7 @@ lutea,1,Below Hangingstone,2018-04-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith
 255,56,Highcliff,2018-04-08,,Sepsidae,Sepsis sp,,,
 255,57,Highcliff,2018-04-08,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
 255,58,Highcliff,2018-04-08,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
-255,59,Highcliff,2018-04-08,,Sphaeroceridae,Leptocera frontinalis,f,"Pitkin, 1988",
+255,59,Highcliff,2018-04-08,,Sphaeroceridae,Leptocera fontinalis,f,"Pitkin, 1988",
 255,60,Bousdale,2018-04-09,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 255,61,Bousdale,2018-04-09,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 255,62,Bousdale,2018-04-09,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
