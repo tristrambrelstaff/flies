@@ -6,8 +6,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,5,Above Hutton Village,2018-04-05,,Sepsidae,Sepsis sp,,,
 254,6,Above Hutton Village,2018-04-05,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 254,7,Above Hutton Village,2018-04-05,,Simuliidae,,,,
-254,8,Highcliff,2018-04-05,,Scathophagidae,Scathophaga stercoraia,m,"Ball, 2014",
-254,9,Highcliff,2018-04-05,,Scathophagidae,Scathophaga stercoraia,f,"Ball, 2014",
+254,8,Highcliff,2018-04-05,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+254,9,Highcliff,2018-04-05,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 254,10,Highcliff,2018-04-05,,Sepsidae,Sepsis sp,,,
 254,11,Highcliff,2018-04-05,,Sepsidae,Sepsis sp,,,
 254,12,Highcliff,2018-04-05,,Chironomidae,,f,,
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 254,46,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 254,47,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 254,48,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
-254,49,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga stercoraia,f,"Ball, 2014",
+254,49,Below Hangingstone,2018-04-06,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 254,50,Below Hangingstone,2018-04-06,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 254,51,Below Hangingstone,2018-04-06,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 254,52,Below Hangingstone,2018-04-06,,Muscidae,Brontaea humilis,f,"Fonseca, 1968",Antennae missing; As Gymnodia humilis
