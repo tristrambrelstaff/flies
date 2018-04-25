@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 260,1,Quarry near Chazey Wood,2018-04-21,,Syrphidae,Brachyopa scutellaris,m,"Stubbs & Falk, 2002",
-260,2,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia sp,m,,
-260,3,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia sp,m,,
-260,4,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia sp,m,,
+260,2,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
+260,3,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+260,4,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 260,5,Quarry near Chazey Wood,2018-04-21,,Pipunculidae,,m,,
-260,6,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia sp,f,,
+260,6,Quarry near Chazey Wood,2018-04-21,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 260,7,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,Anthomyia sp,f,,
 260,8,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
 260,9,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
@@ -32,12 +32,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 260,31,Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
 260,32,Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
 260,33,Chazey Wood,2018-04-21,,Muscidae,Hebecnema sp,f,,
-260,34,Chazey Wood,2018-04-21,,Calliphoridae,Pollenia sp,m,,
-260,35,Chazey Wood,2018-04-21,,Calliphoridae,Melinda sp,m,,
+260,34,Chazey Wood,2018-04-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+260,35,Chazey Wood,2018-04-21,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 260,36,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,37,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,38,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
-260,39,Chazey Wood,2018-04-21,,Calliphoridae,Calliphora vicina,m,,On dead muntjac deer
+260,39,Chazey Wood,2018-04-21,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",On dead muntjac deer
 260,40,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea sp,f,,On dead muntjac deer
 260,41,Chazey Wood,2018-04-21,,Muscidae,Eudasyphora cyanella,m,,On dead muntjac deer
 260,42,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
