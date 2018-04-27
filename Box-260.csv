@@ -31,23 +31,23 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 260,30,Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
 260,31,Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
 260,32,Chazey Wood,2018-04-21,,Anthomyiidae,,f,,
-260,33,Chazey Wood,2018-04-21,,Muscidae,Hebecnema sp,f,,
+260,33,Chazey Wood,2018-04-21,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 260,34,Chazey Wood,2018-04-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 260,35,Chazey Wood,2018-04-21,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 260,36,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,37,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,38,Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,39,Chazey Wood,2018-04-21,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",On dead muntjac deer
-260,40,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea sp,f,,On dead muntjac deer
-260,41,Chazey Wood,2018-04-21,,Muscidae,Eudasyphora cyanella,m,,On dead muntjac deer
-260,42,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
+260,40,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea dentipes,f,"Fonseca, 1968",On dead muntjac deer
+260,41,Chazey Wood,2018-04-21,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",On dead muntjac deer
+260,42,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea basdeni,f,"Fonseca, 1968",On dead muntjac deer
 260,43,Chazey Wood,2018-04-21,,Fanniidae,,m,,On dead muntjac deer
-260,44,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
+260,44,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea basdeni,f,"Fonseca, 1968",On dead muntjac deer
 260,45,Chazey Wood,2018-04-21,,Fanniidae,,f,,On dead muntjac deer
-260,46,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
-260,47,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
-260,48,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
-260,49,Chazey Wood,2018-04-21,,Muscidae,,f,,On dead muntjac deer
+260,46,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer
+260,47,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer; Antennae missing
+260,48,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer
+260,49,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer; Antennae missing
 260,50,Chazey Wood,2018-04-21,,Sepsidae,Sepsis sp,m,,On dead muntjac deer
 260,51,Chazey Wood,2018-04-21,,Sepsidae,Sepsis sp,m,,On dead muntjac deer
 260,52,Chazey Wood,2018-04-21,,Psilidae,Chamaepsila sp,m,,On dead muntjac deer
