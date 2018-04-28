@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 258,20,Whiteknights Park (W),2018-04-20,,Chironomidae,,m,,
 258,21,Whiteknights Park (W),2018-04-20,,Chironomidae,,m,,
 258,22,Whiteknights Park (W),2018-04-20,,Anthomyiidae,Phorbia sepia,f,,Large ovipositor
-258,23,Whiteknights Park (W),2018-04-20,,Sphaeroceridae,,m,,
+258,23,Whiteknights Park (W),2018-04-20,,Sphaeroceridae,Lotophila atra,m,"Pitkin, 1988",
 258,24,Whiteknights Park (W),2018-04-20,,Agromyzidae,,f,,
 258,25,Whiteknights Park (W),2018-04-20,,Chloropidae,,,,
 258,26,Whiteknights Park (W),2018-04-20,,Chloropidae,,,,
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 258,43,Whiteknights Park (E-FH),2018-04-20,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 258,44,Whiteknights Park (E-FH),2018-04-20,,Empididae,Empis sp,,,
 258,45,Whiteknights Park (E-FH),2018-04-20,,Empididae,Empis sp,,,
-258,46,Whiteknights Park (E-FH),2018-04-20,,Sphaeroceridae,,f,,
+258,46,Whiteknights Park (E-FH),2018-04-20,,Sphaeroceridae,Copromyza stercoraria,f,"Pitkin, 1988",
 258,47,Whiteknights Park (E-FH),2018-04-20,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 258,48,Whiteknights Park (E-FH),2018-04-20,,Anthomyiidae,,f,,Parafacials orange
 258,49,Whiteknights Park (E-FH),2018-04-20,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
