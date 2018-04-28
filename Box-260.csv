@@ -16,8 +16,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 260,15,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,16,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,17,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
-260,18,Quarry near Chazey Wood,2018-04-21,,Fanniidae,,m,,
-260,19,Quarry near Chazey Wood,2018-04-21,,Fanniidae,,m,,
+260,18,Quarry near Chazey Wood,2018-04-21,,Fanniidae,Fannia coracina,m,"Rozkosny et al, 1997",
+260,19,Quarry near Chazey Wood,2018-04-21,,Fanniidae,Fannia parva,m,"Rozkosny et al, 1997",
 260,20,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,21,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
 260,22,Quarry near Chazey Wood,2018-04-21,,Anthomyiidae,,m,,
@@ -41,9 +41,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 260,40,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea dentipes,f,"Fonseca, 1968",On dead muntjac deer
 260,41,Chazey Wood,2018-04-21,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",On dead muntjac deer
 260,42,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea basdeni,f,"Fonseca, 1968",On dead muntjac deer
-260,43,Chazey Wood,2018-04-21,,Fanniidae,,m,,On dead muntjac deer
+260,43,Chazey Wood,2018-04-21,,Fanniidae,Fannia manicata,m,"Rozkosny et al, 1997",On dead muntjac deer
 260,44,Chazey Wood,2018-04-21,,Muscidae,Hydrotaea basdeni,f,"Fonseca, 1968",On dead muntjac deer
-260,45,Chazey Wood,2018-04-21,,Fanniidae,,f,,On dead muntjac deer
+260,45,Chazey Wood,2018-04-21,,Fanniidae,Fannia coracina,f,"Rozkosny et al, 1997",On dead muntjac deer
 260,46,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer
 260,47,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer; Antennae missing
 260,48,Chazey Wood,2018-04-21,,Muscidae,Azelia zetterstedti,f,"Fonseca, 1968",On dead muntjac deer
