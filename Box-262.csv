@@ -15,8 +15,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 262,14,The Wilderness (W),2018-04-28,,Anthomyiidae,Botanophila fugax,m,"Ackland draft keys, 2012 & 2015",
 262,15,The Wilderness (W),2018-04-28,,Anthomyiidae,Botanophila cf fugax,m,"Ackland draft keys, 2012 & 2015",Antennae missing
 262,16,The Wilderness (W),2018-04-28,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
-262,17,The Wilderness (E),2018-05-05,,Bibionidae,Bibio marci,m,,
-262,18,The Wilderness (E),2018-05-05,,Bibionidae,Bibio marci,f,,
+262,17,The Wilderness (E),2018-05-05,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
+262,18,The Wilderness (E),2018-05-05,,Bibionidae,Bibio marci,f,"Freeman & Lane, 1985",
 262,19,The Wilderness (E),2018-05-05,Mecoptera,Panorpidae,Panorpa sp,f,,
 262,20,The Wilderness (E),2018-05-05,,Tipulidae,,f,,
 262,21,The Wilderness (E),2018-05-05,,Culicidae,,f,,
