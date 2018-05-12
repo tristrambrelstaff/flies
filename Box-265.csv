@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-265,1,Kings Road Gardens,2018-05-07,,Muscidae,,m,,
+265,1,Kings Road Gardens,2018-05-07,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 265,2,Kings Road Gardens,2018-05-07,,Scathophagidae,Nanna flavipes,f,"Ball, 2014",Antennae missing
 265,3,Kings Road Gardens,2018-05-07,,Tephritidae,Tephritis neesi,f,"White, 1988",
 265,4,Kings Road Gardens,2018-05-07,,Tephritidae,Tephritis neesi,m,"White, 1988",
@@ -14,22 +14,22 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 265,13,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia sp,f,,
 265,14,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia sp,f,,
 265,15,Quarry near Chazey Wood,2018-05-07,,Dolichopodidae,Rhaphium sp,m,,
-265,16,Quarry near Chazey Wood,2018-05-07,,Muscidae,Coenosia agromyzina,f,,
+265,16,Quarry near Chazey Wood,2018-05-07,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 265,17,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia sp,m,,
 265,18,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia sp,m,,
 265,19,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia sp,f,,
 265,20,Quarry near Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 265,21,Quarry near Chazey Wood,2018-05-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-265,22,Quarry near Chazey Wood,2018-05-07,,Muscidae,,m,,
-265,23,Quarry near Chazey Wood,2018-05-07,,Muscidae,Morellia sp,f,,
+265,22,Quarry near Chazey Wood,2018-05-07,,Muscidae,Mydaea urbana,m,"Fonseca, 1968",
+265,23,Quarry near Chazey Wood,2018-05-07,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
 265,24,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
 265,25,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 265,26,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
 265,27,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,,
-265,28,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,,
-265,29,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,,
-265,30,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,,
-265,31,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,,
+265,28,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+265,29,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+265,30,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+265,31,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 265,32,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 265,33,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 265,34,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
@@ -42,16 +42,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 265,41,Chazey Wood,2018-05-07,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
 265,42,Chazey Wood,2018-05-07,,Calliphoridae,Lucilia illustris,m,"Rognes, 1991",
 265,43,Chazey Wood,2018-05-07,,Calliphoridae,Lucilia illustris,m,"Rognes, 1991",
-265,44,Chazey Wood,2018-05-07,,Muscidae,,f,,
+265,44,Chazey Wood,2018-05-07,,Muscidae,Mydaea anicula,f,"Fonseca, 1968",
 265,45,Chazey Wood,2018-05-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 265,46,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga sp,f,,
 265,47,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 265,48,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga sp,m,,
-265,49,Chazey Wood,2018-05-07,,Muscidae,,m,,
+265,49,Chazey Wood,2018-05-07,,Muscidae,Phaonia gobertii,m,"Fonseca, 1968",As Phaonia goberti
 265,50,Chazey Wood,2018-05-07,,Anthomyiidae,Hylemya sp,f,,
 265,51,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 265,52,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 265,53,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 265,54,Chazey Wood,2018-05-07,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 265,55,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga sp,m,,"Keys to Pierretia sexpunctata in Pape, 1987 but the genitalia do not match"
-265,56,Chazey Wood,2018-05-07,,Muscidae,,f,,
+265,56,Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
