@@ -9,8 +9,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 266,8,Chazey Wood,2018-05-07,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 266,9,Chazey Wood,2018-05-07,,Empididae,Rhamphomyia sp,f,,
 266,10,Chazey Wood,2018-05-07,,Chloropidae,,,,
-266,11,Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,,
-266,12,Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,,
+266,11,Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
+266,12,Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 266,13,Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
 266,14,Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 266,15,Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
@@ -24,9 +24,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 266,23,Chazey Wood,2018-05-07,,Anthomyiidae,Anthomyia pluvialis,m,,
 266,24,Kings Meadow Tescos,2018-05-07,,Limoniidae,,m,,24+25 in cop
 266,25,Kings Meadow Tescos,2018-05-07,,Limoniidae,,f,,24+25 in cop
-266,26,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,,
-266,27,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,,
-266,28,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,,
+266,26,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
+266,27,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
+266,28,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 266,29,Kings Meadow Tescos,2018-05-07,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 266,30,Kings Meadow Tescos,2018-05-07,,Fanniidae,Fannia sp,m,,
 266,31,Kings Meadow Tescos,2018-05-07,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",Antennae missing
