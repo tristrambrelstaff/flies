@@ -17,7 +17,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 268,16,Thames Valley Park,2018-05-13,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 268,17,Thames Valley Park,2018-05-13,,Fanniidae,Fannia sp,f,,
 268,18,Thames Valley Park,2018-05-13,,Fanniidae,Fannia sp,f,,
-268,19,Thames Valley Park,2018-05-13,,Muscidae,Coenosia sp,,,
+268,19,Thames Valley Park,2018-05-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 268,20,Thames Valley Park,2018-05-13,,Anthomyiidae,,m,,
 268,21,Thames Valley Park,2018-05-13,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 268,22,Thames Valley Park,2018-05-13,,Fanniidae,Fannia sp,m,,
@@ -44,8 +44,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 268,43,Kings Meadow Tescos,2018-05-13,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 268,44,Kings Meadow Tescos,2018-05-13,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 268,45,Kings Meadow Tescos,2018-05-13,,Anthomyiidae,,m,,
-268,46,Kings Meadow Tescos,2018-05-13,,Muscidae,Coenosia sp,,,
-268,47,Kings Meadow Tescos,2018-05-13,,Muscidae,Coenosia sp,,,
+268,46,Kings Meadow Tescos,2018-05-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+268,47,Kings Meadow Tescos,2018-05-13,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 268,48,Kings Meadow Tescos,2018-05-13,,Anthomyiidae,Anthomyia procellaris grp,m,"Ackland draft keys, 2012 & 2015",
 268,49,Kings Meadow Tescos,2018-05-13,,Anthomyiidae,Anthomyia procellaris grp,m,"Ackland draft keys, 2012 & 2015",
 268,50,Kings Meadow Tescos,2018-05-13,,Anthomyiidae,Anthomyia procellaris grp,m,"Ackland draft keys, 2012 & 2015",

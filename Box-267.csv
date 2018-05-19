@@ -7,24 +7,24 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 267,6,Thames Valley Park,2018-05-13,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 267,7,Thames Valley Park,2018-05-13,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 267,8,Thames Valley Park,2018-05-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-267,9,Thames Valley Park,2018-05-13,,Muscidae,Phaonia sp,m,,
-267,10,Thames Valley Park,2018-05-13,,Muscidae,Phaonia sp,f,,
+267,9,Thames Valley Park,2018-05-13,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+267,10,Thames Valley Park,2018-05-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 267,11,Thames Valley Park,2018-05-13,,Anthomyiidae,,m,,
 267,12,Thames Valley Park,2018-05-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 267,13,Thames Valley Park,2018-05-13,,Syrphidae,Anasimiya lineata,m,"Stubbs & Falk, 2002",
 267,14,Thames Valley Park,2018-05-13,,Syrphidae,Anasimiya lineata,m,"Stubbs & Falk, 2002",
 267,15,Thames Valley Park,2018-05-13,,Empididae,Empis sp,m,,
-267,16,Thames Valley Park,2018-05-13,,Muscidae,Coenosia sp,m,,16+17 in cop
-267,17,Thames Valley Park,2018-05-13,,Muscidae,Coenosia sp,f,,16+17 in cop
-267,18,Thames Valley Park,2018-05-13,,Muscidae,,m,,
-267,19,Thames Valley Park,2018-05-13,,Muscidae,,f,,
+267,16,Thames Valley Park,2018-05-13,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",16+17 in cop
+267,17,Thames Valley Park,2018-05-13,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",16+17 in cop
+267,18,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",Face orange
+267,19,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 267,20,Thames Valley Park,2018-05-13,,Empididae,Empis sp,f,,
 267,21,Thames Valley Park,2018-05-13,,Diastatidae,Diastata adusta,m,"Shtakelberg, 1989",As Diastata unipunctata
-267,22,Thames Valley Park,2018-05-13,,Muscidae,,m,,
-267,23,Thames Valley Park,2018-05-13,,Muscidae,,f,,
-267,24,Thames Valley Park,2018-05-13,,Muscidae,,f,,
-267,25,Thames Valley Park,2018-05-13,,Muscidae,,f,,
-267,26,Thames Valley Park,2018-05-13,,Muscidae,,f,,
+267,22,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",Face orange
+267,23,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
+267,24,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
+267,25,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
+267,26,Thames Valley Park,2018-05-13,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 267,27,Thames Valley Park,2018-05-13,,Ephydridae,,,,
 267,28,Thames Valley Park,2018-05-13,,Ephydridae,,,,
 267,29,Thames Valley Park,2018-05-13,,Ephydridae,,,,
@@ -39,8 +39,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 267,38,Thames Valley Park,2018-05-13,,Anthomyiidae,Hylemya sp,f,,
 267,39,Thames Valley Park,2018-05-13,,Anthomyiidae,,m,,
 267,40,Thames Valley Park,2018-05-13,,Anthomyiidae,Anthomyia procellaris grp,m,,
-267,41,Thames Valley Park,2018-05-13,,Muscidae,Hebecnema vespertina,m,,
-267,42,Thames Valley Park,2018-05-13,,Muscidae,Hebecnema vespertina,m,,
+267,41,Thames Valley Park,2018-05-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+267,42,Thames Valley Park,2018-05-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 267,43,Thames Valley Park,2018-05-13,,Anthomyiidae,,f,,
 267,44,Thames Valley Park,2018-05-13,,Anthomyiidae,,f,,
 267,45,Thames Valley Park,2018-05-13,,Scathophagidae,Nanna flavipes,f,"Ball, 2014",
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 267,47,Thames Valley Park,2018-05-13,,Scathophagidae,Nanna flavipes,m,"Ball, 2014",
 267,48,Thames Valley Park,2018-05-13,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 267,49,Thames Valley Park,2018-05-13,,Anthomyiidae,,m,,
-267,50,Thames Valley Park,2018-05-13,,Muscidae,,m,,
+267,50,Thames Valley Park,2018-05-13,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 267,51,Thames Valley Park,2018-05-13,,Anthomyiidae,Hydrophoria sylvicola,m,"Ackland draft keys, 2012 & 2015",
-267,52,Thames Valley Park,2018-05-13,,Muscidae,,m,,
+267,52,Thames Valley Park,2018-05-13,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 267,53,Thames Valley Park,2018-05-13,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
