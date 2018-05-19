@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 267,18,Thames Valley Park,2018-05-13,,Muscidae,,m,,
 267,19,Thames Valley Park,2018-05-13,,Muscidae,,f,,
 267,20,Thames Valley Park,2018-05-13,,Empididae,Empis sp,f,,
-267,21,Thames Valley Park,2018-05-13,,Heleomyzidae,,m,,
+267,21,Thames Valley Park,2018-05-13,,Diastatidae,Diastata adusta,m,"Shtakelberg, 1989",As Diastata unipunctata
 267,22,Thames Valley Park,2018-05-13,,Muscidae,,m,,
 267,23,Thames Valley Park,2018-05-13,,Muscidae,,f,,
 267,24,Thames Valley Park,2018-05-13,,Muscidae,,f,,
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 267,45,Thames Valley Park,2018-05-13,,Scathophagidae,Nanna sp,f,,
 267,46,Thames Valley Park,2018-05-13,,Scathophagidae,Nanna sp,f,,
 267,47,Thames Valley Park,2018-05-13,,Scathophagidae,Nanna sp,m,,
-267,48,Thames Valley Park,2018-05-13,,Sciomyzidae,,f,,
+267,48,Thames Valley Park,2018-05-13,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 267,49,Thames Valley Park,2018-05-13,,Anthomyiidae,,m,,
 267,50,Thames Valley Park,2018-05-13,,Muscidae,,m,,
 267,51,Thames Valley Park,2018-05-13,,Anthomyiidae,Hydrophoria sylvicola,m,"Ackland draft keys, 2012 & 2015",
