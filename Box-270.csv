@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 270,20,Thames Valley Park,2018-05-20,,Muscidae,Schoenomyza litorella,m,,Face orange
 270,21,Thames Valley Park,2018-05-20,,Psilidae,,,,
 270,22,Thames Valley Park,2018-05-20,,Psilidae,Psilia sp,,,
-270,23,Thames Valley Park,2018-05-20,,Lonchopteridae,Lonchoptera sp,m,,
+270,23,Thames Valley Park,2018-05-20,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 270,24,Thames Valley Park,2018-05-20,,Dolichopodidae,,f,,
 270,25,Thames Valley Park,2018-05-20,,Muscidae,Coenosia sp,f,,
 270,26,Thames Valley Park,2018-05-20,,Scathophagidae,Nanna sp,m,,
@@ -45,4 +45,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 270,44,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
 270,45,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
 270,46,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
-270,47,Thames Valley Park,2018-05-20,,Bibionidae,Dilophus sp,m,,
+270,47,Thames Valley Park,2018-05-20,,Bibionidae,Dilophus femoratus,m,"Freeman & Lane, 1985",
