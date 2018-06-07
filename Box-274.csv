@@ -6,14 +6,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 274,5,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,,
 274,6,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,,
 274,7,Kings Meadow Tescos,2018-05-28,,Syrphidae,Merodon equestris,f,"Stubbs & Falk, 2002",
-274,8,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Lucilia sp,f,,
+274,8,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 274,9,Kings Meadow Tescos,2018-05-28,,Muscidae,Muscina levida,f,,
 274,10,Kings Meadow Tescos,2018-05-28,,Muscidae,,f,,Antennae missing
 274,11,Kings Meadow Tescos,2018-05-28,,Muscidae,Coenosia tigrina,f,,
 274,12,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,,f,,
 274,13,Kings Meadow Tescos,2018-05-28,,Dolichopodidae,,f,,
-274,14,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia pediculata,m,,
-274,15,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia sp,m,,
+274,14,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+274,15,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 274,16,Kings Meadow Tescos,2018-05-28,,Syrphidae,Eupeodes luniger,f,"Stubbs & Falk, 2002",
 274,17,Kings Meadow Tescos,2018-05-28,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 274,18,Kings Meadow Tescos,2018-05-28,,Sciomyzidae,Pherbellia cinerella,f,"Rozkosny, 1984",
@@ -30,8 +30,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 274,29,Whiteknights Park (E-FH),2018-06-02,,Ephydridae,Notiphila sp,,,
 274,30,Whiteknights Park (E-FH),2018-06-02,,Ephydridae,Notiphila sp,,,
 274,31,Whiteknights Park (E-FH),2018-06-02,,Ephydridae,Notiphila sp,,,
-274,32,Whiteknights Park (E-FH),2018-06-02,,Calliphoridae,Lucilia sp,m,,
-274,33,Whiteknights Park (E-FH),2018-06-02,,Calliphoridae,Pollenia sp,f,,
+274,32,Whiteknights Park (E-FH),2018-06-02,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+274,33,Whiteknights Park (E-FH),2018-06-02,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 274,34,Whiteknights Park (E-FH),2018-06-02,,Asilidae,Leptogaster cylindrica,m,"Stubbs & Drake, 2001",34+35 in cop
 274,35,Whiteknights Park (E-FH),2018-06-02,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",34+35 in cop
 274,36,Whiteknights Park (E-FH),2018-06-02,,Muscidae,Coenosia sp,f,,
