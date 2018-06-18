@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-279,1,Kings Road Gardens,2016-06-16,,Calliphoridae,Lucilia sp,f,,
-279,2,Kings Road Gardens,2016-06-16,,Calliphoridae,Calliphora vicina,m,,
+279,1,Kings Road Gardens,2016-06-16,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+279,2,Kings Road Gardens,2016-06-16,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 279,3,Kings Road Gardens,2016-06-16,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 279,4,Kings Road Gardens,2016-06-16,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 279,5,Kings Road Gardens,2016-06-16,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
@@ -18,10 +18,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 279,17,Quarry near Chazey Wood,2016-06-16,,Muscidae,Muscina levida,m,,
 279,18,Quarry near Chazey Wood,2016-06-16,,Muscidae,Eudasyphora cyanella,f,,
 279,19,Quarry near Chazey Wood,2016-06-16,,Muscidae,Hydrotaea sp,m,,
-279,20,Quarry near Chazey Wood,2016-06-16,,Calliphoridae,Pollenia sp,m,,
+279,20,Quarry near Chazey Wood,2016-06-16,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
 279,21,Quarry near Chazey Wood,2016-06-16,,Muscidae,Mydaea sp,f,,
 279,22,Quarry near Chazey Wood,2016-06-16,,Muscidae,Mydaea sp,f,,
-279,23,Quarry near Chazey Wood,2016-06-16,,Calliphoridae,Calliphora vicina,m,,Teneral
+279,23,Quarry near Chazey Wood,2016-06-16,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",Teneral
 279,24,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,f,,
 279,25,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,m,,
 279,26,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
