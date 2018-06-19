@@ -18,15 +18,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 277,17,Kennet Mouth (E),2016-06-10,,Anthomyiidae,,f,,
 277,18,Kennet Mouth (E),2016-06-10,,Sarcophagidae,Sarcophaga sp,f,,
 277,19,Kennet Mouth (E),2016-06-10,,Anthomyiidae,,f,,
-277,20,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,m,,
-277,21,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,f,,
+277,20,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+277,21,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 277,22,Kennet Mouth (E),2016-06-10,,Anthomyiidae,,f,,
 277,23,Kennet Mouth (E),2016-06-10,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 277,24,Kennet Mouth (E),2016-06-10,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 277,25,Kennet Mouth (E),2016-06-10,,Sciomyzidae,Pherbellia griseola,m,"Rozkosny, 1984",
-277,26,Kennet Mouth (E),2016-06-10,,Muscidae,,f,,
-277,27,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,m,,
-277,28,Kennet Mouth (E),2016-06-10,,Muscidae,,f,,
+277,26,Kennet Mouth (E),2016-06-10,,Muscidae,Spilogona litorea,f,"Fonseca, 1968",
+277,27,Kennet Mouth (E),2016-06-10,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+277,28,Kennet Mouth (E),2016-06-10,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Helina affinis; Has yellow halteres
 277,29,Kennet Mouth (E),2016-06-10,,Fanniidae,,f,,
 277,30,Kennet Mouth (E),2016-06-10,,Lauxaniidae,Minettia sp,,,
 277,31,Kennet Mouth (E),2016-06-10,,Lauxaniidae,Minettia sp,,,
