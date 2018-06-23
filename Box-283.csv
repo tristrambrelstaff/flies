@@ -3,17 +3,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 283,2,Whiteknights Park (W),2018-06-22,,Calliphoridae,Pollenia sp,m,,02+03 in cop
 283,3,Whiteknights Park (W),2018-06-22,,Calliphoridae,Pollenia sp,f,,02+03 in cop
 283,4,Whiteknights Park (W),2018-06-22,,Asilidae,,f,,
-283,5,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,,
-283,6,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,,
-283,7,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,,
-283,8,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,,
+283,5,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+283,6,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+283,7,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+283,8,Whiteknights Park (W),2018-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 283,9,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga sp,f,,
 283,10,Whiteknights Park (W),2018-06-22,,Sarcophagidae,,m,,
 283,11,Whiteknights Park (W),2018-06-22,,Tephritidae,,m,,
 283,12,Whiteknights Park (W),2018-06-22,,Tephritidae,,m,,
 283,13,Whiteknights Park (W),2018-06-22,,Tephritidae,,m,,
-283,14,Whiteknights Park (W),2018-06-22,,Muscidae,Coenosia sp,f,,
-283,15,Whiteknights Park (W),2018-06-22,,Muscidae,Coenosia sp,f,,
+283,14,Whiteknights Park (W),2018-06-22,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
+283,15,Whiteknights Park (W),2018-06-22,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
 283,16,Whiteknights Park (W),2018-06-22,,Anthomyiidae,,f,,
 283,17,Whiteknights Park (W),2018-06-22,,Anthomyiidae,,f,,
 283,18,Whiteknights Park (W),2018-06-22,,Sciomyzidae,,f,,
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 283,45,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga sp,m,,
 283,46,Whiteknights Park (W),2018-06-22,,Tachinidae,,m,,
 283,47,Whiteknights Park (W),2018-06-22,,Calliphoridae,Pollenia sp,f,,
-283,48,Whiteknights Park (W),2018-06-22,,Muscidae,,f,,
+283,48,Whiteknights Park (W),2018-06-22,,Muscidae,Helina latitarsis,f,"Fonseca, 1968",
 283,49,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga sp,m,,
 283,50,Whiteknights Park (W),2018-06-22,,Tachinidae,,m,,
 283,51,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga sp,m,,
