@@ -2,8 +2,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 271,1,Thames Valley Park,2018-05-20,,Dolichopodidae,,m,,
 271,2,Thames Valley Park,2018-05-20,,Fanniidae,Fannia sp,m,,
 271,3,Thames Valley Park,2018-05-20,,Tephritidae,Tephritis neesii,m,"White, 1988",
-271,4,Thames Valley Park,2018-05-20,,Muscidae,Coenosia sp,f,,
-271,5,Thames Valley Park,2018-05-20,,Muscidae,Coenosia sp,,,
+271,4,Thames Valley Park,2018-05-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
+271,5,Thames Valley Park,2018-05-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 271,6,Thames Valley Park,2018-05-20,,Simuliidae,,,,
 271,7,Thames Valley Park,2018-05-20,,Simuliidae,,,,
 271,8,Thames Valley Park,2018-05-20,,Ephydridae,,,,
@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 271,10,Thames Valley Park,2018-05-20,,Ephydridae,,,,
 271,11,Thames Valley Park,2018-05-20,,Ephydridae,,,,
 271,12,Thames Valley Park,2018-05-20,,Agromyzidae,,f,,
-271,13,Thames Valley Park,2018-05-20,,Muscidae,Schoenomyza litorella,f,,Face yellow
+271,13,Thames Valley Park,2018-05-20,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",Face yellow
 271,14,Thames Valley Park,2018-05-20,,Empididae,Empis sp,m,,
 271,15,Thames Valley Park,2018-05-20,,???,,,,
 271,16,Thames Valley Park,2018-05-20,,Agromyzidae,,,,
@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 271,37,Whiteknights Park (W),2018-05-26,,Simuliidae,,,,From rabbit burrow
 271,38,Whiteknights Park (W),2018-05-26,,Anthomyiidae,,f,,From rabbit burrow
 271,39,Whiteknights Park (W),2018-05-26,,Anthomyiidae,,f,,From rabbit burrow
-271,40,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea sp,m,,
-271,41,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea sp,m,,
+271,40,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
+271,41,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
 271,42,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 271,43,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 271,44,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -50,8 +50,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 271,49,Whiteknights Park (W),2018-05-26,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 271,50,Whiteknights Park (W),2018-05-26,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 271,51,Whiteknights Park (W),2018-05-26,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
-271,52,Whiteknights Park (W),2018-05-26,,Muscidae,,m,,
-271,53,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea sp,m,,
+271,52,Whiteknights Park (W),2018-05-26,,Sarcophagidae,,m,,
+271,53,Whiteknights Park (W),2018-05-26,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
 271,54,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 271,55,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 271,56,Whiteknights Park (W),2018-05-26,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis

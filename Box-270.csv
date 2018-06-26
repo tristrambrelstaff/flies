@@ -13,12 +13,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 270,12,Thames Valley Park,2018-05-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 270,13,Thames Valley Park,2018-05-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 270,14,Thames Valley Park,2018-05-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-270,15,Thames Valley Park,2018-05-20,,Muscidae,,m,,
+270,15,Thames Valley Park,2018-05-20,,Anthomyiidae,Hylemya sp,m,,
 270,16,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
 270,17,Thames Valley Park,2018-05-20,,Anthomyiidae,Leucophora sp,,,
 270,18,Thames Valley Park,2018-05-20,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 270,19,Thames Valley Park,2018-05-20,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
-270,20,Thames Valley Park,2018-05-20,,Muscidae,Schoenomyza litorella,m,,Face orange
+270,20,Thames Valley Park,2018-05-20,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",Face orange
 270,21,Thames Valley Park,2018-05-20,,Sepsidae,,,,
 270,22,Thames Valley Park,2018-05-20,,Sepsidae,Sepsis sp,,,
 270,23,Thames Valley Park,2018-05-20,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 270,32,Thames Valley Park,2018-05-20,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 270,33,Thames Valley Park,2018-05-20,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 270,34,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
-270,35,Thames Valley Park,2018-05-20,,Muscidae,,m,,
+270,35,Thames Valley Park,2018-05-20,,Muscidae,Helina latitarsis,m,"Fonseca, 1968",
 270,36,Thames Valley Park,2018-05-20,,Anthomyiidae,,f,,
 270,37,Thames Valley Park,2018-05-20,,Muscidae,Coenosia sp,m,,
 270,38,Thames Valley Park,2018-05-20,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
