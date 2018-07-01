@@ -45,8 +45,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 284,44,Whiteknights Park (E-FH),2018-06-22,,Ephydridae,,,,
 284,45,Whiteknights Park (E-FH),2018-06-22,,Ephydridae,,,,
 284,46,Whiteknights Park (E-FH),2018-06-22,,Ephydridae,,,,
-284,47,Whiteknights Park (W),2018-06-30,,Tabanidae,Haematopota pluvialis,f,,
-284,48,Whiteknights Park (W),2018-06-30,,Tabanidae,Haematopota pluvialis,f,,
+284,47,Whiteknights Park (W),2018-06-30,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
+284,48,Whiteknights Park (W),2018-06-30,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 284,49,Whiteknights Park (W),2018-06-30,,Empididae,Empis sp,m,,Predator of 50
 284,50,Whiteknights Park (W),2018-06-30,,Syrphidae,,m,,Prey of 49
 284,51,Whiteknights Park (W),2018-06-30,,Scathophagidae,Scathophaga stercoraria,f,,
@@ -61,5 +61,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 284,60,Whiteknights Park (W),2018-06-30,,Fanniidae,Fannia sp,f,,
 284,61,Whiteknights Park (W),2018-06-30,,Fanniidae,Fannia sp,f,,
 284,62,Whiteknights Park (W),2018-06-30,,Muscidae,,m,,
-284,63,Whiteknights Park (W),2018-06-30,,Rhagionidae,Chrysopilus cristatus,f,,
+284,63,Whiteknights Park (W),2018-06-30,,Rhagionidae,Chrysopilus cristatus,f,"Stubbs & Drake, 2001",
 284,64,Whiteknights Park (W),2018-06-30,,Calliphoridae,Lucilia sp,f,,
