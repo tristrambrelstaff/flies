@@ -5,9 +5,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,4,The Wilderness (W),2018-07-08,,Syrphidae,Melanogaster sp,m,,
 287,5,The Wilderness (W),2018-07-08,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 287,6,The Wilderness (W),2018-07-08,,Anthomyiidae,,f,,
-287,7,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza sp,f,,
-287,8,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza sp,f,,
-287,9,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza sp,m,,
+287,7,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
+287,8,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
+287,9,The Wilderness (W),2018-07-08,,Opomyzidae,Opomyza petrei,m,"Drake, 1993",
 287,10,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,m,,
 287,11,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,m,,
 287,12,The Wilderness (W),2018-07-08,,Calliphoridae,Melanomya nana,m,,Check id carefully
