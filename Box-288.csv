@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 288,1,The Wilderness (W),2018-07-08,,Scathophgidae,Scathophaga stercoraria,f,,
 288,2,The Wilderness (W),2018-07-08,,Anthomyiidae,,f,,
-288,3,The Wilderness (W),2018-07-08,,Tachinidae,,m,,
+288,3,The Wilderness (W),2018-07-08,,Tachinidae,Phryxe nemea,m,"Belshaw, 1993 +v5c updates",
 288,4,The Wilderness (W),2018-07-08,,Syrphidae,Melanogaster sp,m,,
 288,5,The Wilderness (W),2018-07-08,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 288,6,The Wilderness (W),2018-07-08,,Anthomyiidae,,f,,
