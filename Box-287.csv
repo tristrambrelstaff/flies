@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,14,Whiteknights Park (W),2018-07-08,,Lauxaniidae,Minettia fasciata,,,
 287,15,Whiteknights Park (W),2018-07-08,,Lauxaniidae,Minettia fasciata,,,
 287,16,Whiteknights Park (W),2018-07-08,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
-287,17,Whiteknights Park (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,f,,
+287,17,Whiteknights Park (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
 287,18,Whiteknights Park (W),2018-07-08,,Sphaeroceridae,,f,,
 287,19,Whiteknights Park (W),2018-07-08,,Tephritidae,Anomoia permunda,m,"White, 1988",
 287,20,Whiteknights Park (W),2018-07-08,,Tephritidae,Terellia tussilaginis,m,"White, 1988",
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,30,The Wilderness (W),2018-07-08,,Bombyliidae,Villa cingulata,f,"Stubbs & Drake, 2001",
 287,31,The Wilderness (W),2018-07-08,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993 +v5c updates",
 287,32,The Wilderness (W),2018-07-08,,Calliphoridae,Bellardia sp,m,,
-287,33,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,m,,33+34 in cop
-287,34,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,f,,33+34 in cop
+287,33,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",33+34 in cop
+287,34,The Wilderness (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",33+34 in cop
 287,35,The Wilderness (W),2018-07-08,,Muscidae,Hebecnema sp,m,,
 287,36,The Wilderness (W),2018-07-08,,Dolichopodidae,,m,,
 287,37,The Wilderness (W),2018-07-08,,Dolichopodidae,,m,,
