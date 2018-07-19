@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,1,Whiteknights Park (W),2018-07-08,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 287,2,Whiteknights Park (W),2018-07-08,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-287,3,Whiteknights Park (W),2018-07-08,,Muscidae,Muscina levida,m,,
+287,3,Whiteknights Park (W),2018-07-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 287,4,Whiteknights Park (W),2018-07-08,,Muscidae,Phaonia sp,f,,
 287,5,Whiteknights Park (W),2018-07-08,,Muscidae,Helina sp,f,,
 287,6,Whiteknights Park (W),2018-07-08,,Muscidae,Helina sp,f,,
@@ -44,13 +44,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,43,The Wilderness (W),2018-07-08,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 287,44,The Wilderness (W),2018-07-08,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 287,45,The Wilderness (W),2018-07-08,,Muscidae,Phaonia sp,f,,
-287,46,The Wilderness (W),2018-07-08,,Muscidae,Muscina levida,m,,
+287,46,The Wilderness (W),2018-07-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 287,47,The Wilderness (W),2018-07-08,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
-287,48,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,,
-287,49,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,,
-287,50,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,,
-287,51,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,,
-287,52,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,,
+287,48,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+287,49,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+287,50,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+287,51,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+287,52,The Wilderness (W),2018-07-08,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 287,53,The Wilderness (W),2018-07-08,,Sarcophagidae,Sarcophaga sp,m,,
 287,54,The Wilderness (W),2018-07-08,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 287,55,The Wilderness (W),2018-07-08,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
