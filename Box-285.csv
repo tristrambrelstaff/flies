@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-285,1,Whiteknights Park (W),2018-06-30,,Muscidae,Morellia sp,m,,
-285,2,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,f,,
+285,1,Whiteknights Park (W),2018-06-30,,Muscidae,Myospila meditabunda,m,"Fonseca, 1968",
+285,2,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 285,3,Whiteknights Park (W),2018-06-30,,Sarcophagidae,Sarcophaga sp,m,,
 285,4,Whiteknights Park (W),2018-06-30,,Anthomyiidae,,m,,
-285,5,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,m,,
+285,5,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 285,6,Whiteknights Park (W),2018-06-30,,Ulidiidae,Herina lugubris,m,"Clements, 1990",
 285,7,Whiteknights Park (W),2018-06-30,,Tephritidae,Terellia tussilaginis,m,"White, 1988",
 285,8,Whiteknights Park (W),2018-06-30,,Tephritidae,Terellia tussilaginis,m,"White, 1988",
@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 285,19,Whiteknights Park (W),2018-06-30,,Agromyzidae,,f,,
 285,20,Whiteknights Park (W),2018-06-30,,Agromyzidae,,,,
 285,21,Whiteknights Park (W),2018-06-30,,Anthomyiidae,,f,,
-285,22,Whiteknights Park (W),2018-06-30,,Muscidae,,m,,
+285,22,Whiteknights Park (W),2018-06-30,,Muscidae,Helina arctata,m,"Fonseca, 1968",Fore tibia has one posterior bristle
 285,23,Whiteknights Park (W),2018-06-30,,Anthomyiidae,,f,,
 285,24,Whiteknights Park (W),2018-06-30,,Anthomyiidae,Pegomya sp,f,,
 285,25,Whiteknights Park (W),2018-06-30,,Anthomyiidae,Pegomya sp,f,,
@@ -34,15 +34,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 285,33,The Wilderness (W),2018-06-30,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 285,34,The Wilderness (W),2018-06-30,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 285,35,The Wilderness (W),2018-06-30,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
-285,36,The Wilderness (W),2018-06-30,,Muscidae,Graphomya maculata,m,,
+285,36,The Wilderness (W),2018-06-30,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 285,37,The Wilderness (W),2018-06-30,,Asilidae,Choerades marginatus,f,"Stubbs & Drake, 2001",
 285,38,The Wilderness (W),2018-06-30,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 285,39,The Wilderness (W),2018-06-30,,Syrphidae,Merodon equestris,m,"Stubbs & Falk, 2002",
 285,40,The Wilderness (W),2018-06-30,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
-285,41,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,,
-285,42,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,,
-285,43,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,,
-285,44,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,,
+285,41,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+285,42,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+285,43,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+285,44,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 285,45,The Wilderness (W),2018-06-30,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 285,46,The Wilderness (W),2018-06-30,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 285,47,The Wilderness (W),2018-06-30,,Sarcophagidae,Sarcophaga sp,m,,
