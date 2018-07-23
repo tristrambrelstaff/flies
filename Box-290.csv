@@ -25,21 +25,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 290,24,Chazey Wood,20180721,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 290,25,Chazey Wood,20180721,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 290,26,Chazey Wood,20180721,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-290,27,Chazey Wood,20180721,,Muscidae,Eudasyphora cyanella,f,,
-290,28,Chazey Wood,20180721,,Muscidae,Muscina levida,m,,
-290,29,Chazey Wood,20180721,,Muscidae,Muscina levida,m,,
-290,30,Chazey Wood,20180721,,Muscidae,Muscina levida,m,,
-290,31,Chazey Wood,20180721,,Muscidae,Muscina levida,m,,
-290,32,Chazey Wood,20180721,,Muscidae,Morellia aenescens,m,,
+290,27,Chazey Wood,20180721,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+290,28,Chazey Wood,20180721,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+290,29,Chazey Wood,20180721,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+290,30,Chazey Wood,20180721,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+290,31,Chazey Wood,20180721,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+290,32,Chazey Wood,20180721,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 290,33,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-290,34,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,,
-290,35,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,,
-290,36,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,,
+290,34,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+290,35,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+290,36,Chazey Wood,20180721,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 290,37,Chazey Wood,20180721,,Muscidae,,f,,
 290,38,Chazey Wood,20180721,,Muscidae,,f,,
 290,39,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-290,40,Chazey Wood,20180721,,Muscidae,Coenosia trigrina,m,,
-290,41,Chazey Wood,20180721,,Muscidae,Coenosia trigrina,f,,
+290,40,Chazey Wood,20180721,,Muscidae,Coenosia trigrina,m,"Fonseca, 1968",As Caricea tigrina
+290,41,Chazey Wood,20180721,,Muscidae,Coenosia trigrina,f,"Fonseca, 1968",As Caricea tigrina
 290,42,Chazey Wood,20180721,,Muscidae,,m,,
 290,43,Chazey Wood,20180721,,Anthomyiidae,Hylemya sp,f,,
 290,44,Chazey Wood,20180721,,Sarcophagidae,Blaesoxipha sp,m,,

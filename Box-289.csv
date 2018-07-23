@@ -10,10 +10,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 289,9,Thames Valley Park,2018-07-15,,Dolichopodidae,,f,,
 289,10,Thames Valley Park,2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 289,11,Thames Valley Park,2018-07-15,,Anthomyiidae,,m,,
-289,12,Thames Valley Park,2018-07-15,,Muscidae,Coenosia tigrina,f,,
+289,12,Thames Valley Park,2018-07-15,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 289,13,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,f,,
 289,14,Thames Valley Park,2018-07-15,,Muscidae,,f,,
-289,15,Thames Valley Park,2018-07-15,,Muscidae,Hebecnema vespertina,f,,
+289,15,Thames Valley Park,2018-07-15,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 289,16,Thames Valley Park,2018-07-15,,Ephydridae,Notiphila sp,,,
 289,17,Thames Valley Park,2018-07-15,,Dolichopodidae,Rhaphium sp,m,,
 289,18,Thames Valley Park,2018-07-15,,Muscidae,,f,,
@@ -47,9 +47,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 289,46,Quarry near Chazey Wood,2018-07-21,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 289,47,Quarry near Chazey Wood,2018-07-21,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 289,48,Quarry near Chazey Wood,2018-07-21,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
-289,49,Quarry near Chazey Wood,2018-07-21,,Muscidae,Muscina levida,f,,
-289,50,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,,
-289,51,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,,
-289,52,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,,
-289,53,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,,
+289,49,Quarry near Chazey Wood,2018-07-21,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+289,50,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+289,51,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+289,52,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
+289,53,Quarry near Chazey Wood,2018-07-21,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 289,54,Quarry near Chazey Wood,2018-07-21,,Anthomyiidae,Hylemya sp,f,,
