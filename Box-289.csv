@@ -1,17 +1,17 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-289,1,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,
-289,2,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,
+289,1,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+289,2,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 289,3,Thames Valley Park,2018-07-15,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 289,4,Thames Valley Park,2018-07-15,,Anthomyiidae,Hylemya sp,m,,
 289,5,Thames Valley Park,2018-07-15,,Anthomyiidae,Hylemya sp,m,,
-289,6,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,
-289,7,Thames Valley Park,2018-07-15,,Sarcophagidae,Blaesoxipha sp,f,,
+289,6,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
+289,7,Thames Valley Park,2018-07-15,,Sarcophagidae,Blaesoxipha plumicornis,f,"Pape, 1987",
 289,8,Thames Valley Park,2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 289,9,Thames Valley Park,2018-07-15,,Dolichopodidae,,f,,
 289,10,Thames Valley Park,2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 289,11,Thames Valley Park,2018-07-15,,Anthomyiidae,,m,,
 289,12,Thames Valley Park,2018-07-15,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-289,13,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,f,,
+289,13,Thames Valley Park,2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,Needs relaxing
 289,14,Thames Valley Park,2018-07-15,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 289,15,Thames Valley Park,2018-07-15,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 289,16,Thames Valley Park,2018-07-15,,Ephydridae,Notiphila sp,,,

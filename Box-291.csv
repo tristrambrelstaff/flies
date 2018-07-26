@@ -16,15 +16,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 291,15,Chazey Wood,20180721,,Anthomyiidae,,f,,
 291,16,Chazey Wood,20180721,,Anthomyiidae,,m,,
 291,17,Chazey Wood,20180721,,Anthomyiidae,,m,,
-291,18,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,19,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,20,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,21,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,22,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,f,,
-291,23,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,24,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,25,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga sp,m,,
-291,26,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga sp,f,,
+291,18,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,19,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,20,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,21,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,22,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,f,"Pape, 1987",As Pierretia nigriventris
+291,23,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,24,Chazey Wood,20180721,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+291,25,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+291,26,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 291,27,Kings Meadow Tescos,20180721,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
-291,28,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga sp,m,,
+291,28,Kings Meadow Tescos,20180721,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"""
 291,29,Kings Meadow Tescos,20180721,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
