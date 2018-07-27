@@ -34,21 +34,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 288,33,Kennet Mouth (E),2018-07-15,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 288,34,Kennet Mouth (E),2018-07-15,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 288,35,Kennet Mouth (E),2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-288,36,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,
-288,37,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga sp,m,,
-288,38,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga sp,f,,
+288,36,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+288,37,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+288,38,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 288,39,Kennet Mouth (E),2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 288,40,Kennet Mouth (E),2018-07-15,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 288,41,Kennet Mouth (E),2018-07-15,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 288,42,Kennet Mouth (E),2018-07-15,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 288,43,Kennet Mouth (E),2018-07-15,,Tachinidae,Solieria pacifica,m,"Belshaw, 1993 +v5c updates",
-288,44,Kennet Mouth (E),2018-07-15,,Sarcophagidae,,m,,
+288,44,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga cf sexpunctata,m,"Pape, 1987",Cercal tip is rather too long
 288,45,Kennet Mouth (E),2018-07-15,,Rhinophoridae,Stevenia atramentaria,m,"Falk draft key, 2016",
-288,46,Kennet Mouth (E),2018-07-15,,Sarcophagidae,,m,,
-288,47,Kennet Mouth (E),2018-07-15,,Sarcophagidae,,m,,
-288,48,Kennet Mouth (E),2018-07-15,,Sarcophagidae,,m,,
-288,49,Kennet Mouth (E),2018-07-15,,Sarcophagidae,,m,,
-288,50,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Nyctia halterata,m,,
+288,46,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga cf sexpunctata,m,"Pape, 1987",Cercal tip is rather too long
+288,47,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+288,48,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+288,49,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+288,50,Kennet Mouth (E),2018-07-15,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 288,51,Kennet Mouth (E),2018-07-15,,Lauxaniidae,Minettia fasciata,,,
 288,52,Kennet Mouth (E),2018-07-15,,Anthomyiidae,,f,,
 288,53,Kennet Mouth (E),2018-07-15,,Chloropidae,,,,
