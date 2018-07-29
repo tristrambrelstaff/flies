@@ -2,11 +2,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 292,1,Whiteknights Park (W),2018-07-28,,Tachinidae,Tachina fera,m,,
 292,2,Whiteknights Park (W),2018-07-28,,Tachinidae,Tachina fera,m,,
 292,3,Whiteknights Park (W),2018-07-28,,Sarcophagidae,Sarcophaga sp,m,,
-292,4,Whiteknights Park (W),2018-07-28,,Scathophagidae,Scathophaga stercoraria,f,,
+292,4,Whiteknights Park (W),2018-07-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 292,5,Whiteknights Park (W),2018-07-28,,Tachinidae,Exorista rustica,m,,
 292,6,Whiteknights Park (W),2018-07-28,,Tachinidae,Eurithia sp,m,,
 292,7,Whiteknights Park (W),2018-07-28,,Sarcophagidae,Sarcophaga sp,f,,
-292,8,Whiteknights Park (W),2018-07-28,,Tabanidae,Chrysops relictus,f,,
+292,8,Whiteknights Park (W),2018-07-28,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 292,9,Whiteknights Park (W),2018-07-28,,Calliphoridae,Lucilia sp,m,,09+10 incop
 292,10,Whiteknights Park (W),2018-07-28,,Calliphoridae,Lucilia sp,f,,09+10 incop
 292,11,Whiteknights Park (W),2018-07-28,,Calliphoridae,Lucilia sp,m,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 292,30,Whiteknights Park (W),2018-07-28,,Anthomyiidae,,f,,
 292,31,Whiteknights Park (W),2018-07-28,,Anthomyiidae,,f,,
 292,32,Whiteknights Park (W),2018-07-28,,Anthomyiidae,,f,,
-292,33,Whiteknights Park (W),2018-07-28,,Opomyzidae,Opomyza sp,m,,
+292,33,Whiteknights Park (W),2018-07-28,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
 292,34,Whiteknights Park (W),2018-07-28,,Drosophilidae,,,,
 292,35,Whiteknights Park (W),2018-07-28,,Drosophilidae,,,,
 292,36,Whiteknights Park (W),2018-07-28,Hymenoptera,Ormyridae,Ormyrus sp,,,
