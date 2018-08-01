@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 285,1,Whiteknights Park (W),2018-06-30,,Muscidae,Myospila meditabunda,m,"Fonseca, 1968",
 285,2,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-285,3,Whiteknights Park (W),2018-06-30,,Sarcophagidae,Sarcophaga sp,m,,
+285,3,Whiteknights Park (W),2018-06-30,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 285,4,Whiteknights Park (W),2018-06-30,,Anthomyiidae,,m,,
 285,5,Whiteknights Park (W),2018-06-30,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 285,6,Whiteknights Park (W),2018-06-30,,Ulidiidae,Herina lugubris,m,"Clements, 1990",
@@ -45,8 +45,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 285,44,The Wilderness (W),2018-06-30,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 285,45,The Wilderness (W),2018-06-30,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 285,46,The Wilderness (W),2018-06-30,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
-285,47,The Wilderness (W),2018-06-30,,Sarcophagidae,Sarcophaga sp,m,,
-285,48,The Wilderness (W),2018-06-30,,Sarcophagidae,Sarcophaga sp,m,,
+285,47,The Wilderness (W),2018-06-30,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+285,48,The Wilderness (W),2018-06-30,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierettia nigriventris
 285,49,The Wilderness (W),2018-06-30,,Anthomyiidae,,f,,
 285,50,The Wilderness (W),2018-06-30,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 285,51,The Wilderness (W),2018-06-30,,Anthomyiidae,,m,,

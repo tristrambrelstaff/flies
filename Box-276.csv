@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-276,1,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+276,1,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 276,2,Whiteknights Park (E),2018-06-02,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 276,3,Whiteknights Park (E),2018-06-02,,Asilidae,Dioctria rufipes,m,"Stubbs & Drake, 2001",
 276,4,Whiteknights Park (E),2018-06-02,,Empididae,Empis sp,m,,
 276,5,Whiteknights Park (E),2018-06-02,,Anthomyiidae,,f,,
 276,6,Whiteknights Park (E),2018-06-02,,Anthomyiidae,,f,,
 276,7,Whiteknights Park (E),2018-06-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-276,8,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
-276,9,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+276,8,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+276,9,Whiteknights Park (E),2018-06-02,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 276,10,Whiteknights Park (E),2018-06-02,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",
 276,11,Whiteknights Park (E),2018-06-02,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 276,12,Whiteknights Park (E),2018-06-02,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 276,31,Whiteknights Park (E),2018-06-02,,???,,f,,
 276,32,Whiteknights Park (E),2018-06-02,,Agromyzidae,,,,
 276,33,Whiteknights Park (W),2018-06-02,,Asilidae,Choerades marginatus,f,"Stubbs & Drake, 2001",
-276,34,Whiteknights Park (W),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+276,34,Whiteknights Park (W),2018-06-02,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
 276,35,Whiteknights Park (W),2018-06-02,,Muscidae,Mydaea humeralis,m,"Fonseca, 1968",As Mydaea tincta
 276,36,Whiteknights Park (W),2018-06-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 276,37,Whiteknights Park (W),2018-06-02,,Tachinidae,Dufouria chalybeata,m,"Belshaw, 1993 +v5c updates",

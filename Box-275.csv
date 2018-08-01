@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 275,13,Whiteknights Park (E-FH),2018-06-02,,Dolichopodidae,,f,,
 275,14,Whiteknights Park (E-FH),2018-06-02,,Dolichopodidae,,f,,
 275,15,Whiteknights Park (E-FH),2018-06-02,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
-275,16,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+275,16,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 275,17,Whiteknights Park (E-FH),2018-06-02,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 275,18,Whiteknights Park (E-FH),2018-06-02,,Tephritidae,Chaetostomella cylindrica,f,"White, 1988",
 275,19,Whiteknights Park (E-FH),2018-06-02,,Anthomyiidae,,f,,
@@ -33,8 +33,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 275,32,Whiteknights Park (E-FH),2018-06-02,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
 275,33,Whiteknights Park (E-FH),2018-06-02,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 275,34,Whiteknights Park (E-FH),2018-06-02,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
-275,35,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
-275,36,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+275,35,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
+275,36,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 275,37,Whiteknights Park (E-FH),2018-06-02,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 275,38,Whiteknights Park (E-FH),2018-06-02,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",
 275,39,Whiteknights Park (E-FH),2018-06-02,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",
