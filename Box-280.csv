@@ -4,10 +4,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 280,3,Chazey Wood,2016-06-16,,Tachinidae,Linnaemya tessellans,m,"Belshaw, 1993 +v5c updates",
 280,4,Chazey Wood,2016-06-16,,Tachinidae,Thelaira nigripes,m,"Belshaw, 1993 +v5c updates",
 280,5,Chazey Wood,2016-06-16,,Tachinidae,Thelaira nigripes,m,"Belshaw, 1993 +v5c updates",
-280,6,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
-280,7,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
-280,8,Chazey Wood,2016-06-16,,Sarcophagidae,,m,,
-280,9,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
+280,6,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+280,7,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",Heteronychia vagans
+280,8,Chazey Wood,2016-06-16,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
+280,9,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga melanura,m,"Pape, 1987",As Helicophagella melanura
 280,10,Chazey Wood,2016-06-16,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
 280,11,Chazey Wood,2016-06-16,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 280,12,Chazey Wood,2016-06-16,,Calliphoridae,Lucilia illustris,f,"Rognes, 1991",
@@ -25,16 +25,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 280,24,Chazey Wood,2016-06-16,,Anthomyiidae,Hylemya sp,f,,
 280,25,Chazey Wood,2016-06-16,,Anthomyiidae,Hylemya sp,f,,
 280,26,Chazey Wood,2016-06-16,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
-280,27,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
+280,27,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga agnata,m,"Pape, 1987",As Helicophagella agnata
 280,28,Chazey Wood,2016-06-16,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
 280,29,Chazey Wood,2016-06-16,,Asilidae,Leptogaster cylindrica,f,"Stubbs & Drake, 2001",
 280,30,Chazey Wood,2016-06-16,,Empididae,Empis sp,m,,
 280,31,Chazey Wood,2016-06-16,,Dolichopodidae,,f,,
 280,32,Chazey Wood,2016-06-16,,Muscidae,Helina latitarsis,m,"Fonseca, 1968",
-280,33,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,f,,
+280,33,Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga cf nigriventris,f,"Pape, 1987",As Pierettia nigriventris; Could also be Sarcophaga (Pierettia) soro
 280,34,Chazey Wood,2016-06-16,,Lauxaniidae,Minettia inusta,,,
 280,35,Chazey Wood,2016-06-16,,Muscidae,Mydaea anicula,f,"Fonseca, 1968",
 280,36,Chazey Wood,2016-06-16,,Anthomyiidae,Hylemya sp,f,,
 280,37,Chazey Wood,2016-06-16,,Anthomyiidae,Hylemya sp,f,,
 280,38,Chazey Wood,2016-06-16,,Anthomyiidae,Hylemya sp,f,,
-280,39,Chazey Wood,2016-06-16,,Sarcophagidae,Nyctia halterata,m,,
+280,39,Chazey Wood,2016-06-16,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",

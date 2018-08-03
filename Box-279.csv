@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 279,10,Kings Road Gardens,2016-06-16,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 279,11,Quarry near Chazey Wood,2016-06-16,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 279,12,Quarry near Chazey Wood,2016-06-16,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
-279,13,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
-279,14,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
+279,13,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga aratrix,m,"Pape, 1987",As Parasarcophaga aratrix
+279,14,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga similis,m,"Pape, 1987",As Parasarcophaga similis
 279,15,Quarry near Chazey Wood,2016-06-16,,Empididae,Empis sp,m,,
 279,16,Quarry near Chazey Wood,2016-06-16,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 279,17,Quarry near Chazey Wood,2016-06-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -24,9 +24,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 279,23,Quarry near Chazey Wood,2016-06-16,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",Teneral
 279,24,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,f,,
 279,25,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,m,,
-279,26,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
-279,27,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Nyctia halterata,m,,
-279,28,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga sp,m,,
+279,26,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
+279,27,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+279,28,Quarry near Chazey Wood,2016-06-16,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 279,29,Quarry near Chazey Wood,2016-06-16,,Lauxaniidae,,f,,
 279,30,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,m,,
 279,31,Quarry near Chazey Wood,2016-06-16,,Dolichopodidae,,m,,
