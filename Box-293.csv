@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-293,1,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga sp,f,,
-293,2,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga sp,f,,
-293,3,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga sp,m,,
-293,4,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Nyctia halterata,m,,
+293,1,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+293,2,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+293,3,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
+293,4,Kennet Mouth (E),2018-08-04,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 293,5,Kennet Mouth (E),2018-08-04,,Tachinidae,Pseudoperichaeta nigrolineata,f,"Belshaw, 1993 +v5c updates",
 293,6,Kennet Mouth (E),2018-08-04,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 293,7,Kennet Mouth (E),2018-08-04,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 293,19,Thames Valley Park,2018-08-04,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 293,20,Thames Valley Park,2018-08-04,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 293,21,Thames Valley Park,2018-08-04,,Syrphidae,Chrysotoxum bicinctum,f,"Stubbs & Falk, 2002",
-293,22,Thames Valley Park,2018-08-04,,Syrphidae,,f,,
+293,22,Thames Valley Park,2018-08-04,,Syrphidae,Eristalinus sepulchralis,f,"Stubbs & Falk, 2002",
 293,23,Thames Valley Park,2018-08-04,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",23+24 in cop
 293,24,Thames Valley Park,2018-08-04,,Tachinidae,Exorista cf rustica,f,"Belshaw, 1993 +v5c updates",23+24 in cop
 293,25,Thames Valley Park,2018-08-04,,Sarcophagidae,Sarcophaga sp,m,,25+26 in cop
@@ -36,10 +36,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 293,35,Thames Valley Park,2018-08-04,,Tachinidae,Exorista cf rustica,m,"Belshaw, 1993 +v5c updates",
 293,36,Thames Valley Park,2018-08-04,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 293,37,Thames Valley Park,2018-08-04,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-293,38,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha sp,m,,
-293,39,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha sp,m,,
-293,40,Thames Valley Park,2018-08-04,,Sarcophagidae,,f,,
-293,41,Thames Valley Park,2018-08-04,,Sarcophagidae,Sarcophaga sp,m,,
+293,38,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
+293,39,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha cf plumicornis,m,"Pape, 1987",
+293,40,Thames Valley Park,2018-08-04,,Tachinidae,Carcelia tibialis,f,"Belshaw, 1993 +v5c updates",
+293,41,Thames Valley Park,2018-08-04,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 293,42,Thames Valley Park,2018-08-04,,Dolichopodidae,,f,,
 293,43,Thames Valley Park,2018-08-04,,Dolichopodidae,,f,,
-293,44,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha sp,m,,
+293,44,Thames Valley Park,2018-08-04,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
