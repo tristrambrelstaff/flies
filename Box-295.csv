@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-295,1,Whiteknights Park (E),2018-08-11,Mecoptera,Panorpidae,Panorpa sp,m,,
+295,1,Whiteknights Park (E),2018-08-11,Mecoptera,Panorpidae,Panorpa germanica,m,"Fraser, 1959",
 295,2,Whiteknights Park (E),2018-08-11,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
 295,3,Whiteknights Park (E),2018-08-11,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",Greasy
 295,4,Whiteknights Park (E),2018-08-11,,Tachinidae,Tachina fera,m,,
@@ -18,8 +18,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 295,17,Whiteknights Park (E),2018-08-11,,???,,,,
 295,18,Whiteknights Park (E),2018-08-11,,Ephydridae,,,,
 295,19,Whiteknights Park (E-FH),2018-08-11,,Tachinidae,Tachina fera,m,,
-295,20,Whiteknights Park (E-FH),2018-08-11,,Syrphidae,Ferdinandea cuprea,f,,
-295,21,Whiteknights Park (E-FH),2018-08-11,,Syrphidae,,f,,
+295,20,Whiteknights Park (E-FH),2018-08-11,,Syrphidae,Ferdinandea cuprea,f,"Stubbs & Falk, 2002",
+295,21,Whiteknights Park (E-FH),2018-08-11,,Syrphidae,Syritta pipiens,f,"Stubbs & Drake, 2001",
 295,22,Whiteknights Park (E-FH),2018-08-11,,Muscidae,,m,,
 295,23,Whiteknights Park (E-FH),2018-08-11,,Sarcophagidae,Sarcophaga sp,f,,
 295,24,Whiteknights Park (E-FH),2018-08-11,,Calliphoridae,Pollenia sp,f,,
