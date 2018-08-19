@@ -1,4 +1,4 @@
-Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
+,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 296,1,Whiteknights Park (E-FH),2018-08-11,,Ephydridae,,,,
 296,2,Whiteknights Park (E-FH),2018-08-11,,Ephydridae,,,,
 296,3,Whiteknights Park (E-FH),2018-08-11,,Ephydridae,,,,
@@ -14,12 +14,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 296,13,The Wilderness (W),20018-08-18,Mecoptera,Panorpidae,Panorpa germanica,f,"Fraser, 1959",
 296,14,The Wilderness (W),20018-08-18,,Sarcophagidae,Sarcophaga sp,m,,
 296,15,The Wilderness (W),20018-08-18,,Sarcophagidae,Sarcophaga sp,m,,
-296,16,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia sp,m,,
-296,17,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia sp,m,,
-296,18,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia sp,m,,
-296,19,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia sp,f,,
-296,20,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia pediculata,m,,
-296,21,The Wilderness (W),20018-08-18,,Calliphoridae,Lucilia sp,m,,
+296,16,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+296,17,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
+296,18,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
+296,19,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+296,20,The Wilderness (W),20018-08-18,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+296,21,The Wilderness (W),20018-08-18,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 296,22,The Wilderness (W),20018-08-18,,Muscidae,Helina quadrum,f,"Fonseca, 1968",
 296,23,The Wilderness (W),20018-08-18,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 296,24,The Wilderness (W),20018-08-18,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
