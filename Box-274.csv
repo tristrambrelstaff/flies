@@ -1,16 +1,16 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 274,1,Kings Meadow Tescos,2018-05-28,Mecoptera,Panorpidae,Panorpa communis,m,"Fraser, 1959",
-274,2,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,m,,
-274,3,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,m,,
-274,4,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,,
-274,5,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,,
-274,6,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,,
+274,2,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+274,3,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+274,4,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+274,5,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+274,6,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 274,7,Kings Meadow Tescos,2018-05-28,,Syrphidae,Merodon equestris,f,"Stubbs & Falk, 2002",
 274,8,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 274,9,Kings Meadow Tescos,2018-05-28,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 274,10,Kings Meadow Tescos,2018-05-28,,Muscidae,Phaonia serva,f,"Fonseca, 1968",Antennae missing
 274,11,Kings Meadow Tescos,2018-05-28,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
-274,12,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,,f,,
+274,12,Kings Meadow Tescos,2018-05-28,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 274,13,Kings Meadow Tescos,2018-05-28,,Dolichopodidae,,f,,
 274,14,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 274,15,Kings Meadow Tescos,2018-05-28,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
@@ -38,4 +38,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 274,37,Whiteknights Park (E-FH),2018-06-02,,Empididae,Empis sp,f,,
 274,38,Whiteknights Park (E-FH),2018-06-02,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 274,39,Whiteknights Park (E-FH),2018-06-02,,Syrphidae,Eristalis sp,m,,
-274,40,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga sp,m,,
+274,40,Whiteknights Park (E-FH),2018-06-02,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
