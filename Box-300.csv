@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 300,1,Whiteknights Park (W),2018-09-01,,Chironomidae,,m,,
-300,2,Whiteknights Park (W),2018-09-01,,Tachinidae,,f,,
-300,3,Whiteknights Park (W),2018-09-01,,Tachinidae,Solieria sp,m,,
+300,2,Whiteknights Park (W),2018-09-01,,Tachinidae,Exorista cf rustica,f,"Belshaw, 1993 +v5c updates",
+300,3,Whiteknights Park (W),2018-09-01,,Tachinidae,Solieria pacifica,m,"Belshaw, 1993 +v5c updates",
 300,4,Whiteknights Park (W),2018-09-01,,Muscidae,Hebecnema vespertina,m,,
 300,5,Whiteknights Park (W),2018-09-01,,Muscidae,Hebecnema sp,f,,
 300,6,Whiteknights Park (W),2018-09-01,,Anthomyiidae,,f,,
