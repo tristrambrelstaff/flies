@@ -61,9 +61,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 301,60,Whiteknights Park (E-FH),2018-09-08,,???,,,,
 301,61,Whiteknights Park (E-FH),2018-09-08,,???,,,,
 301,62,Whiteknights Park (E-FH),2018-09-08,,Phoridae,,,,
-301,63,Quarry near Chazey Wood,2018-09-10,,Sciomyzidae,,f,,
-301,64,Quarry near Chazey Wood,2018-09-10,,Dryomyzidae,Dryomyza anilis,m,,
-301,65,Quarry near Chazey Wood,2018-09-10,,Dryomyzidae,Dryomyza anilis,f,,
+301,63,Quarry near Chazey Wood,2018-09-10,,Sciomyzidae,Euthycera fumigata,f,"Rozkosny, 1984",
+301,64,Quarry near Chazey Wood,2018-09-10,,Dryomyzidae,Dryomyza anilis,m,"Shtakelberg, 1989",As Neuroctena anilis
+301,65,Quarry near Chazey Wood,2018-09-10,,Dryomyzidae,Dryomyza anilis,f,"Shtakelberg, 1989",As Neuroctena anilis
 301,66,Quarry near Chazey Wood,2018-09-10,,Muscidae,Mydaea sp,f,,
 301,67,Quarry near Chazey Wood,2018-09-10,,Muscidae,Helina sp,f,,
 301,68,Quarry near Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,
