@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 48,6,The Wilderness (W),2014-09-13,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 48,7,The Wilderness (W),2014-09-13,,Psilidae,,,,
 48,8,The Wilderness (W),2014-09-13,,Muscidae,Phaonia halterata,f,"Fonseca, 1968",
-48,9,The Wilderness (E),2014-09-13,,Platypezidae,,f,,
+48,9,The Wilderness (E),2014-09-13,,Platypezidae,Platypeza consobrina,f,"Chandler, 2001",Fungus
 48,10,The Wilderness (E),2014-09-13,,Lauxaniidae,,,,
 48,11,The Wilderness (E),2014-09-13,,Lauxaniidae,,f,,
 48,12,The Wilderness (E),2014-09-13,,Anthomyiidae,Anthomyia plurinotata,m,"van Erkelans, 2011",
@@ -48,8 +48,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 48,47,The Wilderness (W),2014-09-20,,Anthomyiidae,,f,,
 48,48,The Wilderness (W),2014-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 48,49,The Wilderness (W),2014-09-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-48,50,The Wilderness (W),2014-09-20,,Platypezidae,,,,
-48,51,The Wilderness (W),2014-09-20,,Platypezidae,,,,
-48,52,The Wilderness (W),2014-09-20,,Platypezidae,,,,
-48,53,The Wilderness (W),2014-09-20,,Platypezidae,,,,
-48,54,The Wilderness (W),2014-09-20,,Platypezidae,,,,
+48,50,The Wilderness (W),2014-09-20,,Platypezidae,Protoclythia modesta,f,"Chandler, 2001",
+48,51,The Wilderness (W),2014-09-20,,Platypezidae,Platypeza consobrina,f,"Chandler, 2001",Fungus
+48,52,The Wilderness (W),2014-09-20,,Platypezidae,Platypeza consobrina,f,"Chandler, 2001",
+48,53,The Wilderness (W),2014-09-20,,Platypezidae,Platypeza consobrina,f,"Chandler, 2001",
+48,54,The Wilderness (W),2014-09-20,,Platypezidae,Platypeza consobrina,f,"Chandler, 2001",
