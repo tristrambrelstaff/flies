@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-305,1,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga sp,m,,
-305,2,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga sp,f,,
+305,1,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+305,2,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 305,3,Thames Valley Park,2018-09-13,,Sciomyzidae,Euthycera chaerophylli,f,"Rozkosny, 1984",
 305,4,Thames Valley Park,2018-09-13,,Muscidae,Phaonia sp,f,,
 305,5,Thames Valley Park,2018-09-13,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
@@ -35,7 +35,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 305,34,Thames Valley Park,2018-09-13,,Anthomyiidae,,m,,
 305,35,Thames Valley Park,2018-09-13,,Anthomyiidae,Anthomyia procellaris,m,,
 305,36,Thames Valley Park,2018-09-13,,Anthomyiidae,Anthomyia procellaris,m,,
-305,37,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga sp,m,,
+305,37,Thames Valley Park,2018-09-13,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet at al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 305,38,Thames Valley Park,2018-09-13,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
 305,39,Thames Valley Park,2018-09-13,,Dolichopodidae,Argyra sp,m,,
 305,40,Thames Valley Park,2018-09-13,,Anthomyiidae,,m,,
