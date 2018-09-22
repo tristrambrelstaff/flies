@@ -65,7 +65,7 @@ todo.Lonchopteridae.csv: Box-*.csv
 	- grep Lonchopteridae B*csv | grep -v "Smith, 1969" >$@ || true
 
 todo.Muscidae.csv: Box-*.csv
-	- grep Muscidae B*csv | grep -v "Fonseca, 1968" >$@ || true
+	- grep Muscidae B*csv | grep -v "Fonseca, 1968" | grep -v "Gregor et al, 2016" >$@ || true
 
 todo.Opomyzidae.csv: Box-*.csv
 	- grep Opomyzidae B*csv | grep -v "Drake, 1993" >$@ || true
