@@ -4,10 +4,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 307,3,The Wilderness (W),2018-09-16,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
 307,4,The Wilderness (W),2018-09-16,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 307,5,The Wilderness (W),2018-09-16,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-307,6,The Wilderness (W),2018-09-16,,Muscidae,Limnophora sp,f,,
-307,7,The Wilderness (W),2018-09-16,,Muscidae,Helina sp,f,,
-307,8,The Wilderness (W),2018-09-16,,Muscidae,Helina sp,f,,
-307,9,The Wilderness (W),2018-09-16,,Muscidae,Graphomya maculata,f,,
+307,6,The Wilderness (W),2018-09-16,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
+307,7,The Wilderness (W),2018-09-16,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+307,8,The Wilderness (W),2018-09-16,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+307,9,The Wilderness (W),2018-09-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 307,10,The Wilderness (W),2018-09-16,,Scathophagidae,Norellisoma spinimanum,m,"Ball, 2014",
 307,11,The Wilderness (W),2018-09-16,,Anthomyiidae,,f,,
 307,12,The Wilderness (W),2018-09-16,,Anthomyiidae,Anthomyia plurinotata,f,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 307,23,The Wilderness (W),2018-09-16,,Dolichopididae,,m,,
 307,24,The Wilderness (W),2018-09-16,,Dolichopididae,,m,,
 307,25,The Wilderness (W),2018-09-16,,Dolichopididae,,m,,
-307,26,The Wilderness (W),2018-09-16,,Muscidae,Coenosia agromyzina,f,,
-307,27,The Wilderness (W),2018-09-16,,Muscidae,Coenosia agromyzina,f,,
-307,28,The Wilderness (W),2018-09-16,,Muscidae,Coenosia sp,f,,
+307,26,The Wilderness (W),2018-09-16,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+307,27,The Wilderness (W),2018-09-16,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+307,28,The Wilderness (W),2018-09-16,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 307,29,The Wilderness (W),2018-09-16,,Agromyzidae,,f,,
