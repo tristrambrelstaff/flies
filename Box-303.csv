@@ -1,15 +1,15 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-303,1,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,
-303,2,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,
-303,3,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,f,,
-303,4,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,
+303,1,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+303,2,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+303,3,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+303,4,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
 303,5,Chazey Wood,2018-09-10,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 303,6,Chazey Wood,2018-09-10,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 303,7,Chazey Wood,2018-09-10,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 303,8,Chazey Wood,2018-09-10,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 303,9,Chazey Wood,2018-09-10,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
 303,10,Chazey Wood,2018-09-10,,Calliphoridae,Bellardia vulgaris,m,"Rognes, 1991",
-303,11,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,f,,
+303,11,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 303,12,Chazey Wood,2018-09-10,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 303,13,Chazey Wood,2018-09-10,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 303,14,Chazey Wood,2018-09-10,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Abdomen greasy
@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 303,21,Chazey Wood,2018-09-10,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 303,22,Chazey Wood,2018-09-10,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 303,23,Chazey Wood,2018-09-10,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
-303,24,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,
+303,24,Chazey Wood,2018-09-10,,Sarcophagidae,Sarcophaga sp,m,,Interesting
 303,25,Chazey Wood,2018-09-10,,Anthomyiidae,,f,,
 303,26,Chazey Wood,2018-09-10,,Anthomyiidae,,f,,
 303,27,Chazey Wood,2018-09-10,,Fanniidae,Fannia sp,f,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 303,39,Chazey Wood,2018-09-10,,Anthomyiidae,Anthomyia procellaris,m,,
 303,40,Chazey Wood,2018-09-10,,Anthomyiidae,Anthomyia procellaris,m,,
 303,41,Chazey Wood,2018-09-10,,Anthomyiidae,Anthomyia procellaris,m,,
-303,42,Kings Meadow Tescos,2018-09-13,,Sarcophagidae,Sarcophaga sp,m,,
+303,42,Kings Meadow Tescos,2018-09-13,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 303,43,Kings Meadow Tescos,2018-09-13,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 303,44,Kings Meadow Tescos,2018-09-13,,Tachinidae,Linnaemya tessellans,f,"Belshaw, 1993 +v5c updates",
 303,45,Kings Meadow Tescos,2018-09-13,,Tachinidae,Pales pavida,m,"Belshaw, 1993 +v5c updates",
