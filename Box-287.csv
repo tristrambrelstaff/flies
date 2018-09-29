@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,15,Whiteknights Park (W),2018-07-08,,Lauxaniidae,Minettia fasciata,,,
 287,16,Whiteknights Park (W),2018-07-08,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 287,17,Whiteknights Park (W),2018-07-08,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
-287,18,Whiteknights Park (W),2018-07-08,,Sphaeroceridae,,f,,
+287,18,Whiteknights Park (W),2018-07-08,,Sphaeroceridae,Copromyza similis,f,"Pitkin, 1988",
 287,19,Whiteknights Park (W),2018-07-08,,Tephritidae,Anomoia purmunda,m,"White, 1988",
 287,20,Whiteknights Park (W),2018-07-08,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 287,21,Whiteknights Park (W),2018-07-08,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 287,26,Whiteknights Park (W),2018-07-08,,Opomyzidae,Opomyza petrei,m,"Drake, 1993",
 287,27,Whiteknights Park (W),2018-07-08,,Dolichopodidae,,f,,
 287,28,Whiteknights Park (W),2018-07-08,,Agromyzidae,,,,
-287,29,Whiteknights Park (W),2018-07-08,,Sphaeroceridae,,m,,
+287,29,Whiteknights Park (W),2018-07-08,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
 287,30,The Wilderness (W),2018-07-08,,Bombyliidae,Villa cingulata,f,"Stubbs & Drake, 2001",
 287,31,The Wilderness (W),2018-07-08,,Tachinidae,Dexiosoma caninum,m,"Belshaw, 1993 +v5c updates",
 287,32,The Wilderness (W),2018-07-08,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",

@@ -25,9 +25,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 288,24,The Wilderness (E),2018-07-08,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 288,25,The Wilderness (E),2018-07-08,,Dolichopodidae,,m,,
 288,26,The Wilderness (E),2018-07-08,,Fanniidae,Fannia sp,f,,
-288,27,The Wilderness (E),2018-07-08,,Sphaeroceridae,,,,
-288,28,The Wilderness (E),2018-07-08,,Sphaeroceridae,,,,
-288,29,The Wilderness (E),2018-07-08,,Sphaeroceridae,,,,
+288,27,The Wilderness (E),2018-07-08,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
+288,28,The Wilderness (E),2018-07-08,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",
+288,29,The Wilderness (E),2018-07-08,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
 288,30,The Wilderness (E),2018-07-08,,Phoridae,,,,
 288,31,The Wilderness (E),2018-07-08,,Psychodidae,,,,
 288,32,Kennet Mouth (E),2018-07-15,,Tachinidae,Gymnosoma cf rotundatum,f,"Belshaw, 1993 +v5c updates",

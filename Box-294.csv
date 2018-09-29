@@ -10,16 +10,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 294,9,Thames Valley Park,2018-08-04,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 294,10,Thames Valley Park,2018-08-04,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",
 294,11,Thames Valley Park,2018-08-04,,Dolichopodidae,,,,
-294,12,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
+294,12,Thames Valley Park,2018-08-04,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",
 294,13,Thames Valley Park,2018-08-04,,Pipunculidae,,,,
-294,14,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
+294,14,Thames Valley Park,2018-08-04,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",Greasy
 294,15,Thames Valley Park,2018-08-04,,Dolichopodidae,,,,
 294,16,Thames Valley Park,2018-08-04,,Chloropidae,Elachiptera sp,f,,
-294,17,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
-294,18,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
-294,19,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
-294,20,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
-294,21,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
+294,17,Thames Valley Park,2018-08-04,,Sphaeroceridae,Rachispoda cf lutosa,f,"Pitkin, 1988",As Leptocera lutosa
+294,18,Thames Valley Park,2018-08-04,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",Greasy
+294,19,Thames Valley Park,2018-08-04,,Sphaeroceridae,Rachispoda cf lutosa,m,"Pitkin, 1988",As Leptocera lutosa
+294,20,Thames Valley Park,2018-08-04,,Sphaeroceridae,Rachispoda cf lutosa,f,"Pitkin, 1988",As Leptocera lutosa
+294,21,Thames Valley Park,2018-08-04,,Sphaeroceridae,Rachispoda cf lutosa,f,"Pitkin, 1988",As Leptocera lutosa
 294,22,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,23,Thames Valley Park,2018-08-04,,Ephydridae,Scatella lutosa,f,"Narchuk, 1989",
 294,24,Thames Valley Park,2018-08-04,,Ephydridae,Hydrellia sp,f,"Narchuk, 1989",
@@ -28,15 +28,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 294,27,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,28,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,29,Thames Valley Park,2018-08-04,,Ephydridae,,,,
-294,30,Thames Valley Park,2018-08-04,,Ephydridae,,,,
-294,31,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
+294,30,Thames Valley Park,2018-08-04,,Sphaeroceridae,Rachispoda cf lutosa,m,"Pitkin, 1988",As Leptocera lutosa
+294,31,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,32,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,33,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,34,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,35,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,36,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,37,Thames Valley Park,2018-08-04,,Ephydridae,,,,
-294,38,Thames Valley Park,2018-08-04,,Sphaeroceridae,,,,
+294,38,Thames Valley Park,2018-08-04,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
 294,39,Thames Valley Park,2018-08-04,,Ephydridae,,,,
 294,40,Whiteknights Park (W),2018-08-11,,Tachinidae,Linnaemya tessellans,m,"Belshaw, 1993 +v5c updates",
 294,41,Whiteknights Park (W),2018-08-11,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
