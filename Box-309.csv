@@ -7,13 +7,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 309,6,The Wilderness (W),2018-09-27,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 309,7,The Wilderness (W),2018-09-27,,Empididae,Rhamphomya sp,f,,
 309,8,The Wilderness (W),2018-09-27,,Heleomyzidae,Suillia dumicola,f,"Withers, 1987",
-309,9,The Wilderness (W),2018-09-27,,Muscidae,Coenosia sp,f,,
-309,10,The Wilderness (W),2018-09-27,,Muscidae,Coenosia sp,f,,
-309,11,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,,
-309,12,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,,
-309,13,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,,
-309,14,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,,
-309,15,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,,
+309,9,The Wilderness (W),2018-09-27,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+309,10,The Wilderness (W),2018-09-27,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+309,11,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+309,12,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+309,13,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+309,14,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+309,15,The Wilderness (W),2018-09-27,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 309,16,The Wilderness (W),2018-09-27,,Sphaeroceridae,Rachispoda cf lutosa,m,"Pitkin, 1988",As Leptocera lutosa
 309,17,The Wilderness (W),2018-09-27,,Sphaeroceridae,Rachispoda cf lutosa,f,"Pitkin, 1988",As Leptocera lutosa
 309,18,Whiteknights Park (E-FH),2018-09-29,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
@@ -21,10 +21,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 309,20,Whiteknights Park (E-FH),2018-09-29,,Tachinidae,Pale pavida,f,"Belshaw, 1993 +v5c updates",
 309,21,Whiteknights Park (E-FH),2018-09-29,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
 309,22,Whiteknights Park (E-FH),2018-09-29,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
-309,23,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Helina sp,f,,
-309,24,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Helina sp,f,,
+309,23,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Antennae missing
+309,24,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Antennae missing
 309,25,Whiteknights Park (E-FH),2018-09-29,,Anthomyiidae,,f,,
-309,26,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Coenosia trigrina,f,,
+309,26,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Coenosia trigrina,f,"Fonseca, 1968",As Caricea tigrina
 309,27,Whiteknights Park (E-FH),2018-09-29,,Sarcophagidae,Blaesoxipha pygmaea,f,"Pape, 1987",
 309,28,Whiteknights Park (E-FH),2018-09-29,,Dolichopodidae,,f,,
 309,29,Whiteknights Park (E-FH),2018-09-29,,Anthomyiidae,,f,,
@@ -36,7 +36,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 309,35,Whiteknights Park (E-FH),2018-09-29,,Lauxaniidae,Minettia fasciata,m,"Schacht et al, 2004 translation of Shatalkin, 2000",
 309,36,Whiteknights Park (E-FH),2018-09-29,,Lauxaniidae,Calliopum aeneum,m,"Schacht et al, 2004 translation of Shatalkin, 2000",
 309,37,Whiteknights Park (E-FH),2018-09-29,,Anthomyiidae,,f,,
-309,38,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Coenosia sp,f,,
+309,38,Whiteknights Park (E-FH),2018-09-29,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 309,39,Whiteknights Park (E-FH),2018-09-29,,Anthomyiidae,,f,,
 309,40,Whiteknights Park (E-FH),2018-09-29,,Opomyzidae,Opomyza sp,f,,
 309,41,Whiteknights Park (E-FH),2018-09-29,,Opomyzidae,Opomyza sp,f,,
@@ -71,7 +71,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 309,70,Whiteknights Park (E-FH),2018-09-29,,???,,,,
 309,71,Whiteknights Park (E-FH),2018-09-29,,???,,,,
 309,72,Whiteknights Park (W),2018-09-29,,Sarcophagidae,Sarcophaga variegtata,m,"Pape, 1987",
-309,73,Whiteknights Park (W),2018-09-29,,Muscidae,Helina sp,f,,
-309,74,Whiteknights Park (W),2018-09-29,,Muscidae,Helina sp,f,,
-309,75,Whiteknights Park (W),2018-09-29,,Muscidae,Helina evecta,f,,
-309,76,Whiteknights Park (W),2018-09-29,,Muscidae,Neomyia sp,f,,
+309,73,Whiteknights Park (W),2018-09-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+309,74,Whiteknights Park (W),2018-09-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+309,75,Whiteknights Park (W),2018-09-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+309,76,Whiteknights Park (W),2018-09-29,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
