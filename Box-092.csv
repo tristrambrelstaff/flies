@@ -47,9 +47,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 92,46,The Wilderness (W),2015-07-18,,Anthomyiidae,Anthomyia cf pluvialis,f,,
 92,47,The Wilderness (W),2015-07-18,,Tephritidae,Chaetostomella cylindrica,f,"White, 1988",
 92,48,The Wilderness (W),2015-07-18,,Dolichopodidae,,f,,
-92,49,The Wilderness (W),2015-07-18,,Ephydridae,,,,
-92,50,The Wilderness (W),2015-07-18,,Ephydridae,,,,
-92,51,The Wilderness (W),2015-07-18,,Ephydridae,,,,
+92,49,The Wilderness (W),2015-07-18,,Ephydridae,Parydra coarctata,f,"Drake, 2006 updated 2013",Greasy
+92,50,The Wilderness (W),2015-07-18,,Ephydridae,Parydra coarctata,f,"Drake, 2006 updated 2013",Greasy
+92,51,The Wilderness (W),2015-07-18,,Ephydridae,Parydra coarctata,f,"Drake, 2006 updated 2013",
 92,52,The Wilderness (E),2015-07-18,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",52+53 in cop
 92,53,The Wilderness (E),2015-07-18,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",52+53 in cop
 92,54,The Wilderness (E),2015-07-18,,Syrphidae,Myolepta dubia,f,"Stubbs & Falk, 2002",
