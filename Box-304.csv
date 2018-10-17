@@ -13,15 +13,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 304,12,Kings Meadow Tescos,2018-09-13,,Calliphoridae,Pollenia labialis,f,"Rognes, 1991",
 304,13,Kings Meadow Tescos,2018-09-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",Greasy
 304,14,Kings Meadow Tescos,2018-09-13,,Stratiomyidae,Chorisops tibialis,f,"Stubbs & Drake, 2001",
-304,15,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Hylemya sp,f,,
+304,15,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Hylemya sp,f,"Ackland et al draft keys, 2017",Hylemya vagans or Hylemya nigrimana
 304,16,Kings Meadow Tescos,2018-09-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 304,17,Kings Meadow Tescos,2018-09-13,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
 304,18,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,,f,,
 304,19,Kings Meadow Tescos,2018-09-13,,Fanniidae,Fannia sp,f,,
 304,20,Kings Meadow Tescos,2018-09-13,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
-304,21,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,,m,,
-304,22,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,,m,,
-304,23,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Anthomyia procellaris,m,,
+304,21,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
+304,22,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
+304,23,Kings Meadow Tescos,2018-09-13,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
 304,24,Kennet Mouth (E),2018-09-13,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 304,25,Kennet Mouth (E),2018-09-13,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 304,26,Kennet Mouth (E),2018-09-13,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
@@ -42,6 +42,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 304,41,Kennet Mouth (E),2018-09-13,,Anthomyiidae,,f,,
 304,42,Kennet Mouth (E),2018-09-13,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 304,43,Kennet Mouth (E),2018-09-13,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
-304,44,Kennet Mouth (E),2018-09-13,,Anthomyiidae,,m,,
-304,45,Kennet Mouth (E),2018-09-13,,Anthomyiidae,,m,,
-304,46,Kennet Mouth (E),2018-09-13,,Anthomyiidae,,m,,
+304,44,Kennet Mouth (E),2018-09-13,,Anthomyiidae,Anthomyia liturata,m,"Ackland et al draft keys, 2017",
+304,45,Kennet Mouth (E),2018-09-13,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
+304,46,Kennet Mouth (E),2018-09-13,,Anthomyiidae,Anthomyiidae procellaris,m,"Ackland et al draft keys, 2017",
