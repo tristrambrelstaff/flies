@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 312,25,Kennet Mouth (E),2018-10-13,,Chloropidae,,m,,
 312,26,Kennet Mouth (E),2018-10-13,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
 312,27,Kennet Mouth (E),2018-10-13,,Chloropidae,,f,,
-312,28,Kennet Mouth (E),2018-10-20,,Tachinidae,,f,,
+312,28,Kennet Mouth (E),2018-10-20,,Tachinidae,Myxexoristops stolidus,f,"Belshaw, 1993 +v5c updates",As Myxexoristops stolida
 312,29,Kennet Mouth (E),2018-10-20,,Calliphoridae,Lucilia sp,m,,
 312,30,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,m,,
 312,31,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,m,,
@@ -38,7 +38,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 312,37,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,f,,
 312,38,Thames Valley Park,2018-10-20,,Calliphoridae,Pollenia sp,f,,
 312,39,Thames Valley Park,2018-10-20,,Calliphoridae,Lucila caesar,m,,
-312,40,Thames Valley Park,2018-10-20,,Tachinidae,Voria ruralis,f,,
+312,40,Thames Valley Park,2018-10-20,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 312,41,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,,
 312,42,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,,
 312,43,Thames Valley Park,2018-10-20,,Muscidae,Phaonia sp,f,,
