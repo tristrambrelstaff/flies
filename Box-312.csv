@@ -28,8 +28,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 312,27,Kennet Mouth (E),2018-10-13,,Chloropidae,,f,,
 312,28,Kennet Mouth (E),2018-10-20,,Tachinidae,Myxexoristops stolidus,f,"Belshaw, 1993 +v5c updates",As Myxexoristops stolida
 312,29,Kennet Mouth (E),2018-10-20,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-312,30,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,m,,
-312,31,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,m,,
+312,30,Kennet Mouth (E),2018-10-20,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
+312,31,Kennet Mouth (E),2018-10-20,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 312,32,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,f,,
 312,33,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,f,,
 312,34,Kennet Mouth (E),2018-10-20,,Anthomyiidae,,f,,
@@ -42,20 +42,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 312,41,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 312,42,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 312,43,Thames Valley Park,2018-10-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-312,44,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya sp,m,,
-312,45,Thames Valley Park,2018-10-20,,Anthomyiidae,Anthomyia procellaris,m,,
+312,44,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+312,45,Thames Valley Park,2018-10-20,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
 312,46,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 312,47,Thames Valley Park,2018-10-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 312,48,Thames Valley Park,2018-10-20,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 312,49,Thames Valley Park,2018-10-20,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 312,50,Thames Valley Park,2018-10-20,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 312,51,Thames Valley Park,2018-10-20,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-312,52,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya sp,m,,
-312,53,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya sp,m,,
-312,54,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya sp,m,,
-312,55,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya sp,m,,
-312,56,Thames Valley Park,2018-10-20,,Anthomyiidae,,m,,
-312,57,Thames Valley Park,2018-10-20,,Anthomyiidae,Anthomyia sp,m,,
+312,52,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+312,53,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+312,54,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+312,55,Thames Valley Park,2018-10-20,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+312,56,Thames Valley Park,2018-10-20,,Anthomyiidae,Delia lamelliseta,m,"Ackland et al draft keys, 2017",
+312,57,Thames Valley Park,2018-10-20,,Anthomyiidae,Anthomyia liturata,m,"Ackland et al draft keys, 2017",
 312,58,Thames Valley Park,2018-10-20,,Anthomyiidae,,f,,
 312,59,Thames Valley Park,2018-10-20,,Anthomyiidae,,f,,
 312,60,Thames Valley Park,2018-10-20,,Anthomyiidae,,f,,
