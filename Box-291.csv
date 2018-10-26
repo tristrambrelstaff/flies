@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 291,13,Chazey Wood,2018-07-21,,Anthomyiidae,,f,,
 291,14,Chazey Wood,2018-07-21,,Anthomyiidae,,f,,
 291,15,Chazey Wood,2018-07-21,,Anthomyiidae,,f,,
-291,16,Chazey Wood,2018-07-21,,Anthomyiidae,,m,,
-291,17,Chazey Wood,2018-07-21,,Anthomyiidae,,m,,
+291,16,Chazey Wood,2018-07-21,,Anthomyiidae,Hylemyza partita,m,"Ackland et al draft keys, 2017",
+291,17,Chazey Wood,2018-07-21,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",Cerci missing
 291,18,Chazey Wood,2018-07-21,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 291,19,Chazey Wood,2018-07-21,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 291,20,Chazey Wood,2018-07-21,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
@@ -44,9 +44,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 291,44,Whiteknights Park (E-FH),2018-07-28,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 291,45,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,f,,
 291,46,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,f,,
-291,47,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,m,,
-291,48,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,m,,
-291,49,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,m,,
+291,47,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,Paregle audacula,m,"Ackland et al draft keys, 2017",
+291,48,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,Paregle audacula,m,"Ackland et al draft keys, 2017",
+291,49,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,Paregle audacula,m,"Ackland et al draft keys, 2017",
 291,50,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,f,,
 291,51,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,f,,
 291,52,Whiteknights Park (E-FH),2018-07-28,,Anthomyiidae,,f,,
