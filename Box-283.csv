@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 283,33,Whiteknights Park (W),2018-06-22,,Empididae,Empis sp,m,,
 283,34,Whiteknights Park (W),2018-06-22,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 283,35,Whiteknights Park (W),2018-06-22,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
-283,36,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Hylemya sp,m,,
+283,36,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
 283,37,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 283,38,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
 283,39,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
@@ -55,8 +55,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 283,54,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 283,55,Whiteknights Park (W),2018-06-22,,Fanniidae,Fannia sp,f,,
 283,56,Whiteknights Park (W),2018-06-22,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
-283,57,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris grp,m,,
-283,58,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris grp,m,,
-283,59,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris grp,m,,
-283,60,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Pegomya sp,m,,
+283,57,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
+283,58,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
+283,59,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
+283,60,Whiteknights Park (W),2018-06-22,,Anthomyiidae,Pegomya sp,m,,Needs relaxing
 283,61,Whiteknights Park (W),2018-06-22,,Syrphidae,,f,,
