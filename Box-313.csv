@@ -34,12 +34,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 313,33,Thames Valley Park,2018-10-20,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 313,34,Thames Valley Park,2018-10-20,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 313,35,Thames Valley Park,2018-10-20,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
-313,36,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,m,,
-313,37,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
-313,38,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
-313,39,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
-313,40,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
-313,41,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
+313,36,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
+313,37,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+313,38,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+313,39,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+313,40,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+313,41,Whiteknights Park (W),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 313,42,Whiteknights Park (W),2018-11-03,,Opomyzidae,Opomyza sp,f,,
 313,43,Whiteknights Park (W),2018-11-03,,Opomyzidae,Opomyza sp,f,,
 313,44,Whiteknights Park (W),2018-11-03,,Anthomyiidae,,f,,
@@ -57,7 +57,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 313,56,The Wilderness (E),2018-11-03,,Heleomyzidae,,f,,
 313,57,The Wilderness (E),2018-11-03,,Platypezidae,Polyporivora picta,f,"Chandler, 2001",
 313,58,The Wilderness (E),2018-11-03,,Lonchopteridae,Lonchoptera sp,f,,
-313,59,Whiteknights Park (E),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,,
+313,59,Whiteknights Park (E),2018-11-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 313,60,Whiteknights Park (E),2018-11-03,,Muscidae,Helina sp,f,,
 313,61,Whiteknights Park (E),2018-11-03,,Muscidae,Helina sp,f,,
 313,62,Whiteknights Park (E),2018-11-03,,Muscidae,Helina sp,f,,
