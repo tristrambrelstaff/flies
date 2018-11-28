@@ -53,8 +53,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 145,52,Whiteknights Park (E),2016-06-11,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 145,53,Whiteknights Park (E),2016-06-11,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 145,54,Whiteknights Park (E),2016-06-11,,Tachinidae,Exorista sp,f,"Belshaw, 1993 +v5c updates",
-145,55,Whiteknights Park (E),2016-06-11,Hymenoptera,Ichneumonidae,,,,
-145,56,Whiteknights Park (E),2016-06-11,Hymenoptera,Ichneumonidae,,,,
+145,55,Whiteknights Park (E),2016-06-11,Hymenoptera,Ichneumonidae,,,,Not Amblyteles armatorius
+145,56,Whiteknights Park (E),2016-06-11,Hymenoptera,Ichneumonidae,Amblyteles armatorius,m,"Prehn & Raper, 2017",
 145,57,Whiteknights Park (E),2016-06-11,,Empididae,Empis sp,m,,
 145,58,Whiteknights Park (E),2016-06-11,,Syrphidae,Eristalinus sp,,,
 145,59,Whiteknights Park (E),2016-06-11,,Rhagionidae,Chrysopilus cristatus,f,"Stubbs & Drake, 2001",
