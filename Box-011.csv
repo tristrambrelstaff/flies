@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 11,18,Whiteknights Park,2014-05-03,,Dolichopodidae,Rhaphium sp,m,,
 11,19,Whiteknights Park,2014-05-03,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 11,20,Whiteknights Park,2014-05-03,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
-11,21,Whiteknights Park,2014-05-03,Hymenoptera,Ichneumonidae,,m,,
+11,21,Whiteknights Park,2014-05-03,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+41 segments; Cyryptinae with Broad et al, 2018"
 11,22,Whiteknights Park,2014-05-03,Mecoptera,Panorpidae,Panorpa germanica,f,"Fraser, 1959",
 11,23,Whiteknights Park,2014-05-03,,Chironomidae,,,,
 11,24,Whiteknights Park,2014-05-03,,Lauxaniidae,Calliopum aeneum,f,"Schacht et al, 2004 translation of Shatalkin, 2000",
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 11,27,Whiteknights Park,2014-05-03,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor; Mid femurs have 2 posterior preapical bristles
 11,28,Whiteknights Park,2014-05-03,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 11,29,Whiteknights Park,2014-05-03,,Syrphidae,Cheilosia sp,,,
-11,30,Whiteknights Park,2014-05-03,Hymenoptera,Ichneumonidae,,,,
+11,30,Whiteknights Park,2014-05-03,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+41 segments; Cyryptinae with Broad et al, 2018"
 11,31,Whiteknights Park,2014-05-03,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 11,32,Whiteknights Park,2014-05-03,,Syrphidae,,m,,
 11,33,Whiteknights Park,2014-05-03,,Anthomyiidae,,m,,
