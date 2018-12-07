@@ -25,8 +25,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 299,24,Thames Valley Park,2018-08-25,,Agromyzidae,,f,,
 299,25,Thames Valley Park,2018-08-25,,Phoridae,,,,
 299,26,Thames Valley Park,2018-08-25,,Mycetophilidae,,,,
-299,27,Thames Valley Park,2018-08-25,Hymenoptera,Ichneumonidae,,m,,
-299,28,Thames Valley Park,2018-08-25,Hymenoptera,Braconidae,,f,,
+299,27,Thames Valley Park,2018-08-25,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+18 segments; Phygadeuontinae with Broad et al, 2018"
+299,28,Thames Valley Park,2018-08-25,Hymenoptera,Chalcidoidea,,f,,Antennae have 2+11 segments
 299,29,Thames Valley Park,2018-08-25,,Fanniidae,,f,,
 299,30,Thames Valley Park,2018-08-25,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 299,31,Whiteknights Park (W),2018-09-01,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
