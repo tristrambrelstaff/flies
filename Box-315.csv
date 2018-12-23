@@ -43,14 +43,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 315,42,Whiteknights Park (W),2018-12-08,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 315,43,Whiteknights Park (W),2018-12-08,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 315,44,Whiteknights Park (E-FH),2018-12-22,,Anthomyiidae,,f,,
-315,45,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza sp,f,,
-315,46,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza sp,f,,
-315,47,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza sp,f,,
+315,45,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
+315,46,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
+315,47,Whiteknights Park (E-FH),2018-12-22,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
 315,48,Whiteknights Park (E-FH),2018-12-22,,Drosophilidae,,,,
-315,49,Whiteknights Park (E-FH),2018-12-22,,Chironomidae,,m,,
-315,50,Whiteknights Park (E-FH),2018-12-22,,Calliphoridae,Calliphora vicina,m,,
-315,51,Whiteknights Park (E-FH),2018-12-22,,Muscidae,Phaonia sp,f,,
-315,52,Whiteknights Park (E-FH),2018-12-22,,Muscidae,Phaonia sp,m,,
-315,53,Whiteknights Park (E-FH),2018-12-22,,Sciaridae,,f,,
+315,49,Whiteknights Park (E-FH),2018-12-22,,Chironomidae,Orthocladiinae,m,,
+315,50,Whiteknights Park (E-FH),2018-12-22,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+315,51,Whiteknights Park (E-FH),2018-12-22,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+315,52,Whiteknights Park (E-FH),2018-12-22,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+315,53,Whiteknights Park (E-FH),2018-12-22,,Mycetophilidae,Bolitophila tenella,f,"Hutson et al, 1980",Antennae have 2+13 segments
 315,54,Whiteknights Park (E-FH),2018-12-22,,Mycetophilidae,,,,
 315,55,Whiteknights Park (E-FH),2018-12-22,,Mycetophilidae,,,,
