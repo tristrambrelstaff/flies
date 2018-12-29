@@ -1,12 +1,12 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-316,1,Malvern Court,2018-12-28,,Drosophilidae,,,,
-316,2,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,f,,
-316,3,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,m,,
-316,4,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,f,,
-316,5,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,f,,
-316,6,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,f,,
-316,7,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera sp,f,,
-316,8,Whiteknights Park (E-FH),2018-12-28,,Sphaeroceridae,,,,
-316,9,Whiteknights Park (W),2018-12-28,,Tipulidae,,m,,
-316,10,Whiteknights Park (W),2018-12-28,,Tipulidae,,f,,
-316,11,Whiteknights Park (W),2018-12-28,,Mycetophilidae,,,,
+316,1,Malvern Court,2018-12-28,,Drosophilidae,,m,,
+316,2,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+316,3,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+316,4,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+316,5,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+316,6,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+316,7,Whiteknights Park (E-FH),2018-12-28,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+316,8,Whiteknights Park (E-FH),2018-12-28,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",
+316,9,Whiteknights Park (W),2018-12-28,,Trichoceridae,Trichocera regelationis,m,"Coe et al, 1950",
+316,10,Whiteknights Park (W),2018-12-28,,Trichoceridae,Trichocera regelationis,f,"Coe et al, 1950",
+316,11,Whiteknights Park (W),2018-12-28,,Mycetophilidae,Trichonta sp,,"Soli et al, 2000",
