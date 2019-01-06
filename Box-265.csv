@@ -22,19 +22,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 265,21,Quarry near Chazey Wood,2018-05-07,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 265,22,Quarry near Chazey Wood,2018-05-07,,Muscidae,Mydaea urbana,m,"Fonseca, 1968",
 265,23,Quarry near Chazey Wood,2018-05-07,,Muscidae,Morellia simplex,f,"Fonseca, 1968",
-265,24,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
-265,25,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
+265,24,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Mycophaga testacea,f,"Ackland et al draft keys, 2017",
+265,25,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
 265,26,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,f,,
 265,27,Quarry near Chazey Wood,2018-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 265,28,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 265,29,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 265,30,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 265,31,Quarry near Chazey Wood,2018-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
-265,32,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
-265,33,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
-265,34,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
-265,35,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
-265,36,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
+265,32,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Hylemyza partita,m,"Ackland et al draft keys, 2017",
+265,33,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Delia radicum,m,"Ackland et al draft keys, 2017",
+265,34,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Delia radicum,m,"Ackland et al draft keys, 2017",
+265,35,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Hylemyza partita,m,"Ackland et al draft keys, 2017",
+265,36,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,Hylemyza partita,m,"Ackland et al draft keys, 2017",
 265,37,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 265,38,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
 265,39,Quarry near Chazey Wood,2018-05-07,,Anthomyiidae,,m,,
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 265,47,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 265,48,Chazey Wood,2018-05-07,,Sarcophagidae,Sarcophaga subulata,m,"Pape, 1987",As Bellieriomima subulata; Protandrial segment has no marginal bristles
 265,49,Chazey Wood,2018-05-07,,Muscidae,Phaonia gobertii,m,"Fonseca, 1968",As Phaonia goberti
-265,50,Chazey Wood,2018-05-07,,Anthomyiidae,Hylemya sp,f,,
+265,50,Chazey Wood,2018-05-07,,Anthomyiidae,Hylemya cf vagans,f,"Ackland et al draft keys, 2017",Could also be Hylemya nigrimana
 265,51,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 265,52,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 265,53,Chazey Wood,2018-05-07,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
