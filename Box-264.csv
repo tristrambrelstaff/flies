@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-264,1,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,f,,Following nomad bee
-264,2,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,f,,
-264,3,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,m,,
-264,4,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,m,,
+264,1,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora obtusa,f,"Ackland et al draft keys, 2017",Following nomad bee
+264,2,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora obtusa,f,"Ackland et al draft keys, 2017",
+264,3,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora personata,m,"Ackland et al draft keys, 2017",
+264,4,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora personata,m,"Ackland et al draft keys, 2017",
 264,5,Whiteknights Park (E),2018-05-05,,Muscidae,Helina latitarsis,f,"Fonseca, 1968",
 264,6,Whiteknights Park (E),2018-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",
 264,7,Whiteknights Park (E),2018-05-05,,Tephritidae,Tephritis neesii,m,"White, 1988",
@@ -33,10 +33,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 264,32,Whiteknights Park (E),2018-05-05,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 264,33,Whiteknights Park (E),2018-05-05,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 264,34,Whiteknights Park (E),2018-05-05,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
-264,35,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,f,,
-264,36,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sp,f,,
-264,37,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Hylemya sp,f,,
-264,38,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Hylemya sp,f,,
+264,35,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sponsa,f,"Ackland et al draft keys, 2017",Abdomen greasy
+264,36,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Leucophora sponsa,f,"Ackland et al draft keys, 2017",
+264,37,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Hylemya sp,f,"Ackland et al draft keys, 2017",Either Hylemya variata or Hylemya urbica
+264,38,Whiteknights Park (E),2018-05-05,,Anthomyiidae,Hylemyza partita,f,"Ackland et al draft keys, 2017",
 264,39,Whiteknights Park (E),2018-05-05,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 264,40,Whiteknights Park (E),2018-05-05,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 264,41,Whiteknights Park (E),2018-05-05,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
