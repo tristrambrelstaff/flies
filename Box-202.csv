@@ -27,9 +27,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 202,26,Bousdale,2017-05-22,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 202,27,Bousdale,2017-05-22,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 202,28,Bousdale,2017-05-22,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
-202,29,Bousdale,2017-05-22,,Anthomyiidae,,m,,
-202,30,Bousdale,2017-05-22,,Anthomyiidae,,f,,
-202,31,Bousdale,2017-05-22,,Anthomyiidae,,m,,
+202,29,Bousdale,2017-05-22,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",Needs relaxing
+202,30,Bousdale,2017-05-22,,Anthomyiidae,,f,,Abdomen greasy
+202,31,Bousdale,2017-05-22,,Anthomyiidae,Delia radicum,m,"Ackland et al draft keys, 2017",
 202,32,Bousdale,2017-05-22,,Anthomyiidae,,m,,
 202,33,Bousdale,2017-05-22,,Anthomyiidae,,m,,
 202,34,Bousdale,2017-05-22,,Anthomyiidae,,f,,
@@ -49,15 +49,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 202,48,Bousdale,2017-05-22,,Muscidae,Azelia cf triquetra,f,"Fonseca, 1968",
 202,49,Bousdale,2017-05-22,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 202,50,Bousdale,2017-05-22,,Fanniidae,Fannia serena,f,"Rozkosny et al, 1997",
-202,51,Bousdale,2017-05-22,,Anthomyiidae,,m,,
+202,51,Bousdale,2017-05-22,,Anthomyiidae,Phorbia fumigata,m,"Ackland et al draft keys, 2017",Abdomen detached
 202,52,Bousdale,2017-05-22,,Anthomyiidae,,m,,
-202,53,Bousdale,2017-05-22,,Anthomyiidae,,m,,
-202,54,Bousdale,2017-05-22,,Anthomyiidae,,m,,
+202,53,Bousdale,2017-05-22,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
+202,54,Bousdale,2017-05-22,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 202,55,Bousdale,2017-05-22,,Anthomyiidae,,m,,
 202,56,Bousdale,2017-05-22,,Anthomyiidae,,m,,
 202,57,Bousdale,2017-05-22,,Fanniidae,Fannia serena,m,"Rozkosny et al, 1997",
-202,58,Bousdale,2017-05-22,,Anthomyiidae,,m,,
-202,59,Bousdale,2017-05-22,,Anthomyiidae,,m,,
+202,58,Bousdale,2017-05-22,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
+202,59,Bousdale,2017-05-22,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 202,60,Roseberry Common,2017-05-22,,Bibionidae,Bibio leucopterus,m,"Freeman & Lane, 1985",60+61 in cop
 202,61,Roseberry Common,2017-05-22,,Bibionidae,Bibio leucopterus,f,"Freeman & Lane, 1985",60+61 in cop
 202,62,Roseberry Common,2017-05-22,,Bibionidae,Bibio leucopterus,m,"Freeman & Lane, 1985",
