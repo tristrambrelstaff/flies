@@ -9,8 +9,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 183,8,Whiteknights Park (W),2017-04-08,,Muscidae,Helina arctata,m,"Fonseca, 1968",
 183,9,Whiteknights Park (W),2017-04-08,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 183,10,Whiteknights Park (W),2017-04-08,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-183,11,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora sp,m,,
-183,12,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora sp,f,,
+183,11,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora personata,m,"Ackland et al draft keys, 2017",Need relaxing
+183,12,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora obtusa,f,"Ackland et al draft keys, 2017",
 183,13,Whiteknights Park (W),2017-04-08,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011",
 183,14,Whiteknights Park (W),2017-04-08,,Anthomyiidae,,f,,
 183,15,Whiteknights Park (W),2017-04-08,,Anthomyiidae,,f,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 183,23,Whiteknights Park (W),2017-04-08,,Tephritidae,Tephritis neesii,m,"White, 1988",
 183,24,Whiteknights Park (W),2017-04-08,,Tephritidae,Tephritis neesii,f,"White, 1988",
 183,25,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Anthomyia pluvialis,m,"Ackland draft keys, 2012 & 2015",
-183,26,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora sp,m,,
+183,26,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Leucophora obtusa,m,"Ackland et al draft keys, 2017",Need relaxing
 183,27,Whiteknights Park (W),2017-04-08,,Anthomyiidae,Anthomyia procellaris,m,"Ackland draft keys, 2012 & 2015",
 183,28,Whiteknights Park (W),2017-04-08,,Anthomyiidae,,m,,
 183,29,Whiteknights Park (W),2017-04-08,,Anthomyiidae,,m,,
