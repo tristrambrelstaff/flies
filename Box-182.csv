@@ -4,7 +4,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,3,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia rufiventris,m,"Fonseca, 1968",As Phaonia populi
 182,4,Whiteknights Park (W),2017-04-07,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 182,5,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
-182,6,Whiteknights Park (W),2017-04-07,,Anthomyiidae,Leucophora sp,f,,
+182,6,Whiteknights Park (W),2017-04-07,,Anthomyiidae,Leucophora personata,f,"Ackland et al draft key, 2017",
 182,7,Whiteknights Park (W),2017-04-07,,Muscidae,Phaonia fuscata,f,"Fonseca, 1968",
 182,8,Whiteknights Park (W),2017-04-07,,Sarcophagidae,Sarcophaga agnata,f,"Pape, 1987",As Helicophagella agnata
 182,9,Whiteknights Park (W),2017-04-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,11,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,12,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,13,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
-182,14,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
+182,14,Whiteknights Park (W),2017-04-07,,Anthomyiidae,Delia platura,m,"Ackland et al draft key, 2017",Needs relaxing
 182,15,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,16,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,m,,
 182,17,Whiteknights Park (W),2017-04-07,,Anthomyiidae,,f,,
@@ -47,12 +47,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 182,46,Whiteknights Park (E-FH),2017-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",Has only 3 legs
 182,47,Whiteknights Park (E-FH),2017-04-07,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 182,48,Whiteknights Park (E-FH),2017-04-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-182,49,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
+182,49,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,Delia radicum,m,"Ackland et al draft key, 2017",Needs relaxing
 182,50,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
 182,51,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
 182,52,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
 182,53,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,Pegomya sp,f,,
-182,54,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
+182,54,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,Anthomyia liturata,m,"Ackland et al draft key, 2017",Needs relaxing
 182,55,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,f,,
 182,56,Whiteknights Park (E-FH),2017-04-07,,Anthomyiidae,,m,,
 182,57,Whiteknights Park (E-FH),2017-04-07,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
