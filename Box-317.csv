@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 317,18,Kings Meadow Tescos,2019-01-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 317,19,Kings Meadow Tescos,2019-01-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 317,20,Malvern Court,2019-01-26,,Sciaridae,,f,"Soli et al, 2000",Antennae have 2+14 segments
-317,21,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,m,,
-317,22,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,f,,
-317,23,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,f,,
-317,24,Whiteknights Park (E-FH),2019-02-09,,Heleomyzidae,,f,,
-317,25,Whiteknights Park (E-FH),2019-02-09,,Sciomyzidae,,m,,
+317,21,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+317,22,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+317,23,Whiteknights Park (E-FH),2019-02-09,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+317,24,Whiteknights Park (E-FH),2019-02-09,,Heleomyzidae,Heteromyza sp,f,"Gorodkov, 1989",
+317,25,Whiteknights Park (E-FH),2019-02-09,,Dryomyzidae,Dryomyza flaveola,m,"Shtakelberg, 1989",
