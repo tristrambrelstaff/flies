@@ -27,10 +27,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 317,26,Whiteknights Park (E-FH),2019-02-15,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 317,27,Whiteknights Park (E-FH),2019-02-15,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 317,28,Whiteknights Park (E-FH),2019-02-15,,Muscidae,Neomyia  cornicina,m,"Fonseca, 1968",As Orthellia caesarion
-317,29,Whiteknights Park (E-FH),2019-02-15,,Calliphoridae,Pollenia sp,m,,
+317,29,Whiteknights Park (E-FH),2019-02-15,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 317,30,Whiteknights Park (E-FH),2019-02-15,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 317,31,Whiteknights Park (E-FH),2019-02-15,,Anthomyiidae,,f,,
-317,32,Whiteknights Park (E-FH),2019-02-15,,Anthomyiidae,,m,,
+317,32,Whiteknights Park (E-FH),2019-02-15,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 317,33,Whiteknights Park (E-FH),2019-02-15,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 317,34,Whiteknights Park (E-FH),2019-02-15,,Muscidae,Lispocephala brachialis,f,"Fonseca, 1968",
 317,35,Whiteknights Park (E-FH),2019-02-15,,Anthomyiidae,,f,,
@@ -43,5 +43,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 317,42,Whiteknights Park (E-FH),2019-02-15,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 317,43,Whiteknights Park (E-FH),2019-02-15,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 317,44,Whiteknights Park (E-FH),2019-02-15,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
-317,45,Whiteknights Park (W),2019-02-15,,Anthomyiidae,,m,,
+317,45,Whiteknights Park (W),2019-02-15,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 317,46,Whiteknights Park (W),2019-02-15,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
