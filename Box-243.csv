@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 243,2,Kings Meadow Tescos,2017-09-23,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 243,3,Kings Meadow Tescos,2017-09-23,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 243,4,Kings Meadow Tescos,2017-09-23,,Anthomyiidae,,f,,
-243,5,Kings Meadow Tescos,2017-09-23,,Sepsidae,Sepsis sp,,,
+243,5,Kings Meadow Tescos,2017-09-23,,Sepsidae,Sepsis cynipsea,m,"Pont & Meier, 2002",
 243,6,Kings Meadow Tescos,2017-09-23,,Fanniidae,Fannia sp,f,,
 243,7,Kings Meadow Tescos,2017-09-23,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 243,8,Kings Meadow Tescos,2017-09-23,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
@@ -37,8 +37,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 243,36,Whiteknights Park (W),2017-09-30,,Fanniidae,Fannia sp,f,,
 243,37,Whiteknights Park (W),2017-09-30,,Fanniidae,Fannia sp,f,,
 243,38,Whiteknights Park (W),2017-09-30,,Pipunculidae,,,,
-243,39,Whiteknights Park (W),2017-09-30,,Sepsidae,Sepsis sp,,,
-243,40,Whiteknights Park (W),2017-09-30,,Sepsidae,Sepsis sp,,,
+243,39,Whiteknights Park (W),2017-09-30,,Sepsidae,Sepsis cynipsea,m,"Pont & Meier, 2002",
+243,40,Whiteknights Park (W),2017-09-30,,Sepsidae,Sepsis cynipsea,m,"Pont & Meier, 2002",
 243,41,Whiteknights Park (W),2017-09-30,Hymenoptera,Ormyridae,Ormyrus sp,m,,
 243,42,Whiteknights Park (W),2017-10-08,,Heleomyzidae,Suillia affinis,f,"Withers, 1987",
 243,43,The Wilderness (W),2017-10-08,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
