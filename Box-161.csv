@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,5,Kings Meadow Tescos,2016-07-17,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 161,6,Kings Meadow Tescos,2016-07-17,,Dolichopodidae,,f,,
 161,7,Kings Meadow Tescos,2016-07-17,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
-161,8,Kings Meadow Tescos,2016-07-17,,Sepsidae,,,,
+161,8,Kings Meadow Tescos,2016-07-17,,Sepsidae,Nemopoda nitidula,m,"Pont & Meier, 2002",
 161,9,Kings Meadow Tescos,2016-07-17,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",
 161,10,Kings Meadow Tescos,2016-07-17,,Anthomyiidae,,m,,
 161,11,Kings Meadow Tescos,2016-07-17,,Fanniidae,,f,,
@@ -36,7 +36,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 161,35,Whiteknights Park (W),2016-07-23,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 161,36,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 161,37,Whiteknights Park (W),2016-07-23,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
-161,38,Whiteknights Park (W),2016-07-23,,Sepsidae,Sepsis sp,,,
+161,38,Whiteknights Park (W),2016-07-23,,Sepsidae,Sepsis fulgens,m,"Pont & Meier, 2002",
 161,39,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,m,"White, 1988",39+40 in cop; As Cerajocera tussilaginis
 161,40,The Wilderness (W),2016-07-23,,Tephritidae,Terellia tussilaginis,f,"White, 1988",39+40 in cop; As Cerajocera tussilaginis
 161,41,The Wilderness (W),2016-07-23,,Tephritidae,Chaetostomella cylindrica,f,"White, 1988",
