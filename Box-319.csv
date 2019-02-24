@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,32,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
 319,33,Kings Meadow Tescos,2019-02-23,,Dolichopodidae,,m,,
 319,34,Kings Meadow Tescos,2019-02-23,,Dolichopodidae,,f,,
-319,35,Kings Meadow Tescos,2019-02-23,,Ephydridae,,m,,
+319,35,Kings Meadow Tescos,2019-02-23,,Ephydridae,Pelina nitens,m,"Drake, 2006, updated 2013",As Pelina subpunctata
 319,36,Kings Meadow Tescos,2019-02-23,,Lonchopteridae,Lonchoptera sp,f,,
 319,37,Kings Meadow Tescos,2019-02-23,,Lonchopteridae,Lonchoptera sp,f,,
 319,38,Kings Meadow Tescos,2019-02-23,,Chironomidae,,m,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,40,Kings Meadow Tescos,2019-02-23,,Chironomidae,,m,,
 319,41,Kings Meadow Tescos,2019-02-23,,Chironomidae,,m,,
 319,42,Kings Meadow Tescos,2019-02-23,,Chironomidae,,f,,
-319,43,Kings Meadow Tescos,2019-02-23,,Ephydridae,,,,
+319,43,Kings Meadow Tescos,2019-02-23,,Ephydridae,,f,"Drake, 2006, updated 2013",
 319,44,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,f,,
 319,45,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,f,,
 319,46,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,,,
