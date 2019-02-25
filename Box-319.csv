@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,27,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia sp,m,,
 319,28,Kings Meadow Tescos,2019-02-23,,Muscidae,Neomyia sp,f,,
 319,29,Kings Meadow Tescos,2019-02-23,,Scathophagidae,Scathophaga sp,m,,
-319,30,Kings Meadow Tescos,2019-02-23,,???,,f,,
+319,30,Kings Meadow Tescos,2019-02-23,,Diastatidae,Diastata adusta,f,"Shtakelberg, 1989",As Diastata unipunctata
 319,31,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
 319,32,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
 319,33,Kings Meadow Tescos,2019-02-23,,Dolichopodidae,,m,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,40,Kings Meadow Tescos,2019-02-23,,Chironomidae,,m,,
 319,41,Kings Meadow Tescos,2019-02-23,,Chironomidae,,m,,
 319,42,Kings Meadow Tescos,2019-02-23,,Chironomidae,,f,,
-319,43,Kings Meadow Tescos,2019-02-23,,Ephydridae,,f,"Drake, 2006, updated 2013",
+319,43,Kings Meadow Tescos,2019-02-23,,Ephydridae,Psilopa sp,f,"Drake, 2006, updated 2013",
 319,44,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,f,,
 319,45,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,f,,
 319,46,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,,,
@@ -52,7 +52,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,51,Kennet Mouth East,2019-02-24,,Anthomyiidae,,m,,
 319,52,Kennet Mouth East,2019-02-24,,Muscidae,Helina sp,,,
 319,53,Kennet Mouth East,2019-02-24,,Sphaeroceridae,,,,
-319,54,Kennet Mouth East,2019-02-24,Hymenoptera,Ichneumonidae,,m,,
+319,54,Kennet Mouth East,2019-02-24,Hymenoptera,Ichneumonidae,,m,,"Antennae have 3+31 segments; Anomaloninae with Broad et al, 2018"
 319,55,Kennet Mouth East,2019-02-24,,Anthomyiidae,,f,,
 319,56,Kennet Mouth East,2019-02-24,,Mycetophilidae,,f,,
 319,57,Thames Valley Park,2019-02-24,,Sciomyzidae,,f,,
