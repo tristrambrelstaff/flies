@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,9,Quarry near Chazey Wood,2019-02-23,,Anthomyiidae,,m,,
 319,10,Quarry near Chazey Wood,2019-02-23,,Anthomyiidae,,f,,
 319,11,Quarry near Chazey Wood,2019-02-23,,Sphaeroceridae,,,,
-319,12,Chazey Wood,2019-02-23,,Scathophagidae,Scathophaga stercoraria,m,,
+319,12,Chazey Wood,2019-02-23,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 319,13,Chazey Wood,2019-02-23,,Anthomyiidae,Hylemya sp,f,,
 319,14,Chazey Wood,2019-02-23,,Anthomyiidae,,f,,
 319,15,Chazey Wood,2019-02-23,,Anthomyiidae,,m,,
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,26,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia sp,m,,
 319,27,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia sp,m,,
 319,28,Kings Meadow Tescos,2019-02-23,,Muscidae,Neomyia sp,f,,
-319,29,Kings Meadow Tescos,2019-02-23,,Scathophagidae,Scathophaga sp,m,,
+319,29,Kings Meadow Tescos,2019-02-23,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 319,30,Kings Meadow Tescos,2019-02-23,,Diastatidae,Diastata adusta,f,"Shtakelberg, 1989",As Diastata unipunctata
 319,31,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
 319,32,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
