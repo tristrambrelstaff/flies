@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-320,1,Thames Valley Park,2019-02-24,,Calliphoridae,Pollenia sp,m,,
+320,1,Thames Valley Park,2019-02-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 320,2,Thames Valley Park,2019-02-24,,Anthomyiidae,,m,,
 320,3,Thames Valley Park,2019-02-24,,Sciomyzidae,,m,,
 320,4,Thames Valley Park,2019-02-24,,Sciomyzidae,,m,,
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,24,Thames Valley Park,2019-02-24,,???,,,,
 320,25,Thames Valley Park,2019-02-24,,Sphaeroceridae,,,,
 320,26,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,f,,
-320,27,Kings Meadow Tescos,2019-02-24,,Calliphoridae,Pollenia sp,m,,
+320,27,Kings Meadow Tescos,2019-02-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 320,28,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,f,,
 320,29,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,f,,
 320,30,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,m,,
