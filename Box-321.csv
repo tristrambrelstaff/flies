@@ -15,9 +15,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,14,Whiteknights Park (E-FH),2019-02-26,,Dolichopodidae,,f,,
 321,15,Whiteknights Park (E-FH),2019-02-26,,Dolichopodidae,,f,,
 321,16,Whiteknights Park (E-FH),2019-02-26,,Opomyzidae,Geomyza sp,f,,
-321,17,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera sp,f,,
-321,18,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera sp,f,,
-321,19,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera sp,f,,
+321,17,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+321,18,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+321,19,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 321,20,Whiteknights Park (E-FH),2019-02-26,,Sphaeroceridae,,,,
 321,21,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,,,,
 321,22,Whiteknights Park (E-FH),2019-02-26,,Sphaeroceridae,,,,
@@ -37,4 +37,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,36,Whiteknights Park (E),2019-02-26,,Sepsidae,Sepsis fulgens,f,"Pont & Meier, 2002",
 321,37,Whiteknights Park (E),2019-02-26,,Sepsidae,Sepsis violacea,m,"Pont & Meier, 2002",
 321,38,Whiteknights Park (E),2019-02-26,,Opomyzidae,Geomyza sp,f,,
-321,39,Whiteknights Park (E),2019-02-26,,Lonchopteridae,Lonchoptera sp,f,,
+321,39,Whiteknights Park (E),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
