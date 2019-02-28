@@ -52,9 +52,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,51,Whiteknights Park (W),2019-02-26,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 320,52,Whiteknights Park (W),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 320,53,Whiteknights Park (W),2019-02-26,,Chironomidae,,m,,
-320,54,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,,m,,
-320,55,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,,m,,
-320,56,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,,m,,
+320,54,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
+320,55,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
+320,56,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 320,57,Whiteknights Park (E-FH),2019-02-26,,Anthomyiidae,,m,,
 320,58,Whiteknights Park (E-FH),2019-02-26,,Calliphoridae,Pollenia sp,m,,
 320,59,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Muscina prolapsa,f,,
