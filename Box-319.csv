@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-319,1,Quarry near Chazey Wood,2019-02-23,,Muscidae,Polietes sp,f,,
-319,2,Quarry near Chazey Wood,2019-02-23,,Muscidae,Phaonia subventa,m,,
-319,3,Quarry near Chazey Wood,2019-02-23,,Muscidae,Eudasyphora cyanella,m,,
+319,1,Quarry near Chazey Wood,2019-02-23,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
+319,2,Quarry near Chazey Wood,2019-02-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+319,3,Quarry near Chazey Wood,2019-02-23,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 319,4,Quarry near Chazey Wood,2019-02-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 319,5,Quarry near Chazey Wood,2019-02-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 319,6,Quarry near Chazey Wood,2019-02-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
@@ -26,11 +26,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,25,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 319,26,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 319,27,Kings Meadow Tescos,2019-02-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-319,28,Kings Meadow Tescos,2019-02-23,,Muscidae,Neomyia sp,f,,
+319,28,Kings Meadow Tescos,2019-02-23,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
 319,29,Kings Meadow Tescos,2019-02-23,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 319,30,Kings Meadow Tescos,2019-02-23,,Diastatidae,Diastata adusta,f,"Shtakelberg, 1989",As Diastata unipunctata
-319,31,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
-319,32,Kings Meadow Tescos,2019-02-23,,Muscidae,,m,,
+319,31,Kings Meadow Tescos,2019-02-23,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
+319,32,Kings Meadow Tescos,2019-02-23,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 319,33,Kings Meadow Tescos,2019-02-23,,Dolichopodidae,,m,,
 319,34,Kings Meadow Tescos,2019-02-23,,Dolichopodidae,,f,,
 319,35,Kings Meadow Tescos,2019-02-23,,Ephydridae,Pelina nitens,m,"Drake, 2006, updated 2013",As Pelina subpunctata
@@ -50,7 +50,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,49,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,,,,
 319,50,Kennet Mouth East,2019-02-24,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 319,51,Kennet Mouth East,2019-02-24,,Anthomyiidae,,m,,
-319,52,Kennet Mouth East,2019-02-24,,Muscidae,Helina sp,,,
+319,52,Kennet Mouth East,2019-02-24,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 319,53,Kennet Mouth East,2019-02-24,,Sphaeroceridae,,,,
 319,54,Kennet Mouth East,2019-02-24,Hymenoptera,Ichneumonidae,,m,,"Antennae have 3+31 segments; Anomaloninae with Broad et al, 2018"
 319,55,Kennet Mouth East,2019-02-24,,Anthomyiidae,,f,,

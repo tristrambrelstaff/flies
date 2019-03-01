@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,2,Thames Valley Park,2019-02-24,,Anthomyiidae,,m,,
 320,3,Thames Valley Park,2019-02-24,,Sciomyzidae,,m,,
 320,4,Thames Valley Park,2019-02-24,,Sciomyzidae,,m,,
-320,5,Thames Valley Park,2019-02-24,,Muscidae,,f,,
+320,5,Thames Valley Park,2019-02-24,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 320,6,Thames Valley Park,2019-02-24,,Simuliidae,,,,
 320,7,Thames Valley Park,2019-02-24,,Simuliidae,,,,
 320,8,Thames Valley Park,2019-02-24,,Dolichopodidae,,f,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,33,Whiteknights Park (W),2019-02-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 320,34,Whiteknights Park (W),2019-02-26,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 320,35,Whiteknights Park (W),2019-02-26,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
-320,36,Whiteknights Park (W),2019-02-26,,Muscidae,Eudasyphora cyanella,m,,
+320,36,Whiteknights Park (W),2019-02-26,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 320,37,Whiteknights Park (W),2019-02-26,,Dryomyzidae,Dryomyza flaveola,f,"Shtakelberg, 1989",
 320,38,Whiteknights Park (W),2019-02-26,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 320,39,Whiteknights Park (W),2019-02-26,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -57,7 +57,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,56,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 320,57,Whiteknights Park (E-FH),2019-02-26,,Anthomyiidae,,m,,
 320,58,Whiteknights Park (E-FH),2019-02-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-320,59,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Muscina prolapsa,f,,
+320,59,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 320,60,Whiteknights Park (E-FH),2019-02-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-320,61,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Phaonia sp,f,,
-320,62,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Phaonia sp,f,,
+320,61,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+320,62,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
