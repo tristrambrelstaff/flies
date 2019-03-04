@@ -41,10 +41,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,40,The Wilderness (W),2019-03-02,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 321,41,The Wilderness (W),2019-03-02,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 321,42,The Wilderness (W),2019-03-02,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
-321,43,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia sp,m,,
-321,44,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia sp,m,,
-321,45,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia sp,m,,
-321,46,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia sp,f,,
+321,43,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+321,44,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+321,45,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+321,46,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 321,47,The Wilderness (W),2019-03-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Eyes hairy! ; Halteres yellow; Wings darkened
 321,48,The Wilderness (W),2019-03-02,,Scathophagidae,Norellia spinipes,m,"Ball, 2014",
 321,49,The Wilderness (W),2019-03-02,,Anthomyiidae,Hylemya sp,f,,
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,52,The Wilderness (W),2019-03-02,,Anthomyiidae,,f,,Ptilinum partially excluded
 321,53,The Wilderness (W),2019-03-02,,Anthomyiidae,,f,,
 321,54,The Wilderness (W),2019-03-02,,Anthomyiidae,,f,,
-321,55,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia sp,m,,
+321,55,The Wilderness (W),2019-03-02,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 321,56,The Wilderness (W),2019-03-02,,Anthomyiidae,,m,,
 321,57,The Wilderness (W),2019-03-02,,Anthomyiidae,,m,,
 321,58,The Wilderness (W),2019-03-02,,Anthomyiidae,,m,,
