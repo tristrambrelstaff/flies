@@ -7,11 +7,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,6,Whiteknights Park (E-FH),2019-02-26,,Anthomyiidae,,f,,
 321,7,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 321,8,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
-321,9,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Coenia palustris,f,"Drake, 2006, updated 2013",
-321,10,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra sp,f,"Drake, 2006, updated 2013","Not aquila, coarctata nor quadripunctata"
-321,11,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Coenia palustris,f,"Drake, 2006, updated 2013",
-321,12,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra quadripunctata,m,"Drake, 2006, updated 2013",
-321,13,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra quadripunctata,f,"Drake, 2006, updated 2013",
+321,9,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Coenia palustris,f,"Drake, 2006 updated 2013",
+321,10,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra sp,f,"Drake, 2006 updated 2013","Not aquila, coarctata nor quadripunctata"
+321,11,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Coenia palustris,f,"Drake, 2006 updated 2013",
+321,12,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra quadripunctata,m,"Drake, 2006 updated 2013",
+321,13,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Parydra quadripunctata,f,"Drake, 2006 updated 2013",
 321,14,Whiteknights Park (E-FH),2019-02-26,,Dolichopodidae,,f,,
 321,15,Whiteknights Park (E-FH),2019-02-26,,Dolichopodidae,,f,,
 321,16,Whiteknights Park (E-FH),2019-02-26,,Opomyzidae,Geomyza tripunctata,f,"Drake, 1993",
@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,18,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 321,19,Whiteknights Park (E-FH),2019-02-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 321,20,Whiteknights Park (E-FH),2019-02-26,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
-321,21,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Psilopa sp,f,"Drake, 2006, updated 2013",
+321,21,Whiteknights Park (E-FH),2019-02-26,,Ephydridae,Psilopa sp,f,"Drake, 2006 updated 2013",
 321,22,Whiteknights Park (E-FH),2019-02-26,,Sphaeroceridae,Leptocera nigra,m,"Pitkin, 1988",
 321,23,Whiteknights Park (E-FH),2019-02-26,,Chironomidae,,m,,
 321,24,Whiteknights Park (E-FH),2019-02-26,,Chironomidae,,m,,
@@ -64,4 +64,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 321,63,The Wilderness (W),2019-03-02,,Sphaeroceridae,,,,
 321,64,The Wilderness (W),2019-03-02,,Sphaeroceridae,,,,
 321,65,The Wilderness (W),2019-03-02,,Sphaeroceridae,,,,
-321,66,The Wilderness (W),2019-03-02,,Ephydridae,Psilopa sp,f,"Drake, 2006, updated 2013",
+321,66,The Wilderness (W),2019-03-02,,Ephydridae,Psilopa sp,f,"Drake, 2006 updated 2013",
