@@ -49,7 +49,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 319,48,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,Opacifrons coxata,f,"Pitkin, 1988",
 319,49,Kings Meadow Tescos,2019-02-23,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",
 319,50,Kennet Mouth East,2019-02-24,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-319,51,Kennet Mouth East,2019-02-24,,Anthomyiidae,,m,,
+319,51,Kennet Mouth East,2019-02-24,,Anthomyiidae,Botanophila profuga,m,"Ackland et al draft keys, 2017",Needs relaxing
 319,52,Kennet Mouth East,2019-02-24,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 319,53,Kennet Mouth East,2019-02-24,,Sphaeroceridae,Leptocera nigra,f,"Pitkin, 1988",
 319,54,Kennet Mouth East,2019-02-24,Hymenoptera,Ichneumonidae,,m,,"Antennae have 3+31 segments; Anomaloninae with Broad et al, 2018"
