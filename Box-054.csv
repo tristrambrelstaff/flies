@@ -16,8 +16,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,15,Whiteknights Park (W),2014-11-01,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 54,16,Malvern Court,2014-11-22,,Lauxaniidae,,m,"Family: Oosterbroek, 2006",
 54,17,Whiteknights Park (W),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
-54,18,Whiteknights Park (E),2014-11-29,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
-54,19,Whiteknights Park (E),2014-11-29,,Muscidae,Polietes meridionalis,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
+54,18,Whiteknights Park (E),2014-11-29,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
+54,19,Whiteknights Park (E),2014-11-29,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
 54,20,Whiteknights Park (E),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,21,Whiteknights Park (E),2014-11-29,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 54,22,Whiteknights Park (E),2014-11-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 54,39,Whiteknights Park (E),2014-11-30,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 54,40,Whiteknights Park (E),2014-11-30,,Mycetophilidae,,,"Family: Oosterbroek, 2006",
 54,41,Whiteknights Park (W),2014-12-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Greasy
-54,42,Whiteknights Park (W),2014-12-20,,Muscidae,Polietes lardarius,f,"Pont & Falk, 2013; Genus: Fonseca, 1968",
+54,42,Whiteknights Park (W),2014-12-20,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 54,43,Whiteknights Park (W),2014-12-20,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991; Erzinclioglu, 1996",
 54,44,Whiteknights Park (W),2014-12-20,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991; Erzinclioglu, 1996",
 54,45,Whiteknights Park (W),2014-12-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis

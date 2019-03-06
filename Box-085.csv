@@ -3,8 +3,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 85,2,Coatham Marsh,2015-06-29,Hymenoptera,Cephidae,Cephus nigrinus,f,"Benson, 1951 (a); Genus: Wright, 1990",
 85,3,Coatham Marsh,2015-06-29,Hymenoptera,Cephidae,Cephus nigrinus,f,"Benson, 1951 (a); Genus: Wright, 1990",
 85,4,Above Hutton Village,2015-06-29,,Syrphidae,,f,,
-85,5,Above Hutton Village,2015-06-29,,Muscidae,Polietes lardarius,m,"Pont & Falk, 2013; Genus: Fonseca, 1968",Not meridionalis
-85,6,Above Hutton Village,2015-06-29,,Muscidae,Polietes lardarius,m,"Pont & Falk, 2013; Genus: Fonseca, 1968",Not meridionalis
+85,5,Above Hutton Village,2015-06-29,,Muscidae,Polietes lardarius,m,"Fonseca, 1968; Pont & Falk, 2013",Not meridionalis
+85,6,Above Hutton Village,2015-06-29,,Muscidae,Polietes lardarius,m,"Fonseca, 1968; Pont & Falk, 2013",Not meridionalis
 85,7,Above Hutton Village,2015-06-29,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 85,8,Above Hutton Village,2015-06-29,,Calliphoridae,Lucilia cf caesar,f,"Rognes, 1991",
 85,9,Above Hutton Village,2015-06-29,,Tachinidae,Admontia blanda,f,"Belshaw, 1993 +v5c updates",
