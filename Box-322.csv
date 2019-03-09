@@ -38,10 +38,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 322,37,Malvern Court,2019-03-03,,Mycetophilidae,,f,,
 322,38,Whiteknights Park (E-FH),2019-03-09,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 322,39,Whiteknights Park (E-FH),2019-03-09,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
-322,40,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Phaonia sp,m,,
-322,41,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Phaonia sp,f,,
-322,42,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Helina sp,f,,
-322,43,Whiteknights Park (E-FH),2019-03-09,,Muscidae,,f,,
+322,40,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+322,41,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+322,42,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+322,43,Whiteknights Park (E-FH),2019-03-09,,Muscidae,Lispocephala brachialis,f,"Fonseca, 1968",
 322,44,Whiteknights Park (E-FH),2019-03-09,Hymenoptera,Cynipidae,Andricus kollari,f,,
 322,45,Whiteknights Park (E-FH),2019-03-09,,Anisopodidae,,f,,
 322,46,Whiteknights Park (E-FH),2019-03-09,,Anisopodidae,,,,
