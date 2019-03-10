@@ -3,16 +3,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 323,2,Whiteknights Park (E-FH),2019-03-09,,Simuliidae,,f,,
 323,3,Whiteknights Park (E-FH),2019-03-09,,Simuliidae,,,,
 323,4,Whiteknights Park (E-FH),2019-03-09,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
-323,5,Whiteknights Park (E-FH),2019-03-09,,Sphaeroceridae,,,,
+323,5,Whiteknights Park (E-FH),2019-03-09,,Sphaeroceridae,Opacifrons coxata,f,"Pitkin, 1988",Has Acari mite
 323,6,Whiteknights Park (E),2019-03-09,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 323,7,Whiteknights Park (E),2019-03-09,,Anthomyiidae,,f,,
 323,8,Whiteknights Park (E),2019-03-09,,Anthomyiidae,,f,,
 323,9,Whiteknights Park (E),2019-03-09,,Anthomyiidae,,f,,
 323,10,Whiteknights Park (E),2019-03-09,,Mycetophilidae,,,,
 323,11,Whiteknights Park (E),2019-03-09,,Nematocera,,f,,
-323,12,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,,,,
-323,13,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,,,,
-323,14,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,,,,
+323,12,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,Minilimosina albinervis,m,"Pitkin, 1988",
+323,13,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,Minilimosina albinervis,m,"Pitkin, 1988",
+323,14,Whiteknights Park (E),2019-03-09,,Sphaeroceridae,Minilimosina albinervis,f,"Pitkin, 1988",
 323,15,Whiteknights Park (E),2019-03-09,,Anthomyiidae,,m,,
 323,16,Whiteknights Park (E),2019-03-09,,Anthomyiidae,,m,,
 323,17,Whiteknights Park (E),2019-03-09,Hymenoptera,Cynipidae,,f,,
