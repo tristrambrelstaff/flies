@@ -51,5 +51,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 51,50,Dinton Pastures,2014-10-11,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
 51,51,Dinton Pastures,2014-10-11,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 51,52,Dinton Pastures,2014-10-11,,Anthomyiidae,,m,,
-51,53,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis sp,,,
-51,54,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis sp,,,
+51,53,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis punctum,m,"Pont & Meier, 2002",Fungus
+51,54,Dinton Pastures,2014-10-11,,Sepsidae,Sepsis fulgens,f,"Pont & Meier, 2002",
