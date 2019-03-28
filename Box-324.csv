@@ -8,12 +8,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 324,7,Whiteknights Park (W),2019-03-23,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 324,8,Whiteknights Park (W),2019-03-23,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 324,9,Whiteknights Park (W),2019-03-23,Hymenoptera,Apidae,Nomada sp,f,,
-324,10,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,,
-324,11,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,,
-324,12,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,,
-324,13,Whiteknights Park (W),2019-03-23,,Muscidae,Phaonia sp,f,,
-324,14,Whiteknights Park (W),2019-03-23,,Muscidae,Phaonia sp,m,,
-324,15,Whiteknights Park (W),2019-03-23,,Muscidae,Muscina prolapsa,f,,
+324,10,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+324,11,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+324,12,Whiteknights Park (W),2019-03-23,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+324,13,Whiteknights Park (W),2019-03-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+324,14,Whiteknights Park (W),2019-03-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+324,15,Whiteknights Park (W),2019-03-23,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 324,16,Whiteknights Park (W),2019-03-23,,Syrphidae,,f,,
 324,17,Whiteknights Park (W),2019-03-23,,Scathophagidae,Scathophaga sp,f,,
 324,18,Whiteknights Park (W),2019-03-23,,Chironomidae,,m,,
@@ -54,10 +54,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 324,53,Whiteknights Park (E-FH),2019-03-23,,Heleomyzidae,,,,
 324,54,Whiteknights Park (E-FH),2019-03-23,,Sphaeroceridae,,,,
 324,55,Whiteknights Park (E-FH),2019-03-23,,Pallopteridae,,f,,
-324,56,Whiteknights Park (E-FH),2019-03-23,,Muscidae,,m,,
+324,56,Whiteknights Park (E-FH),2019-03-23,,Muscidae,Lispocephala erythocera,m,"Fonseca, 1968",
 324,57,Whiteknights Park (E-FH),2019-03-23,,Dolichopodidae,,m,,
-324,58,Whiteknights Park (E-FH),2019-03-23,,Muscidae,,,,
-324,59,Whiteknights Park (E-FH),2019-03-23,,Muscidae,,,,
+324,58,Whiteknights Park (E-FH),2019-03-23,,Sciomyzidae,Pherbellia sp,m,,
+324,59,Whiteknights Park (E-FH),2019-03-23,,Sciomyzidae,Pherbellia sp,m,,
 324,60,Whiteknights Park (E-FH),2019-03-23,,Scathophagidae,Nanna sp,m,,
 324,61,Whiteknights Park (E-FH),2019-03-23,,Mycetophilidae,,,,
 324,62,Whiteknights Park (E-FH),2019-03-23,,Ephydridae,,,,
