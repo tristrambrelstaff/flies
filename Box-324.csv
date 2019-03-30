@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 324,14,Whiteknights Park (W),2019-03-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 324,15,Whiteknights Park (W),2019-03-23,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 324,16,Whiteknights Park (W),2019-03-23,,Syrphidae,,f,,
-324,17,Whiteknights Park (W),2019-03-23,,Scathophagidae,Scathophaga sp,f,,
+324,17,Whiteknights Park (W),2019-03-23,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 324,18,Whiteknights Park (W),2019-03-23,,Chironomidae,,m,,
 324,19,Whiteknights Park (W),2019-03-23,,Chironomidae,,f,,
 324,20,Whiteknights Park (W),2019-03-23,,Anthomyiidae,,f,,
@@ -58,7 +58,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 324,57,Whiteknights Park (E-FH),2019-03-23,,Dolichopodidae,,m,,
 324,58,Whiteknights Park (E-FH),2019-03-23,,Sciomyzidae,Pherbellia dubia,m,"Rozkosny, 1984",
 324,59,Whiteknights Park (E-FH),2019-03-23,,Sciomyzidae,Pherbellia dubia,m,"Rozkosny, 1984",
-324,60,Whiteknights Park (E-FH),2019-03-23,,Scathophagidae,Nanna sp,m,,
+324,60,Whiteknights Park (E-FH),2019-03-23,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 324,61,Whiteknights Park (E-FH),2019-03-23,,Mycetophilidae,,,,
 324,62,Whiteknights Park (E-FH),2019-03-23,,Ephydridae,,,,
 324,63,Whiteknights Park (E-FH),2019-03-23,,Opomyzidae,Geomyza tripunctata,m,"Drake, 1993",
