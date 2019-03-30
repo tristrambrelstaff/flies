@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-324,1,Whiteknights Park (W),2019-03-23,,Bombyliidae,Bombylius major,m,,
+324,1,Whiteknights Park (W),2019-03-23,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 324,2,Whiteknights Park (W),2019-03-23,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 324,3,Whiteknights Park (W),2019-03-23,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 324,4,Whiteknights Park (W),2019-03-23,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
@@ -61,4 +61,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 324,60,Whiteknights Park (E-FH),2019-03-23,,Scathophagidae,Nanna sp,m,,
 324,61,Whiteknights Park (E-FH),2019-03-23,,Mycetophilidae,,,,
 324,62,Whiteknights Park (E-FH),2019-03-23,,Ephydridae,,,,
-324,63,Whiteknights Park (E-FH),2019-03-23,,Opomyzidae,Geomyza sp,,,
+324,63,Whiteknights Park (E-FH),2019-03-23,,Opomyzidae,Geomyza tripunctata,m,"Drake, 1993",
