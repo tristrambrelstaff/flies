@@ -5,12 +5,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 325,4,Whiteknights Park (E),2019-03-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 325,5,Whiteknights Park (E),2019-03-23,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 325,6,Whiteknights Park (E),2019-03-23,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-325,7,Whiteknights Park (E),2019-03-23,,Muscidae,Helina evecta,m,,
-325,8,Whiteknights Park (E),2019-03-23,,Muscidae,Helina evecta,m,,
-325,9,Whiteknights Park (E),2019-03-23,,Muscidae,Muscina levida,f,,
-325,10,Whiteknights Park (E),2019-03-23,,Muscidae,Eudasyphora cyanella,f,,
-325,11,Whiteknights Park (E),2019-03-23,,Muscidae,Neomyia cornicina,f,,
-325,12,Whiteknights Park (E),2019-03-23,,Muscidae,Neomyia cornicina,m,,
+325,7,Whiteknights Park (E),2019-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+325,8,Whiteknights Park (E),2019-03-23,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+325,9,Whiteknights Park (E),2019-03-23,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+325,10,Whiteknights Park (E),2019-03-23,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+325,11,Whiteknights Park (E),2019-03-23,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+325,12,Whiteknights Park (E),2019-03-23,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 325,13,Whiteknights Park (E),2019-03-23,,Anthomyiidae,,f,,
 325,14,Whiteknights Park (E),2019-03-23,,Anthomyiidae,,f,,
 325,15,Whiteknights Park (E),2019-03-23,,Anthomyiidae,,f,,
@@ -45,11 +45,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 325,44,Whiteknights Park (W),2019-03-24,,Simuliidae,,,,
 325,45,Whiteknights Park (W),2019-03-24,,Simuliidae,,,,
 325,46,Whiteknights Park (W),2019-03-24,,Simuliidae,,,,
-325,47,The Wilderness (W),2019-03-24,,Muscidae,Musca autumnalis,m,,47+48 in cop
-325,48,The Wilderness (W),2019-03-24,,Muscidae,Musca autumnalis,f,,47+48 in cop
+325,47,The Wilderness (W),2019-03-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",47+48 in cop
+325,48,The Wilderness (W),2019-03-24,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",47+48 in cop
 325,49,The Wilderness (W),2019-03-24,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-325,50,The Wilderness (W),2019-03-24,,Muscidae,Neomyia cornicina,f,,
-325,51,The Wilderness (W),2019-03-24,,Muscidae,Eudasyphora cyanella,f,,
+325,50,The Wilderness (W),2019-03-24,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia cornicina
+325,51,The Wilderness (W),2019-03-24,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",
 325,52,The Wilderness (W),2019-03-24,,Calliphoridae,Protocalliphora azurea,f,"Rognes, 1991",
 325,53,The Wilderness (W),2019-03-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 325,54,The Wilderness (W),2019-03-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
