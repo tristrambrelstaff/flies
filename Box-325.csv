@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 325,22,Whiteknights Park (W),2019-03-24,,Dolichopodidae,,,,
 325,23,Whiteknights Park (W),2019-03-24,,Dolichopodidae,,,,
 325,24,Whiteknights Park (W),2019-03-24,,Dolichopodidae,,,,
-325,25,Whiteknights Park (W),2019-03-24,,Muscidae,,m,,
+325,25,Whiteknights Park (W),2019-03-24,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 325,26,Whiteknights Park (W),2019-03-24,,Anthomyiidae,,m,,
 325,27,Whiteknights Park (W),2019-03-24,,Anthomyiidae,,f,,
 325,28,Whiteknights Park (W),2019-03-24,,Anthomyiidae,,f,,
@@ -55,7 +55,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 325,54,The Wilderness (W),2019-03-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 325,55,The Wilderness (W),2019-03-24,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 325,56,The Wilderness (W),2019-03-24,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
-325,57,The Wilderness (W),2019-03-24,,Muscidae,Phaonia sp,m,,
-325,58,The Wilderness (W),2019-03-24,,Muscidae,Phaonia sp,m,,
+325,57,The Wilderness (W),2019-03-24,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+325,58,The Wilderness (W),2019-03-24,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 325,59,The Wilderness (W),2019-03-24,,Anthomyiidae,Leucophora sp,m,,
 325,60,The Wilderness (W),2019-03-24,,Anthomyiidae,Leucophora sp,m,,

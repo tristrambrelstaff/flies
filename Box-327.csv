@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 327,1,The Wilderness (E),2019-03-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
-327,2,The Wilderness (E),2019-03-24,,Muscidae,Eudasyphora cyanella,f,,
-327,3,The Wilderness (E),2019-03-24,,Muscidae,Eudasyphora cyanella,f,,
+327,2,The Wilderness (E),2019-03-24,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+327,3,The Wilderness (E),2019-03-24,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 327,4,The Wilderness (E),2019-03-24,,Anthomyiidae,,m,,
 327,5,The Wilderness (E),2019-03-24,,Anthomyiidae,,m,,
-327,6,The Wilderness (E),2019-03-24,,Muscidae,,f,,
+327,6,The Wilderness (E),2019-03-24,,Muscidae,Hydrotaea cinerea,f,"Fonseca, 1968",Antennae missing
 327,7,The Wilderness (E),2019-03-24,,Agromyzidae,,f,,
 327,8,The Wilderness (E),2019-03-24,,Anthomyiidae,,m,,
 327,9,The Wilderness (E),2019-03-24,,Anthomyiidae,,m,,
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 327,41,"Jubilee River, Taplow",2019-03-30,,Sciomyzidae,Pherbellia schoenherri,m,"Rozkosny, 1984",
 327,42,"Jubilee River, Taplow",2019-03-30,,Sciomyzidae,Pherbellia dubia,m,"Rozkosny, 1984",
 327,43,"Jubilee River, Taplow",2019-03-30,,Anthomyiidae,,f,,
-327,44,"Jubilee River, Taplow",2019-03-30,,Muscidae,,f,,
+327,44,"Jubilee River, Taplow",2019-03-30,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 327,45,"Jubilee River, Taplow",2019-03-30,,Dolichopodidae,,f,,
 327,46,"Jubilee River, Taplow",2019-03-30,,Anthomyiidae,,f,,
 327,47,"Jubilee River, Taplow",2019-03-30,,Anthomyiidae,,f,,
