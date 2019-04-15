@@ -20,10 +20,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 331,19,Kings Meadow Tescos,2019-04-14,,Calliphoridae,Calliphora vomitoria,f,"Rognes, 1991",
 331,20,Kings Meadow Tescos,2019-04-14,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 331,21,Kings Meadow Tescos,2019-04-14,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-331,22,Kings Meadow Tescos,2019-04-14,,Muscidae,Eudasyphora cyanella,m,,
-331,23,Kings Meadow Tescos,2019-04-14,,Muscidae,Eudasyphora cyanella,f,,
+331,22,Kings Meadow Tescos,2019-04-14,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+331,23,Kings Meadow Tescos,2019-04-14,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 331,24,Kings Meadow Tescos,2019-04-14,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-331,25,Kings Meadow Tescos,2019-04-14,,Muscidae,Hydrotaea sp,m,,
+331,25,Kings Meadow Tescos,2019-04-14,,Muscidae,Hydrotaea dentipes,m,"Fonseca, 1968",
 331,26,Kings Meadow Tescos,2019-04-14,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 331,27,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,Leucophora sp,f,,
 331,28,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,f,,
