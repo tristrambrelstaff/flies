@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-331,1,The Wilderness (E),2019-04-07,,Muscidae,Phaonia sp,f,,
-331,2,The Wilderness (E),2019-04-07,,Muscidae,Helina sp,m,,
+331,1,The Wilderness (E),2019-04-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+331,2,The Wilderness (E),2019-04-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 331,3,The Wilderness (E),2019-04-07,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
 331,4,The Wilderness (E),2019-04-07,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 331,5,The Wilderness (E),2019-04-07,,Anthomyiidae,,f,,
@@ -37,7 +37,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 331,36,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,f,,
 331,37,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,f,,
 331,38,Kings Meadow Tescos,2019-04-14,,Muscidae,Coenosia sp,f,,
-331,39,Kings Meadow Tescos,2019-04-14,,Muscidae,Schoenomyza litorella,m,,
+331,39,Kings Meadow Tescos,2019-04-14,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",
 331,40,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,m,,
 331,41,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,m,,
 331,42,Kings Meadow Tescos,2019-04-14,,Anthomyiidae,,m,,
