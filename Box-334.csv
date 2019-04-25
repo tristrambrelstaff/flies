@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 334,12,Chazey Wood,2019-04-19,,Ephydridae,Psilopa sp,f,,
 334,13,Chazey Wood,2019-04-19,,Ephydridae,Psilopa sp,m,,
 334,14,Malvern Court bin store,2019-04-20,,Fanniidae,Fannia sp,f,,
-334,15,Malvern Court bin store,2019-04-20,,Heleomyzidae,,m,,
+334,15,Malvern Court bin store,2019-04-20,,Heleomyzidae,Tephrochlamys rufiventris,m,"Gorodkov, 1989",Teneral
 334,16,Malvern Court bin store,2019-04-20,,Pallopteridae,,f,,
 334,17,Whiteknights Park (W),2019-04-20,Hymenoptera,Argidae,,,,
 334,18,Whiteknights Park (W),2019-04-20,Hymenoptera,Apidae,,f,,
@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 334,24,Whiteknights Park (W),2019-04-20,,Fanniidae,Fannia lustrator,f,,
 334,25,Whiteknights Park (W),2019-04-20,,Anthomyiidae,Leucophora sp,f,,
 334,26,Whiteknights Park (W),2019-04-20,,Anthomyiidae,Leucophora sp,f,,
-334,27,Whiteknights Park (W),2019-04-20,,Syrphidae,Pipiza sp,f,,
+334,27,Whiteknights Park (W),2019-04-20,,Syrphidae,Pipiza noctiluca,f,"Stubbs & Falk, 2002",
 334,28,Whiteknights Park (W),2019-04-20,Hymenoptera,Tenthredinidae,,,,
 334,29,Whiteknights Park (W),2019-04-20,,Sarcophagidae,Sarcophaga sp,m,,
 334,30,Whiteknights Park (W),2019-04-20,,Anthomyiidae,,f,,
