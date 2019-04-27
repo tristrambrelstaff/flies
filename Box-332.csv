@@ -18,8 +18,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 332,17,Quarry near Chazey Wood,2019-04-19,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 332,18,Quarry near Chazey Wood,2019-04-19,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 332,19,Quarry near Chazey Wood,2019-04-19,,Sarcophagidae,Sarcophaga sp,f,,
-332,20,Quarry near Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,m,,
-332,21,Quarry near Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,f,,
+332,20,Quarry near Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
+332,21,Quarry near Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
 332,22,Quarry near Chazey Wood,2019-04-19,,Muscidae,Phaonia sp,m,,
 332,23,Quarry near Chazey Wood,2019-04-19,,Muscidae,Eudasyphora cyanella,f,,
 332,24,Quarry near Chazey Wood,2019-04-19,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
@@ -53,4 +53,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 332,52,Quarry near Chazey Wood,2019-04-19,,Chloropidae,,,,
 332,53,Quarry near Chazey Wood,2019-04-19,Hymenoptera,Ichneumonidae,,m,,"Antenae have 2+19 segments; Phygadeuontinae with Broad et al, 2018"
 332,54,Chazey Wood,2019-04-19,,Tephritidae,Euleia heraclei,m,,
-332,55,Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,m,,
+332,55,Chazey Wood,2019-04-19,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
