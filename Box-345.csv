@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 345,43,Whiteknight Park (W),2019-05-12,,Agromyzidae,,,,
 345,44,Whiteknight Park (W),2019-05-12,,Ephydridae,,,,
 345,45,Whiteknight Park (W),2019-05-12,,Empididae,,,,
-345,46,The Wilderness (W),2019-05-12,Hymenoptera,Ichneumonidae,,,,
+345,46,The Wilderness (W),2019-05-12,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+41 segments; Cryptinae with Broad et al, 2018; Cryptinae with Perkins, 1959"
 345,47,The Wilderness (W),2019-05-12,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 345,48,The Wilderness (W),2019-05-12,Hymenoptera,Ichneumonidae,,,,
 345,49,The Wilderness (W),2019-05-12,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
