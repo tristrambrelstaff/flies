@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 343,11,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 343,12,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 343,13,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
-343,14,"Jubilee River, Dorney",2019-05-02,,Muscidae,,f,,
+343,14,"Jubilee River, Dorney",2019-05-02,,Muscidae,Azelia trigonica,f,"Fonseca, 1968",
 343,15,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 343,16,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 343,17,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
@@ -43,8 +43,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 343,42,Whiteknight Park (W),2019-05-10,,Anthomyiidae,,f,,
 343,43,Whiteknight Park (W),2019-05-10,,Fanniidae,Fannia sp,f,,
 343,44,Whiteknight Park (W),2019-05-10,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-343,45,Whiteknight Park (W),2019-05-10,,Muscidae,,f,,
-343,46,Whiteknight Park (W),2019-05-10,,Muscidae,Hebecnema vespertina,m,,
+343,45,Whiteknight Park (W),2019-05-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina communis
+343,46,Whiteknight Park (W),2019-05-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 343,47,Whiteknight Park (W),2019-05-10,,Anthomyiidae,,f,,
 343,48,Whiteknight Park (W),2019-05-10,,Tephritidae,Tephritis neesii,m,"White, 1988",
 343,49,Whiteknight Park (W),2019-05-10,,Tephritidae,Tephritis neesii,m,"White, 1988",
