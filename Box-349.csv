@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-349,1,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,,m,,
-349,2,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,,f,,
-349,3,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,,m,,
+349,1,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,Homotropus elegans,m,"Klopfstein, 2014","Antennae have 2+32 segments; Diplazontinae with Broad et al, 2018"
+349,2,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,Homotropus elegans,f,"Klopfstein, 2014","Antennae have 2+32 segments; Diplazontinae with Broad et al, 2018"
+349,3,Kennet Mouth (E),2019-05-19,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+29 segments; Phygadeuontinae with Broad et al, 2018"
 349,4,Kennet Mouth (E),2019-05-19,Hymenoptera,Apidae,,f,,
 349,5,Kennet Mouth (E),2019-05-19,,Bibionidae,Dilophus febrilis,f,"Freeman & Lane, 1985",
 349,6,Kennet Mouth (E),2019-05-19,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
