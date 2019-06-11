@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,1,Thames Valley Park,2019-02-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
-320,2,Thames Valley Park,2019-02-24,,Anthomyiidae,Egle ciliata,m,"Ackland etal draft keys, 2017",
+320,2,Thames Valley Park,2019-02-24,,Anthomyiidae,Egle ciliata,m,"Ackland et al draft keys, 2017",
 320,3,Thames Valley Park,2019-02-24,,Pallopteridae,Palloptera ustulata,m,"Collin, 1951; Rotheray & MacGowan, 1999","Wings hyaline, Posterior sternopleural bristle is small"
 320,4,Thames Valley Park,2019-02-24,,Pallopteridae,Palloptera ustulata,m,"Collin, 1951; Rotheray & MacGowan, 1999","Wings hyaline, Posterior sternopleural bristle is small"
 320,5,Thames Valley Park,2019-02-24,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
@@ -28,8 +28,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,27,Kings Meadow Tescos,2019-02-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 320,28,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,f,,
 320,29,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,,f,,
-320,30,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
-320,31,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
+320,30,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+320,31,Kings Meadow Tescos,2019-02-24,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 320,32,Whiteknights Park (W),2019-02-26,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 320,33,Whiteknights Park (W),2019-02-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 320,34,Whiteknights Park (W),2019-02-26,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
@@ -41,10 +41,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,40,Whiteknights Park (W),2019-02-26,,Anthomyiidae,,f,,
 320,41,Whiteknights Park (W),2019-02-26,,Anthomyiidae,,f,,
 320,42,Whiteknights Park (W),2019-02-26,,Anthomyiidae,,f,,
-320,43,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
-320,44,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
-320,45,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
-320,46,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland etal draft keys, 2017",
+320,43,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+320,44,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+320,45,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+320,46,Whiteknights Park (W),2019-02-26,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 320,47,Whiteknights Park (W),2019-02-26,,Sphaeroceridae,Copromyza stercoraria,m,"Pitkin, 1988",
 320,48,Whiteknights Park (W),2019-02-26,,Dolichopodidae,,f,,
 320,49,Whiteknights Park (W),2019-02-26,,Dolichopodidae,,f,,
@@ -55,7 +55,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 320,54,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 320,55,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 320,56,Whiteknights Park (E-FH),2019-02-26,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
-320,57,Whiteknights Park (E-FH),2019-02-26,,Anthomyiidae,Botanophila fugax,m,"Ackland etal draft keys, 2017",
+320,57,Whiteknights Park (E-FH),2019-02-26,,Anthomyiidae,Botanophila fugax,m,"Ackland et al draft keys, 2017",
 320,58,Whiteknights Park (E-FH),2019-02-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 320,59,Whiteknights Park (E-FH),2019-02-26,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 320,60,Whiteknights Park (E-FH),2019-02-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
