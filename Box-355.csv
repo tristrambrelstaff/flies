@@ -14,19 +14,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 355,13,Kings Road Gardens,2019-05-31,,Anthomyiidae,,m,,
 355,14,Kings Road Gardens,2019-05-31,,Mycetophilidae,,,,
 355,15,Kings Meadow Tescos,2019-05-31,,Conopidae,Sicus ferrugineus,m,"Clements, 1995",
-355,16,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,m,,16+17 in cop
-355,17,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,16+17 in cop
+355,16,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",16+17 in cop
+355,17,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",16+17 in cop
 355,18,Kings Meadow Tescos,2019-05-31,Hymenoptera,Ichneumonidae,,m,,
-355,19,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,m,,
+355,19,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",Cerci missing
 355,20,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,f,,
-355,21,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,
+355,21,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 355,22,Kings Meadow Tescos,2019-05-31,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-355,23,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,m,,
-355,24,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Nyctia halterata,m,,
+355,23,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+355,24,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 355,25,Kings Meadow Tescos,2019-05-31,,Muscidae,,m,,
 355,26,Kings Meadow Tescos,2019-05-31,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 355,27,Kings Meadow Tescos,2019-05-31,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
-355,28,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,
-355,29,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,
-355,30,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,Ptilinum extruded
-355,31,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,
+355,28,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+355,29,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Blaesoxipha plumicornis,f,"Pape, 1987",
+355,30,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Ptilinum extruded
+355,31,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
