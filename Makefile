@@ -29,91 +29,91 @@ todo.Asilidae.csv: Box-*.csv
 	grep Asilidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Bibionidae.csv: Box-*.csv
-	- grep Bibionidae B*csv | grep -v "Freeman & Lane, 1985" >$@ || true
+	grep Bibionidae B*csv | grep -v "Freeman & Lane, 1985" >$@ || true
 
 todo.Bombyliidae.csv: Box-*.csv
-	- grep Bombyliidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+	grep Bombyliidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Coelopidae.csv: Box-*.csv
-	- grep Coelopidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
+	grep Coelopidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
 
 todo.Conopidae.csv: Box-*.csv
-	- grep Conopidae B*csv | grep -v "Clements, 1995" >$@ || true
+	grep Conopidae B*csv | grep -v "Clements, 1995" >$@ || true
 
 todo.Calliphoridae.csv: Box-*.csv
-	- grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
+	grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
 
 todo.Dryomyzidae.csv: Box-*.csv
-	- grep Dryomyzidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
+	grep Dryomyzidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
 
 todo.Ephydridae.csv: Box-*.csv
-	- grep Ephydridae B*csv | grep -v "Narchuk, 1989" | grep -v "Drake, 2006" >$@ || true
+	grep Ephydridae B*csv | grep -v "Narchuk, 1989" | grep -v "Drake, 2006" >$@ || true
 
 todo.Fannia_lustrator.csv: Box-*.csv
-	- grep "Fannia lustrator" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
+	grep "Fannia lustrator" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
 
 todo.Fanniidae.csv: Box-*.csv
-	- grep "Fanniidae" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
+	grep "Fanniidae" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
 
 todo.Heleomyzidae.csv: Box-*.csv
-	- grep "Heleomyzidae" B*csv | grep -v "Withers, 1987" | grep -v "Gorodkov, 1989" >$@ || true
+	grep "Heleomyzidae" B*csv | grep -v "Withers, 1987" | grep -v "Gorodkov, 1989" >$@ || true
 
 todo.Lauxaniidae.csv: Box-*.csv
-	- grep Lauxaniidae B*csv | grep -v "Shatalkin, 2000" >$@ || true
+	grep Lauxaniidae B*csv | grep -v "Shatalkin, 2000" >$@ || true
 
 todo.Lonchopteridae.csv: Box-*.csv
-	- grep Lonchopteridae B*csv | grep -v "Smith, 1969" >$@ || true
+	grep Lonchopteridae B*csv | grep -v "Smith, 1969" >$@ || true
 
 todo.Muscidae.csv: Box-*.csv
-	- grep Muscidae B*csv | grep -v "Fonseca, 1968" | grep -v "Gregor et al, 2016" >$@ || true
+	grep Muscidae B*csv | grep -v "Fonseca, 1968" | grep -v "Gregor et al, 2016" >$@ || true
 
 todo.Opomyzidae.csv: Box-*.csv
-	- grep Opomyzidae B*csv | grep -v "Drake, 1993" >$@ || true
+	grep Opomyzidae B*csv | grep -v "Drake, 1993" >$@ || true
 
 todo.Pallopteridae.csv: Box-*.csv
-	- grep Pallopteridae B*csv | grep -v "Collin, 1951" >$@ || true
+	grep Pallopteridae B*csv | grep -v "Collin, 1951" >$@ || true
 
 todo.Panorpidae.csv: Box-*.csv
-	- grep Panorpidae B*csv | grep -v "Fraser, 1959" >$@ || true
+	grep Panorpidae B*csv | grep -v "Fraser, 1959" >$@ || true
 
 todo.Platypezidae.csv: Box-*.csv
-	- grep Platypezidae B*csv | grep -v "Chandler, 2001" >$@ || true
+	grep Platypezidae B*csv | grep -v "Chandler, 2001" >$@ || true
 
 todo.Rhagionidae.csv: Box-*.csv
-	- grep Rhagionidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+	grep Rhagionidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Rhinophoridae.csv: Box-*.csv
-	- grep Rhinophoridae B*csv | grep -v "Falk draft key, 2016" >$@ || true
+	grep Rhinophoridae B*csv | grep -v "Falk draft key, 2016" >$@ || true
 
 todo.Sarcophagidae.csv: Box-*.csv
-	- grep Sarcophagidae B*csv | grep -v "Pape, 1987" | grep -v "Richet et al, 2011" >$@ || true
+	grep Sarcophagidae B*csv | grep -v "Pape, 1987" | grep -v "Richet et al, 2011" >$@ || true
 
 todo.Scathophagidae.csv: Box-*.csv
-	- grep Scathophagidae B*csv | grep -v "Ball, 2014" >$@ || true
+	grep Scathophagidae B*csv | grep -v "Ball, 2014" >$@ || true
 
 todo.Sciomyzidae.csv: Box-*.csv
-	- grep Sciomyzidae B*csv | grep -v "Rozkosny, 1984" >$@ || true
+	grep Sciomyzidae B*csv | grep -v "Rozkosny, 1984" >$@ || true
 
 todo.Sepsidae.csv: Box-*.csv
-	- grep Sepsidae B*csv | grep -v "Pont & Meier, 2002" >$@ || true
+	grep Sepsidae B*csv | grep -v "Pont & Meier, 2002" >$@ || true
 
 todo.Sphaeroceridae.csv: Box-*.csv
-	- grep Sphaeroceridae B*csv | grep -v "Pitkin, 1988" >$@ || true
+	grep Sphaeroceridae B*csv | grep -v "Pitkin, 1988" >$@ || true
 
 todo.Stratiomyidae.csv: Box-*.csv
-	- grep Stratiomyidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+	grep Stratiomyidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Tabanidae.csv: Box-*.csv
-	- grep Tabanidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+	grep Tabanidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Tachinidae.csv: Box-*.csv
-	- grep Tachinidae B*csv | grep -v "Belshaw, 1993" >$@ || true
+	grep Tachinidae B*csv | grep -v "Belshaw, 1993" >$@ || true
 
 todo.Tephritidae.csv: Box-*.csv
-	- grep Tephritidae B*csv | grep -v "White, 1988" >$@ || true
+	grep Tephritidae B*csv | grep -v "White, 1988" >$@ || true
 
 todo.Therevidae.csv: Box-*.csv
-	- grep Therevidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
+	grep Therevidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
 todo.Trichoceridae.csv: Box-*.csv
-	- grep Trichoceridae B*csv | grep -v "Coe et al, 1950" >$@ || true
+	grep Trichoceridae B*csv | grep -v "Coe et al, 1950" >$@ || true
