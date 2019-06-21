@@ -6,9 +6,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,5,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea sp,f,,
 354,6,Whiteknights Park (W),2019-05-27,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 354,7,Whiteknights Park (W),2019-05-27,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
-354,8,Whiteknights Park (W),2019-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-354,9,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,f,,
-354,10,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,f,,
+354,8,Whiteknights Park (W),2019-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",Greasy
+354,9,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+354,10,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 354,11,Whiteknights Park (W),2019-05-27,,Anthomyiidae,,m,,
 354,12,Whiteknights Park (W),2019-05-27,,Tachinidae,Thelaira solivaga,f,"Belshaw, 1993 +v5c updates",
 354,13,Whiteknights Park (W),2019-05-27,,Muscidae,Helina sp,f,,
@@ -42,12 +42,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,41,Whiteknights Park (W),2019-05-27,,Anthomyiidae,,m,,
 354,42,Whiteknights Park (W),2019-05-27,,Tachinidae,Pelatachina tibialis,m,"Belshaw, 1993 +v5c updates",
 354,43,Whiteknights Park (W),2019-05-27,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-354,44,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,m,,
-354,45,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,m,,
-354,46,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga sp,m,,
+354,44,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+354,45,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+354,46,Whiteknights Park (W),2019-05-27,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 354,47,Kings Road Gardens,2019-05-31,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 354,48,Kings Road Gardens,2019-05-31,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-354,49,Kings Road Gardens,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,,
+354,49,Kings Road Gardens,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 354,50,Kings Road Gardens,2019-05-31,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 354,51,Kings Road Gardens,2019-05-31,,Anthomyiidae,,f,,
 354,52,Kings Road Gardens,2019-05-31,,Anthomyiidae,,f,,

@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 352,1,Quarry near Chazey Wood,2019-05-25,,Syrphidae,Pipizella virens,f,"Stubbs & Falk, 2002",
-352,2,Quarry near Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
-352,3,Quarry near Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
+352,2,Quarry near Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",As Heteronychia depressifrons (NOT dissimilis!)
+352,3,Quarry near Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga depressifrons,m,"Pape, 1987",As Heteronychia depressifrons (NOT dissimilis!)
 352,4,Quarry near Chazey Wood,2019-05-25,,Fanniidae,Fannia sp,m,,
 352,5,Quarry near Chazey Wood,2019-05-25,,Fanniidae,Fannia sp,m,,
 352,6,Quarry near Chazey Wood,2019-05-25,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
@@ -13,13 +13,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 352,12,Quarry near Chazey Wood,2019-05-25,,Anthomyiidae,,m,,
 352,13,Chazey Wood,2019-05-25,Hymenoptera,Ichneumonidae,Homotropus elegans,f,"Klopfstein, 2014","Antennae have 2+32 segments; Diplazontinae with Broad et al, 2018"
 352,14,Chazey Wood,2019-05-25,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
-352,15,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,,
+352,15,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 352,16,Chazey Wood,2019-05-25,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
-352,17,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
-352,18,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
-352,19,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
-352,20,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,,
-352,21,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
+352,17,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+352,18,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+352,19,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
+352,20,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+352,21,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 352,22,Chazey Wood,2019-05-25,,Tachinidae,Linnaemya tessellans,m,"Belshaw, 1993 +v5c updates",
 352,23,Chazey Wood,2019-05-25,,Asilidae,Dioctria atricapilla,m,"Stubbs & Drake, 2001",
 352,24,Chazey Wood,2019-05-25,,Asilidae,Dioctria rufipes,m,"Stubbs & Drake, 2001",
@@ -29,12 +29,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 352,28,Chazey Wood,2019-05-25,,Anthomyiidae,Eustalomyia sp,f,,
 352,29,Chazey Wood,2019-05-25,,Muscidae,Helina sp,m,,
 352,30,Chazey Wood,2019-05-25,,Muscidae,Helina sp,m,,
-352,31,Chazey Wood,2019-05-25,,Sarcophagidae,Amobia sp,f,,
+352,31,Chazey Wood,2019-05-25,,Sarcophagidae,Amobia signata,f,"Pape, 1987",
 352,32,Chazey Wood,2019-05-25,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
-352,33,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,m,,
+352,33,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 352,34,Chazey Wood,2019-05-25,,Tachinidae,Eumea linearicornis,m,"Belshaw, 1993 +v5c updates",
 352,35,Chazey Wood,2019-05-25,,Tachinidae,Eumea linearicornis,m,"Belshaw, 1993 +v5c updates",
-352,36,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,,
+352,36,Chazey Wood,2019-05-25,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 352,37,Chazey Wood,2019-05-25,Hymenoptera,Tenthredinidae,,,,
 352,38,Chazey Wood,2019-05-25,Hymenoptera,Tenthredinidae,,,,
 352,39,Chazey Wood,2019-05-25,Hymenoptera,Tenthredinidae,,,,
