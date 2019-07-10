@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 373,5,Bousdale,2019-06-29,,Fanniidae,Fannia sp,f,,
 373,6,Bousdale,2019-06-29,,Fanniidae,Fannia sp,f,,
 373,7,Bousdale,2019-06-29,,Anthomyiidae,,f,,
-373,8,Roseberry Common,2019-06-29,Hymenoptera,Ichneumonidae,,m,,
+373,8,Roseberry Common,2019-06-29,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+46 segments; Ichneumoninae with Broad et al, 2018"
 373,9,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
 373,10,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
 373,11,Roseberry Common,2019-06-29,,Scathophagidae,Scathophaga stercoraria,f,,
@@ -49,7 +49,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 373,48,Roseberry Common,2019-06-29,,Fanniidae,Fannia sp,f,,
 373,49,Roseberry Common,2019-06-29,,Fanniidae,Fannia sp,f,,
 373,50,Roseberry Common,2019-06-29,,Fanniidae,Fannia sp,m,,
-373,51,Behind Hangingstone,2019-06-29,Hymenoptera,Ichneumonidae,,m,,
+373,51,Behind Hangingstone,2019-06-29,Hymenoptera,Ichneumonidae,Glypta parvicaudata,m,"Brock, 2017","Antennae have 2+34 segments; Banchinae with Broad et al, 2018"
 373,52,Behind Hangingstone,2019-06-29,Hymenoptera,Ichneumonidae,,f,,
 373,53,Behind Hangingstone,2019-06-29,Hymenoptera,Ichneumonidae,,m,,
 373,54,Behind Hangingstone,2019-06-29,Hymenoptera,Ichneumonidae,,m,,
