@@ -33,8 +33,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 377,32,Whiteknights Park (E-FH),2019-07-06,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 377,33,Whiteknights Park (E-FH),2019-07-06,Hymenoptera,Ichneumonidae,,f,,
 377,34,Whiteknights Park (E-FH),2019-07-06,Hymenoptera,Ichneumonidae,,m,,
-377,35,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,,m,,
-377,36,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,,m,,
+377,35,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
+377,36,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 377,37,Whiteknights Park (E-FH),2019-07-06,,Lauxaniidae,Minettia fasciata,,,
 377,38,Whiteknights Park (E-FH),2019-07-06,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
 377,39,Whiteknights Park (E-FH),2019-07-06,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
@@ -45,8 +45,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 377,44,Whiteknights Park (E-FH),2019-07-06,,???,,m,,
 377,45,Whiteknights Park (E-FH),2019-07-06,,Agromyzidae,,f,,
 377,46,Whiteknights Park (E),2018-07-13,,Chloropidae,,,,
-377,47,Whiteknights Park (E),2018-07-13,,Tephritidae,,m,,
-377,48,Whiteknights Park (E),2018-07-13,,Tephritidae,,m,,
+377,47,Whiteknights Park (E),2018-07-13,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
+377,48,Whiteknights Park (E),2018-07-13,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 377,49,Whiteknights Park (E),2018-07-13,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
 377,50,Whiteknights Park (E),2018-07-13,,Anthomyiidae,,m,,
 377,51,Whiteknights Park (E),2018-07-13,,Anthomyiidae,Anthomyia sp,m,,

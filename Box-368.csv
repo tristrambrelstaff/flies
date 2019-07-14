@@ -10,9 +10,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 368,9,"Mill Field Meadow, Saltburn",2019-06-27,,Anthomyiidae,,m,,
 368,10,"Mill Field Meadow, Saltburn",2019-06-27,,Anthomyiidae,,m,,
 368,11,"Mill Field Meadow, Saltburn",2019-06-27,,Anthomyiidae,,m,,
-368,12,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora sp,f,,
-368,13,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora sp,m,,
-368,14,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora sp,m,,
+368,12,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora jaceana,f,"White, 1988",Has Acari mite
+368,13,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora jaceana,m,"White, 1988",
+368,14,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora jaceana,m,"White, 1988",
 368,15,"Mill Field Meadow, Saltburn",2019-06-27,,Drosophilidae,,,,
 368,16,"Mill Field Meadow, Saltburn",2019-06-27,Hymenoptera,Cynipidae,,f,,
 368,17,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,
