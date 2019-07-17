@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-377,1,Whiteknights Park (W),2019-07-06,Hymenoptera,Ichneumonidae,,f,,
+377,1,Whiteknights Park (W),2019-07-06,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+28 segments; Campopleginae with Broad et al, 2018"
 377,2,Whiteknights Park (W),2019-07-06,Hymenoptera,Ichneumonidae,,m,,
 377,3,Whiteknights Park (W),2019-07-06,Hymenoptera,Ichneumonidae,,m,,
 377,4,Whiteknights Park (W),2019-07-06,Hymenoptera,Ichneumonidae,,m,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 377,30,Whiteknights Park (E-FH),2019-07-06,,Tachinidae,Aplomya confinis,f,"Belshaw, 1993 +v5c updates",
 377,31,Whiteknights Park (E-FH),2019-07-06,,Anthomyiidae,,f,,
 377,32,Whiteknights Park (E-FH),2019-07-06,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-377,33,Whiteknights Park (E-FH),2019-07-06,Hymenoptera,Ichneumonidae,,f,,
+377,33,Whiteknights Park (E-FH),2019-07-06,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+26 segments; Campopleginae with Broad et al, 2018"
 377,34,Whiteknights Park (E-FH),2019-07-06,Hymenoptera,Ichneumonidae,,m,,
 377,35,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
 377,36,Whiteknights Park (E-FH),2019-07-06,,Tephritidae,Terellia tussilaginis,m,"White, 1988",As Cerajocera tussilaginis
