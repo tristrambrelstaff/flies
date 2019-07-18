@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-375,1,Bousdale,2019-06-30,Hymenoptera,Ichneumonidae,,m,,
-375,2,Bousdale,2019-06-30,Hymenoptera,Ichneumonidae,,f,,
+375,1,Bousdale,2019-06-30,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+44 segments; Ichneumoninae with Broad et al, 2018"
+375,2,Bousdale,2019-06-30,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+46 segments; Mesochorinae with Broad et al, 2018; Not Mersochorus fulvus grp with Riedel 2018"
 375,3,Bousdale,2019-06-30,Hymenoptera,Ichneumonidae,,m,,
 375,4,Bousdale,2019-06-30,,Muscidae,Phaonia sp,f,,
 375,5,Bousdale,2019-06-30,,Muscidae,Phaonia sp,m,,
