@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-368,1,"Mill Field Meadow, Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,
+368,1,"Mill Field Meadow, Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Ichneumoninae with Broad et al, 2018"
 368,2,"Mill Field Meadow, Saltburn",2019-06-27,,Tachinidae,Phasia hemiptera,m,"Belshaw, 1993 +v5c updates",
 368,3,"Mill Field Meadow, Saltburn",2019-06-27,,Tachinidae,Phasia hemiptera,m,"Belshaw, 1993 +v5c updates",
 368,4,"Mill Field Meadow, Saltburn",2019-06-27,,Dolichopodidae,,f,,
@@ -15,20 +15,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 368,14,"Mill Field Meadow, Saltburn",2019-06-27,,Tephritidae,Urophora jaceana,m,"White, 1988",
 368,15,"Mill Field Meadow, Saltburn",2019-06-27,,Drosophilidae,,,,
 368,16,"Mill Field Meadow, Saltburn",2019-06-27,Hymenoptera,Cynipidae,,f,,
-368,17,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,
-368,18,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,f,,
+368,17,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+42 segments; Ichneumoninae with Broad et al, 2018"
+368,18,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+43 segments; Ichneumoninae with Broad et al, 2018"
 368,19,"Viaduct (W), Saltburn",2019-06-27,,Syrphidae,Rhingia sp,m,,
 368,20,"Viaduct (W), Saltburn",2019-06-27,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
-368,21,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,
-368,22,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,23,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,24,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,25,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,26,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,27,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,28,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,29,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
-368,30,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,
+368,21,"Viaduct (W), Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+22 segments; Tryphoninae (Oedemopsini) with Broad et al, 2018"
+368,22,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+48 segments; Ichneumoninae with Broad et al, 2018"
+368,23,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+46 segments; Ichneumoninae with Broad et al, 2018"
+368,24,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Ichneumoninae with Broad et al, 2018"
+368,25,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+39 segments; Ichneumoninae with Broad et al, 2018"
+368,26,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Ichneumoninae with Broad et al, 2018"
+368,27,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+39 segments; Ichneumoninae with Broad et al, 2018"
+368,28,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+40 segments; Ichneumoninae with Broad et al, 2018"
+368,29,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+39 segments; Ichneumoninae with Broad et al, 2018"
+368,30,Above Hutton Village,2019-06-28,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+41 segments; Ichneumoninae with Broad et al, 2018"
 368,31,Above Hutton Village,2019-06-28,,Muscidae,Helina evecta,m,,
 368,32,Above Hutton Village,2019-06-28,,Muscidae,,f,,
 368,33,Above Hutton Village,2019-06-28,,Muscidae,Phaonia sp,f,,
