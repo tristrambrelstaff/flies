@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 384,6,The Wilderness (W),2019-07-25,,Tachinidae,Tachinia fera,m,"Belshaw, 1993 +v5c updates",
 384,7,The Wilderness (W),2019-07-25,,Tachinidae,Tachinia fera,m,"Belshaw, 1993 +v5c updates",
 384,8,The Wilderness (W),2019-07-25,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
-384,9,The Wilderness (W),2019-07-25,,Calliphoridae,Calliphora vicina,f,,
+384,9,The Wilderness (W),2019-07-25,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 384,10,The Wilderness (W),2019-07-25,,Sarcophagidae,,f,,Has black spike ovipositor
 384,11,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga sp,m,,
 384,12,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga sp,m,,
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 384,29,The Wilderness (E),2019-07-25,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",28+29 in cop
 384,30,The Wilderness (E),2019-07-25,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 384,31,The Wilderness (E),2019-07-25,,Syrphidae,Baccha elongata,m,"Stubbs & Falk, 2002",
-384,32,The Wilderness (E),2019-07-25,,Calliphoridae,Pollenia sp,m,,
+384,32,The Wilderness (E),2019-07-25,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 384,33,The Wilderness (E),2019-07-25,,Phoridae,,,,
 384,34,The Wilderness (E),2019-07-25,,Dolichopodidae,,m,,
 384,35,The Wilderness (E),2019-07-25,,Fanniidae,Fannia sp,m,,

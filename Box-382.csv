@@ -1,16 +1,16 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 382,1,Chazey Wood,2019-07-21,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
-382,2,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,f,,
-382,3,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,f,,
-382,4,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,f,,
-382,5,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,f,,
+382,2,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+382,3,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+382,4,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+382,5,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 382,6,Chazey Wood,2019-07-21,,Fanniidae,Fannia sp,f,,
-382,7,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,m,,
-382,8,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,m,,
-382,9,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,m,,
-382,10,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia sp,m,,
+382,7,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+382,8,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
+382,9,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+382,10,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 382,11,Chazey Wood,2019-07-21,,Muscidae,Phaonia sp,m,,
-382,12,Chazey Wood,2019-07-21,,Calliphoridae,Bellardia sp,m,,
+382,12,Chazey Wood,2019-07-21,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
 382,13,Chazey Wood,2019-07-21,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 382,14,Chazey Wood,2019-07-21,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 382,15,Chazey Wood,2019-07-21,,Sarcophagidae,Nyctia halterata,m,,
