@@ -13,9 +13,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 382,12,Chazey Wood,2019-07-21,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
 382,13,Chazey Wood,2019-07-21,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 382,14,Chazey Wood,2019-07-21,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
-382,15,Chazey Wood,2019-07-21,,Sarcophagidae,Nyctia halterata,m,,
-382,16,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga sp,f,,
-382,17,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga sp,m,,
+382,15,Chazey Wood,2019-07-21,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
+382,16,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+382,17,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thysocnema incisilobata
 382,18,Chazey Wood,2019-07-21,Hymenoptera,,,m,,
 382,19,Chazey Wood,2019-07-21,Hymenoptera,,,f,,
 382,20,Chazey Wood,2019-07-21,Hymenoptera,Ichneumonidae,,f,,
