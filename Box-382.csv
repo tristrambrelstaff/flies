@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 382,8,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 382,9,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
 382,10,Chazey Wood,2019-07-21,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
-382,11,Chazey Wood,2019-07-21,,Muscidae,Phaonia sp,m,,
+382,11,Chazey Wood,2019-07-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 382,12,Chazey Wood,2019-07-21,,Calliphoridae,Bellardia viarum,m,"Rognes, 1991",
 382,13,Chazey Wood,2019-07-21,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 382,14,Chazey Wood,2019-07-21,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
@@ -29,12 +29,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 382,28,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia procellaris,m,,
 382,29,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia procellaris,m,,
 382,30,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia sp,m,,
-382,31,Chazey Wood,2019-07-21,,Muscidae,,f,,
+382,31,Chazey Wood,2019-07-21,,Muscidae,Helina setiventris,f,"Fonseca, 1968",
 382,32,Chazey Wood,2019-07-21,,Dolichopodidae,,f,,
 382,33,Chazey Wood,2019-07-21,,Anthomyiidae,,f,,
 382,34,Chazey Wood,2019-07-21,,Anthomyiidae,,f,,
-382,35,Chazey Wood,2019-07-21,,Muscidae,Hebecnema vespertina,m,,
-382,36,Chazey Wood,2019-07-21,,Muscidae,,f,,
+382,35,Chazey Wood,2019-07-21,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+382,36,Chazey Wood,2019-07-21,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 382,37,Chazey Wood,2019-07-21,,Anthomyiidae,,f,,
 382,38,Chazey Wood,2019-07-21,,Fanniidae,Fannia sp,f,,
 382,39,Chazey Wood,2019-07-21,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",

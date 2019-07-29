@@ -12,10 +12,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 384,11,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 384,12,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 384,13,The Wilderness (W),2019-07-25,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
-384,14,The Wilderness (W),2019-07-25,,Muscidae,Graphomya maculata,f,,
+384,14,The Wilderness (W),2019-07-25,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 384,15,The Wilderness (W),2019-07-25,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
-384,16,The Wilderness (W),2019-07-25,,Muscidae,Mydaea sp,f,,
-384,17,The Wilderness (W),2019-07-25,,Muscidae,Morellia sp,m,,
+384,16,The Wilderness (W),2019-07-25,,Muscidae,Mydaea ancilla,f,"Fonseca, 1968",
+384,17,The Wilderness (W),2019-07-25,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 384,18,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 384,19,The Wilderness (W),2019-07-25,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 384,20,The Wilderness (W),2019-07-25,,???,,,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 384,33,The Wilderness (E),2019-07-25,,Phoridae,,,,
 384,34,The Wilderness (E),2019-07-25,,Dolichopodidae,,m,,
 384,35,The Wilderness (E),2019-07-25,,Fanniidae,Fannia sp,m,,
-384,36,The Wilderness (E),2019-07-25,,Muscidae,Lispocephala sp,f,,
+384,36,The Wilderness (E),2019-07-25,,Muscidae,Lispocephala brachialis,f,"Fonseca, 1968",
 384,37,The Wilderness (E),2019-07-25,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 384,38,The Wilderness (E),2019-07-25,,Anthomyiidae,,m,,
 384,39,The Wilderness (E),2019-07-25,,Sphaeroceridae,,f,,
