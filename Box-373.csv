@@ -7,14 +7,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 373,6,Bousdale,2019-06-29,,Fanniidae,Fannia sp,f,,
 373,7,Bousdale,2019-06-29,,Anthomyiidae,,f,,
 373,8,Roseberry Common,2019-06-29,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+46 segments; Ichneumoninae with Broad et al, 2018"
-373,9,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
-373,10,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
+373,9,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+373,10,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 373,11,Roseberry Common,2019-06-29,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 373,12,Roseberry Common,2019-06-29,,Muscidae,Phaonia sp,f,,
 373,13,Roseberry Common,2019-06-29,Neuroptera,Chrysopidae,,,,
 373,14,Roseberry Common,2019-06-29,,Muscidae,Phaonia sp,f,,
 373,15,Roseberry Common,2019-06-29,,Muscidae,Phaonia sp,m,,
-373,16,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga sp,f,,
+373,16,Roseberry Common,2019-06-29,,Sarcophagidae,Sarcophaga cf haemorrhoa,f,"Pape, 1987",As Heteronychia haemorrhoa or Heteronychia boettcheriana
 373,17,Roseberry Common,2019-06-29,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 373,18,Roseberry Common,2019-06-29,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 373,19,Roseberry Common,2019-06-29,,Muscidae,Hebecnema sp,f,,

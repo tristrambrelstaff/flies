@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 372,1,Bousdale,2019-06-29,Hymenoptera,Ichneumonidae,,m,,
 372,2,Bousdale,2019-06-29,Hymenoptera,Tenthredinidae,,,,
-372,3,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
-372,4,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
+372,3,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+372,4,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thysocnema incisilobata
 372,5,Bousdale,2019-06-29,,Muscidae,Phaonia sp,m,,
-372,6,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
+372,6,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 372,7,Bousdale,2019-06-29,,Muscidae,Phaonia sp,m,,
 372,8,Bousdale,2019-06-29,,Muscidae,Phaonia sp,m,,
 372,9,Bousdale,2019-06-29,,Muscidae,Phaonia sp,f,,
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 372,22,Bousdale,2019-06-29,,Muscidae,Helina sp,m,,
 372,23,Bousdale,2019-06-29,,Muscidae,Hydrotaea sp,m,,
 372,24,Bousdale,2019-06-29,,Muscidae,,f,,
-372,25,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga sp,m,,
+372,25,Bousdale,2019-06-29,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thysocnema incisilobata
 372,26,Bousdale,2019-06-29,,Muscidae,,f,,
 372,27,Bousdale,2019-06-29,,Muscidae,Hydrotaea sp,m,,
 372,28,Bousdale,2019-06-29,,Muscidae,,f,,
