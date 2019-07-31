@@ -19,11 +19,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 380,18,Kings Road Gardens,2019-07-21,,Lauxaniidae,Minettia fasciata,,,
 380,19,Kings Road Gardens,2019-07-21,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 380,20,Kings Road Gardens,2019-07-21,,Anthomyiidae,,m,,
-380,21,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia sp,f,,
-380,22,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia sp,m,,
-380,23,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia sp,f,,
+380,21,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+380,22,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
+380,23,Kings Road Gardens,2019-07-21,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 380,24,Kings Road Gardens,2019-07-21,,Ephydridae,,,,
-380,25,Quarry near Chazey Wood,2019-07-21,,Muscidae,Hydrotaea sp,m,,
+380,25,Quarry near Chazey Wood,2019-07-21,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 380,26,Quarry near Chazey Wood,2019-07-21,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",
 380,27,Quarry near Chazey Wood,2019-07-21,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
 380,28,Quarry near Chazey Wood,2019-07-21,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
@@ -36,8 +36,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 380,35,Quarry near Chazey Wood,2019-07-21,Hymenoptera,,,f,,
 380,36,Quarry near Chazey Wood,2019-07-21,Hymenoptera,,,f,,
 380,37,Quarry near Chazey Wood,2019-07-21,Hymenoptera,,,f,,
-380,38,Quarry near Chazey Wood,2019-07-21,,Muscidae,Helina sp,f,,
-380,39,Quarry near Chazey Wood,2019-07-21,,Muscidae,Morellia sp,m,,
+380,38,Quarry near Chazey Wood,2019-07-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+380,39,Quarry near Chazey Wood,2019-07-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 380,40,Quarry near Chazey Wood,2019-07-21,,Calliphoridae,Pollenia griseotomenosa,f,"Rognes, 1991",
 380,41,Quarry near Chazey Wood,2019-07-21,,Anthomyiidae,Hylemya sp,m,,
 380,42,Quarry near Chazey Wood,2019-07-21,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
