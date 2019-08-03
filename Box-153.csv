@@ -48,8 +48,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,47,Chazey Wood,2016-07-02,,???,,,,
 153,48,Chazey Wood,2016-07-02,,???,,f,,
 153,49,Chazey Wood,2016-07-02,,Hybotidae,,m,,
-153,50,Chazey Wood,2016-07-02,,Sepsidae,Sepsis sp,,,
-153,51,Chazey Wood,2016-07-02,,Sepsidae,,,,
+153,50,Chazey Wood,2016-07-02,,Sepsidae,Sepsis fulgens,f,"Pont & Meier, 2002",Fungus
+153,51,Chazey Wood,2016-07-02,,Sepsidae,Themira lucida,m,"Pont & Meier, 2002",Fungus
 153,52,Chazey Wood,2016-07-02,,Lauxaniidae,,,,
 153,53,Chazey Wood,2016-07-02,,Lauxaniidae,,,,
 153,54,Chazey Wood,2016-07-02,,Anthomyiidae,,f,,
@@ -71,4 +71,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 153,70,Field West of Chazey Wood,2016-07-02,,Lauxaniidae,Minettia sp,,,
 153,71,Field West of Chazey Wood,2016-07-02,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 153,72,Field West of Chazey Wood,2016-07-02,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
-153,73,Field West of Chazey Wood,2016-07-02,,Sepsidae,Sepsis sp,,,
+153,73,Field West of Chazey Wood,2016-07-02,,Sepsidae,Sepsis fulgens,m,"Pont & Meier, 2002",
