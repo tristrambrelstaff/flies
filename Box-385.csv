@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-385,1,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-385,2,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-385,3,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+385,1,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",Greasy
+385,2,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",Greasy
+385,3,The Wilderness (E),2019-07-25,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",Greasy
 385,4,The Wilderness (E),2019-07-25,,Culicidae,,f,,
 385,5,The Wilderness (E),2019-07-25,,Drosophilidae,,,,
 385,6,The Wilderness (E),2019-07-25,,Drosophilidae,,,,
@@ -9,5 +9,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 385,8,The Wilderness (E),2019-07-25,,???,,,,
 385,9,The Wilderness (E),2019-07-25,,Anthomyiidae,,f,,
 385,10,The Wilderness (E),2019-07-25,,Anthomyiidae,,f,,
-385,11,The Wilderness (E),2019-07-25,,Pallopteridae,,m,,
-385,12,The Wilderness (E),2019-07-25,,???,,f,,
+385,11,The Wilderness (E),2019-07-25,,Pallopteridae,Palloptera muliebris,m,"Collin, 1951",
+385,12,The Wilderness (E),2019-07-25,,Lauxaniidae,Minettia inusta,,,
