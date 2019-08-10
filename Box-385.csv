@@ -15,8 +15,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 385,14,Kennet Mouth (E),2019-08-04,,Tabanidae,Chrysops relictus,f,"Stubbs & Drake, 2001",
 385,15,Kennet Mouth (E),2019-08-04,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 385,16,Kennet Mouth (E),2019-08-04,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
-385,17,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,f,,
-385,18,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
+385,17,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+36 segments; Campopleginae with Broad et al, 2018"
+385,18,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+37 segments; Ichneumoninae with Broad et al, 2018"
 385,19,Kennet Mouth (E),2019-08-04,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 385,20,Kennet Mouth (E),2019-08-04,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 385,21,Kennet Mouth (E),2019-08-04,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
@@ -28,12 +28,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 385,27,Kennet Mouth (E),2019-08-04,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 385,28,Kennet Mouth (E),2019-08-04,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
 385,29,Kennet Mouth (E),2019-08-04,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
-385,30,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
-385,31,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
-385,32,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
-385,33,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
-385,34,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,f,,
-385,35,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,
+385,30,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Tryphoninae with Broad et al, 2018"
+385,31,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Tryphoninae with Broad et al, 2019"
+385,32,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Tryphoninae with Broad et al, 2020"
+385,33,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+38 segments; Tryphoninae with Broad et al, 2021"
+385,34,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+26 segments; Cryptinae with Broad et al, 2018"
+385,35,Kennet Mouth (E),2019-08-04,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+20 segments; Phygadeuontinae with Broad et al, 2018"
 385,36,Kennet Mouth (E),2019-08-04,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 385,37,Kennet Mouth (E),2019-08-04,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 385,38,Kennet Mouth (E),2019-08-04,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
