@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 388,1,Whiteknights Park (W),2019-08-11,,Lauxaniidae,Minettia longipennis,,,
-388,2,Whiteknights Park (W),2019-08-11,,Stratiomyidae,Beris sp,m,,
+388,2,Whiteknights Park (W),2019-08-11,,Stratiomyidae,Beris morrisii,m,"Stubbs & Drake, 2001",
 388,3,Whiteknights Park (W),2019-08-11,,Fanniidae,Fannia sp,m,,
 388,4,Whiteknights Park (W),2019-08-11,,Tephritidae,Anomoia purmunda,m,,
 388,5,Whiteknights Park (W),2019-08-11,,Tephritidae,Tephritis bardanae,m,,
@@ -8,4 +8,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 388,7,Whiteknights Park (W),2019-08-11,Hymenoptera,Ormyridae,Ormyrus sp,m,,
 388,8,Whiteknights Park (W),2019-08-11,Hymenoptera,Ormyridae,Ormyrus sp,m,,
 388,9,Whiteknights Park (W),2019-08-11,Hymenoptera,Ormyridae,Ormyrus sp,m,,
-388,10,Whiteknights Park (W),2019-08-11,,Opomyzidae,Opomyza sp,f,,
+388,10,Whiteknights Park (W),2019-08-11,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
