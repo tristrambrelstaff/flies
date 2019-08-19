@@ -5,8 +5,8 @@
 
 
 function svg_tag(x, y, w, h, class) {
-  printf("<svg viewBox=\"%s %s %s %s\" stroke=\"black\" stroke-opacity=\"1.0\" fill=\"white\" fill-opacity=\"0.0\" class=\"%s\" xmlns=\"http://www.w3.org/2000/svg\">\n", x-1, y, w+2, h, class)
-  # We add 1px left-margin and 1px right-margin to ensure lines at x=0 and x=pw are fully displayed.
+  printf("<svg viewBox=\"%s %s %s %s\" stroke=\"black\" stroke-opacity=\"1.0\" fill=\"white\" fill-opacity=\"0.0\" class=\"%s\" xmlns=\"http://www.w3.org/2000/svg\">\n", x-10, y-10, w+20, h+20, class)
+  # We add 10px margin to ensure that the title and labels are shown no matter which font is used.
 }
 
 function svg_end_tag() {
