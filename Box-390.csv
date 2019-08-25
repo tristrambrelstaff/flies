@@ -36,12 +36,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 390,35,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,,f,,
 390,36,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,,m,,
 390,37,Whiteknights Park (E),2019-08-23,Hymenoptera,Vespidae,Vespa crabro,,,
-390,38,Whiteknights Park (E),2019-08-23,,Asilidae,,m,38+39 in cop,
-390,39,Whiteknights Park (E),2019-08-23,,Asilidae,,f,38+39 in cop,
-390,40,Whiteknights Park (E),2019-08-23,,Asilidae,,m,,
+390,38,Whiteknights Park (E),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",38+39 in cop
+390,39,Whiteknights Park (E),2019-08-23,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",38+39 in cop
+390,40,Whiteknights Park (E),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 390,41,Whiteknights Park (E),2019-08-23,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 390,42,Whiteknights Park (E),2019-08-23,Hymenoptera,Ichneumonidae,,m,,
-390,43,Whiteknights Park (E),2019-08-23,,Asilidae,,m,,
+390,43,Whiteknights Park (E),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 390,44,Whiteknights Park (E),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
 390,45,Whiteknights Park (E),2019-08-23,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 390,46,Whiteknights Park (E),2019-08-23,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
