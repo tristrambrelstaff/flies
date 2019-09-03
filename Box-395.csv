@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-395,1,Quarry near Chazey Wood,2019-09-01,,Tachinidae,Pales pavida,f,,
+395,1,Quarry near Chazey Wood,2019-09-01,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 395,2,Quarry near Chazey Wood,2019-09-01,,Sarcophagidae,Sarcophaga sp,f,,
 395,3,Quarry near Chazey Wood,2019-09-01,,Calliphoridae,Bellardia sp,m,,
 395,4,Quarry near Chazey Wood,2019-09-01,,Calliphoridae,Bellardia sp,m,,
@@ -17,9 +17,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 395,16,Quarry near Chazey Wood,2019-09-01,,Fanniidae,,f,,
 395,17,Quarry near Chazey Wood,2019-09-01,,Lauxaniidae,Minettia fasciata,,,
 395,18,Quarry near Chazey Wood,2019-09-01,,Lauxaniidae,Minettia fasciata,,,
-395,19,Chazey Wood,2019-09-01,,Tachinidae,Tachina fera,f,,
-395,20,Chazey Wood,2019-09-01,,Tachinidae,Tachina fera,m,,
-395,21,Chazey Wood,2019-09-01,,Tachinidae,Linnaemya sp,f,,
+395,19,Chazey Wood,2019-09-01,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
+395,20,Chazey Wood,2019-09-01,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
+395,21,Chazey Wood,2019-09-01,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 395,22,Chazey Wood,2019-09-01,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",Thorax greasy
 395,23,Chazey Wood,2019-09-01,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 395,24,Chazey Wood,2019-09-01,,Sarcophagidae,Sarcophaga sp,m,,
@@ -39,6 +39,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 395,38,Chazey Wood,2019-09-01,,Calliphoridae,Lucilia sp,m,,
 395,39,Chazey Wood,2019-09-01,,Calliphoridae,Lucilia sp,m,,
 395,40,Chazey Wood,2019-09-01,,Calliphoridae,Pollenia sp,m,,
-395,41,Chazey Wood,2019-09-01,,Tachinidae,,f,,
+395,41,Chazey Wood,2019-09-01,,Tachinidae,Phryxe cf vulgaris,f,"Belshaw, 1993 +v5c updates",
 395,42,Chazey Wood,2019-09-01,,Sarcophagidae,Sarcophaga sp,f,,
 395,43,Chazey Wood,2019-09-01,,Muscidae,Helina sp,f,,
