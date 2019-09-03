@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 386,11,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 386,12,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
 386,13,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-386,14,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Discachaeta pumila,f,"Pape, 1987",
+386,14,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",As Discachaeta pumila
 386,15,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 386,16,Kings Meadow Tescos,2019-08-04,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 386,17,Kings Meadow Tescos,2019-08-04,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 386,22,Kings Meadow Tescos,2019-08-04,,Anthomyiidae,Anthomyia procellaris,m,"Ackland et al draft keys, 2017",
 386,23,Kings Meadow Tescos,2019-08-04,,Rhinophoridae,Phyto melanocephala,f,"Falk draft key, 2016",
 386,24,Kings Meadow Tescos,2019-08-04,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-386,25,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Discachaeta pumila,m,"Pape, 1987",
+386,25,Kings Meadow Tescos,2019-08-04,,Sarcophagidae,Sarcophaga pumila,m,"Pape, 1987",As Discachaeta pumila
 386,26,Kings Meadow Tescos,2019-08-04,,Tephritidae,Terellia tussilaginis,f,"White, 1988",As Cerajocera tussilaginis; On lesser burdock
 386,27,Kings Meadow Tescos,2019-08-04,,Anthomyiidae,,f,,
 386,28,Kings Meadow Tescos,2019-08-04,,Anthomyiidae,,f,,
