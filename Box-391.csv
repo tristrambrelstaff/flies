@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 391,30,Whiteknights Park (E),2019-08-23,,???,,f,,
 391,31,Whiteknights Park (E),2019-08-23,,???,,f,,
 391,32,Whiteknights Park (W),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",Thorax greasy
-391,33,Whiteknights Park (W),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
+391,33,Whiteknights Park (W),2019-08-23,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 391,34,Whiteknights Park (W),2019-08-23,,Mycetophilidae,,f,,
 391,35,Kennet Mouth (E),2019-08-26,Hymenoptera,Vespidae,,,,
 391,36,Kennet Mouth (E),2019-08-26,Hymenoptera,Vespidae,,,,
@@ -41,9 +41,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 391,40,Kennet Mouth (E),2019-08-26,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 391,41,Kennet Mouth (E),2019-08-26,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 391,42,Kennet Mouth (E),2019-08-26,,Tachinidae,Eurithia anthophila,m,"Belshaw, 1993 +v5c updates",
-391,43,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga sp,m,,
-391,44,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga sp,m,,
-391,45,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga sp,m,,
-391,46,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga sp,m,,
+391,43,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
+391,44,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+391,45,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+391,46,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 391,47,Kennet Mouth (E),2019-08-26,,Tachinidae,Thelaira solivaga,f,"Belshaw, 1993 +v5c updates",
 391,48,Kennet Mouth (E),2019-08-26,,Muscidae,Graphomya maculata,m,,
