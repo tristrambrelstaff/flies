@@ -16,10 +16,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 396,15,Chazey Wood,2019-09-01,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 396,16,Chazey Wood,2019-09-01,,Fanniidae,Fannia sp,m,,
 396,17,Chazey Wood,2019-09-01,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
-396,18,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,m,,
-396,19,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,m,,
-396,20,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,,
-396,21,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,,
+396,18,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
+396,19,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
+396,20,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+396,21,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga pumila,f,"Pape, 1987",As Discachaeta pumila
 396,22,"Jubilee River, Taplow",2019-09-07,,Muscidae,Mydaea sp,f,,
 396,23,"Jubilee River, Taplow",2019-09-07,,Muscidae,Phaonia sp,f,,
 396,24,"Jubilee River, Taplow",2019-09-07,,Muscidae,Phaonia sp,f,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 396,27,"Jubilee River, Taplow",2019-09-07,,Muscidae,Muscina levida,m,,
 396,28,"Jubilee River, Taplow",2019-09-07,,Muscidae,Stomoxys calcitrans,,,
 396,29,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
-396,30,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,,
+396,30,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 396,31,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
 396,32,"Jubilee River, Taplow",2019-09-07,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 396,33,"Jubilee River, Taplow",2019-09-07,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
@@ -42,8 +42,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 396,41,"Jubilee River, Taplow",2019-09-07,,Muscidae,Helina sp,f,,
 396,42,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
 396,43,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
-396,44,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,m,,
-396,45,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,m,,
+396,44,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga crassimargo,m,"Pape, 1987",As Helicophagella crassimargo
+396,45,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 396,46,"Jubilee River, Taplow",2019-09-07,,Tachinidae,Phasia obesa,f,"Belshaw, 1993 +v5c updates",
 396,47,"Jubilee River, Taplow",2019-09-07,,Sepsidae,Sepsis punctum,f,"Pont & Meier, 2002",
 396,48,"Jubilee River, Taplow",2019-09-07,,Ephydridae,,,,
