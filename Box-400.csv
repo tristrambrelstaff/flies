@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 400,1,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza sp,f,,
 400,2,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza sp,f,,
-400,3,Whiteknights Park (W),2019-09-21,,Tachinidae,Phasia sp,f,,
+400,3,Whiteknights Park (W),2019-09-21,,Tachinidae,Phasia pusilla,f,"Belshaw, 1993 +v5c updates",
 400,4,Whiteknights Park (W),2019-09-21,,Mycetophilidae,,,,
 400,5,Whiteknights Park (W),2019-09-21,,Agromyzidae,,m,,
 400,6,Whiteknights Park (W),2019-09-21,,Agromyzidae,,m,,
@@ -27,6 +27,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 400,26,Whiteknights Park (E),2019-09-21,,Anthomyiidae,,f,,
 400,27,Whiteknights Park (E),2019-09-21,,Anthomyiidae,,f,,
 400,28,Whiteknights Park (E),2019-09-21,,Drosophilidae,,,,
-400,29,Whiteknights Park (E-FH),2019-09-21,,Tachinidae,Linnaemya sp,f,,
+400,29,Whiteknights Park (E-FH),2019-09-21,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 400,30,Whiteknights Park (E-FH),2019-09-21,,Sarcophagidae,Sarcophaga sp,f,,
 400,31,Whiteknights Park (E-FH),2019-09-21,,Muscidae,Coenosia sp,f,,
