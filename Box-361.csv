@@ -5,7 +5,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 361,4,Malvern Court bin store,2019-06-15,,Heleomyzidae,Tephrochlamys rufiventris,f,"Gorodkov, 1989",
 361,5,Malvern Court bin store,2019-06-15,,Drosophilidae,,,,
 361,6,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,m,,
-361,7,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,f,"Antennae have 2+51 segments; Campopleginae with Broad et al, 2018",
+361,7,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+51 segments; Campopleginae with Broad et al, 2018"
 361,8,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,f,,
 361,9,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,Amblyteles armatorius,m,"Prehn & Raper, 2017",
 361,10,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,Amblyteles armatorius,m,"Prehn & Raper, 2017",
@@ -17,8 +17,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 361,16,Whiteknights Park (W),2019-06-15,,Empididae,Empis sp,m,,
 361,17,Whiteknights Park (W),2019-06-15,,Chloropidae,,,,
 361,18,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,f,,
-361,19,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,m,"Antennae have 2+21 segments; Mesochorinae with Broad et al, 2018",
-361,20,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,m,Antennae have 2+22 segments,
+361,19,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+21 segments; Mesochorinae with Broad et al, 2018"
+361,20,Whiteknights Park (W),2019-06-15,Hymenoptera,Ichneumonidae,,m,,Antennae have 2+22 segments
 361,21,Whiteknights Park (W),2019-06-15,,Dolichopodidae,,m,,
 361,22,Whiteknights Park (W),2019-06-15,,Rhagionidae,Chrysopilus cristatus,m,"Stubbs & Drake, 2001",
 361,23,Whiteknights Park (W),2019-06-15,,Lauxaniidae,Minettia fasciata,,,
