@@ -15,15 +15,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 390,14,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,,f,,
 390,15,Whiteknights Park (E-FH),2019-08-23,,Muscidae,Helina sp,f,,
 390,16,Whiteknights Park (E-FH),2019-08-23,,Muscidae,Helina sp,f,,
-390,17,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
+390,17,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 390,18,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 390,19,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-390,20,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
-390,21,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
+390,20,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+390,21,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 390,22,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Solieria sp,f,"Belshaw, 1993 +v5c updates",
 390,23,Whiteknights Park (E-FH),2019-08-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 390,24,Whiteknights Park (E-FH),2019-08-23,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-390,25,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
+390,25,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 390,26,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,,f,,
 390,27,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,Anthomyia procellaris,m,,
 390,28,Whiteknights Park (E-FH),2019-08-23,,Anthomyiidae,Anthomyia procellaris,m,,
@@ -42,6 +42,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 390,41,Whiteknights Park (E),2019-08-23,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 390,42,Whiteknights Park (E),2019-08-23,Hymenoptera,Ichneumonidae,Ichneumon sarcitorius,m,"Prehn & Raper, 2017",
 390,43,Whiteknights Park (E),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
-390,44,Whiteknights Park (E),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
+390,44,Whiteknights Park (E),2019-08-23,,Sarcophagidae,Sarcophaga cf variegata,m,"Pape, 1987",
 390,45,Whiteknights Park (E),2019-08-23,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 390,46,Whiteknights Park (E),2019-08-23,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
