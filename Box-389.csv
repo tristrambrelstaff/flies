@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 389,1,Whiteknights Park (W),2019-08-11,,Anthomyiidae,Anthomyia sp,f,,
-389,2,Whiteknights Park (W),2019-08-11,,Sarcophagidae,Sarcophaga sp,m,,
+389,2,Whiteknights Park (W),2019-08-11,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 389,3,Whiteknights Park (W),2019-08-11,,Tachinidae,Aplomya confinis,f,"Belshaw, 1993 +v5c updates",
 389,4,Whiteknights Park (W),2019-08-11,,Anthomyiidae,,f,,
 389,5,Whiteknights Park (W),2019-08-11,,Lauxaniidae,Minettia fasciata,f,,
@@ -10,16 +10,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 389,9,Whiteknights Park (W),2019-08-11,Hymenoptera,Crabronidae,,f,,
 389,10,Whiteknights Park (W),2019-08-11,Hymenoptera,Apidae,,,,
 389,11,Whiteknights Park (W),2019-08-18,Hymenoptera,Apidae,,,,
-389,12,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga sp,m,,
+389,12,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 389,13,Whiteknights Park (W),2019-08-18,,Rhinophoridae,Rhinophora lepida,m,"Falk draft key, 2016",
 389,14,Whiteknights Park (W),2019-08-18,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-389,15,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga sp,m,,
+389,15,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
 389,16,Whiteknights Park (W),2019-08-18,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 389,17,Whiteknights Park (W),2019-08-18,,Calliphoridae,Pollenia vagabunda,m,"Rognes, 1991",
-389,18,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga sp,m,,
-389,19,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga sp,m,,
-389,20,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Blaesoxipha sp,m,,
-389,21,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Blaesoxipha sp,m,,
+389,18,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga haemorrhoa,m,"Pape, 1987",As Heteronychia haemorrhoa
+389,19,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
+389,20,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
+389,21,Whiteknights Park (W),2019-08-18,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
 389,22,Whiteknights Park (W),2019-08-18,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 389,23,Whiteknights Park (W),2019-08-18,,Anthomyiidae,,m,,
 389,24,Whiteknights Park (W),2019-08-18,,Anthomyiidae,,m,,
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 389,28,Whiteknights Park (E),2019-08-18,,Calliphoridae,Pollenia vagabunda,f,"Rognes, 1991",
 389,29,Whiteknights Park (E),2019-08-18,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 389,30,Whiteknights Park (E),2019-08-18,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-389,31,Whiteknights Park (E),2019-08-18,,Sarcophagidae,Sarcophaga sp,f,,
+389,31,Whiteknights Park (E),2019-08-18,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",Keys to Heteronychia depressifrons but would need to dissect to key out in Richet
 389,32,Whiteknights Park (E),2019-08-18,,Tachinidae,Meigenia mutabilis,m,"Belshaw, 1993 +v5c updates",
 389,33,Whiteknights Park (E-FH),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",33+34 in cop
 389,34,Whiteknights Park (E-FH),2019-08-23,,Asilidae,Machimus atricapillus,f,"Stubbs & Drake, 2001",33+34 in cop
@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 389,37,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
 389,38,Whiteknights Park (E-FH),2019-08-23,,Muscidae,Phaonia sp,f,,
 389,39,Whiteknights Park (E-FH),2019-08-23,,Psilidae,,f,,
-389,40,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,m,,
-389,41,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,f,,
+389,40,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+389,41,Whiteknights Park (E-FH),2019-08-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 389,42,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 389,43,Whiteknights Park (E-FH),2019-08-23,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 389,44,Whiteknights Park (E-FH),2019-08-23,,Muscidae,Muscina levida,m,,
