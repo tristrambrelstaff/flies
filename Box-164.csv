@@ -16,8 +16,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,15,Whiteknights Park (W),2016-08-06,,Syrphidae,Eristalinus sp,f,,
 164,16,Whiteknights Park (W),2016-08-06,,Tachinidae,Gymnosoma cf rotundatum,m,"Belshaw, 1993 +v5c updates",
 164,17,Whiteknights Park (W),2016-08-06,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-164,18,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga sp,m,,
-164,19,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga sp,f,,
+164,18,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga cf variegata,m,"Pape, 1987",
+164,19,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 164,20,Whiteknights Park (W),2016-08-06,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 164,21,Whiteknights Park (W),2016-08-06,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 164,22,Whiteknights Park (W),2016-08-06,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,26,Whiteknights Park (W),2016-08-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 164,27,Whiteknights Park (W),2016-08-06,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 164,28,Whiteknights Park (W),2016-08-06,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
-164,29,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga sp,f,,
+164,29,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 164,30,Whiteknights Park (W),2016-08-06,,Tabanidae,Haematopota pluvialis,f,"Stubbs & Drake, 2001",
 164,31,Whiteknights Park (W),2016-08-06,,Conopidae,Conops quadrifasciatus,m,"Clements, 1995",
 164,32,Whiteknights Park (W),2016-08-06,,Conopidae,Conops quadrifasciatus,m,"Clements, 1995",
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 164,45,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,m,,
 164,46,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,m,,
 164,47,Whiteknights Park (W),2016-08-06,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",Has Acari mite
-164,48,Whiteknights Park (W),2016-08-06,,Sarcophagidae,,m,,
+164,48,Whiteknights Park (W),2016-08-06,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 164,49,Whiteknights Park (W),2016-08-06,,Rhagionidae,Chrysopilus asiliformis,m,"Stubbs & Drake, 2001",
 164,50,Whiteknights Park (W),2016-08-06,,Anthomyiidae,,f,,
 164,51,Whiteknights Park (W),2016-08-06,,Lauxaniidae,Minettia sp,,,
