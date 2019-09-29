@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 369,12,Above Hutton Village,2019-06-28,,Muscidae,Phaonia sp,m,,
 369,13,Above Hutton Village,2019-06-28,,Muscidae,Helina sp,f,,
 369,14,Above Hutton Village,2019-06-28,,Stratiomyidae,Chloromyia formosa,m,"Stubbs & Drake, 2001",
-369,15,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga sp,m,,
+369,15,Above Hutton Village,2019-06-28,,Sarcophagidae,Brachicoma devia,m,"Pape, 1987",
 369,16,Above Hutton Village,2019-06-28,,Muscidae,Helina evecta,f,,
 369,17,Above Hutton Village,2019-06-28,,Muscidae,Helina evecta,m,,
 369,18,Above Hutton Village,2019-06-28,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
@@ -34,14 +34,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 369,33,Above Hutton Village,2019-06-28,,Muscidae,,m,,
 369,34,Above Hutton Village,2019-06-28,,Anthomyiidae,,f,,
 369,35,Above Hutton Village,2019-06-28,,Anthomyiidae,,f,,
-369,36,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga sp,m,,
-369,37,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga sp,m,,
-369,38,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga sp,m,,
+369,36,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+369,37,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
+369,38,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 369,39,Above Hutton Village,2019-06-28,,Anthomyiidae,,m,,
 369,40,Above Hutton Village,2019-06-28,,Anthomyiidae,Pegomya sp,m,,
 369,41,Above Hutton Village,2019-06-28,,Muscidae,,f,,
 369,42,Above Hutton Village,2019-06-28,,Muscidae,,f,,
-369,43,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga sp,m,,
+369,43,Above Hutton Village,2019-06-28,,Sarcophagidae,Sarcophaga nigriventris,m,"Pape, 1987",As Pierretia nigriventris
 369,44,Above Hutton Village,2019-06-28,,Muscidae,,f,,
 369,45,Above Hutton Village,2019-06-28,,Muscidae,,f,,
 369,46,Above Hutton Village,2019-06-28,,Anthomyiidae,Pegomya sp,m,,
