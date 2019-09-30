@@ -42,5 +42,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 400,41,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,f,,
 400,42,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,m,,
 400,43,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,m,,
-400,44,Whiteknights Park (E),2019-09-28,,Tachinidae,,f,,
-400,45,Whiteknights Park (E),2019-09-28,,Tachinidae,,f,,
+400,44,Whiteknights Park (E),2019-09-28,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
+400,45,Whiteknights Park (E),2019-09-28,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
