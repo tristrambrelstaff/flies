@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 401,21,Whiteknights Park (E),2019-09-28,,Opomyzidae,Opomyza florum,f,"Drake, 1993",
 401,22,Whiteknights Park (E),2019-09-28,,Muscidae,Coenosia sp,m,,
 401,23,Whiteknights Park (E),2019-09-28,,Dolichopodidae,,m,,
-401,24,Whiteknights Park (W),2019-10-05,Hymenoptera,Ichneumonidae,,f,,
+401,24,Whiteknights Park (W),2019-10-05,Hymenoptera,Ichneumonidae,Coelichneumon leucocerus,f,"Perkins, 1959","Antennae have 2+42 segments; Ichneumoninae with Broad et al, 2018"
 401,25,Whiteknights Park (W),2019-10-05,,Muscidae,Helina sp,m,,
 401,26,Whiteknights Park (W),2019-10-05,,Muscidae,Phaonia sp,f,,
 401,27,Whiteknights Park (W),2019-10-05,,Muscidae,Helina sp,f,,
