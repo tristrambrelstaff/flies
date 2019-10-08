@@ -1,0 +1,29 @@
+<svg viewBox="-10 -10 320 250" stroke="black" stroke-opacity="1.0" fill="white" fill-opacity="0.0" class="mplot" xmlns="http://www.w3.org/2000/svg">
+<text x="0" y="7.5" font-size="100%" class="title" fill="black" fill-opacity="1.0">Minettia fasciata</text>
+<text x="250" y="27.5" font-size="70%" class="label" fill="black" fill-opacity="1.0">n=123</text>
+<rect x="0" y="15" width="300" height="200" class="frame" fill="white" fill-opacity="0.0" />
+<rect x="0" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="0" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Jan</text>
+<rect x="25" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="25" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Feb</text>
+<rect x="50" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="50" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Mar</text>
+<rect x="75" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="75" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Apr</text>
+<rect x="100" y="148.023" width="25" height="66.9767" class="column" fill="white" fill-opacity="0.0" />
+<text x="100" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">May</text>
+<rect x="125" y="35" width="25" height="180" class="column" fill="white" fill-opacity="0.0" />
+<text x="125" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Jun</text>
+<rect x="150" y="118.721" width="25" height="96.2791" class="column" fill="white" fill-opacity="0.0" />
+<text x="150" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Jul</text>
+<rect x="175" y="131.279" width="25" height="83.7209" class="column" fill="white" fill-opacity="0.0" />
+<text x="175" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Aug</text>
+<rect x="200" y="127.093" width="25" height="87.907" class="column" fill="white" fill-opacity="0.0" />
+<text x="200" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Sep</text>
+<rect x="225" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="225" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Oct</text>
+<rect x="250" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="250" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Nov</text>
+<rect x="275" y="215" width="25" height="0" class="column" fill="white" fill-opacity="0.0" />
+<text x="275" y="230" font-size="80%" class="label" fill="black" fill-opacity="1.0">Dec</text>
+</svg>
