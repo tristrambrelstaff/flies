@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 400,37,Whiteknights Park (E-FH),2019-09-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 400,38,Whiteknights Park (E-FH),2019-09-28,,Muscidae,,f,,
 400,39,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia sp,f,,
-400,40,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,f,,
-400,41,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,f,,
+400,40,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,f,,"Antennae with 2+32 segments; Banchninae: Atrophini with broad et al, 2018"
+400,41,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,Lissonota digestor,f,"Brock, 2017","Antennae with 2+35 segments; Banchninae: Atrophini with broad et al, 2018"
 400,42,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,m,,
 400,43,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,m,,
 400,44,Whiteknights Park (E),2019-09-28,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
