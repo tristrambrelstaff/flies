@@ -19,8 +19,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 404,18,Whiteknights Park (W),2019-10-27,,Anthomyiidae,Delia platura,m,,
 404,19,Whiteknights Park (W),2019-10-27,,Opomyzidae,Opomyza sp,f,,
 404,20,Whiteknights Park (W),2019-10-27,,Sphaeroceridae,,f,,
-404,21,Whiteknights Park (W),2019-10-27,,Lonchopteridae,Lonchoptera sp,f,,
-404,22,Whiteknights Park (W),2019-10-27,,Lonchopteridae,Lonchoptera sp,f,,
+404,21,Whiteknights Park (W),2019-10-27,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+404,22,Whiteknights Park (W),2019-10-27,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 404,23,Whiteknights Park (W),2019-10-27,,Agromyzidae,,f,,
 404,24,Whiteknights Park (W),2019-10-27,,Drosophildae,,,,
 404,25,Whiteknights Park (W),2019-10-27,,Drosophildae,,,,
@@ -52,6 +52,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 404,51,Whiteknights Park (E),2019-11-03,,Mycetophilidae,,m,,
 404,52,Whiteknights Park (E),2019-11-03,,Psychodidae,,f,,
 404,53,Whiteknights Park (E),2019-11-03,,Psychodidae,,m,,
-404,54,Whiteknights Park (E),2019-11-03,,Lonchopteridae,Lonchoptera sp,f,,
+404,54,Whiteknights Park (E),2019-11-03,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 404,55,Whiteknights Park (E),2019-11-03,,Drosophildae,,,,
 404,56,Whiteknights Park (E),2019-11-03,,Drosophildae,,,,
