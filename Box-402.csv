@@ -5,8 +5,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 402,4,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,m,,
 402,5,Whiteknights Park (W),2019-10-05,,Anthomyiidae,Anthomyia sp,m,,
 402,6,Whiteknights Park (W),2019-10-05,,Pallopteridae,Palloptera ustulata,f,"Collin, 1951; Rotheray & MacGowan, 1999",Antennae missing
-402,7,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza sp,f,,
-402,8,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
+402,7,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
+402,8,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,Thorax greasy
 402,9,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
 402,10,Whiteknights Park (W),2019-10-05,,Muscidae,Hebecnema sp,f,,
 402,11,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 402,13,Whiteknights Park (W),2019-10-05,,Lauxaniidae,,,,
 402,14,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
 402,15,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
-402,16,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza sp,f,,
+402,16,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 402,17,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,m,,
 402,18,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
 402,19,Whiteknights Park (W),2019-10-05,,Agromyzidae,,f,,
