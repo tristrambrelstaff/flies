@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-406,1,The Wilderness (W),2019-12-08,,Muscidae,Polietes sp,f,,
-406,2,The Wilderness (W),2019-12-08,,Muscidae,Phaonia sp,m,,
-406,3,The Wilderness (W),2019-12-08,,Muscidae,Phaonia sp,f,,
-406,4,The Wilderness (W),2019-12-08,,Muscidae,Phaonia sp,f,,
-406,5,The Wilderness (W),2019-12-08,,Heleomyzidae,,m,,
-406,6,The Wilderness (W),2019-12-08,,Calliphoridae,Calliphora vicina,m,,
+406,1,The Wilderness (W),2019-12-08,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
+406,2,The Wilderness (W),2019-12-08,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+406,3,The Wilderness (W),2019-12-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+406,4,The Wilderness (W),2019-12-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+406,5,The Wilderness (W),2019-12-08,,Heleomyzidae,Suillia atricornis,m,"Withers, 1987",
+406,6,The Wilderness (W),2019-12-08,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
