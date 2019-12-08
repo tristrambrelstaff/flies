@@ -42,10 +42,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 403,41,Whiteknights Park (W),2019-10-27,Hymenoptera,Ichneumonidae,,m,,
 403,42,Whiteknights Park (W),2019-10-27,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 403,43,Whiteknights Park (W),2019-10-27,,Muscidae,Phaonia sp,f,,
-403,44,Whiteknights Park (W),2019-10-27,,Muscidae,Polietes sp,f,,
-403,45,Whiteknights Park (W),2019-10-27,,Muscidae,Polietes sp,f,,
+403,44,Whiteknights Park (W),2019-10-27,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
+403,45,Whiteknights Park (W),2019-10-27,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 403,46,Whiteknights Park (W),2019-10-27,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 403,47,Whiteknights Park (W),2019-10-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-403,48,Whiteknights Park (W),2019-10-27,,Muscidae,Muscina levida,m,,
-403,49,Whiteknights Park (W),2019-10-27,,Muscidae,Muscina levida,m,,
+403,48,Whiteknights Park (W),2019-10-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+403,49,Whiteknights Park (W),2019-10-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 403,50,Whiteknights Park (W),2019-10-27,,Muscidae,Phaonia sp,f,,
