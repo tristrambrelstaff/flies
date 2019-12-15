@@ -6,3 +6,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 406,5,The Wilderness (W),2019-12-08,,Heleomyzidae,Suillia atricornis,m,"Withers, 1987",
 406,6,The Wilderness (W),2019-12-08,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 406,7,Whiteknights Park (W),2019-12-14,,Anthomyiidae,Mycophaga testacea,f,"Ackland et al draft keys, 2017",
+406,8,Kennet Mouth (E),2019-12-15,Hymenoptera,Ichneumonidae,,f,,
+406,9,Kennet Mouth (E),2019-12-15,,Calliphoridae,Calliphora vicina,f,,
+406,10,Kennet Mouth (E),2019-12-15,,Anthomyiidae,Hylemya sp,f,,
+406,11,Kings Meadow Tescos,2019-12-15,,Anthomyiidae,,m,,3 legs missing; Genitalia missing
+406,12,Kings Meadow Tescos,2019-12-15,,Calliphoridae,Calliphora vicina,m,,
+406,13,Kings Meadow Tescos,2019-12-15,,Scathophagidae,Scathophaga stercoraria,f,,
+406,14,Kings Meadow Tescos,2019-12-15,,Scathophagidae,Scathophaga stercoraria,f,,Antennae missing
+406,15,Kings Meadow Tescos,2019-12-15,,Scathophagidae,Scathophaga stercoraria,f,,
