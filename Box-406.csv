@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 406,5,The Wilderness (W),2019-12-08,,Heleomyzidae,Suillia atricornis,m,"Withers, 1987",
 406,6,The Wilderness (W),2019-12-08,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 406,7,Whiteknights Park (W),2019-12-14,,Anthomyiidae,Mycophaga testacea,f,"Ackland et al draft keys, 2017",
-406,8,Kennet Mouth (E),2019-12-15,Hymenoptera,Ichneumonidae,,f,,"Antennae have 2+33 segments; Pimplinae with Broad et al, 2018"
+406,8,Kennet Mouth (E),2019-12-15,Hymenoptera,Ichneumonidae,Pimpla rufipes,f,"Fitton et al, 1988","As Pimpla hypchondriaca; Antennae have 2+33 segments; Pimplinae with Broad et al, 2018"
 406,9,Kennet Mouth (E),2019-12-15,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 406,10,Kennet Mouth (E),2019-12-15,,Anthomyiidae,Hylemya sp,f,"Ackland et al draft keys, 2017",Hylemya vagans or Hylemya nigrimana
 406,11,Kings Meadow Tescos,2019-12-15,,Anthomyiidae,Paradelia intersecta,m,"Ackland et al draft keys, 2017",3 legs missing; Genitalia damaged
