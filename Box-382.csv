@@ -16,8 +16,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 382,15,Chazey Wood,2019-07-21,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 382,16,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 382,17,Chazey Wood,2019-07-21,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thysocnema incisilobata
-382,18,Chazey Wood,2019-07-21,Hymenoptera,,,m,,
-382,19,Chazey Wood,2019-07-21,Hymenoptera,,,f,,
+382,18,Chazey Wood,2019-07-21,Hymenoptera,Crabronidae,,m,,
+382,19,Chazey Wood,2019-07-21,Hymenoptera,Crabronidae,,f,,
 382,20,Chazey Wood,2019-07-21,Hymenoptera,Ichneumonidae,,f,,
 382,21,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia procellaris,m,,
 382,22,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia procellaris,m,,
