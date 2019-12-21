@@ -33,10 +33,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 391,32,Whiteknights Park (W),2019-08-23,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",Thorax greasy
 391,33,Whiteknights Park (W),2019-08-23,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 391,34,Whiteknights Park (W),2019-08-23,,Mycetophilidae,,f,,
-391,35,Kennet Mouth (E),2019-08-26,Hymenoptera,Crabronidae,Philanthus triangulum,f,,
+391,35,Kennet Mouth (E),2019-08-26,Hymenoptera,Crabronidae,Philanthus triangulum,f,"Richards, 1980",
 391,36,Kennet Mouth (E),2019-08-26,Hymenoptera,Vespidae,Vespula vulgaris,f,"Archer, 2014",
 391,37,Kennet Mouth (E),2019-08-26,Hymenoptera,Apidae,,f,,
-391,38,Kennet Mouth (E),2019-08-26,Hymenoptera,Crabronidae,,f,,
+391,38,Kennet Mouth (E),2019-08-26,Hymenoptera,Crabronidae,Ectemnius continuus,f,"Lomholdt, 1984; Richards, 1980",
 391,39,Kennet Mouth (E),2019-08-26,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 391,40,Kennet Mouth (E),2019-08-26,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 391,41,Kennet Mouth (E),2019-08-26,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
