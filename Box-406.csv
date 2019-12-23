@@ -15,12 +15,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 406,14,Kings Meadow Tescos,2019-12-15,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",Antennae missing
 406,15,Kings Meadow Tescos,2019-12-15,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 406,16,Whiteknights Park (E-FH),2019-12-21,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-406,17,Whiteknights Park (E-FH),2019-12-21,,Anthomyiidae,,f,,
-406,18,Whiteknights Park (E-FH),2019-12-21,,Anthomyiidae,,f,,
+406,17,Whiteknights Park (E-FH),2019-12-21,,Anthomyiidae,,f,,Antennae missing
+406,18,Whiteknights Park (E-FH),2019-12-21,,Anthomyiidae,Botanophila sp,f,"Ackland et al draft keys, 2017",
 406,19,Whiteknights Park (E-FH),2019-12-23,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
 406,20,Whiteknights Park (E-FH),2019-12-23,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 406,21,Whiteknights Park (E-FH),2019-12-23,,Heleomyzidae,Morpholeria sp,m,"Gorodkov, 1989",
-406,22,Whiteknights Park (E-FH),2019-12-23,,Anthomyiidae,Hylemya sp,f,,
+406,22,Whiteknights Park (E-FH),2019-12-23,,Anthomyiidae,Hylemya sp,f,"Ackland et al draft keys, 2017",Hylemya vagans or Hylemya nigrimana
 406,23,Whiteknights Park (E-FH),2019-12-23,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 406,24,Whiteknights Park (E-FH),2019-12-23,,Mycetophilidae,,m,,
 406,25,Whiteknights Park (E),2019-12-23,,Muscidae,Polietes meridionalis,f,"Fonseca, 1968; Pont & Falk, 2013",
@@ -30,4 +30,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 406,29,Whiteknights Park (W),2019-12-23,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 406,30,Whiteknights Park (W),2019-12-23,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 406,31,Whiteknights Park (W),2019-12-23,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-406,32,Whiteknights Park (W),2019-12-23,,Anthomyiidae,,f,,
+406,32,Whiteknights Park (W),2019-12-23,,Anthomyiidae,Mycophaga testacea,f,"Ackland et al draft keys, 2017",
