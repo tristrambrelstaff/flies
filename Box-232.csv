@@ -12,8 +12,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,11,The Wilderness (W),2017-08-25,,Fanniidae,Fannia sp,f,,
 232,12,The Wilderness (W),2017-08-25,,Opomyzidae,Opomyza germinationis,m,"Drake, 1993",
 232,13,The Wilderness (W),2017-08-25,Hymenoptera,Tenthredinidae,Athalia sp,m,"Benson, 1952",
-232,14,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
-232,15,The Wilderness (W),2017-08-25,Hymenoptera,Ichneumonidae,,f,,
+232,14,The Wilderness (W),2017-08-25,Hymenoptera,Braconidae,,f,,Antennae have 2+27 segments
+232,15,The Wilderness (W),2017-08-25,Hymenoptera,Braconidae,,f,,Antennae have 2+28 segments
 232,16,The Wilderness (E),2017-08-25,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 232,17,The Wilderness (E),2017-08-25,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 232,18,The Wilderness (E),2017-08-25,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 232,43,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 232,44,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
 232,45,The Wilderness (E),2017-08-27,,Tachinidae,Dexiosoma caninum,f,"Belshaw, 1993 +v5c updates",
-232,46,The Wilderness (E),2017-08-27,Hymenoptera,Crabronidae,Ectemnius sp,f,,
+232,46,The Wilderness (E),2017-08-27,Hymenoptera,Crabronidae,Ectemnius cephalotes,f,"Richards, 1980",
 232,47,The Wilderness (E),2017-08-27,,Heleomyzidae,Suillia dumicola,f,"Withers, 1987",
 232,48,The Wilderness (E),2017-08-27,,Heleomyzidae,Suillia dumicola,f,"Withers, 1987",
 232,49,The Wilderness (E),2017-08-27,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
