@@ -19,11 +19,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 209,18,The Wilderness (E),2017-06-10,,Anthomyiidae,Delia florilega,m,"Ackland draft keys, 2012 & 2015",
 209,19,The Wilderness (E),2017-06-10,,Empididae,Hilara sp,f,,
 209,20,The Wilderness (E),2017-06-10,,Empididae,Hilara sp,m,,
-209,21,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,m,,21+22 in cop
-209,22,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,f,,21+22 in cop
+209,21,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,f,"Richards, 1980",21+22 in cop
+209,22,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,m,"Richards, 1980",21+22 in cop
 209,23,Whiteknights Park (E),2017-06-10,,Sarcophagidae,Metopia cf argyrocephala,f,"Pape, 1987","Visiting burrows of 21,22,24,25"
-209,24,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,m,,
-209,25,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,f,,
+209,24,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,f,"Richards, 1980",
+209,25,Whiteknights Park (E),2017-06-10,Hymenoptera,Crabronidae,Lindenius albilabris,m,"Richards, 1980",
 209,26,Whiteknights Park (E),2017-06-10,,Syrphidae,Eristalis intricarius,m,,
 209,27,Whiteknights Park (E),2017-06-10,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 209,28,Whiteknights Park (E),2017-06-10,,Calliphoridae,Pollenia labialis,f,"Rognes, 1991",

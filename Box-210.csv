@@ -31,9 +31,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 210,30,Kings Meadow Tescos,2017-06-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 210,31,Kings Meadow Tescos,2017-06-17,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
 210,32,Kings Meadow Tescos,2017-06-17,,Anthomyiidae,Hylemya vagans,m,"Ackland draft keys, 2012 & 2015",Surstyli missing
-210,33,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
-210,34,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
-210,35,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,,,,
+210,33,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,Diodontus luperus,f,"Richards, 1980",
+210,34,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,Diodontus luperus,f,"Richards, 1980",
+210,35,Kings Meadow Tescos,2017-06-17,Hymenoptera,Crabronidae,Diodontus luperus,f,"Richards, 1980",
 210,36,Kings Meadow Tescos,2017-06-17,,Sciomyzidae,Limnia cf unguicornis,m,"Rozkosny, 1984",
 210,37,Kings Meadow Tescos,2017-06-17,,Sciomyzidae,Limnia unguicornis,f,"Rozkosny, 1984",
 210,38,Kings Meadow Tescos,2017-06-17,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
