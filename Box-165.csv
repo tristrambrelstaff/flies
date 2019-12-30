@@ -17,10 +17,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 165,16,Whiteknights Park (W),2016-08-06,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 165,17,Whiteknights Park (W),2016-08-06,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 165,18,Whiteknights Park (W),2016-08-06,,Ephydridae,,,,
-165,19,Whiteknights Park (W),2016-08-06,Hymenoptera,,,,,
-165,20,Whiteknights Park (W),2016-08-06,Hymenoptera,,,,,
-165,21,Whiteknights Park (W),2016-08-06,Hymenoptera,,,,,
-165,22,The Wilderness (W),2016-08-06,Hymenoptera,,,,,
+165,19,Whiteknights Park (W),2016-08-06,Hymenoptera,Ichneumonidae,,,,Antennae have 2+ 17 segments
+165,20,Whiteknights Park (W),2016-08-06,Hymenoptera,Braconidae,,f,,
+165,21,Whiteknights Park (W),2016-08-06,Hymenoptera,Braconidae,,,,
+165,22,Whiteknights Park (W),2016-08-06,Hymenoptera,Cynipidae,,m,,Antennae plumose
 165,23,The Wilderness (W),2016-08-06,,Syrphidae,,f,,
 165,24,The Wilderness (W),2016-08-06,,Tachinidae,Panzeria rudis,f,"Belshaw, 1993 +v5c updates",
 165,25,The Wilderness (W),2016-08-06,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
@@ -65,4 +65,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 165,64,The Wilderness (W),2016-08-06,,Chironomidae,,m,,
 165,65,The Wilderness (W),2016-08-06,,Drosophilidae,,,,
 165,66,The Wilderness (W),2016-08-06,,Drosophilidae,,,,
-165,67,The Wilderness (W),2016-08-06,Hymenoptera,,,,,
+165,67,The Wilderness (W),2016-08-06,Hymenoptera,Braconidae,,,,
