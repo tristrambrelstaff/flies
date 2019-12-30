@@ -5,10 +5,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 405,4,Whiteknights Park (W),2019-11-10,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 405,5,Whiteknights Park (W),2019-11-10,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 405,6,Whiteknights Park (W),2019-11-10,,Anthomyiidae,Delia platura,m,,
-405,7,Whiteknights Park (W),2019-11-10,,Muscidae,Helina sp,f,,
-405,8,Whiteknights Park (W),2019-11-10,,Muscidae,Helina sp,f,,
-405,9,Whiteknights Park (W),2019-11-10,,Muscidae,Helina sp,f,,
-405,10,Whiteknights Park (W),2019-11-10,,Muscidae,Phaonia sp,m,,
+405,7,Whiteknights Park (W),2019-11-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+405,8,Whiteknights Park (W),2019-11-10,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+405,9,Whiteknights Park (W),2019-11-10,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+405,10,Whiteknights Park (W),2019-11-10,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 405,11,Whiteknights Park (W),2019-11-10,,Drosophilidae,,,,
 405,12,Whiteknights Park (W),2019-11-10,,Drosophilidae,,,,
 405,13,Whiteknights Park (E-FH),2019-11-10,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
@@ -18,9 +18,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 405,17,Whiteknights Park (E-FH),2019-11-10,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 405,18,Whiteknights Park (E-FH),2019-11-10,,Anthomyiidae,,f,,
 405,19,Whiteknights Park (E-FH),2019-11-10,,Agromyzidae,,f,,
-405,20,Whiteknights Park (E-FH),2019-11-10,,Muscidae,Coenosia agromyzina,f,,
+405,20,Whiteknights Park (E-FH),2019-11-10,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 405,21,Whiteknights Park (E-FH),2019-11-10,,Platypezidae,Platypeza fasciata,m,"Chandler, 2001",
-405,22,Whiteknights Park (E-FH),2019-11-10,,Muscidae,,f,,
+405,22,Whiteknights Park (E-FH),2019-11-10,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 405,23,Malvern Court,2019-11-23,,Anthomyiidae,,f,,
 405,24,The Wilderness (W),2019-11-24,,Heleomyzidae,Suillia fuscicornis,m,"Withers, 1987",
 405,25,The Wilderness (W),2019-11-24,,Heleomyzidae,Suillia fuscicornis,m,"Withers, 1987",
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 405,27,Whiteknights Park (W),2019-12-01,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 405,28,Whiteknights Park (W),2019-12-01,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 405,29,Whiteknights Park (W),2019-12-01,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-405,30,Whiteknights Park (W),2019-12-01,,Muscidae,Phaonia sp,f,,
+405,30,Whiteknights Park (W),2019-12-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 405,31,Whiteknights Park (E-FH),2019-12-07,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
 405,32,Whiteknights Park (E-FH),2019-12-07,,Drosophilidae,,,,
 405,33,Whiteknights Park (E-FH),2019-12-07,,Drosophilidae,,,,
