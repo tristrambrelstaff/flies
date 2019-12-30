@@ -16,18 +16,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 407,15,Kings Meadow Tescos,2019-12-29,,Chironomidae,,m,,
 407,16,Whiteknights Park (W),2019-12-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 407,17,Whiteknights Park (W),2019-12-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-407,18,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia sp,m,,
-407,19,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia sp,m,,
-407,20,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia sp,m,,
-407,21,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia sp,m,,
-407,22,Whiteknights Park (W),2019-12-30,,Muscidae,Helina evecta,m,,
-407,23,Whiteknights Park (W),2019-12-30,,Muscidae,,f,,
+407,18,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+407,19,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+407,20,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+407,21,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+407,22,Whiteknights Park (W),2019-12-30,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
+407,23,Whiteknights Park (W),2019-12-30,,Muscidae,Hebecnema nigricolor,f,"Fonseca, 1968",
 407,24,Whiteknights Park (W),2019-12-30,,Drosophilidae,,f,,
 407,25,The Wilderness (W),2019-12-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-407,26,The Wilderness (W),2019-12-30,,Muscidae,Phaonia sp,f,,
-407,27,The Wilderness (W),2019-12-30,,Muscidae,Helina evecta,m,,
-407,28,The Wilderness (W),2019-12-30,,Muscidae,Helina evecta,f,,
-407,29,The Wilderness (W),2019-12-30,,Muscidae,Helina evecta,f,,
-407,30,The Wilderness (W),2019-12-30,,Muscidae,Helina evecta,f,,
-407,31,The Wilderness (W),2019-12-30,,Muscidae,Phaonia sp,f,,
-407,32,The Wilderness (W),2019-12-30,,Muscidae,,f,,
+407,26,The Wilderness (W),2019-12-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+407,27,The Wilderness (W),2019-12-30,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
+407,28,The Wilderness (W),2019-12-30,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+407,29,The Wilderness (W),2019-12-30,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+407,30,The Wilderness (W),2019-12-30,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+407,31,The Wilderness (W),2019-12-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+407,32,The Wilderness (W),2019-12-30,,Muscidae,Hebecnema nigricolor,f,"Fonseca, 1968",
