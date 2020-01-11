@@ -29,15 +29,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 400,28,Whiteknights Park (E),2019-09-21,,Drosophilidae,,,,
 400,29,Whiteknights Park (E-FH),2019-09-21,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
 400,30,Whiteknights Park (E-FH),2019-09-21,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-400,31,Whiteknights Park (E-FH),2019-09-21,,Muscidae,Coenosia sp,f,,
+400,31,Whiteknights Park (E-FH),2019-09-21,,Muscidae,Coenosia humilis,f,"Fonseca, 1968; Gregor et el 2016",As Caricea
 400,32,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-400,33,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia sp,f,,
-400,34,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia sp,f,,
+400,33,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",Antennae missing; As Coenosia tricolor
+400,34,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 400,35,Whiteknights Park (E-FH),2019-09-28,,Platypezidae,Platypeza consobrina,m,"Chandler, 2001",
 400,36,Whiteknights Park (E-FH),2019-09-28,,Lauxaniidae,Minettia fasciata,,,
 400,37,Whiteknights Park (E-FH),2019-09-28,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 400,38,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Helina quadrum,f,"Fonseca, 1968",
-400,39,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia sp,f,,
+400,39,Whiteknights Park (E-FH),2019-09-28,,Muscidae,Coenosia cf testacea,f,"Fonseca, 1968",Hind legs missing; As Coenosia tricolor
 400,40,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,f,,"Antennae with 2+32 segments; Banchninae: Atrophini with Broad et al, 2018"
 400,41,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,Lissonota digestor,f,"Brock, 2017","Antennae with 2+35 segments; Banchninae: Atrophini with Broad et al, 2018"
 400,42,Whiteknights Park (E),2019-09-28,Hymenoptera,Ichneumonidae,,m,,
