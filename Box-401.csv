@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 401,13,Whiteknights Park (E),2019-09-28,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 401,14,Whiteknights Park (E),2019-09-28,,Anthomyiidae,,f,,
 401,15,Whiteknights Park (E),2019-09-28,,Anthomyiidae,,f,,
-401,16,Whiteknights Park (E),2019-09-28,,Anthomyiidae,,m,,
+401,16,Whiteknights Park (E),2019-09-28,,Anthomyiidae,Hylemya variata,m,"Ackland et al draft keys, 2017",
 401,17,Whiteknights Park (E),2019-09-28,,Lauxaniidae,Minettia fasciata,,,
 401,18,Whiteknights Park (E),2019-09-28,,Anthomyiidae,,f,,
 401,19,Whiteknights Park (E),2019-09-28,,Anthomyiidae,,f,,
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 401,30,Whiteknights Park (W),2019-10-05,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 401,31,Whiteknights Park (W),2019-10-05,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
 401,32,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
-401,33,Whiteknights Park (W),2019-10-05,,Anthomyiidae,Hylemya sp,m,,
-401,34,Whiteknights Park (W),2019-10-05,,Anthomyiidae,Hylemya sp,m,,
+401,33,Whiteknights Park (W),2019-10-05,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
+401,34,Whiteknights Park (W),2019-10-05,,Anthomyiidae,Hylemya vagans,m,"Ackland et al draft keys, 2017",
 401,35,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 401,36,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
 401,37,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
