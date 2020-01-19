@@ -8,15 +8,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 402,7,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 402,8,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,Thorax greasy
 402,9,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
-402,10,Whiteknights Park (W),2019-10-05,,Muscidae,Hebecnema sp,f,,
+402,10,Whiteknights Park (W),2019-10-05,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",Body greasy; As Hebecnema affinis; Halteres yellow
 402,11,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
 402,12,Whiteknights Park (W),2019-10-05,,Anthomyiidae,,f,,
 402,13,Whiteknights Park (W),2019-10-05,,Lauxaniidae,,,,
-402,14,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
-402,15,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
+402,14,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",Antennae missing; As Coenosia tricolor
+402,15,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 402,16,Whiteknights Park (W),2019-10-05,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
-402,17,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,m,,
-402,18,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia sp,f,,
+402,17,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
+402,18,Whiteknights Park (W),2019-10-05,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 402,19,Whiteknights Park (W),2019-10-05,,Agromyzidae,,f,,
 402,20,Whiteknights Park (W),2019-10-05,,Ephydridae,,,,
 402,21,Whiteknights Park (W),2019-10-05,,???,,f,,
@@ -32,11 +32,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 402,31,Thames Valley Park,2019-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 402,32,Thames Valley Park,2019-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 402,33,Thames Valley Park,2019-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
-402,34,Thames Valley Park,2019-10-19,,Muscidae,Phaonia sp,f,,
+402,34,Thames Valley Park,2019-10-19,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
 402,35,Thames Valley Park,2019-10-19,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 402,36,Thames Valley Park,2019-10-19,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
-402,37,Thames Valley Park,2019-10-19,,Muscidae,Helina sp,f,,
-402,38,Thames Valley Park,2019-10-19,,Muscidae,Helina sp,f,,
+402,37,Thames Valley Park,2019-10-19,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+402,38,Thames Valley Park,2019-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 402,39,Thames Valley Park,2019-10-19,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 402,40,Thames Valley Park,2019-10-19,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 402,41,Thames Valley Park,2019-10-19,,Trichoceridae,Diazosma hirtipenne,m,"Coe et al, 1950",
