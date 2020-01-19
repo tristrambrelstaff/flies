@@ -1,7 +1,7 @@
 # Ignore backup files
 *~
 
-# Ignore Libre/OpenOffice lock files
+# Ignore Libre/OpenOffice lock files (should really be in .gitgnore for user not project)
 .~lock.*
 
 # Ignore files that are made
@@ -11,3 +11,4 @@ species.csv
 locations.csv
 keys.csv
 todo.*.csv
+mplots/*.svg

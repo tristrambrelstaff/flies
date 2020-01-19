@@ -1,8 +1,7 @@
 # mplot - Monthly Frequency Plot
 #
 # Example of usage:
-#  cat Box-*.csv | gawk -f mplot.gawk -v species="Nyctia halterata" > mplot.svg
-
+#  SPECIES="Tachina fera"; cat Box-*.csv | awk -f mplot.awk -v species="$SPECIES" > "$SPECIES.svg"; firefox --new-window "$SPECIES.svg"
 
 function svg_tag(x, y, w, h, class) {
   printf("<svg viewBox=\"%s %s %s %s\" stroke=\"black\" stroke-opacity=\"1.0\" fill=\"white\" fill-opacity=\"0.0\" class=\"%s\" xmlns=\"http://www.w3.org/2000/svg\">\n", x-10, y-10, w+20, h+20, class)

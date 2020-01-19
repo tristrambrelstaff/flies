@@ -1,0 +1,3 @@
+#! /bin/bash
+cat Box-*.csv | awk -f mplot.awk -v species="$1" > "./mplots/$1.svg"
+firefox --new-window "./mplots/$1.svg"
