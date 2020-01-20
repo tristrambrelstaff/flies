@@ -3,7 +3,7 @@ FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiida
 all: ${FILES}
 
 clean:
-	rm --force ${FILES}
+	rm --force ${FILES} mplots/*.svg
 
 flies.csv: Box-*.csv
 	tail --lines=+2 --quiet Box-*.csv >$@
