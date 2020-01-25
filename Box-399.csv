@@ -2,10 +2,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 399,1,Whiteknights Park (W),2019-09-21,,Asilidae,Machimus atricapillus,m,"Stubbs & Drake, 2001",
 399,2,Whiteknights Park (W),2019-09-21,,Sarcophagidae,Sarcophaga carnaria,m,"Pape, 1987",
 399,3,Whiteknights Park (W),2019-09-21,,Tachinidae,Linnaemya rossica,f,"Belshaw, 1993 +v5c updates",
-399,4,Whiteknights Park (W),2019-09-21,,Muscidae,Helina sp,f,,
-399,5,Whiteknights Park (W),2019-09-21,,Muscidae,Helina sp,f,,
-399,6,Whiteknights Park (W),2019-09-21,,Muscidae,Helina sp,f,,
-399,7,Whiteknights Park (W),2019-09-21,,Muscidae,Helina sp,f,,
+399,4,Whiteknights Park (W),2019-09-21,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+399,5,Whiteknights Park (W),2019-09-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+399,6,Whiteknights Park (W),2019-09-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+399,7,Whiteknights Park (W),2019-09-21,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 399,8,Whiteknights Park (W),2019-09-21,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 399,9,Whiteknights Park (W),2019-09-21,,Sarcophagidae,Sarcophaga hirticrus,m,"Pape, 1987",As Helicophaga hirticrus
 399,10,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
@@ -25,9 +25,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 399,24,Whiteknights Park (W),2019-09-21,,Scathophagidae,Cordilura albipes,m,"Ball, 2014",
 399,25,Whiteknights Park (W),2019-09-21,,Sciomyzidae,Pherbellia griseola,f,"Rozkosny, 1984",
 399,26,Whiteknights Park (W),2019-09-21,,Anthomyiidae,Anthomyia procellaris,m,,
-399,27,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema vespertina,m,,
-399,28,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema vespertina,m,,
-399,29,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema sp,m,,
+399,27,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+399,28,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+399,29,Whiteknights Park (W),2019-09-21,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Greasy
 399,30,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
 399,31,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
 399,32,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
@@ -39,16 +39,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 399,38,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
 399,39,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
 399,40,Whiteknights Park (W),2019-09-21,,Lauxaniidae,Minettia fasciata,,,
-399,41,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia agromyzina,f,,
-399,42,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia sp,f,,
+399,41,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+399,42,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 399,43,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 399,44,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
-399,45,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia sp,f,,
+399,45,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 399,46,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 399,47,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 399,48,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
 399,49,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza petrei,f,"Drake, 1993",
 399,50,Whiteknights Park (W),2019-09-21,,Opomyzidae,Opomyza petrei,m,"Drake, 1993",
 399,51,Whiteknights Park (W),2019-09-21,,Anthomyiidae,,f,,
-399,52,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia sp,f,,
+399,52,Whiteknights Park (W),2019-09-21,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 399,53,Whiteknights Park (W),2019-09-21,,Pipunculidae,,,,
