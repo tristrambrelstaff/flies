@@ -6,11 +6,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 398,5,Whiteknights Park (W),2019-09-14,,Tachinidae,Exorista cf rustica,f,"Belshaw, 1993 +v5c updates",
 398,6,Whiteknights Park (W),2019-09-14,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 398,7,Whiteknights Park (W),2019-09-14,Hymenoptera,Ichneumonidae,,m,,
-398,8,Whiteknights Park (W),2019-09-14,,Muscidae,Helina sp,f,,
-398,9,Whiteknights Park (W),2019-09-14,,Muscidae,Helina sp,f,,
-398,10,Whiteknights Park (W),2019-09-14,,Muscidae,Phaonia sp,m,,
-398,11,Whiteknights Park (W),2019-09-14,,Muscidae,Helina sp,f,,
-398,12,Whiteknights Park (W),2019-09-14,,Muscidae,Helina sp,f,,
+398,8,Whiteknights Park (W),2019-09-14,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+398,9,Whiteknights Park (W),2019-09-14,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+398,10,Whiteknights Park (W),2019-09-14,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+398,11,Whiteknights Park (W),2019-09-14,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+398,12,Whiteknights Park (W),2019-09-14,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata; Greasy
 398,13,Whiteknights Park (W),2019-09-14,,Anthomyiidae,,f,,
 398,14,Whiteknights Park (W),2019-09-14,,Fanniidae,,f,,
 398,15,Whiteknights Park (W),2019-09-14,,Anthomyiidae,,f,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 398,33,Whiteknights Park (E-FH),2019-09-14,,Anthomyiidae,Delia platura,m,,
 398,34,Whiteknights Park (E-FH),2019-09-14,,Lauxaniidae,Calliopum sp,,,
 398,35,Whiteknights Park (E-FH),2019-09-14,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
-398,36,Whiteknights Park (E-FH),2019-09-14,,Muscidae,Coenosia sp,m,,
+398,36,Whiteknights Park (E-FH),2019-09-14,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 398,37,Whiteknights Park (E-FH),2019-09-14,,Sepsidae,Sepsidae cynipsea,m,"Pont & Meier, 2002",
 398,38,Whiteknights Park (E-FH),2019-09-14,,???,,f,,
 398,39,Whiteknights Park (W),2019-09-21,Hymenoptera,Ichneumonidae,,f,,Antennae have 2+34 segments
