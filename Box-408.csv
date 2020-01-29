@@ -20,7 +20,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 408,19,Whiteknights Park (W),2020-01-25,,Sciaridae,,m,,
 408,20,Whiteknights Park (E),2020-01-25,,Sciaridae,,m,,
 408,21,Whiteknights Park (W),2020-01-29,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-408,22,Whiteknights Park (W),2020-01-29,,Lonchopteridae,Lonchoptera sp,f,,
+408,22,Whiteknights Park (W),2020-01-29,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 408,23,Whiteknights Park (W),2020-01-29,,Mycetophilidae,,f,,
 408,24,Whiteknights Park (W),2020-01-29,,Simuliidae,Simulium sp,,,
 408,25,Whiteknights Park (W),2020-01-29,,Heleomyzidae,Tephrochlamys rufiventris,m,"Gorodkov, 1989",
@@ -31,10 +31,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 408,30,Whiteknights Park (E),2020-01-29,,Trichoceridae,,m,,
 408,31,Whiteknights Park (E),2020-01-29,,Trichoceridae,,m,,
 408,32,Whiteknights Park (E),2020-01-29,,Sciaridae,,m,,
-408,33,Whiteknights Park (E),2020-01-29,,Lonchopteridae,Lonchoptera sp,f,,
+408,33,Whiteknights Park (E),2020-01-29,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 408,34,Whiteknights Park (E),2020-01-29,,Drosophilidae,,,,
 408,35,Whiteknights Park (E-FH),2020-01-29,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-408,36,Whiteknights Park (E-FH),2020-01-29,,Lonchopteridae,Lonchoptera sp,f,,
+408,36,Whiteknights Park (E-FH),2020-01-29,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
 408,37,Whiteknights Park (E-FH),2020-01-29,,Chironomidae,,m,,
 408,38,Whiteknights Park (E-FH),2020-01-29,,Mycetophilidae,,f,,
 408,39,Whiteknights Park (E-FH),2020-01-29,,Sciaridae,,m,,
