@@ -1,24 +1,24 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-409,1,Whiteknights Park (E),2020-02-08,,Muscidae,Phaonia subventa,f,,
-409,2,The Wilderness (E),2020-02-08,,Muscidae,Phaonia subventa,m,,
+409,1,Whiteknights Park (E),2020-02-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+409,2,The Wilderness (E),2020-02-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 409,3,The Wilderness (E),2020-02-08,,Mycetophilidae,,f,,
 409,4,The Wilderness (E),2020-02-08,,Mycetophilidae,,m,,
 409,5,The Wilderness (E),2020-02-08,,Mycetophilidae,,m,,
 409,6,The Wilderness (E),2020-02-08,,Mycetophilidae,,m,,
 409,7,The Wilderness (E),2020-02-08,,Mycetophilidae,,m,,
 409,8,The Wilderness (E),2020-02-08,,Mycetophilidae,,m,,
-409,9,The Wilderness (W),2020-02-08,,Muscidae,Phaonia sp,f,,
+409,9,The Wilderness (W),2020-02-08,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 409,10,The Wilderness (W),2020-02-08,,Calliphoridae,Calliphora vicina,m,,
-409,11,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,,
-409,12,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,,
-409,13,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,,
+409,11,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+409,12,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+409,13,The Wilderness (W),2020-02-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 409,14,The Wilderness (W),2020-02-08,,Anthomyiidae,Hylemya sp,f,,
 409,15,The Wilderness (W),2020-02-08,,Anthomyiidae,Hylemya sp,f,,
 409,16,The Wilderness (W),2020-02-08,,Anthomyiidae,,f,,
 409,17,The Wilderness (W),2020-02-08,,Anthomyiidae,,f,,
-409,18,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala sp,m,,
-409,19,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala sp,m,,
-409,20,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala sp,m,,
+409,18,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
+409,19,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
+409,20,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 409,21,The Wilderness (W),2020-02-08,,Simuliidae,Simulium sp,,,
 409,22,The Wilderness (W),2020-02-08,,Sepsidae,Sepsis sp,f,,
 409,23,The Wilderness (W),2020-02-08,,Lonchopteridae,Lonchoptera sp,f,,
