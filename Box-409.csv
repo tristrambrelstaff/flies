@@ -21,12 +21,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 409,20,The Wilderness (W),2020-02-08,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 409,21,The Wilderness (W),2020-02-08,,Simuliidae,Simulium sp,,,
 409,22,The Wilderness (W),2020-02-08,,Sepsidae,Sepsis sp,f,,
-409,23,The Wilderness (W),2020-02-08,,Lonchopteridae,Lonchoptera sp,f,,
+409,23,The Wilderness (W),2020-02-08,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 409,24,Whiteknights Park (W),2020-02-08,,Scathophagidae,Scathophaga stercoraria,m,,
 409,25,Whiteknights Park (W),2020-02-08,,Phoridae,,m,,
-409,26,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera sp,m,,
-409,27,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera sp,f,,
-409,28,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera sp,f,,
+409,26,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+409,27,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
+409,28,Whiteknights Park (W),2020-02-08,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 409,29,Whiteknights Park (E-FH),2020-02-08,,Dolichopodidae,,f,,
 409,30,Whiteknights Park (E-FH),2020-02-08,,Dolichopodidae,,f,,
 409,31,Whiteknights Park (E-FH),2020-02-08,,Dolichopodidae,,f,,
