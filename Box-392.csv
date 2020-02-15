@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 392,10,Kennet Mouth (E),2019-08-26,,Muscidae,Morellia aenescens,f,"Fonseca, 1968",
 392,11,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
 392,12,Kennet Mouth (E),2019-08-26,,Calliphoridae,Eggisops pecchiolii,m,"Rognes, 1991",
-392,13,Kennet Mouth (E),2019-08-26,,Muscidae,,f,,
+392,13,Kennet Mouth (E),2019-08-26,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
 392,14,Kennet Mouth (E),2019-08-26,,Sarcophagidae,Sarcophaga anaces,m,"Richet et al, 2011","Not in Pape, 1987"
 392,15,Kennet Mouth (E),2019-08-26,,Tephritidae,Xyphosia miliaria,m,"White, 1988",
 392,16,Kennet Mouth (E),2019-08-26,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 392,43,Thames Valley Park,2019-08-26,,Anthomyiidae,,f,,
 392,44,Thames Valley Park,2019-08-26,,Tachinidae,Phasia pusilla,m,"Belshaw, 1993 +v5c updates",
 392,45,Thames Valley Park,2019-08-26,,Sepsidae,Sepsis cynipsea,f,"Pont & Meier, 2002",
-392,46,Thames Valley Park,2019-08-26,,Muscidae,Coenosia sp,f,,
+392,46,Thames Valley Park,2019-08-26,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 392,47,Thames Valley Park,2019-08-26,,Dolichopodidae,,m,,
 392,48,Thames Valley Park,2019-08-26,,???,,f,,
 392,49,Thames Valley Park,2019-08-26,,???,,,,
