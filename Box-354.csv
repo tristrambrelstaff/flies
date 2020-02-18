@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,1,Whiteknights Park (W),2019-05-27,,Empididae,Empis sp,m,,
-354,2,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea sp,m,,
-354,3,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea sp,m,,
-354,4,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea sp,m,,
-354,5,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea sp,f,,
+354,2,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
+354,3,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
+354,4,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea similis,m,"Fonseca, 1968",
+354,5,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea similis,f,"Fonseca, 1968",
 354,6,Whiteknights Park (W),2019-05-27,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 354,7,Whiteknights Park (W),2019-05-27,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 354,8,Whiteknights Park (W),2019-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",Greasy
@@ -16,10 +16,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,15,Whiteknights Park (W),2019-05-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 354,16,Whiteknights Park (W),2019-05-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 354,17,Whiteknights Park (W),2019-05-27,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-354,18,Whiteknights Park (W),2019-05-27,,Muscidae,Phaonia sp,m,,
+354,18,Whiteknights Park (W),2019-05-27,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 354,19,Whiteknights Park (W),2019-05-27,,Heleomyzidae,Suillia affinis,f,"Withers, 1987",
-354,20,Whiteknights Park (W),2019-05-27,,Muscidae,Helina sp,f,,
-354,21,Whiteknights Park (W),2019-05-27,,Muscidae,Helina sp,f,,
+354,20,Whiteknights Park (W),2019-05-27,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+354,21,Whiteknights Park (W),2019-05-27,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 354,22,Whiteknights Park (W),2019-05-27,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 354,23,Whiteknights Park (W),2019-05-27,,Anthomyiidae,,f,,
 354,24,Whiteknights Park (W),2019-05-27,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,28,Whiteknights Park (W),2019-05-27,,Anthomyiidae,,f,,
 354,29,Whiteknights Park (W),2019-05-27,,Scathophagidae,Cordilura albipes,f,"Ball, 2014",
 354,30,Whiteknights Park (W),2019-05-27,,Anthomyiidae,,f,,
-354,31,Whiteknights Park (W),2019-05-27,,Muscidae,,f,,
+354,31,Whiteknights Park (W),2019-05-27,,Muscidae,Hydrotaea cinerea,f,"Fonseca, 1968",
 354,32,Whiteknights Park (W),2019-05-27,,Drosophilidae,Amiota variegata,f,,
 354,33,Whiteknights Park (W),2019-05-27,,Lauxaniidae,,f,,
 354,34,Whiteknights Park (W),2019-05-27,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
@@ -51,6 +51,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 354,50,Kings Road Gardens,2019-05-31,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 354,51,Kings Road Gardens,2019-05-31,,Anthomyiidae,,f,,
 354,52,Kings Road Gardens,2019-05-31,,Anthomyiidae,,f,,
-354,53,Kings Road Gardens,2019-05-31,,Muscidae,Coenosia sp,f,,
+354,53,Kings Road Gardens,2019-05-31,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 354,54,Kings Road Gardens,2019-05-31,,Anthomyiidae,,f,,
 354,55,Kings Road Gardens,2019-05-31,,Empididae,Empis sp,f,,
