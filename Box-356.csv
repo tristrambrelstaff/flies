@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 356,14,Kings Meadow Tescos,2019-05-31,,Rhinophoridae,Phyto melanocephala,m,"Falk draft key, 2016",
 356,15,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 356,16,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
-356,17,Kings Meadow Tescos,2019-05-31,,Muscidae,,f,,
+356,17,Kings Meadow Tescos,2019-05-31,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",Palpi only slightly broadened
 356,18,Kings Meadow Tescos,2019-05-31,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 356,19,Kings Meadow Tescos,2019-05-31,,Scathophagidae,Scathophaga sp,f,"Ball, 2014",
 356,20,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,m,,
@@ -47,11 +47,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 356,46,Kings Meadow Tescos,2019-05-31,,Lauxaniidae,Minettia fasciata,,,
 356,47,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,f,,
 356,48,Kings Meadow Tescos,2019-05-31,,Chloropidae,,,,
-356,49,Kings Meadow Tescos,2019-05-31,,Muscidae,Coenosia sp,f,,
+356,49,Kings Meadow Tescos,2019-05-31,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 356,50,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,f,,
 356,51,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,m,,
 356,52,Kings Meadow Tescos,2019-05-31,,Syrphidae,Pipizella viduata,m,"Stubbs & Falk, 2002",
 356,53,Kings Meadow Tescos,2019-05-31,,Anthomyiidae,,f,,
-356,54,Kings Meadow Tescos,2019-05-31,,Muscidae,Coenosia sp,f,,
+356,54,Kings Meadow Tescos,2019-05-31,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 356,55,Kings Meadow Tescos,2019-05-31,,Lauxaniidae,Minettia fasciata,,,
 356,56,Kings Meadow Tescos,2019-05-31,Hymenoptera,Cynipidae,,,,

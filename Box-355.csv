@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 355,22,Kings Meadow Tescos,2019-05-31,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 355,23,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 355,24,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Nyctia halterata,m,"Pape, 1987",
-355,25,Kings Meadow Tescos,2019-05-31,,Muscidae,,m,,
+355,25,Kings Meadow Tescos,2019-05-31,,Muscidae,Phaonia cincta,m,"Fonseca, 1968",
 355,26,Kings Meadow Tescos,2019-05-31,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 355,27,Kings Meadow Tescos,2019-05-31,,Stratiomyidae,Chloromyia formosa,f,"Stubbs & Drake, 2001",
 355,28,Kings Meadow Tescos,2019-05-31,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
