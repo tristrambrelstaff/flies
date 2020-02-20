@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 366,6,Thames Valley Park,2019-06-22,,Fanniidae,Fannia sp,f,,
 366,7,Thames Valley Park,2019-06-22,,Ephydridae,,,,
 366,8,Thames Valley Park,2019-06-22,,Anthomyiidae,,f,,
-366,9,Thames Valley Park,2019-06-22,,Muscidae,Schoenomyza litorella,m,,
+366,9,Thames Valley Park,2019-06-22,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",
 366,10,Thames Valley Park,2019-06-22,,Ephydridae,,f,,
 366,11,Thames Valley Park,2019-06-22,,Ephydridae,,,,
 366,12,Thames Valley Park,2019-06-22,,Ephydridae,,,,
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 366,29,"Hazel Grove Foot, Saltburn",2019-06-27,Hymenoptera,Ichneumonidae,,m,,"Antennae have 2+35 segments; Ichneumoninae with Broad et al, 2018"
 366,30,"Hazel Grove Foot, Saltburn",2019-06-27,,Sarcophagidae,Sarcophaga sp,m,,
 366,31,"Hazel Grove Foot, Saltburn",2019-06-27,,Sarcophagidae,Sarcophaga sp,f,,
-366,32,"Hazel Grove Foot, Saltburn",2019-06-27,,Muscidae,,m,,
+366,32,"Hazel Grove Foot, Saltburn",2019-06-27,,Muscidae,Helina trivittata,m,"Fonseca, 1968",As Helina atripes
 366,33,"Hazel Grove Foot, Saltburn",2019-06-27,,Anthomyiidae,,f,,
 366,34,"Hazel Grove Foot, Saltburn",2019-06-27,,Anthomyiidae,,f,,
 366,35,"Hazel Grove Foot, Saltburn",2019-06-27,,Anthomyiidae,,f,,
