@@ -53,10 +53,10 @@ todo.Fannia_lustrator.csv: Box-*.csv
 	grep "Fannia lustrator" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
 
 todo.Fanniidae.csv: Box-*.csv
-	grep "Fanniidae" B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
+	grep Fanniidae B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
 
 todo.Heleomyzidae.csv: Box-*.csv
-	grep "Heleomyzidae" B*csv | grep -v "Withers, 1987" | grep -v "Gorodkov, 1989" >$@ || true
+	grep Heleomyzidae B*csv | grep -v "Withers, 1987" | grep -v "Gorodkov, 1989" >$@ || true
 
 todo.Lauxaniidae.csv: Box-*.csv
 	grep Lauxaniidae B*csv | grep -v "Shatalkin, 2000" >$@ || true
