@@ -9,9 +9,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 410,8,Whiteknights Park (W),2020-02-22,,Anthomyiidae,,m,,
 410,9,Whiteknights Park (W),2020-02-22,,Anthomyiidae,,m,,
 410,10,Whiteknights Park (W),2020-02-22,,Anthomyiidae,,m,,
-410,11,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,,m,,
-410,12,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,,m,,
-410,13,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,,f,,
+410,11,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,Copromyza similis,m,"Pitkin, 1988",Has Acari mites
+410,12,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,Copromyza stercoraria,m,"Pitkin, 1988",
+410,13,Whiteknights Park (W),2020-02-22,,Sphaeroceridae,Lotophila atra,f,"Pitkin, 1988",
 410,14,Whiteknights Park (W),2020-02-22,,Mycetophilidae,,f,,
 410,15,Whiteknights Park (W),2020-02-22,,Mycetophilidae,,f,,
 410,16,Whiteknights Park (W),2020-02-22,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
