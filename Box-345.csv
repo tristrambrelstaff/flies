@@ -1,14 +1,14 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 345,1,Whiteknights Park (W),2019-05-12,,Tachinidae,Platymya fimbriata,m,"Belshaw, 1993 +v5c updates",
 345,2,Whiteknights Park (W),2019-05-12,,Sarcophagidae,Sarcophaga sp,m,,
-345,3,Whiteknights Park (W),2019-05-12,,Muscidae,Helina sp,f,,
-345,4,Whiteknights Park (W),2019-05-12,,Muscidae,,m,,
+345,3,Whiteknights Park (W),2019-05-12,,Muscidae,Helina quadrum,f,"Fonseca, 1968",
+345,4,Whiteknights Park (W),2019-05-12,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 345,5,Whiteknights Park (W),2019-05-12,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 345,6,Whiteknights Park (W),2019-05-12,,Tephritidae,Tephritis formosa,f,"White, 1988",
 345,7,Whiteknights Park (W),2019-05-12,,Tephritidae,Tephritis formosa,m,"White, 1988",
 345,8,Whiteknights Park (W),2019-05-12,,Anthomyiidae,,f,,
 345,9,Whiteknights Park (W),2019-05-12,Hymenoptera,Apidae,,f,,
-345,10,Whiteknights Park (W),2019-05-12,,Muscidae,Hebecnema vespertina,m,,
+345,10,Whiteknights Park (W),2019-05-12,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 345,11,Whiteknights Park (W),2019-05-12,,Anthomyiidae,,m,,
 345,12,Whiteknights Park (W),2019-05-12,,Anthomyiidae,,m,,
 345,13,Whiteknights Park (W),2019-05-12,,Anthomyiidae,,m,,
@@ -32,15 +32,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 345,31,Whiteknights Park (W),2019-05-12,,Ephydridae,,,,
 345,32,Whiteknights Park (W),2019-05-12,,Ephydridae,,,,
 345,33,Whiteknights Park (W),2019-05-12,,Dolichopodidae,,f,,
-345,34,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,35,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,36,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,37,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,m,,
-345,38,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,39,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,m,,
-345,40,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,41,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
-345,42,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia sp,f,,
+345,34,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+345,35,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+345,36,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+345,37,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
+345,38,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+345,39,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
+345,40,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+345,41,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+345,42,Whiteknights Park (W),2019-05-12,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 345,43,Whiteknights Park (W),2019-05-12,,Agromyzidae,,,,
 345,44,Whiteknights Park (W),2019-05-12,,Ephydridae,,,,
 345,45,Whiteknights Park (W),2019-05-12,,Empididae,,,,
