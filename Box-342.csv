@@ -2,12 +2,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 342,1,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 342,2,"Jubilee River, Dorney",2019-05-02,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 342,3,"Jubilee River, Dorney",2019-05-02,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
-342,4,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia sp,f,,
-342,5,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia sp,m,,
+342,4,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia variegata,f,"Fonseca, 1968",As Phaonia subventa
+342,5,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia variegata,m,"Fonseca, 1968",As Phaonia subventa
 342,6,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 342,7,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
 342,8,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
-342,9,"Jubilee River, Dorney",2019-05-02,,Muscidae,,f,,
+342,9,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 342,10,"Jubilee River, Dorney",2019-05-02,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 342,11,"Jubilee River, Dorney",2019-05-02,,Empididae,Empis sp,m,,
 342,12,"Jubilee River, Dorney",2019-05-02,Hymenoptera,Ichneumonidae,,,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 342,23,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 342,24,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 342,25,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
-342,26,"Jubilee River, Dorney",2019-05-02,,Muscidae,,f,,
+342,26,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 342,27,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 342,28,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,f,,
 342,29,"Jubilee River, Dorney",2019-05-02,,Syrphidae,Neoascia geniculata,m,"Stubbs & Falk, 2002",
@@ -51,15 +51,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 342,50,"Jubilee River, Dorney",2019-05-02,,Dolichopodidae,Rhaphium sp,m,,
 342,51,"Jubilee River, Dorney",2019-05-02,,Dolichopodidae,Argyra sp,m,,
 342,52,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,m,,
-342,53,"Jubilee River, Dorney",2019-05-02,,Muscidae,Musca autumnalis,f,,
+342,53,"Jubilee River, Dorney",2019-05-02,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 342,54,"Jubilee River, Dorney",2019-05-02,,Scathophagidae,Cleigastra apicalis,f,"Ball, 2014",
 342,55,"Jubilee River, Dorney",2019-05-02,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
-342,56,"Jubilee River, Dorney",2019-05-02,,Muscidae,Coenosia sp,f,,
-342,57,"Jubilee River, Dorney",2019-05-02,,Muscidae,Coenosia sp,m,,
+342,56,"Jubilee River, Dorney",2019-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+342,57,"Jubilee River, Dorney",2019-05-02,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 342,58,"Jubilee River, Dorney",2019-05-02,,???,,,,
-342,59,"Jubilee River, Dorney",2019-05-02,,Muscidae,,m,,
+342,59,"Jubilee River, Dorney",2019-05-02,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 342,60,"Jubilee River, Dorney",2019-05-02,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
-342,61,"Jubilee River, Dorney",2019-05-02,,Muscidae,,m,,
+342,61,"Jubilee River, Dorney",2019-05-02,,Muscidae,Azelia nebulosa,m,"Fonseca, 1968",As Azelia macquarti
 342,62,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,m,,
 342,63,"Jubilee River, Dorney",2019-05-02,,Anthomyiidae,,m,,
 342,64,"Jubilee River, Dorney",2019-05-02,,Ptychopteridae,Ptychoptera sp,m,,
