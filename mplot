@@ -1,3 +1,5 @@
 #! /bin/bash
-cat Box-*.csv | awk -f mplot.awk -v species="$1" > "./mplots/$1.svg"
-firefox --new-window "./mplots/$1.svg"
+SPECIES="${1/_/ }"   # Species name with spaces
+SPECIES_="${1/ /_}"  # Species name with underscores
+cat Box-*.csv | awk -f mplot.awk -v species="${SPECIES}" > "./mplots/${SPECIES_}.svg"
+firefox --new-window "./mplots/${SPECIES_}.svg"
