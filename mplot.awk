@@ -2,6 +2,8 @@
 #
 # Example of usage:
 #  SPECIES="Tachina fera"; cat Box-*.csv | awk -f mplot.awk -v species="$SPECIES" > "$SPECIES.svg"; firefox --new-window "$SPECIES.svg"
+#  SPECIES=Tachina_fera; cat Box-*.csv | awk -f mplot.awk -v species="$SPECIES" > "$SPECIES.svg"; firefox --new-window "$SPECIES.svg"
+
 
 function svg_tag(x, y, w, h, class) {
   printf("<svg viewBox=\"%s %s %s %s\" stroke=\"black\" stroke-opacity=\"1.0\" fill=\"white\" fill-opacity=\"0.0\" class=\"%s\" xmlns=\"http://www.w3.org/2000/svg\">\n", x-10, y-10, w+20, h+20, class)
@@ -27,6 +29,9 @@ BEGIN {  # Before any lines are read...
   # Handle quoted fields properly
   FPAT= "([^,]*)|(\"[^\"]*\")"
 
+  # Convert underscores in the species name to spaces
+  gsub(/_/, " ", species)
+  
   # Set sizes of title, plot and label areas in pixels
   th = 15     # title height
   lh = 15     # label height
@@ -34,7 +39,7 @@ BEGIN {  # Before any lines are read...
   ph = 200    # plot height
   pw = 12*lw  # plot width
 
-# Initialize month labels
+  # Initialize month labels
   split("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec", labels)
 
   # Initialize count and monthly frequencies
