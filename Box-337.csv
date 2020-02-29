@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 337,38,Kings Meadow Tescos,2019-04-28,,Anthomyiidae,,f,,
 337,39,Kings Meadow Tescos,2019-04-28,,Fanniidae,,f,,
 337,40,Kings Meadow Tescos,2019-04-28,,Anthomyiidae,,f,,
-337,41,Kings Meadow Tescos,2019-04-28,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Abdomen greasy
+337,41,Kings Meadow Tescos,2019-04-28,,Muscidae,,f,,Abdomen greasy
 337,42,Kings Meadow Tescos,2019-04-28,,Muscidae,,f,,
 337,43,Kings Meadow Tescos,2019-04-28,,Tachinidae,Siphona cf maculata,f,"Belshaw, 1993 +v5c updates",
 337,44,Kings Meadow Tescos,2019-04-28,,Tachinidae,Phania funesta,m,"Belshaw, 1993 +v5c updates",
@@ -50,7 +50,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 337,49,Kings Meadow Tescos,2019-04-28,,Tephritidae,Tephritis neesii,m,"White, 1988",
 337,50,Kings Meadow Tescos,2019-04-28,,Tephritidae,Tephritis neesii,m,"White, 1988",
 337,51,Kings Meadow Tescos,2019-04-28,,Tephritidae,Tephritis neesii,f,"White, 1988",
-337,52,Kings Meadow Tescos,2019-04-28,,Muscidae,Coenosia sp,m,,
+337,52,Kings Meadow Tescos,2019-04-28,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 337,53,Kings Meadow Tescos,2019-04-28,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",
 337,54,Kings Meadow Tescos,2019-04-28,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 337,55,Kings Meadow Tescos,2019-04-28,Hymenoptera,Cynipidae,,m,,
