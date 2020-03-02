@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 339,10,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,11,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,12,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
-339,13,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Phaonia sp,f,,Near Phaonia trimaculata or Phaonia canescens
+339,13,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Potamia littoralis,f,"Fonseca, 1968; Gregor etal, 2016",As Dendrophaonia querceti
 339,14,Whiteknights Park (E-FH),2019-04-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 339,15,Whiteknights Park (E-FH),2019-04-30,,Syrphidae,Baccha elongata,m,"Stubbs & Falk, 2002",
 339,16,Whiteknights Park (E-FH),2019-04-30,,Syrphidae,Baccha elongata,f,"Stubbs & Falk, 2002",
@@ -41,11 +41,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 339,40,Whiteknights Park (E-FH),2019-04-30,,Dolichopodidae,,m,,
 339,41,Whiteknights Park (E-FH),2019-04-30,,Chloropidae,,f,,
 339,42,Whiteknights Park (E-FH),2019-04-30,,Psilidae,,f,,
-339,43,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia sp,f,,
-339,44,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia sp,f,,
-339,45,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia sp,f,,
-339,46,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia sp,m,,
-339,47,Whiteknights Park (E-FH),2019-04-30,,Muscidae,,f,,
+339,43,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+339,44,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+339,45,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+339,46,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
+339,47,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 339,48,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,49,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,50,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,m,,
@@ -53,7 +53,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 339,52,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,53,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
 339,54,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,,f,,
-339,55,Whiteknights Park (E-FH),2019-04-30,,Muscidae,,m,,
+339,55,Whiteknights Park (E-FH),2019-04-30,,Muscidae,Lispe pygmaea,m,"Fonseca, 1968",
 339,56,Whiteknights Park (E-FH),2019-04-30,,Anthomyiidae,Phorbia fumigata,m,,
 339,57,Whiteknights Park (E-FH),2019-04-30,,Fanniidae,Fannia sociella,m,"Rozkosny et al, 1997",
 339,58,Whiteknights Park (E-FH),2019-04-30,,Fanniidae,Fannia sociella,m,"Rozkosny et al, 1997",
