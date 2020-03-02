@@ -34,7 +34,7 @@ BEGIN {  # Before any lines are read...
   ph = 200    # plot height
   pw = 12*lw  # plot width
 
-# Initialize month labels
+  # Initialize month labels
   split("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec", labels)
 
   # Initialize count and monthly frequencies
