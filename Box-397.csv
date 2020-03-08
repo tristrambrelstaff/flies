@@ -7,10 +7,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 397,6,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 397,7,"Jubilee River, Taplow",2019-09-07,,Sarcophagidae,Blaesoxipha plumicornis,m,"Pape, 1987",
 397,8,"Jubilee River, Taplow",2019-09-07,,Muscidae,Helina maculipennis,m,"Fonseca, 1968",
-397,9,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,m,,
-397,10,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,m,,
-397,11,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,m,,
-397,12,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,m,,
+397,9,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Delia radicum,m,"Ackland et al draft keys, 2017",
+397,10,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Anthomyia confuseana,m,"Ackland et al draft keys, 2017",
+397,11,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Anthomyia confuseana,m,"Ackland et al draft keys, 2017",
+397,12,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 397,13,"Jubilee River, Taplow",2019-09-07,,Muscidae,Helina maculipennis,f,"Fonseca, 1968",
 397,14,"Jubilee River, Taplow",2019-09-07,,Muscidae,Helina maculipennis,f,"Fonseca, 1968",
 397,15,"Jubilee River, Taplow",2019-09-07,,Fanniidae,Fannia sp,m,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 397,33,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
 397,34,"Jubilee River, Taplow",2019-09-07,,Dolichopodidae,,f,,
 397,35,"Jubilee River, Taplow",2019-09-07,,Lauxaniidae,Minettia sp,,,
-397,36,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Anthomyia sp,m,,
+397,36,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,Anthomyia confuseana,m,"Ackland et al draft keys, 2017",
 397,37,"Jubilee River, Taplow",2019-09-07,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 397,38,"Jubilee River, Taplow",2019-09-07,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 397,39,"Jubilee River, Taplow",2019-09-07,,Anthomyiidae,,f,,
