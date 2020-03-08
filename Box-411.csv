@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-411,1,Whiteknights Park (W),2020-03-08,,Muscidae,Eudasyphora cyanella,f,,
-411,2,Whiteknights Park (W),2020-03-08,,Muscidae,Eudasyphora cyanella,m,,
-411,3,Whiteknights Park (W),2020-03-08,,Muscidae,Phaonia subventa,f,,
-411,4,Whiteknights Park (W),2020-03-08,,Muscidae,Phaonia subventa,m,,
-411,5,Whiteknights Park (W),2020-03-08,,Muscidae,Helina evecta,m,,
+411,1,Whiteknights Park (W),2020-03-08,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+411,2,Whiteknights Park (W),2020-03-08,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+411,3,Whiteknights Park (W),2020-03-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+411,4,Whiteknights Park (W),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+411,5,Whiteknights Park (W),2020-03-08,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 411,6,Whiteknights Park (W),2020-03-08,,Calliphoridae,Calliphora vicina,m,,
 411,7,Whiteknights Park (W),2020-03-08,,Calliphoridae,Pollenia sp,m,,
 411,8,Whiteknights Park (W),2020-03-08,,Calliphoridae,Pollenia sp,m,,
@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 411,11,Whiteknights Park (W),2020-03-08,,Calliphoridae,Pollenia sp,m,,
 411,12,Whiteknights Park (W),2020-03-08,,Calliphoridae,Pollenia sp,m,,
 411,13,Whiteknights Park (W),2020-03-08,,Calliphoridae,Pollenia sp,m,,
-411,14,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,,
-411,15,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,,
-411,16,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,,
-411,17,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,f,,
+411,14,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+411,15,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+411,16,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+411,17,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
