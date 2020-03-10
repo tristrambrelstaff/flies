@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-383,1,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia procellaris,m,,
+383,1,Chazey Wood,2019-07-21,,Anthomyiidae,Anthomyia pluvialis,m,"Ackland et al draft keys, 2017",
 383,2,Chazey Wood,2019-07-21,,Fanniidae,Fannia sp,f,,
 383,3,Chazey Wood,2019-07-21,,Fanniidae,Fannia sp,f,,
 383,4,Chazey Wood,2019-07-21,,Rhinophoridae,Rhinophora lepida,f,"Falk draft key, 2016",
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 383,32,Whiteknights Park (W),2019-07-25,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 383,33,Whiteknights Park (W),2019-07-25,,Conopidae,Conops quadrifasciatus,m,"Clements, 1995",
 383,34,Whiteknights Park (W),2019-07-25,Hymenoptera,Chrysididae,,f,,
-383,35,Whiteknights Park (W),2019-07-25,,Anthomyiidae,,m,,
+383,35,Whiteknights Park (W),2019-07-25,,Anthomyiidae,Botanophila brunneilinea,m,"Ackland et al draft keys, 2017",
 383,36,Whiteknights Park (W),2019-07-25,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 383,37,Whiteknights Park (W),2019-07-25,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 383,38,Whiteknights Park (W),2019-07-25,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
