@@ -16,9 +16,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 411,15,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 411,16,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 411,17,Whiteknights Park (E-FH),2020-03-08,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-411,18,Whiteknights Park (W),2020-03-11,,Calliphoridae,Calliphora vicina,m,,
-411,19,Whiteknights Park (W),2020-03-11,,Calliphoridae,Pollenia sp,m,,
-411,20,Whiteknights Park (W),2020-03-11,,Calliphoridae,Pollenia sp,m,,
+411,18,Whiteknights Park (W),2020-03-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+411,19,Whiteknights Park (W),2020-03-11,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+411,20,Whiteknights Park (W),2020-03-11,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 411,21,Whiteknights Park (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 411,22,Whiteknights Park (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 411,23,Whiteknights Park (W),2020-03-11,,Anthomyiidae,,f,,
@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 411,33,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 411,34,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 411,35,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-411,36,The Wilderness (W),2020-03-11,,Calliphoridae,Melinda sp,f,,
+411,36,The Wilderness (W),2020-03-11,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 411,37,The Wilderness (W),2020-03-11,,Anthomyiidae,,m,,
 411,38,The Wilderness (W),2020-03-11,,Tephritidae,Tephritis hyoscyami,m,"White, 1988",
 411,39,The Wilderness (W),2020-03-11,,Chloropidae,,,,
