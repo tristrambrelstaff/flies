@@ -2,15 +2,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,1,The Wilderness (W),2020-03-11,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 412,2,The Wilderness (W),2020-03-11,,Calliphoridae,Calliphora vicina,m,,
 412,3,The Wilderness (W),2020-03-11,,Calliphoridae,Pollenia sp,m,,
-412,4,The Wilderness (W),2020-03-11,,Muscidae,Phaonia sp,f,,
-412,5,The Wilderness (W),2020-03-11,,Muscidae,Phaonia subventa,f,,
-412,6,The Wilderness (W),2020-03-11,,Muscidae,Phaonia sp,f,,
-412,7,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,,
-412,8,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,,
-412,9,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,,
+412,4,The Wilderness (W),2020-03-11,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+412,5,The Wilderness (W),2020-03-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+412,6,The Wilderness (W),2020-03-11,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+412,7,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,8,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,9,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 412,10,The Wilderness (W),2020-03-11,,Anthomyiidae,,f,,
 412,11,The Wilderness (W),2020-03-11,,Anthomyiidae,,f,,
-412,12,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,,
+412,12,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 412,13,The Wilderness (W),2020-03-11,,Dolichopodidae,,f,,
 412,14,The Wilderness (W),2020-03-11,,Sciaridae,,f,,
 412,15,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,m,,
@@ -37,19 +37,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,36,Whiteknights Park (E),2020-03-11,,Chironomidae,,m,,
 412,37,The Wilderness (E),2020-03-11,,Calliphoridae,Calliphora vicina,f,,
 412,38,The Wilderness (E),2020-03-11,,Calliphoridae,Calliphora vicina,m,,
-412,39,The Wilderness (E),2020-03-11,,Muscidae,Phaonia subventa,f,,
-412,40,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,,
-412,41,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,,
-412,42,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,,
-412,43,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,,
-412,44,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,,
-412,45,The Wilderness (E),2020-03-11,,Muscidae,Phaonia subventa,f,,
-412,46,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,f,,
+412,39,The Wilderness (E),2020-03-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+412,40,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,41,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,42,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,43,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,44,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+412,45,The Wilderness (E),2020-03-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+412,46,The Wilderness (E),2020-03-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica; Antennae missing
 412,47,The Wilderness (E),2020-03-11,,Anthomyiidae,Hylemya sp,f,,
 412,48,The Wilderness (E),2020-03-11,,Calliphoridae,Protocalliphora azurea,f,,
 412,49,The Wilderness (E),2020-03-11,,Anthomyiidae,,f,,
 412,50,The Wilderness (E),2020-03-11,,Bibionidae,Bibio hybridus,m,"Freeman & Lane, 1985",
-412,51,The Wilderness (E),2020-03-11,,Muscidae,Lispocephala sp,m,,
+412,51,The Wilderness (E),2020-03-11,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",
 412,52,The Wilderness (E),2020-03-11,,Sciaridae,,m,,
 412,53,Whiteknights Park (E-FH),2020-03-14,,Dolichopodidae,,m,,
 412,54,Whiteknights Park (E-FH),2020-03-14,,Dolichopodidae,,m,,
