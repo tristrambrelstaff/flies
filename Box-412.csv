@@ -27,11 +27,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,26,The Wilderness (W),2020-03-11,,Agromyzidae,,,,
 412,27,The Wilderness (W),2020-03-11,,Agromyzidae,,,,
 412,28,The Wilderness (W),2020-03-11,,???,,,,
-412,29,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,f,,
-412,30,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,
-412,31,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,
-412,32,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,
-412,33,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,
+412,29,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,f,,"Antennae have 2+18 segments; Campopleginae with Broad et al, 2018; On Salix catkins"
+412,30,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,"Antennae have 2+20 segments; Campopleginae with Broad et al, 2018; On Salix catkins"
+412,31,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,"Antennae have 2+19 segments; Campopleginae with Broad et al, 2018; On Salix catkins"
+412,32,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,"Antennae have 2+21 segments; Campopleginae with Broad et al, 2018; On Salix catkins"
+412,33,Whiteknights Park (E),2020-03-11,,Ichneumonidae,,m,,"Antennae have 2+20 segments; Campopleginae with Broad et al, 2018; On Salix catkins"
 412,34,Whiteknights Park (E),2020-03-11,,Tipulidae,,m,,
 412,35,Whiteknights Park (E),2020-03-11,,Sciaridae,,f,,
 412,36,Whiteknights Park (E),2020-03-11,,Chironomidae,,m,,
