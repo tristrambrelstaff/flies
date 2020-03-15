@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-412,1,The Wilderness (W),2020-03-11,,Bombyliidae,Bombylius major,m,,
+412,1,The Wilderness (W),2020-03-11,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 412,2,The Wilderness (W),2020-03-11,,Calliphoridae,Calliphora vicina,m,,
 412,3,The Wilderness (W),2020-03-11,,Calliphoridae,Pollenia sp,m,,
 412,4,The Wilderness (W),2020-03-11,,Muscidae,Phaonia sp,f,,
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,47,The Wilderness (E),2020-03-11,,Anthomyiidae,Hylemya sp,f,,
 412,48,The Wilderness (E),2020-03-11,,Calliphoridae,Protocalliphora azurea,f,,
 412,49,The Wilderness (E),2020-03-11,,Anthomyiidae,,f,,
-412,50,The Wilderness (E),2020-03-11,,Bibionidae,Bibio sp,m,,
+412,50,The Wilderness (E),2020-03-11,,Bibionidae,Bibio hybridus,m,"Freeman & Lane, 1985",
 412,51,The Wilderness (E),2020-03-11,,Muscidae,Lispocephala sp,m,,
 412,52,The Wilderness (E),2020-03-11,,Sciaridae,,m,,
 412,53,Whiteknights Park (E-FH),2020-03-14,,Dolichopodidae,,m,,
