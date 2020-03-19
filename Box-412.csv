@@ -13,12 +13,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,12,The Wilderness (W),2020-03-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 412,13,The Wilderness (W),2020-03-11,,Dolichopodidae,,f,,
 412,14,The Wilderness (W),2020-03-11,,Sciaridae,,f,,
-412,15,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,m,,
-412,16,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,m,,
-412,17,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,m,,
-412,18,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,m,,
-412,19,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,f,,
-412,20,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera sp,f,,
+412,15,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+412,16,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+412,17,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+412,18,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera lutea,m,"Smith, 1969",
+412,19,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
+412,20,The Wilderness (W),2020-03-11,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 412,21,The Wilderness (W),2020-03-11,,Chloropidae,,,,
 412,22,The Wilderness (W),2020-03-11,,Chloropidae,,,,
 412,23,The Wilderness (W),2020-03-11,,Chloropidae,,,,
@@ -56,4 +56,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 412,55,Whiteknights Park (E-FH),2020-03-14,,Dolichopodidae,,m,,
 412,56,Whiteknights Park (E-FH),2020-03-14,,Simuliidae,Simulium sp,,,
 412,57,Whiteknights Park (E-FH),2020-03-14,,Drosophilidae,,,,
-412,58,Whiteknights Park (E-FH),2020-03-14,,Lonchopteridae,Lonchoptera sp,f,,
+412,58,Whiteknights Park (E-FH),2020-03-14,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
