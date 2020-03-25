@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 415,1,"Jubilee River, Dorney",2020-03-21,,Tachinidae,Gymnocheta viridis,m,,
-415,2,"Jubilee River, Dorney",2020-03-21,,Bombyliidae,Bombylius major,m,,
+415,2,"Jubilee River, Dorney",2020-03-21,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 415,3,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 415,4,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 415,5,"Jubilee River, Dorney",2020-03-21,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
