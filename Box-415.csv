@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 415,1,"Jubilee River, Dorney",2020-03-21,,Tachinidae,Gymnocheta viridis,m,,
 415,2,"Jubilee River, Dorney",2020-03-21,,Bombyliidae,Bombylius major,m,,
-415,3,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia sp,m,,
-415,4,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia sp,m,,
+415,3,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+415,4,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 415,5,"Jubilee River, Dorney",2020-03-21,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 415,6,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,Leocophora sp,f,,
-415,7,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia sp,f,,
+415,7,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 415,8,"Jubilee River, Dorney",2020-03-21,Hymenoptera,Andrenidae,,,,
 415,9,"Jubilee River, Dorney",2020-03-21,Hymenoptera,Andrenidae,,,,
 415,10,"Jubilee River, Dorney",2020-03-21,Hymenoptera,Andrenidae,,,,
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 415,31,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,,f,,
 415,32,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,,m,,
 415,33,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,Egle ciliata,m,,
-415,34,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia sp,m,,
+415,34,"Jubilee River, Dorney",2020-03-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 415,35,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,,m,,
 415,36,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,,m,,
 415,37,"Jubilee River, Dorney",2020-03-21,,Anthomyiidae,,m,,
