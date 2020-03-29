@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 417,25,Malvern Court,2020-03-24,,Heleomyzidae,Heteromyza sp,f,"Gorodkov, 1989",
 417,26,Whiteknights Park (W),2020-03-28,,Scathophagidae,Scathophaga sp,m,,
 417,27,Whiteknights Park (W),2020-03-28,,Scathophagidae,Scathophaga sp,f,,
-417,28,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia sp,m,,
+417,28,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
 417,29,Whiteknights Park (W),2020-03-28,,Calliphoridae,Calliphora vicina,f,,
 417,30,Whiteknights Park (W),2020-03-28,,Calliphoridae,Pollenia sp,f,,
 417,31,Whiteknights Park (W),2020-03-28,,Calliphoridae,Pollenia sp,f,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 417,38,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,m,,
 417,39,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,m,,
 417,40,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
-417,41,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia subventa,f,,
+417,41,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As phaonia variegata
 417,42,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
 417,43,Whiteknights Park (W),2020-03-28,,Anthomyiidae,Pegomya sp,f,,
 417,44,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
