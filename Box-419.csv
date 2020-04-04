@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 419,14,Whiteknights Park (W),2020-04-02,,Chironomidae,,m,,
 419,15,Whiteknights Park (W),2020-04-02,,Agromyzidae,,,,
 419,16,Whiteknights Park (W),2020-04-02,,Agromyzidae,,,,
-419,17,Whiteknights Park (W),2020-04-03,,Bibionidae,Bobio sp,m,,
+419,17,Whiteknights Park (W),2020-04-03,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 419,18,Whiteknights Park (W),2020-04-03,,Calliphoridae,Pollenia sp,f,,
 419,19,Whiteknights Park (W),2020-04-03,,Calliphoridae,Pollenia sp,f,,
 419,20,Whiteknights Park (W),2020-04-03,,Chironomidae,,m,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 419,40,The Wilderness (W),2020-04-03,,Anthomyidae,,f,,
 419,41,The Wilderness (W),2020-04-03,,Anthomyidae,,f,,
 419,42,The Wilderness (W),2020-04-03,,Anthomyidae,Hylemya sp,f,,Ptilinum everted
-419,43,The Wilderness (W),2020-04-03,,Bibionidae,Bibio sp,m,,
+419,43,The Wilderness (W),2020-04-03,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 419,44,The Wilderness (W),2020-04-03,,Simuliidae,Simulium sp,,,
 419,45,The Wilderness (W),2020-04-03,,Lonchopteridae,Lonchoptera lutea,f,,
 419,46,The Wilderness (W),2020-04-03,,Lonchopteridae,Lonchoptera lutea,f,,
