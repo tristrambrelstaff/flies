@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 420,1,Kings Meadow Tescos,2020-04-04,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 420,2,Kings Meadow Tescos,2020-04-04,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-420,3,Kings Meadow Tescos,2020-04-04,,Muscidae ,Phaonia subventa,m,,
-420,4,Kings Meadow Tescos,2020-04-04,,Muscidae ,Helina sp,f,,
+420,3,Kings Meadow Tescos,2020-04-04,,Muscidae ,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+420,4,Kings Meadow Tescos,2020-04-04,,Muscidae ,Helina reversio,f,"Fonseca, 1968",As Phaonia communis
 420,5,Kings Meadow Tescos,2020-04-04,Hymenoptera,Apidae,Nomada sp,f,,
 420,6,Kings Meadow Tescos,2020-04-04,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 420,7,Kings Meadow Tescos,2020-04-04,,Chironomidae,,f,,

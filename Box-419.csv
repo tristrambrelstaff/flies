@@ -34,9 +34,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 419,33,Whiteknights Park (W),2020-04-03,,Chironomidae,,f,,
 419,34,Whiteknights Park (W),2020-04-03,,Chironomidae,,f,,
 419,35,The Wilderness (W),2020-04-03,,Tachinidae,Phorocera assimilis,m,,"Belshaw, 1993 +v5c updates"
-419,36,The Wilderness (W),2020-04-03,,Muscidae,Eudasyphora cyanella,f,,
-419,37,The Wilderness (W),2020-04-03,,Muscidae,Eudasyphora cyanella,f,,
-419,38,The Wilderness (W),2020-04-03,,Muscidae,Phaonia subventa,f,,
+419,36,The Wilderness (W),2020-04-03,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+419,37,The Wilderness (W),2020-04-03,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+419,38,The Wilderness (W),2020-04-03,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 419,39,The Wilderness (W),2020-04-03,,Anthomyidae,,f,,
 419,40,The Wilderness (W),2020-04-03,,Anthomyidae,,f,,
 419,41,The Wilderness (W),2020-04-03,,Anthomyidae,,f,,
@@ -56,9 +56,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 419,55,Kings Meadow Tescos,2020-04-04,,Anthomyidae,,f,,
 419,56,Kings Meadow Tescos,2020-04-04,,Anthomyidae,,f,,
 419,57,Kings Meadow Tescos,2020-04-04,,Anthomyidae,,f,,
-419,58,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,m,,
-419,59,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,,
-419,60,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,m,,
-419,61,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,,
-419,62,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,,
-419,63,Kings Meadow Tescos,2020-04-04,,Muscidae,Muscina prolapsa,f,,
+419,58,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+419,59,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+419,60,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+419,61,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+419,62,Kings Meadow Tescos,2020-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+419,63,Kings Meadow Tescos,2020-04-04,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
