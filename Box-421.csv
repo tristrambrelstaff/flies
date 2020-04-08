@@ -11,11 +11,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 421,10,Whiteknights Park (E-FH),2020-04-06,,Chironomidae,,m,,
 421,11,Whiteknights Park (E-FH),2020-04-06,,Calliphoridae,Pollenia sp,f,,
 421,12,Whiteknights Park (E-FH),2020-04-06,,Calliphoridae,Pollenia sp,f,,
-421,13,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Phaonia subventa,m,,
-421,14,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Phaonia subventa,f,,
-421,15,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Eudasyphora cyanella,f,,
-421,16,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,,
-421,17,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,,
+421,13,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+421,14,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+421,15,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+421,16,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+421,17,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 421,18,Whiteknights Park (E-FH),2020-04-06,,Fanniidae,Fannia lustrator,f,,
 421,19,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Scathophaga sp,f,,
 421,20,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Nanna sp,f,,
@@ -43,8 +43,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 421,42,Whiteknights Park (W),2020-04-06,,Scathophagidae,Nanna sp,m,,
 421,43,Whiteknights Park (W),2020-04-06,,Anthomyiidae,,m,,
 421,44,The Wilderness (E),2020-04-07,,Tachinidae,Gymnocheta viridis,m,,
-421,45,The Wilderness (E),2020-04-07,,Muscidae,Helina sp,m,,
-421,46,The Wilderness (E),2020-04-07,,Muscidae,Lispocephala sp,m,,
+421,45,The Wilderness (E),2020-04-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+421,46,The Wilderness (E),2020-04-07,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",
 421,47,The Wilderness (E),2020-04-07,,Anthomyiidae,Hylemya sp,f,,
 421,48,The Wilderness (E),2020-04-07,Hymenoptera,Apidae,Nomada sp,f,,
 421,49,The Wilderness (E),2020-04-07,Hymenoptera,Apidae,Nomada sp,f,,
