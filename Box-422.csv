@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-422,1,The Wilderness (E),2020-04-07,,Bombyliidae,Bombylius major,f,,
+422,1,The Wilderness (E),2020-04-07,,Bombyliidae,Bombylius major,f,"Stubbs & Drake, 2001",
 422,2,The Wilderness (E),2020-04-07,,Anthomyiidae,,m,,
 422,3,The Wilderness (E),2020-04-07,,Anthomyiidae,,f,,
 422,4,The Wilderness (E),2020-04-07,,Anthomyiidae,,f,,
@@ -20,4 +20,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 422,19,The Wilderness (E),2020-04-07,,???,,m,,
 422,20,The Wilderness (E),2020-04-07,,Mycetophilidae,,f,,
 422,21,The Wilderness (E),2020-04-07,Hymenoptera,Cynipidae,,f,,
-422,22,Malvern Court,2020-04-07,,Heleomyzidae,,f,,
+422,22,Malvern Court,2020-04-07,,Heleomyzidae,Tephrochlamys rufiventris,f,"Gorodkov, 1989",Antennae missing
