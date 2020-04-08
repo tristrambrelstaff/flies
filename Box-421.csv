@@ -17,8 +17,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 421,16,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 421,17,Whiteknights Park (E-FH),2020-04-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 421,18,Whiteknights Park (E-FH),2020-04-06,,Fanniidae,Fannia lustrator,f,,
-421,19,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Scathophaga sp,f,,
-421,20,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Nanna sp,f,,
+421,19,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
+421,20,Whiteknights Park (E-FH),2020-04-06,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 421,21,Whiteknights Park (E-FH),2020-04-06,,Anthomyiidae,,f,,
 421,22,Whiteknights Park (E-FH),2020-04-06,,Anthomyiidae,,f,,
 421,23,Whiteknights Park (E-FH),2020-04-06,,Anthomyiidae,,m,,
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 421,39,Whiteknights Park (E-FH),2020-04-06,,Ephydridae,,f,,
 421,40,Whiteknights Park (E-FH),2020-04-06,,Agromyzidae,,f,,
 421,41,Whiteknights Park (W),2020-04-06,,Bibionidae,Bibio sp,m,,
-421,42,Whiteknights Park (W),2020-04-06,,Scathophagidae,Nanna sp,m,,
+421,42,Whiteknights Park (W),2020-04-06,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 421,43,Whiteknights Park (W),2020-04-06,,Anthomyiidae,,m,,
 421,44,The Wilderness (E),2020-04-07,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates ",
 421,45,The Wilderness (E),2020-04-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
