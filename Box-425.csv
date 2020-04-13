@@ -1,12 +1,12 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 425,1,Whiteknights Park (w),2020-04-12,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 425,2,Whiteknights Park (w),2020-04-12,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
-425,3,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia sp,f,,
-425,4,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia sp,m,,
-425,5,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia sp,m,,
-425,6,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia sp,m,,
-425,7,Whiteknights Park (w),2020-04-12,,Calliphoridae,Lucilia sp,m,,
-425,8,Whiteknights Park (w),2020-04-12,,Calliphoridae,Lucilia sp,m,,
+425,3,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+425,4,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+425,5,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+425,6,Whiteknights Park (w),2020-04-12,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+425,7,Whiteknights Park (w),2020-04-12,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+425,8,Whiteknights Park (w),2020-04-12,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 425,9,Whiteknights Park (w),2020-04-12,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 425,10,Whiteknights Park (w),2020-04-12,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina communis
 425,11,Whiteknights Park (w),2020-04-12,,Anthomyiidae,Leucophora sp,m,,

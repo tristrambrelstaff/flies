@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 423,14,Whiteknights Park(E),2020-04-09,,Phoridae,,f,,
 423,15,Whiteknights Park(E),2020-04-09,,Chloropidae,,,,
 423,16,The Wilderness (E),2020-04-10,,Bombyliidae,Bombylius major,f,"Stubbs & Drake, 2001",
-423,17,The Wilderness (E),2020-04-10,,Calliphoridae,Calliphora vicina,f,,
+423,17,The Wilderness (E),2020-04-10,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 423,18,The Wilderness (E),2020-04-10,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 423,19,The Wilderness (E),2020-04-10,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
 423,20,The Wilderness (E),2020-04-10,Hymenoptera ,Apidae,Nomada sp,f,,
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 423,22,The Wilderness (E),2020-04-10,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
 423,23,The Wilderness (E),2020-04-10,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 423,24,The Wilderness (E),2020-04-10,,Anthomyiidae,Leucophora sp,f,,
-423,25,The Wilderness (E),2020-04-10,,Calliphoridae,Melinda sp,m,,
+423,25,The Wilderness (E),2020-04-10,,Calliphoridae,Melinda gentilis,m,"Rognes, 1991",
 423,26,The Wilderness (E),2020-04-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina communis
 423,27,The Wilderness (E),2020-04-10,,Bibionidae,Bibio lanigerus,m,"Freeman & Lane, 1985",
 423,28,The Wilderness (E),2020-04-10,,Anthomyiidae,,f,,
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 423,31,The Wilderness (E),2020-04-10,,Anthomyiidae,,f,,
 423,32,The Wilderness (E),2020-04-10,,Muscidae,Lispocephala alma,f,"Fonseca, 1968",
 423,33,The Wilderness (E),2020-04-10,,Anthomyiidae,,f,,
-423,34,The Wilderness (E),2020-04-10,,Calliphoridae,Pollenia sp,m,,
+423,34,The Wilderness (E),2020-04-10,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 423,35,The Wilderness (E),2020-04-10,,Anthomyiidae,,m,,
 423,36,The Wilderness (E),2020-04-10,,Anthomyiidae,Anthomyia procellaris,m,,
 423,37,The Wilderness (E),2020-04-10,,Anthomyiidae,Anthomyia procellaris,m,,
