@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-430,1,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,,
-430,2,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,f,,
-430,3,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,,
-430,4,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,,
-430,5,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,,
+430,1,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+430,2,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+430,3,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+430,4,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+430,5,The Wilderness (W),2020-04-18,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 430,6,The Wilderness (W),2020-04-18,,Empididae,,,,
 430,7,The Wilderness (W),2020-04-18,,Opetiidae,Opetia nigra,m,"Chandler, 2001",
 430,8,The Wilderness (W),2020-04-18,,Chironomidae,,f,,
