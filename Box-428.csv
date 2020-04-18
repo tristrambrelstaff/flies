@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 428,1,The Wilderness (E),2020-04-15,,Tipulidae,,m,,
 428,2,The Wilderness (E),2020-04-15,,Tipulidae,,m,,
-428,3,The Wilderness (E),2020-04-15,,Muscidae,Helina sp,f,,
+428,3,The Wilderness (E),2020-04-15,,Muscidae,Helina pertusa,f,"Fonseca, 1968",
 428,4,The Wilderness (E),2020-04-15,,Anthomyiidae,,f,,
-428,5,The Wilderness (E),2020-04-15,,Muscidae,Schoenomyza litorella,f,,
-428,6,The Wilderness (E),2020-04-15,,Muscidae,Schoenomyza litorella,f,,
+428,5,The Wilderness (E),2020-04-15,,Muscidae,Helina impuncta,f,"Gregor et al, 2016","Does not key out in Fonseca, 1968"
+428,6,The Wilderness (E),2020-04-15,,Muscidae,Helina impuncta,f,"Gregor et al, 2016","Does not key out in Fonseca, 1968"
 428,7,The Wilderness (E),2020-04-15,,Heliomyzidae,Tephrochlamys rufiventris,f,"Gorodkov, 1989",
 428,8,The Wilderness (E),2020-04-15,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 428,9,The Wilderness (E),2020-04-15,,Scathophagidae,Scathophaga furcata,f,"Ball, 2014",
@@ -33,9 +33,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 428,32,The Wilderness (E),2020-04-15,,Ephydridae,,,,
 428,33,The Wilderness (E),2020-04-15,,Sphaeroceridae,,,,
 428,34,The Wilderness (E),2020-04-15,,Choropidae,,,,
-428,35,Whiteknights Park (W),2020-04-16,,Muscidae,Muscina prolapsa,f,,
+428,35,Whiteknights Park (W),2020-04-16,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 428,36,Whiteknights Park (W),2020-04-16,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
-428,37,Whiteknights Park (W),2020-04-16,,Muscidae,Phaonia sp,f,,
+428,37,Whiteknights Park (W),2020-04-16,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 428,38,Whiteknights Park (W),2020-04-16,,Anthomyiidae,Leucophora sp,f,,Two legs missing
 428,39,Whiteknights Park (W),2020-04-16,Hymenoptera,Tenthredinidae,Dolerus sp,,,
 428,40,Whiteknights Park (W),2020-04-16,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -57,8 +57,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 428,56,Whiteknights Park (W),2020-04-16,,Scathophagidae,Nanna armillata,m,"Ball, 2014",
 428,57,Whiteknights Park (W),2020-04-16,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 428,58,Whiteknights Park (W),2020-04-16,,Anthomyiidae,,f,,
-428,59,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia sp,f,,
-428,60,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia sp,f,,
-428,61,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia sp,f,,
-428,62,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia sp,f,,
-428,63,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia sp,m,,
+428,59,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+428,60,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+428,61,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+428,62,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+428,63,Whiteknights Park (W),2020-04-16,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
