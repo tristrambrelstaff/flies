@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 430,22,The Wilderness (W),2020-04-18,,Anthomyiidae,,m,,
 430,23,The Wilderness (W),2020-04-18,,Anthomyiidae,,m,,
 430,24,The Wilderness (W),2020-04-18,,Anthomyiidae,,m,,
-430,25,Kennet Mouth (E),2020-04-19,,Tachinidae,Gymnocheta viridis,m,,
+430,25,Kennet Mouth (E),2020-04-19,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 430,26,Kennet Mouth (E),2020-04-19,,Calliphoridae,Calliphora vicina,f,,
 430,27,Kennet Mouth (E),2020-04-19,,Calliphoridae,Calliphora vicina,m,,
 430,28,Kennet Mouth (E),2020-04-19,,Calliphoridae,Calliphora vicina,m,,
@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 430,32,Kennet Mouth (E),2020-04-19,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 430,33,Kennet Mouth (E),2020-04-19,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 430,34,Kennet Mouth (E),2020-04-19,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
-430,35,Kennet Mouth (E),2020-04-19,,Tachinidae,,f,,
+430,35,Kennet Mouth (E),2020-04-19,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",One leg glued back on
 430,36,Kennet Mouth (E),2020-04-19,,Calliphoridae,Pollenia sp,m,,
 430,37,Kennet Mouth (E),2020-04-19,,Sarcophagidae,Sarcophaga sp,m,,
 430,38,Kennet Mouth (E),2020-04-19,,Calliphoridae,Lucilia sericata,m,,
