@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 435,15,The Wilderness (E),2020-04-23,,Muscidae,Lispocephala sp,f,,
 435,16,The Wilderness (E),2020-04-23,,Dolichopodidae,,m,,
 435,17,The Wilderness (E),2020-04-23,,Dolichopodidae,,,,
-435,18,The Wilderness (E),2020-04-23,,Bibionidae,Bibio sp,m,,
+435,18,The Wilderness (E),2020-04-23,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",
 435,19,The Wilderness (E),2020-04-23,,Anthomyiidae,,f,,
 435,20,The Wilderness (E),2020-04-23,,Anthomyiidae,Pegomya sp,m,,
 435,21,The Wilderness (E),2020-04-23,,Anthomyiidae,Pegomya sp,m,,
@@ -33,9 +33,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 435,32,The Wilderness (E),2020-04-23,,Ephydridae,,,,
 435,33,The Wilderness (E),2020-04-23,,Drosophildae,,,,
 435,34,The Wilderness (E),2020-04-23,,Drosophildae,,,,
-435,35,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio sp,m,,35+36 in cop
-435,36,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio sp,f,,35+36 in cop
-435,37,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio marci,m,,
+435,35,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",35+36 in cop
+435,36,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio reticulatus,f,"Freeman & Lane, 1985",35+36 in cop
+435,37,Whiteknights Park (E),2020-04-23,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
 435,38,Whiteknights Park (E),2020-04-23,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 435,39,Whiteknights Park (E),2020-04-23,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 435,40,Whiteknights Park (E),2020-04-23,Mecoptera,Panorpidae,Panorpa sp,m,,
