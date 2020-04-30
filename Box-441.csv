@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-441,1,Whiteknights Park (E-FH),2020-04-29,,Tephritidae,Tephritis sp,f,,
+441,1,Whiteknights Park (E-FH),2020-04-29,,Tephritidae,Tephritis neesii,f,"White, 1988",
 441,2,Whiteknights Park (E-FH),2020-04-29,,Empididae,Hilara sp,m,,
 441,3,Whiteknights Park (E-FH),2020-04-29,,Empididae,Hilara sp,m,,
 441,4,Whiteknights Park (E-FH),2020-04-29,,Empididae,Hilara sp,m,,
@@ -28,5 +28,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 441,27,Whiteknights Park (W),2020-04-29,,Fanniidae,Fannia sp,m,,
 441,28,Whiteknights Park (W),2020-04-29,,Fanniidae,Fannia sp,m,,
 441,29,Whiteknights Park (W),2020-04-29,,Anthomyiidae,,f,,
-441,30,Whiteknights Park (W),2020-04-29,,Tephritidae,Tephritis sp,m,,
+441,30,Whiteknights Park (W),2020-04-29,,Tephritidae,Tephritis neesii,m,"White, 1988",
 441,31,Whiteknights Park (W),2020-04-29,Hymenoptera,Ichneumonidae,,,,
