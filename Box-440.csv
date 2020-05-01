@@ -17,13 +17,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 440,16,The Wilderness (W),2020-04-27,,Anthomyiidae,Anthomyia procellaris,m,,
 440,17,The Wilderness (W),2020-04-27,,Fanniidae,Fannia sp,m,,
 440,18,The Wilderness (W),2020-04-27,,Fanniidae,Fannia sp,m,,
-440,19,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
-440,20,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
-440,21,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
-440,22,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
-440,23,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
-440,24,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,f,,
-440,25,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,m,,
+440,19,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+440,20,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
+440,21,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+440,22,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+440,23,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+440,24,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+440,25,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
 440,26,The Wilderness (W),2020-04-27,,Muscidae,Coenosia sp,f,,
 440,27,Whiteknights Park (E),2020-04-27,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",37+38 in cop
 440,28,Whiteknights Park (E),2020-04-27,,Bibionidae,Bibio reticulatus,f,"Freeman & Lane, 1985",37+38 in cop
