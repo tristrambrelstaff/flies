@@ -12,8 +12,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 432,11,Kings Meadow Tescos,2020-04-19,,Anthomyiidae,,f,,
 432,12,Kings Meadow Tescos,2020-04-19,,Anthomyiidae,,f,,
 432,13,Kings Meadow Tescos,2020-04-19,,Anthomyiidae,,f,,
-432,14,Kings Meadow Tescos,2020-04-19,,Muscidae,Coenosia sp,f,,
-432,15,Kings Meadow Tescos,2020-04-19,,Muscidae,Schoenomyza litorella,f,,
+432,14,Kings Meadow Tescos,2020-04-19,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+432,15,Kings Meadow Tescos,2020-04-19,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 432,16,Kings Meadow Tescos,2020-04-19,,Agromyzidae,,,,
 432,17,Kings Meadow Tescos,2020-04-19,,Ephydridae,,,,
 432,18,Kings Meadow Tescos,2020-04-19,,Ephydridae,,,,
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 432,47,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,,m,,
 432,48,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,Pegomya sp,m,,
 432,49,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,Leucophora sp,f,,
-432,50,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Helina sp,f,,
-432,51,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Helina sp,f,,
+432,50,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina communis
+432,51,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina communis
 432,52,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,Anthomyia procellaris,m,,
 432,53,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,,f,,
