@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 444,27,Thames Valley Park,2020-05-02,,Ephydridae,,,,
 444,28,Thames Valley Park,2020-05-02,,Ephydridae,,,,
 444,29,Thames Valley Park,2020-05-02,,Ephydridae,,,,
-444,30,Kings Road Gardens,2020-05-03,,Ephemopteridae,,,,
+444,30,Kings Road Gardens,2020-05-03,Ephemeroptera,Ephemeridae,Ephemera sp,,,
 444,31,Kings Road Gardens,2020-05-03,,Chironomidae,,f,,
 444,32,Kings Road Gardens,2020-05-03,,Muscidae,Coenosia tigrina,f,,
 444,33,Kings Road Gardens,2020-05-03,,Anthomyiidae,,m,,
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 444,41,"Oscar Wilde Walk, Reading",2020-05-03,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 444,42,"Oscar Wilde Walk, Reading",2020-05-03,,Calliphoridae,Lucilia sp,f,,
 444,43,"Oscar Wilde Walk, Reading",2020-05-03,,Asilidae,Dioctria baumhaueri,f,"Stubbs & Drake, 2001",
-444,44,"Oscar Wilde Walk, Reading",2020-05-03,,Ephemopteridae,Ephemera sp,,,
+444,44,"Oscar Wilde Walk, Reading",2020-05-03,Ephemeroptera,Ephemeridae,Ephemera sp,,,
 444,45,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Lucilia sericata,m,,45+46 in cop
 444,46,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Lucilia sericata,m,,45+46 in cop
 444,47,Kings Meadow Tescos,2020-05-03,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
