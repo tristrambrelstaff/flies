@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 502,1,The Wilderness (E),2020-06-18,,Lauxaniidae,Peplomyza sp,,,
-502,2,The Wilderness (W),2020-06-18,,Tachinidae,,m,,
+502,2,The Wilderness (W),2020-06-18,,Tachinidae,Eumea linearicornis,m,"Belshaw, 1993 +v5c updates",
 502,3,Whiteknights Park (E),2020-06-18,Hymenoptera,Ichneumonidae,,m,,
 502,4,Whiteknights Park (E),2020-06-18,Hymenoptera,Ichneumonidae,,m,,
 502,5,Whiteknights Park (E),2020-06-18,,Empididae,Empis sp,m,,
