@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-479,1,Thames Valley Park,2020-05-30,,Tachinidae,Exorista sp,m,,1+2 in cop
-479,2,Thames Valley Park,2020-05-30,,Tachinidae,Exorista sp,f,,1+2 in cop
+479,1,Thames Valley Park,2020-05-30,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",1+2 in cop
+479,2,Thames Valley Park,2020-05-30,,Tachinidae,Exorista rustica,f,"Belshaw, 1993 +v5c updates",1+2 in cop
 479,3,Thames Valley Park,2020-05-30,,Sarcophagidae,Sarcophaga sp,f,,Genitalia with large spike
 479,4,Thames Valley Park,2020-05-30,,Sarcophagidae,Sarcophaga sp,m,,
 479,5,Thames Valley Park,2020-05-30,Hymenoptera,Ichneumonidae,,f,,
@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 479,13,Thames Valley Park,2020-05-30,,Asilidae,Leptogaster sp,f,,
 479,14,Thames Valley Park,2020-05-30,,Asilidae,Leptogaster sp,m,,
 479,15,Thames Valley Park,2020-05-30,,Asilidae,Leptogaster sp,m,,
-479,16,Thames Valley Park,2020-05-30,,Tachinidae,Exorista sp,m,,
+479,16,Thames Valley Park,2020-05-30,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 479,17,Thames Valley Park,2020-05-30,,Sarcophagidae,Blaesoxipha sp,m,,
 479,18,Thames Valley Park,2020-05-30,,Sarcophagidae,Blaesoxipha sp,m,,
 479,19,Thames Valley Park,2020-05-30,,Anthomyiidae,,m,,

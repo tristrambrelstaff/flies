@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-478,1,The Wilderness (W),2020-05-29,,Tachinidae,,f,,1 on group of 2
+478,1,The Wilderness (W),2020-05-29,,Tachinidae,Pelatachina tibialis,f,"Belshaw, 1993 +v5c updates",1 on group of 2
 478,2,The Wilderness (W),2020-05-29,Lepidoptera,Nymphalidae,Aglais io,,,1 on group of 2; Larva
 478,3,The Wilderness (W),2020-05-29,,Asilidae,Dioctria sp,m,,
 478,4,The Wilderness (W),2020-05-29,,Asilidae,Dioctria atricapilla,f,,
-478,5,The Wilderness (W),2020-05-29,,Tachinidae,Phania funesta,,,
+478,5,The Wilderness (W),2020-05-29,,Tachinidae,Phania funesta,,"Belshaw, 1993 +v5c updates",
 478,6,The Wilderness (W),2020-05-29,,Sarcophagidae,Sarcophaga sp,f,,
 478,7,The Wilderness (W),2020-05-29,,Fanniidae,Fannia armata,m,,
 478,8,The Wilderness (W),2020-05-29,,Fanniidae,Fannia armata,m,,
@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 478,18,The Wilderness (W),2020-05-29,,Sarcophagidae,Sarcophaga sp,m,,
 478,19,The Wilderness (W),2020-05-29,,Sarcophagidae,Sarcophaga sp,m,,
 478,20,The Wilderness (W),2020-05-29,,Sarcophagidae,Sarcophaga sp,m,,
-478,21,Whiteknights Park (W),2020-05-29,,Tachinidae,Linnaemya sp,f,,
+478,21,Whiteknights Park (W),2020-05-29,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 478,22,Whiteknights Park (W),2020-05-29,,Ephydridae,,,,
 478,23,Whiteknights Park (W),2020-05-29,,Ephydridae,,,,
 478,24,Whiteknights Park (W),2020-05-29,,Ephydridae,,,,
