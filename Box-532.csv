@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 532,1,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,Ichneumon sarcitorius,m,"Prehn & Raper, 2017","Ichneumoninae with Broad et al, 2018"
 532,2,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,Ichneumon sarcitorius,m,"Prehn & Raper, 2017","Ichneumoninae with Broad et al, 2018"
-532,3,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,f,,
-532,4,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,
-532,5,Whiteknights Park (W),2020-07-14,Hymenoptera,Braconidae,,f,,"Braconidae with Broad et al, 2018; Eyes green"
-532,6,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,f,,
+532,3,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,f,,"Cryptinae with Broad et al, 2018"
+532,4,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,"Cryptinae with Broad et al, 2018"
+532,5,Whiteknights Park (W),2020-07-14,Hymenoptera,Braconidae,,f,,"Braconidae with Broad et al, 2018"
+532,6,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,f,,Eyes green
 532,7,Whiteknights Park (W),2020-07-14,Hymenoptera,Ichneumonidae,,f,,
 532,8,Whiteknights Park (W),2020-07-14,,Rhinophoridae,Rhinophora lepida,m,,
 532,9,Whiteknights Park (W),2020-07-14,,Muscidae,Graphomya maculata,f,,
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 532,28,The Wilderness (W),2020-07-14,,Muscidae,Graphomya maculata,f,,
 532,29,The Wilderness (W),2020-07-14,,Calliphoridae,Lucilia sericata,m,,
 532,30,The Wilderness (W),2020-07-14,,Sarcophagidae,Sarcophaga sp,m,,
-532,31,The Wilderness (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,"Ichneumoninae with Broad et al, 2018"
+532,31,The Wilderness (W),2020-07-14,Hymenoptera,Ichneumonidae,Ichneumon sp,m,,"Antennae have 2+40 segments; Ichneumoninae with Broad et al, 2018; Ichneumon sp with Perkins, 1960"
 532,32,The Wilderness (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,
 532,33,The Wilderness (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,
 532,34,The Wilderness (W),2020-07-14,Hymenoptera,Ichneumonidae,,m,,
