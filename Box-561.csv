@@ -27,9 +27,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 561,26,Kings Meadow Tescos,2020-08-08,,Ephydridae,,,,
 561,27,Kings Meadow Tescos,2020-08-08,,Anthomyiidae,,f,,
 561,28,Kennet Mouth (E),2020-08-09,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
-561,29,Kennet Mouth (E),2020-08-09,,Tachinidae,,f,,
-561,30,Kennet Mouth (E),2020-08-09,,Tachinidae,Siphona sp,,,
-561,31,Kennet Mouth (E),2020-08-09,,Tachinidae,,m,,
+561,29,Kennet Mouth (E),2020-08-09,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
+561,30,Kennet Mouth (E),2020-08-09,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
+561,31,Kennet Mouth (E),2020-08-09,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 561,32,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia caesar,m,,
 561,33,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,m,,33+34 in cop
 561,34,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,f,,33+34 in cop
