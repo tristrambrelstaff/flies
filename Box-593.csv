@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-593,1,The Wilderness (W),2020-09-11,,Tachinidae,Voria ruralis,f,,
+593,1,The Wilderness (W),2020-09-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 593,2,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
 593,3,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
 593,4,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 593,18,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,,
 593,19,The Wilderness (W),2020-09-11,,Clusiidae,,m,,
 593,20,The Wilderness (W),2020-09-11,,Clusiidae,,m,,
-593,21,Whiteknights Park (W),2020-09-11,,Tachinidae,Siphona sp,,,
-593,22,Whiteknights Park (W),2020-09-11,,Tachinidae,Siphona sp,,,
+593,21,Whiteknights Park (W),2020-09-11,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
+593,22,Whiteknights Park (W),2020-09-11,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 593,23,Whiteknights Park (W),2020-09-11,,Clusiidae,,m,,
 593,24,Whiteknights Park (W),2020-09-11,,Clusiidae,,m,,
