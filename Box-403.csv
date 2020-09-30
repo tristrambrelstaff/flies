@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 403,1,Thames Valley Park,2019-10-19,,Platypezidae,Protoclythia modesta,m,"Chandler, 2001",
 403,2,Thames Valley Park,2019-10-19,,Opomyzidae,Opomyza germinationis,f,"Drake, 1993",
 403,3,Thames Valley Park,2019-10-19,,Sepsidae,Sepsis fulgens,f,"Pont & Meier, 2002",
-403,4,Kennet Mouth (E),2019-10-19,,Lauxaniidae,Calliopium sp,f,,
+403,4,Kennet Mouth (E),2019-10-19,,Lauxaniidae,Calliopum sp,f,,
 403,5,Kennet Mouth (E),2019-10-19,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 403,6,Kennet Mouth (E),2019-10-19,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 403,7,Kennet Mouth (E),2019-10-19,,Muscidae,Hydrotaea similis,f,"Fonseca, 1968",
@@ -27,7 +27,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 403,26,Kennet Mouth (E),2019-10-19,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 403,27,Kennet Mouth (E),2019-10-19,,Anthomyiidae,Botanophila fugax,m,"Ackland et al draft keys, 2017",
 403,28,Kennet Mouth (E),2019-10-19,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
-403,29,Kennet Mouth (E),2019-10-19,,Lauxaniidae,Calliopium sp,m,,
+403,29,Kennet Mouth (E),2019-10-19,,Lauxaniidae,Calliopum sp,m,,
 403,30,Kennet Mouth (E),2019-10-19,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 403,31,Kennet Mouth (E),2019-10-19,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 403,32,Kennet Mouth (E),2019-10-19,,Muscidae,Hebecnema sp,f,"Fonseca, 1968; Pont, 1984",Body geasy
