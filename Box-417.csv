@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 417,1,Whiteknights Park (E-FH),2020-03-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-417,2,Whiteknights Park (E-FH),2020-03-24,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As phaonia variegata
+417,2,Whiteknights Park (E-FH),2020-03-24,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 417,3,Whiteknights Park (E-FH),2020-03-24,,Anisopodidae,,f,,
 417,4,Whiteknights Park (E-FH),2020-03-24,,Chironomidae,,f,,
 417,5,Whiteknights Park (E-FH),2020-03-24,,Ephydridae,,f,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 417,38,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,m,,
 417,39,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,m,,
 417,40,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
-417,41,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As phaonia variegata
+417,41,Whiteknights Park (W),2020-03-28,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 417,42,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
 417,43,Whiteknights Park (W),2020-03-28,,Anthomyiidae,Pegomya sp,f,,
 417,44,Whiteknights Park (W),2020-03-28,,Anthomyiidae,,f,,
