@@ -11,23 +11,23 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 622,10,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
 622,11,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
 622,12,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,13,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina sp,f,,
-622,14,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina sp,f,,
-622,15,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia sp,m,,
-622,16,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia sp,m,,
-622,17,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia sp,f,,
-622,18,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia sp,m,,
-622,19,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia sp,f,,
+622,13,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+622,14,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+622,15,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+622,16,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+622,17,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+622,18,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+622,19,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 622,20,Whiteknight Park (E-FH),2020-10-19,,Anthomyiidae,Anthomyia pluvialis,m,,
 622,21,Whiteknight Park (E-FH),2020-10-19,,Anthomyiidae,Anthomyia sp,m,,
 622,22,Whiteknight Park (E-FH),2020-10-19,,Anthomyiidae,Anthomyia pluvialis,m,,
 622,23,Whiteknight Park (E-FH),2020-10-19,,Anthomyiidae,Hylemya sp,f,,
 622,24,Whiteknight Park (E-FH),2020-10-19,,Anthomyiidae,,f,,
 622,25,Whiteknight Park (E-FH),2020-10-19,,Fanniidae,Fannia sp,f,,
-622,26,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia sp,f,,
-622,27,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia sp,f,,
-622,28,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia sp,f,,
-622,29,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia sp,f,,
+622,26,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+622,27,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+622,28,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+622,29,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 622,30,Whiteknight Park (E-FH),2020-10-19,,Fanniidae,Fannia sp,f,,
 622,31,Whiteknight Park (E-FH),2020-10-19,,Ephydridae,,,,
 622,32,Whiteknight Park (E-FH),2020-10-19,,Ephydridae,,,,
@@ -43,14 +43,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 622,42,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
 622,43,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
 622,44,Whiteknight Park (W),2020-10-20,,Sarcophagidae,Sarcophaga sp,f,,
-622,45,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia sp,f,,
-622,46,Whiteknight Park (W),2020-10-20,,Muscidae,Helina evecta,f,,
+622,45,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+622,46,Whiteknight Park (W),2020-10-20,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 622,47,Whiteknight Park (W),2020-10-20,,Scathophagidae,Scathophaga stercoraria,m,,
 622,48,Whiteknight Park (W),2020-10-20,,Scathophagidae,Scathophaga stercoraria,f,,
-622,49,Whiteknight Park (W),2020-10-20,,Muscidae,Helina sp,f,,
-622,50,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia sp,f,,
-622,51,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia sp,f,,
-622,52,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia sp,f,,
+622,49,Whiteknight Park (W),2020-10-20,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+622,50,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Hind legs missing
+622,51,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+622,52,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Antennae missing
 622,53,Whiteknight Park (W),2020-10-20,,Anthomyiidae,Hylemya sp,f,,
 622,54,Whiteknight Park (W),2020-10-20,,Tephritidae,Trypeta zoe,m,,
 622,55,Whiteknight Park (W),2020-10-20,,Anthomyiidae,,m,,
