@@ -17,10 +17,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 620,16,Whiteknights Park (E),2020-10-16,,Muscidae,Helina sp,f,,
 620,17,Whiteknights Park (E),2020-10-16,,Muscidae,Helina sp,f,,
 620,18,Whiteknights Park (E),2020-10-16,,Anthomyiidae,,f,,
-620,19,Whiteknights Park (E),2020-10-16,,Muscidae,Helina sp,f,,
-620,20,Whiteknights Park (E),2020-10-16,,Muscidae,Hebecnema vespertina,f,,
+620,19,Whiteknights Park (E),2020-10-16,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+620,20,Whiteknights Park (E),2020-10-16,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",Halteres yellow
 620,21,Whiteknights Park (E),2020-10-16,,Anthomyiidae,,f,,
-620,22,Whiteknights Park (E),2020-10-16,,Muscidae,Hebecnema vespertina,f,,
+620,22,Whiteknights Park (E),2020-10-16,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",Halteres yellow
 620,23,Whiteknights Park (E),2020-10-16,,Anthomyiidae,,f,,
 620,24,Whiteknights Park (E),2020-10-16,,Pipunculidae,,f,,
 620,25,Whiteknights Park (E),2020-10-16,,Heleomyzidae,,m,,
@@ -29,21 +29,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 620,28,Whiteknights Park (E),2020-10-16,,Anthomyiidae,Delia platura,m,,
 620,29,Kings Meadow Tescos,2020-10-17,,Anthomyiidae,,m,,
 620,30,Kings Meadow Tescos,2020-10-17,,Anthomyiidae,,f,,
-620,31,Kings Meadow Tescos,2020-10-17,,Muscidae,Helina evecta,m,,
-620,32,Kings Meadow Tescos,2020-10-17,,Muscidae,Helina evecta,m,,
-620,33,Kings Meadow Tescos,2020-10-17,,Muscidae,Mydaea sp,f,,
+620,31,Kings Meadow Tescos,2020-10-17,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+620,32,Kings Meadow Tescos,2020-10-17,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+620,33,Kings Meadow Tescos,2020-10-17,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
 620,34,Kings Meadow Tescos,2020-10-17,,Dolichopodidae,Rhaphium sp,m,,
 620,35,Kings Meadow Tescos,2020-10-17,,Dolichopodidae,Rhaphium sp,m,,
 620,36,Kings Meadow Tescos,2020-10-17,,Ephydridae,,,,
-620,37,Kings Meadow Tescos,2020-10-17,,Muscidae,Schoenomyza litorella,m,,
+620,37,Kings Meadow Tescos,2020-10-17,,Muscidae,Schoenomyza litorella,m,"Fonseca, 1968",
 620,38,Kings Meadow Tescos,2020-10-17,,Ephydridae,,,,
 620,39,Kings Meadow Tescos,2020-10-17,,Sphaeroceridae,,f,,
-620,40,The Wilderness (E),2020-10-18,,Muscidae,Phaonia subventa,f,,
-620,41,The Wilderness (E),2020-10-18,,Muscidae,Mydaea sp,f,,
-620,42,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,,
-620,43,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,,
-620,44,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,,
-620,45,The Wilderness (E),2020-10-18,,Muscidae,Phaonia palpata,m,,
+620,40,The Wilderness (E),2020-10-18,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+620,41,The Wilderness (E),2020-10-18,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
+620,42,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+620,43,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+620,44,The Wilderness (E),2020-10-18,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+620,45,The Wilderness (E),2020-10-18,,Muscidae,Phaonia palpata,m,"Fonseca, 1968",
 620,46,The Wilderness (E),2020-10-18,,Heleomyzidae,,f,,
 620,47,The Wilderness (E),2020-10-18,,Heleomyzidae,,f,,
 620,48,The Wilderness (E),2020-10-18,,Heleomyzidae,,m,,
