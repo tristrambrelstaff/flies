@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 619,2,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
 619,3,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
 619,4,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
-619,5,Whiteknights Park (W),2020-10-14,,Muscidae,Helina sp,f,,
+619,5,Whiteknights Park (W),2020-10-14,,Muscidae,Helina setiventris,f,"Fonseca, 1968",
 619,6,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
 619,7,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
 619,8,Whiteknights Park (W),2020-10-14,,Anthomyiidae,,f,,
@@ -29,15 +29,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 619,28,Whiteknights Park (E),2020-10-14,,Anthomyiidae,Delia platura,m,,
 619,29,Whiteknights Park (E),2020-10-14,,Anthomyiidae,Delia platura,m,,
 619,30,Whiteknights Park (E-FH),2020-10-15,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-619,31,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Neomyia sp,f,,
-619,32,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Muscina levida,m,,
-619,33,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Muscina levida,m,,
-619,34,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Phaonia sp,m,,
-619,35,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Phaonia sp,m,,
-619,36,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina sp,f,,
-619,37,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina sp,f,,
-619,38,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina sp,f,,
-619,39,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina sp,f,,
+619,31,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+619,32,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina levida
+619,33,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina levida
+619,34,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+619,35,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+619,36,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+619,37,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+619,38,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+619,39,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 619,40,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,,f,,
 619,41,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,,f,,
 619,42,Whiteknights Park (E-FH),2020-10-15,,Calliphoridae,Pollenia sp,f,,
@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 619,46,Whiteknights Park (E-FH),2020-10-15,,Calliphoridae,Pollenia sp,m,,
 619,47,Whiteknights Park (E-FH),2020-10-15,,Calliphoridae,Pollenia sp,m,,
 619,48,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
-619,49,Whiteknights Park (E-FH),2020-10-15,,Muscidae,,f,,
+619,49,Whiteknights Park (E-FH),2020-10-15,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 619,50,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,,f,,
 619,51,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,,f,,
 619,52,Whiteknights Park (E-FH),2020-10-15,,Anthomyiidae,,f,,
