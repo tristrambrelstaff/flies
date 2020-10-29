@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 618,6,Whiteknights Park (E-FH),2020-10-11,,Chloropidae,,f,,
 618,7,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
 618,8,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
-618,9,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Coenosia sp,f,,
+618,9,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 618,10,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,m,,
 618,11,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,Delia platura,m,,
 618,12,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,Delia platura,m,,
@@ -18,30 +18,30 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 618,17,Whiteknights Park (W),2020-10-12,,Pipunculidae,,,,
 618,18,Whiteknights Park (W),2020-10-12,,Calliphoridae,Pollenia sp,f,,
 618,19,Whiteknights Park (W),2020-10-12,,Anthomyiidae,,f,,
-618,20,Whiteknights Park (W),2020-10-12,,Muscidae,Phaonia sp,m,,
+618,20,Whiteknights Park (W),2020-10-12,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 618,21,Whiteknights Park (W),2020-10-12,,Anthomyiidae,,f,,
 618,22,Whiteknights Park (W),2020-10-12,,Anthomyiidae,Hylemya sp,f,,
 618,23,Whiteknights Park (W),2020-10-12,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 618,24,Whiteknights Park (W),2020-10-12,,Calliphoridae,Pollenia sp,m,,
 618,25,Whiteknights Park (W),2020-10-12,,Anthomyiidae,,f,,
 618,26,Whiteknights Park (W),2020-10-12,,Anthomyiidae,,f,,
-618,27,Whiteknights Park (W),2020-10-12,,Muscidae,Coenosia sp,f,,
+618,27,Whiteknights Park (W),2020-10-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor; Body greasy
 618,28,Whiteknights Park (E),2020-10-13,,Sarcophagidae,Sarcophaga sp,m,,
 618,29,Whiteknights Park (E),2020-10-13,,Calliphoridae,Lucilia caesar,m,,
 618,30,Whiteknights Park (E),2020-10-13,,Calliphoridae,Pollenia sp,f,,
 618,31,Whiteknights Park (E),2020-10-13,,Calliphoridae,Calliphora vicina,f,,
-618,32,Whiteknights Park (E),2020-10-13,,Muscidae,Muscina levida,m,,
-618,33,Whiteknights Park (E),2020-10-13,,Muscidae,Muscina levida,m,,
-618,34,Whiteknights Park (E),2020-10-13,,Muscidae,Hebecnema vespertina,f,,
-618,35,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia sp,f,,
-618,36,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia sp,m,,
-618,37,Whiteknights Park (E),2020-10-13,,Muscidae,Helina evecta,f,,
-618,38,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia sp,f,,
-618,39,Whiteknights Park (E),2020-10-13,,Muscidae,Helina evecta,f,,
-618,40,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,,
-618,41,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,,
-618,42,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,,
-618,43,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,,
+618,32,Whiteknights Park (E),2020-10-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+618,33,Whiteknights Park (E),2020-10-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+618,34,Whiteknights Park (E),2020-10-13,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",Halteres yellow
+618,35,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Scutellum has no red
+618,36,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+618,37,Whiteknights Park (E),2020-10-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+618,38,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+618,39,Whiteknights Park (E),2020-10-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+618,40,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+618,41,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+618,42,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+618,43,Whiteknights Park (E),2020-10-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 618,44,Whiteknights Park (E),2020-10-13,,Anthomyiidae,,f,,
 618,45,Whiteknights Park (E),2020-10-13,,Anthomyiidae,Anthomyia sp,m,,
 618,46,Whiteknights Park (E),2020-10-13,,Anthomyiidae,,f,,
