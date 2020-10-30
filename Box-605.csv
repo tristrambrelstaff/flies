@@ -35,9 +35,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 605,34,Kennet Mouth (E),2020-09-26,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 605,35,Kennet Mouth (E),2020-09-26,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 605,36,Kennet Mouth (E),2020-09-26,,Lauxaniidae,Minettia fasciata,,,
-605,37,Kennet Mouth (E),2020-09-26,,Muscidae,Phaonia sp,f,,
-605,38,Kennet Mouth (E),2020-09-26,,Muscidae,Hebecnema sp,m,,
-605,39,Kennet Mouth (E),2020-09-26,,Muscidae,Hydrotaea sp,m,,Has Acari mite
+605,37,Kennet Mouth (E),2020-09-26,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Abdomen greasy
+605,38,Kennet Mouth (E),2020-09-26,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+605,39,Kennet Mouth (E),2020-09-26,,Muscidae,Hydrotaea ignava,m,"Fonseca, 1968",As Ophrya leucostoma; Has Acari mite
 605,40,Kennet Mouth (E),2020-09-26,,Dolichopodidae,,f,,
 605,41,Kennet Mouth (E),2020-09-26,,Anthomyiidae,Anthomyia pluvialis,m,,
 605,42,Kennet Mouth (E),2020-09-26,,Anthomyiidae,,m,,
