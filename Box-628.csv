@@ -7,20 +7,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 628,6,Thames Valley Park,2020-11-01,,Lonchopteridae,Lonchoptera sp,f,,
 628,7,Thames Valley Park,2020-11-01,,Lonchopteridae,Lonchoptera sp,f,,
 628,8,Thames Valley Park,2020-11-01,,Sphaeroceridae,,m,,
-628,9,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,,
-628,10,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,,
-628,11,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,,
+628,9,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+628,10,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+628,11,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 628,12,Whiteknights Park (E-FH),2020-11-02,,Scathophagidae,Scathophaga stercoraria,f,,
-628,13,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia valida,f,,
-628,14,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina sp,f,,
-628,15,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina sp,f,,
-628,16,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina sp,f,,
-628,17,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,,
-628,18,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,,
-628,19,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,,
-628,20,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,,
+628,13,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+628,14,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+628,15,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+628,16,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+628,17,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+628,18,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+628,19,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+628,20,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 628,21,Whiteknights Park (E-FH),2020-11-02,,Calliphoridae,Pollenia sp,m,,
-628,22,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Coenosia tigrina,m,,
+628,22,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 628,23,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,,f,,
 628,24,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,,f,,
 628,25,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,,f,,Antennae missing
