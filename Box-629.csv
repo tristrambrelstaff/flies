@@ -3,10 +3,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 629,2,Quarry near Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
 629,3,Chazey Wood,2020-11-04,Hymenoptera,Ichneumonidae,,f,,
 629,4,Chazey Wood,2020-11-04,Hymenoptera,Ichneumonidae,,m,,
-629,5,Chazey Wood,2020-11-04,,Muscidae,Phaonia valida,f,,
+629,5,Chazey Wood,2020-11-04,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 629,6,Chazey Wood,2020-11-04,,Sarcophagidae,Sarcophaga sp,f,,
-629,7,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,8,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,,
+629,7,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+629,8,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 629,9,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
 629,10,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
 629,11,Chazey Wood,2020-11-04,,Calliphoridae,Lucilia sp,f,,
@@ -15,27 +15,27 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 629,14,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
 629,15,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
 629,16,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
-629,17,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,18,Chazey Wood,2020-11-04,,Muscidae,Phaonia sp,f,,
-629,19,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,,
-629,20,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,,
-629,21,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,22,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,23,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,24,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
-629,25,Chazey Wood,2020-11-04,,Muscidae,Helina sp,f,,
+629,17,Chazey Wood,2020-11-04,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+629,18,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+629,19,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+629,20,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+629,21,Chazey Wood,2020-11-04,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+629,22,Chazey Wood,2020-11-04,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+629,23,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+629,24,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+629,25,Chazey Wood,2020-11-04,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 629,26,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
 629,27,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
 629,28,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
-629,29,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,30,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,31,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,32,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,33,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,34,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,35,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea sp,m,,
-629,36,Chazey Wood,2020-11-04,,Muscidae,,f,,
-629,37,Chazey Wood,2020-11-04,,Muscidae,,f,,
+629,29,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,30,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,31,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,32,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,33,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,34,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,35,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+629,36,Chazey Wood,2020-11-04,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
+629,37,Chazey Wood,2020-11-04,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 629,38,Chazey Wood,2020-11-04,,Anthomyiidae,Delia platura,m,,
 629,39,Chazey Wood,2020-11-04,,Anthomyiidae,Anthomyia pluvialis,m,,
 629,40,Chazey Wood,2020-11-04,,Anthomyiidae,Anthomyia pluvialis,m,,
@@ -46,5 +46,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 629,45,Whiteknights Park (E),2020-11-05,,Anthomyiidae,,f,,
 629,46,Whiteknights Park (E),2020-11-05,,Anthomyiidae,,f,,
 629,47,Whiteknights Park (E),2020-11-05,Hymenoptera,Ichneumonidae,,f,,
-629,48,Whiteknights Park (W),2020-11-05,,Muscidae,Eudasyphora cyanicolor,f,,
-629,49,Whiteknights Park (W),2020-11-05,,Muscidae,Phaonia subventa,f,,
+629,48,Whiteknights Park (W),2020-11-05,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+629,49,Whiteknights Park (W),2020-11-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
