@@ -11,16 +11,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 631,10,Whiteknights Park (W),2020-11-07,,Opomyzidae,Opomyza sp,f,,
 631,11,Whiteknights Park (W),2020-11-07,Hymenoptera,Ichneumonidae,,m,,
 631,12,Whiteknights Park (W),2020-11-07,,Simuliidae,Simulium sp,,,
-631,13,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,,
-631,14,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,,
-631,15,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,,
-631,16,The Wilderness (W),2020-11-07,,Muscidae,Phaonia tuguriorum,f,,
-631,17,The Wilderness (W),2020-11-07,,Muscidae,Helina sp,f,,
-631,18,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,,
-631,19,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,,
-631,20,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,,
-631,21,The Wilderness (W),2020-11-07,,Muscidae,Phaonia rufiventris,f,,
-631,22,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,,
+631,13,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+631,14,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+631,15,The Wilderness (W),2020-11-07,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+631,16,The Wilderness (W),2020-11-07,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+631,17,The Wilderness (W),2020-11-07,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+631,18,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+631,19,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+631,20,The Wilderness (W),2020-11-07,,Anthomyiidae,Mycophaga testacea,f,,
+631,21,The Wilderness (W),2020-11-07,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
+631,22,The Wilderness (W),2020-11-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 631,23,The Wilderness (W),2020-11-07,,Anthomyiidae,Hylemya sp,f,,
 631,24,The Wilderness (W),2020-11-07,,Anthomyiidae,Hylemya sp,f,,
 631,25,The Wilderness (W),2020-11-07,,Anthomyiidae,,f,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 631,30,The Wilderness (W),2020-11-07,,Pipunculidae,,,,
 631,31,The Wilderness (W),2020-11-07,,Pipunculidae,,,,Head glued back on
 631,32,The Wilderness (W),2020-11-07,,Mycetophilidae,,f,,
-631,33,Kennet Mouth (E),2020-11-08,,Muscidae,,f,,
+631,33,Kennet Mouth (E),2020-11-08,,Muscidae,Hebecnema umbratica,f,"Fonseca, 1968",
 631,34,Kennet Mouth (E),2020-11-08,,Anthomyiidae,Delia platura,m,,
 631,35,Thames Valley Park,2020-11-08,,Tephritidae,Sphenella marginata,m,,
 631,36,Thames Valley Park,2020-11-08,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
