@@ -26,13 +26,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 632,25,The Wilderness (E),2020-11-10,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 632,26,The Wilderness (E),2020-11-10,,Calliphoridae,Pollenia sp,m,,
 632,27,The Wilderness (E),2020-11-10,Hymenoptera,Ichneumonidae,,m,,
-632,28,The Wilderness (E),2020-11-10,,Muscidae,Phaonia tuguriorum,f,,
-632,29,The Wilderness (E),2020-11-10,,Muscidae,Muscina levida,m,,
-632,30,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,,
-632,31,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,f,,
-632,32,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,f,,
-632,33,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,,
-632,34,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,,
+632,28,The Wilderness (E),2020-11-10,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+632,29,The Wilderness (E),2020-11-10,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+632,30,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+632,31,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+632,32,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+632,33,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+632,34,The Wilderness (E),2020-11-10,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 632,35,The Wilderness (E),2020-11-10,,Anthomyiidae,Delia platura,m,,
 632,36,The Wilderness (E),2020-11-10,,Opomyzidae,Opomyza sp,m,,
 632,37,The Wilderness (E),2020-11-10,,Lonchopteridae,Lonchoptera sp,f,,
