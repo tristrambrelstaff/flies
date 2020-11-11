@@ -38,11 +38,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 632,37,The Wilderness (E),2020-11-10,,Lonchopteridae,Lonchoptera sp,f,,
 632,38,The Wilderness (E),2020-11-10,,Agromyzidae,,f,,
 632,39,The Wilderness (E),2020-11-10,,Drosophilidae,,,,
-632,40,The Wilderness (E-FH),2020-11-11,,Muscidae,Helina impuncta,f,,
-632,41,The Wilderness (E-FH),2020-11-11,,Muscidae,Neomyia cornicina,m,,
-632,42,The Wilderness (E-FH),2020-11-11,,Muscidae,Hebecnema vespertina,f,,
+632,40,The Wilderness (E-FH),2020-11-11,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+632,41,The Wilderness (E-FH),2020-11-11,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Neomyia caesarion
+632,42,The Wilderness (E-FH),2020-11-11,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 632,43,The Wilderness (E-FH),2020-11-11,,Heleomyzidae,,m,,
 632,44,The Wilderness (E-FH),2020-11-11,,Heleomyzidae,,m,,
 632,45,The Wilderness (E-FH),2020-11-11,,Heleomyzidae,,m,,
 632,46,The Wilderness (E-FH),2020-11-11,,Anthomyiidae,,f,,
-632,47,The Wilderness (E-FH),2020-11-11,,Muscidae,Coenosia testacea,f,,
+632,47,The Wilderness (E-FH),2020-11-11,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
