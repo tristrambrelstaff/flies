@@ -1,15 +1,15 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-633,1,The Wilderness (E-FH),2020-11-12,,Muscidae,Phaonia subventa,f,,
+633,1,The Wilderness (E-FH),2020-11-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 633,2,The Wilderness (E-FH),2020-11-12,,Anthomyiidae,,f,,
 633,3,The Wilderness (E-FH),2020-11-12,,Anthomyiidae,,f,,
 633,4,The Wilderness (E-FH),2020-11-12,,Anthomyiidae,Delia platura,m,,
-633,5,The Wilderness (E-FH),2020-11-12,,Muscidae,Polietes lardarius,f,,
+633,5,The Wilderness (E-FH),2020-11-12,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 633,6,The Wilderness (W),2020-11-12,,Calliphoridae,Calliphora vicina,f,,
-633,7,The Wilderness (W),2020-11-12,,Muscidae,Phaonia valida,f,,
-633,8,The Wilderness (W),2020-11-12,,Muscidae,Polietes lardarius,f,,
-633,9,The Wilderness (W),2020-11-12,,Muscidae,Helina sp,f,,
-633,10,The Wilderness (W),2020-11-12,,Muscidae,Phaonia sp,f,,
-633,11,The Wilderness (W),2020-11-12,,Muscidae,Helina evecta,m,,
+633,7,The Wilderness (W),2020-11-12,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+633,8,The Wilderness (W),2020-11-12,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
+633,9,The Wilderness (W),2020-11-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+633,10,The Wilderness (W),2020-11-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+633,11,The Wilderness (W),2020-11-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",as Helina laetifica
 633,12,The Wilderness (W),2020-11-12,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,13,The Wilderness (W),2020-11-12,,Anthomyiidae,,f,,
 633,14,The Wilderness (W),2020-11-12,,Anthomyiidae,Anthomyia sp,m,,
