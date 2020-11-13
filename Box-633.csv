@@ -9,24 +9,24 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 633,8,The Wilderness (W),2020-11-12,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 633,9,The Wilderness (W),2020-11-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 633,10,The Wilderness (W),2020-11-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-633,11,The Wilderness (W),2020-11-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",as Helina laetifica
+633,11,The Wilderness (W),2020-11-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 633,12,The Wilderness (W),2020-11-12,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,13,The Wilderness (W),2020-11-12,,Anthomyiidae,,f,,
 633,14,The Wilderness (W),2020-11-12,,Anthomyiidae,Anthomyia sp,m,,
 633,15,The Wilderness (W),2020-11-12,,Anthomyiidae,Anthomyia sp,m,,
 633,16,The Wilderness (W),2020-11-12,,Anthomyiidae,Anthomyia sp,m,,
 633,17,The Wilderness (W),2020-11-12,,Anthomyiidae,Anthomyia sp,m,,
-633,18,The Wilderness (W),2020-11-13,,Muscidae,Polietes lardarius,f,,
-633,19,The Wilderness (W),2020-11-13,,Muscidae,Phaonia tuguriorum,m,,
-633,20,The Wilderness (W),2020-11-13,,Muscidae,Helina evecta,m,,
+633,18,The Wilderness (W),2020-11-13,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
+633,19,The Wilderness (W),2020-11-13,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+633,20,The Wilderness (W),2020-11-13,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 633,21,The Wilderness (W),2020-11-13,,Anthomyiidae,,f,,
 633,22,The Wilderness (W),2020-11-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,23,The Wilderness (W),2020-11-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,24,The Wilderness (W),2020-11-13,,Anthomyiidae,Delia platura,m,,
 633,25,The Wilderness (W),2020-11-13,,Anthomyiidae,Anthomyia sp,m,,
-633,26,The Wilderness (E),2020-11-13,,Muscidae,Neomyia cornicina,f,,
-633,27,The Wilderness (E),2020-11-13,,Muscidae,Helina evecta,m,,
-633,28,The Wilderness (E),2020-11-13,,Muscidae,Helina sp,f,,
+633,26,The Wilderness (E),2020-11-13,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Neomyia caesarion
+633,27,The Wilderness (E),2020-11-13,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+633,28,The Wilderness (E),2020-11-13,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 633,29,The Wilderness (E),2020-11-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,30,The Wilderness (E),2020-11-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 633,31,The Wilderness (E),2020-11-13,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
