@@ -1,18 +1,18 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 613,1,Whiteknights Park (E-FH),2020-10-05,Hymenoptera,Ichneumonidae,Amblyteles armatorius,f,,
-613,2,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,,
-613,3,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,,
+613,2,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+613,3,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 613,4,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Calliphora vicina,f,,
 613,5,Whiteknights Park (E-FH),2020-10-05,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
-613,6,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina prolapsa,f,,
-613,7,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina levida,m,,
-613,8,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina evecta,f,,
-613,9,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina sp,f,,
-613,10,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia pallida,f,,
-613,11,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Coenosia tigrina,f,,
-613,12,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina sp,f,,
+613,6,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
+613,7,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+613,8,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+613,9,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+613,10,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+613,11,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+613,12,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 613,13,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,,f,,
-613,14,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina sp,f,,
+613,14,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 613,15,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia sp,f,,
 613,16,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia sp,m,,
 613,17,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,Delia platura,m,,
@@ -33,19 +33,19 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 613,32,Whiteknights Park (W),2020-10-06,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 613,33,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia sp,m,,
 613,34,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia sp,f,,
-613,35,Whiteknights Park (W),2020-10-06,,Muscidae,Helina sp,m,,
-613,36,Whiteknights Park (W),2020-10-06,,Muscidae,Helina sp,f,,
-613,37,Whiteknights Park (W),2020-10-06,,Muscidae,Hebecnema vespertina,f,,
+613,35,Whiteknights Park (W),2020-10-06,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+613,36,Whiteknights Park (W),2020-10-06,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+613,37,Whiteknights Park (W),2020-10-06,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 613,38,Whiteknights Park (W),2020-10-06,,Anthomyiidae,,f,,
 613,39,Whiteknights Park (W),2020-10-06,,Anthomyiidae,,m,,
 613,40,Whiteknights Park (W),2020-10-06,,Anthomyiidae,Delia platura,m,,
 613,41,Whiteknights Park (W),2020-10-06,,Anthomyiidae,Delia platura,m,,
 613,42,Whiteknights Park (W),2020-10-06,,Anthomyiidae,Delia platura,m,,
 613,43,Whiteknights Park (W),2020-10-06,,Anthomyiidae,,f,,
-613,44,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia sp,f,,
-613,45,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia sp,f,,
-613,46,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia sp,f,,
-613,47,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia sp,f,,
-613,48,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia sp,f,,
+613,44,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+613,45,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+613,46,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+613,47,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+613,48,Whiteknights Park (W),2020-10-06,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 613,49,Whiteknights Park (W),2020-10-06,,Lonchopteridae,Lonchoptera sp,f,,
 613,50,Whiteknights Park (W),2020-10-06,,Dolichopodidae,,f,,

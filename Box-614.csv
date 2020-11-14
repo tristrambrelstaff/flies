@@ -3,14 +3,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 614,2,Whiteknights Park (E),2020-10-07,Hymenoptera,Ichneumonidae,,m,,
 614,3,Whiteknights Park (E),2020-10-07,Hymenoptera,Ichneumonidae,,m,,
 614,4,Whiteknights Park (E),2020-10-07,Hymenoptera,Ichneumonidae,,m,,
-614,5,Whiteknights Park (E),2020-10-07,,Muscidae,Helina sp,f,,
-614,6,Whiteknights Park (E),2020-10-07,,Muscidae,Helina sp,f,,
-614,7,Whiteknights Park (E),2020-10-07,,Muscidae,Neomyia sp,f,,
+614,5,Whiteknights Park (E),2020-10-07,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+614,6,Whiteknights Park (E),2020-10-07,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+614,7,Whiteknights Park (E),2020-10-07,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
 614,8,Whiteknights Park (E),2020-10-07,,Dryomyzidae,Dryomyza anilis,f,,
 614,9,Whiteknights Park (E),2020-10-07,,Heleomyzidae,,f,,
 614,10,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,f,,
-614,11,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,f,,
-614,12,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,m,,
+614,11,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+614,12,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 614,13,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,m,,
 614,14,Whiteknights Park (E),2020-10-07,,Anthomyiidae,Hylemya sp,f,,
 614,15,Whiteknights Park (E),2020-10-07,,Heleomyzidae,,f,,
@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 614,20,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,f,,
 614,21,Whiteknights Park (E),2020-10-07,,Mycetophilidae,,m,,
 614,22,Whiteknights Park (E),2020-10-07,,Mycetophilidae,,f,,
-614,23,Whiteknights Park (E),2020-10-07,,Muscidae,Hebecnema vespertina,f,,
+614,23,Whiteknights Park (E),2020-10-07,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 614,24,Whiteknights Park (E),2020-10-07,,Tephritidae,Tephritis sp,f,,
 614,25,Whiteknights Park (E),2020-10-07,,Opomyzidae,Opomyza sp,f,,
 614,26,Whiteknights Park (E),2020-10-07,,Opomyzidae,Opomyza sp,m,,
@@ -39,12 +39,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 614,38,Whiteknights Park (W),2020-10-08,,Tachinidae,Tachina fera,f,"Belshaw, 1993 +v5c updates",
 614,39,Whiteknights Park (W),2020-10-08,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
 614,40,Whiteknights Park (W),2020-10-08,,Calliphoridae,Lucilia caesar,m,,
-614,41,Whiteknights Park (W),2020-10-08,,Muscidae,Helina evecta,f,,
-614,42,Whiteknights Park (W),2020-10-08,,Muscidae,Helina evecta,m,,
-614,43,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia sp,m,,
-614,44,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia sp,m,,
-614,45,Whiteknights Park (W),2020-10-08,,Muscidae,Helina sp,f,,
-614,46,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia sp,m,,
-614,47,Whiteknights Park (W),2020-10-08,,Muscidae,Musca autumnalis,m,,
+614,41,Whiteknights Park (W),2020-10-08,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+614,42,Whiteknights Park (W),2020-10-08,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+614,43,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+614,44,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+614,45,Whiteknights Park (W),2020-10-08,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+614,46,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+614,47,Whiteknights Park (W),2020-10-08,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 614,48,Whiteknights Park (W),2020-10-08,,Heleomyzidae,,m,,
 614,49,Whiteknights Park (W),2020-10-08,,Anthomyiidae,Hylemya sp,f,,
