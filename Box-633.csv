@@ -38,10 +38,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 633,37,The Wilderness (E-FH),2020-11-14,Hymenoptera,Ichneumonidae,,f,,
 633,38,The Wilderness (E-FH),2020-11-14,,Heleomyzidae,,m,,
 633,39,The Wilderness (E-FH),2020-11-14,,Heleomyzidae,,m,,
-633,40,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,,
+633,40,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 633,41,Thames Valley Park,2020-11-15,,Anthomyiidae,,f,,
-633,42,Thames Valley Park,2020-11-15,,Muscidae,Muscina levida,m,,
-633,43,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,,
-633,44,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,,
-633,45,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,,
-633,46,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,,
+633,42,Thames Valley Park,2020-11-15,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+633,43,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+633,44,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+633,45,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+633,46,Thames Valley Park,2020-11-15,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
