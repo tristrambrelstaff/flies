@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 611,1,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
-611,2,Whiteknights Park (W),2020-09-30,,Muscidae,Hebecnema vespertina,f,,
+611,2,Whiteknights Park (W),2020-09-30,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 611,3,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
 611,4,Whiteknights Park (W),2020-09-30,,Anthomyiidae,Delia platura,m,,
 611,5,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
-611,6,Whiteknights Park (W),2020-09-30,,Muscidae,Coenosia sp,f,,
-611,7,Whiteknights Park (W),2020-09-30,,Muscidae,Coenosia sp,f,,
+611,6,Whiteknights Park (W),2020-09-30,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+611,7,Whiteknights Park (W),2020-09-30,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 611,8,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
 611,9,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
 611,10,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
@@ -13,11 +13,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 611,12,Whiteknights Park (W),2020-09-30,Hymenoptera,Torymidae,Torymus sp,f,,
 611,13,Whiteknights Park (W),2020-09-30,,???,,f,,
 611,14,Whiteknights Park (E),2020-10-01,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
-611,15,Whiteknights Park (E),2020-10-01,,Muscidae,Helina evecta,m,,
+611,15,Whiteknights Park (E),2020-10-01,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 611,16,Whiteknights Park (E),2020-10-01,Hymenoptera,Ichneumonidae,,m,,
 611,17,Whiteknights Park (E),2020-10-01,Hymenoptera,Ichneumonidae,,m,,
-611,18,Whiteknights Park (E),2020-10-01,,Muscidae,Neomyia sp,m,,
-611,19,Whiteknights Park (E),2020-10-01,,Muscidae,Helina evecta,m,,
+611,18,Whiteknights Park (E),2020-10-01,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
+611,19,Whiteknights Park (E),2020-10-01,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 611,20,Whiteknights Park (E),2020-10-01,,Anthomyiidae,,m,,
 611,21,Whiteknights Park (E),2020-10-01,,Anthomyiidae,,m,,
 611,22,Whiteknights Park (E),2020-10-01,,Anthomyiidae,,m,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 611,30,Whiteknights Park (E),2020-10-01,,Platypezidae,,f,,
 611,31,Whiteknights Park (E),2020-10-01,,???,,,,
 611,32,Whiteknights Park (W),2020-10-01,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
-611,33,Whiteknights Park (W),2020-10-01,,Muscidae,Muscina prolapsa,m,,
+611,33,Whiteknights Park (W),2020-10-01,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
 611,34,Whiteknights Park (W),2020-10-01,,Anthomyiidae,,f,,
 611,35,Whiteknights Park (W),2020-10-01,,Anthomyiidae,,f,,
 611,36,Whiteknights Park (W),2020-10-01,Hymenoptera,Ichneumonidae,,f,,
@@ -48,4 +48,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 611,47,The Wilderness (W),2020-10-03,,Anthomyiidae,Anthomyia sp,f,,
 611,48,The Wilderness (W),2020-10-03,,Anthomyiidae,Anthomyia sp,m,,
 611,49,The Wilderness (W),2020-10-03,,Anthomyiidae,Anthomyia sp,f,,
-611,50,The Wilderness (W),2020-10-03,,Muscidae,Neomyia sp,m,,
+611,50,The Wilderness (W),2020-10-03,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion

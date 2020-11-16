@@ -7,8 +7,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 610,6,Whiteknights Park (W),2020-09-29,Hymenoptera,Ichneumonidae,,m,,
 610,7,Whiteknights Park (W),2020-09-29,,Sciomyzidae,Dichetophora obliterata,m,"Rozkosny, 1984",
 610,8,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
-610,9,Whiteknights Park (W),2020-09-29,,Muscidae,Helina sp,f,,
-610,10,Whiteknights Park (W),2020-09-29,,Muscidae,Helina evecta,m,,
+610,9,Whiteknights Park (W),2020-09-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+610,10,Whiteknights Park (W),2020-09-29,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 610,11,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,12,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,13,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
@@ -16,10 +16,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 610,15,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,16,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,17,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
-610,18,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia sp,f,,
-610,19,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia sp,f,,
-610,20,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia sp,m,,
-610,21,Whiteknights Park (W),2020-09-29,,Muscidae,Hebecnema vespertina,f,,
+610,18,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Othellia caesarion
+610,19,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Othellia caesarion
+610,20,Whiteknights Park (W),2020-09-29,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Othellia caesarion
+610,21,Whiteknights Park (W),2020-09-29,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 610,22,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,23,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 610,24,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 610,27,Whiteknights Park (W),2020-09-29,,Anthomyiidae,Delia platura,m,,
 610,28,Whiteknights Park (W),2020-09-29,,Anthomyiidae,Anthomyia sp,m,,
 610,29,Whiteknights Park (W),2020-09-29,,Anthomyiidae,Anthomyia sp,m,,
-610,30,Whiteknights Park (W),2020-09-29,,Muscidae,Coenosia sp,f,,
+610,30,Whiteknights Park (W),2020-09-29,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 610,31,Whiteknights Park (W),2020-09-29,,Drosophilidae,,f,,
 610,32,Whiteknights Park (W),2020-09-29,,???,,f,,
 610,33,Whiteknights Park (W),2020-09-29,,???,,f,,
@@ -41,12 +41,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 610,40,Whiteknights Park (W),2020-09-30,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
 610,41,Whiteknights Park (W),2020-09-30,,Tachinidae,Macquartia grisea,f,"Belshaw, 1993 +v5c updates",
 610,42,Whiteknights Park (W),2020-09-30,,Rhinophoridae,,f,,
-610,43,Whiteknights Park (W),2020-09-30,,Muscidae,Helina sp,f,,
-610,44,Whiteknights Park (W),2020-09-30,,Muscidae,Helina sp,f,,
+610,43,Whiteknights Park (W),2020-09-30,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+610,44,Whiteknights Park (W),2020-09-30,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 610,45,Whiteknights Park (W),2020-09-30,,Anthomyiidae,,f,,
-610,46,Whiteknights Park (W),2020-09-30,,Muscidae,Helina sp,f,,
-610,47,Whiteknights Park (W),2020-09-30,,Muscidae,Helina sp,f,,
-610,48,Whiteknights Park (W),2020-09-30,,Muscidae,Helina sp,f,,
+610,46,Whiteknights Park (W),2020-09-30,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Hind legs missing
+610,47,Whiteknights Park (W),2020-09-30,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+610,48,Whiteknights Park (W),2020-09-30,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 610,49,Whiteknights Park (W),2020-09-30,,Lauxaniidae,Calliopum sp,f,,
 610,50,Whiteknights Park (W),2020-09-30,,Lauxaniidae,Minettia fasciata,,,
 610,51,Whiteknights Park (W),2020-09-30,,Lauxaniidae,Minettia fasciata,,,

@@ -24,9 +24,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 634,23,Thames Valley Park,2020-11-15,,Anthomyiidae,Delia platura,m,,
 634,24,Thames Valley Park,2020-11-15,,Anthomyiidae,,m,,
 634,25,Whiteknights Park (E-FH),2020-11-16,,Calliphoridae,Calliphora vicina,f,,
-634,26,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Phaonia subventa,f,,
-634,27,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina sp,f,,
-634,28,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina sp,f,,Antennae missing
+634,26,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+634,27,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+634,28,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Antennae missing
 634,29,Whiteknights Park (E-FH),2020-11-16,,Anthomyiidae,,f,,
 634,30,Whiteknights Park (E-FH),2020-11-16,,Phoridae,,,,
 634,31,Whiteknights Park (W),2020-11-16,,Anthomyiidae,,f,,
