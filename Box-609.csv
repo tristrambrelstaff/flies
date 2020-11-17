@@ -23,11 +23,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 609,22,Whiteknights Park (E-FH),2020-09-28,,Calliphoridae,Pollenia sp,f,,
 609,23,Whiteknights Park (E-FH),2020-09-28,,Calliphoridae,Pollenia sp,m,,
 609,24,Whiteknights Park (E-FH),2020-09-28,,Calliphoridae,Pollenia sp,m,,
-609,25,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina sp,f,,
-609,26,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina sp,f,,
-609,27,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina sp,f,,
-609,28,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina sp,f,,
-609,29,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina sp,f,,
+609,25,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+609,26,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+609,27,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata; Mid tibia has antero-dorsal bristle
+609,28,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+609,29,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 609,30,Whiteknights Park (E-FH),2020-09-28,,Anthomyiidae,,f,,
 609,31,Whiteknights Park (E-FH),2020-09-28,,Anthomyiidae,,f,,
 609,32,Whiteknights Park (E-FH),2020-09-28,,Anthomyiidae,,f,,
@@ -53,9 +53,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 609,52,Whiteknights Park (E-FH),2020-09-28,,Anthomyiidae,Delia platura,m,,
 609,53,Whiteknights Park (E-FH),2020-09-28,,Anthomyiidae,,m,,
 609,54,Whiteknights Park (E-FH),2020-09-28,,Heleomyzidae,,f,,
-609,55,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia sp,f,,
-609,56,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia sp,m,,
-609,57,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia sp,f,,
+609,55,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+609,56,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
+609,57,Whiteknights Park (E-FH),2020-09-28,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 609,58,Whiteknights Park (E-FH),2020-09-28,,Agromyzidae,,f,,
 609,59,Whiteknights Park (E-FH),2020-09-28,,Sphaeroceridae,,,,
 609,60,Whiteknights Park (E-FH),2020-09-28,,Ephydridae,Hydrellia sp,,,
@@ -64,7 +64,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 609,63,Whiteknights Park (W),2020-09-29,,Opomyzidae,Opomyza sp,m,,
 609,64,Whiteknights Park (W),2020-09-29,,Opomyzidae,Opomyza sp,m,,
 609,65,Whiteknights Park (W),2020-09-29,,Opomyzidae,Opomyza sp,m,,
-609,66,Whiteknights Park (W),2020-09-29,,Tachinidae,Siphon geniculata,m,"Belshaw, 1993 +v5c updates",
+609,66,Whiteknights Park (W),2020-09-29,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 609,67,Whiteknights Park (W),2020-09-29,,Anthomyiidae,,f,,
 609,68,Whiteknights Park (W),2020-09-29,,Chloropidae,,f,,
 609,69,Whiteknights Park (W),2020-09-29,,Sphaeroceridae,,m,,
