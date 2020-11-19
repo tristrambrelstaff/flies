@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 606,1,Thames Valley Park,2020-09-26,,Tachinidae,Winthemia quadripustulata,f,"Belshaw, 1993 +v5c updates",
-606,2,Thames Valley Park,2020-09-26,,Muscidae,Lucilia caesar,m,,
+606,2,Thames Valley Park,2020-09-26,,Calliphoridae,Lucilia caesar,m,,
 606,3,Thames Valley Park,2020-09-26,,Sarcophagidae,Sarcophaga sp,f,,
 606,4,Thames Valley Park,2020-09-26,,Sarcophagidae,Sarcophaga sp,f,,
-606,5,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
-606,6,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
-606,7,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
+606,5,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+606,6,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+606,7,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 606,8,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
 606,9,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
 606,10,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,f,,
@@ -19,12 +19,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 606,18,Thames Valley Park,2020-09-26,,Muscidae,Helina sp,f,,
 606,19,Thames Valley Park,2020-09-26,,Muscidae,Helina sp,f,,
 606,20,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
-606,21,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,,
+606,21,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 606,22,Thames Valley Park,2020-09-26,,Muscidae,Helina sp,f,,
-606,23,Thames Valley Park,2020-09-26,,Muscidae,Lispe tentaculata,m,,
-606,24,Thames Valley Park,2020-09-26,,Muscidae,Lispe tentaculata,m,,
-606,25,Thames Valley Park,2020-09-26,,Muscidae,Helina sp,f,,
-606,26,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,f,,
+606,23,Thames Valley Park,2020-09-26,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
+606,24,Thames Valley Park,2020-09-26,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
+606,25,Thames Valley Park,2020-09-26,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+606,26,Thames Valley Park,2020-09-26,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 606,27,Thames Valley Park,2020-09-26,,Muscidae,Hebecnema sp,f,,
 606,28,Thames Valley Park,2020-09-26,,Muscidae,Phaonia sp,f,,
 606,29,Thames Valley Park,2020-09-26,,Muscidae,Phaonia sp,m,,
@@ -47,8 +47,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 606,46,Thames Valley Park,2020-09-26,,Anthomyiidae,Delia platura,m,,
 606,47,Thames Valley Park,2020-09-26,,Agromyzidae,,f,,
 606,48,Thames Valley Park,2020-09-26,,???,,,,
-606,49,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea sp,m,,
-606,50,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea sp,m,,
-606,51,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea sp,m,,
-606,52,Quarry near Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,,
-606,53,Quarry near Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,,
+606,49,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+606,50,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+606,51,Quarry near Chazey Wood,2020-09-27,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
+606,52,Quarry near Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+606,53,Quarry near Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
