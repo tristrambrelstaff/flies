@@ -5,9 +5,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 636,4,Whiteknights Park (W),2020-11-21,,Anthomyiidae,Delia platura,m,,
 636,5,Whiteknights Park (W),2020-11-21,,Anthomyiidae,Delia platura,m,,
 636,6,The Wilderness (W),2020-11-21,,Sphaeroceridae,Copromyza sp,m,,
-636,7,The Wilderness (W),2020-11-21,,Muscidae,Phanonia rufiventris,f,,
+636,7,The Wilderness (W),2020-11-21,,Muscidae,Phanonia rufiventris,f,"Fonseca, 1968",Phaonia populi
 636,8,The Wilderness (W),2020-11-21,,Heleomyzidae,,f,,
-636,9,The Wilderness (W),2020-11-21,,Muscidae,Phaonia subventa,f,,
+636,9,The Wilderness (W),2020-11-21,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 636,10,The Wilderness (W),2020-11-21,,Anthomyiidae,Hylemya sp,f,,
 636,11,The Wilderness (W),2020-11-21,,Calliphoridae,Calliphora vicina,f,,
 636,12,The Wilderness (W),2020-11-21,,Phoridae,,,,
@@ -16,9 +16,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 636,15,Whiteknights Park (E),2020-11-21,,Calliphoridae,Calliphora vicina,f,,
 636,16,Whiteknights Park (E),2020-11-21,,Tachinidae,Macquartia dispar,f,"Belshaw, 1993 +v5c updates",
 636,17,Whiteknights Park (E),2020-11-21,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-636,18,Whiteknights Park (E),2020-11-21,,Muscidae,Helina evecta,m,,
-636,19,Whiteknights Park (E),2020-11-21,,Muscidae,Helina evecta,m,,
-636,20,Whiteknights Park (E),2020-11-21,,Muscidae,Musca autumnalis,m,,
+636,18,Whiteknights Park (E),2020-11-21,,Muscidae,Phanonia trimaculata,m,"Fonseca, 1968",
+636,19,Whiteknights Park (E),2020-11-21,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+636,20,Whiteknights Park (E),2020-11-21,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 636,21,Whiteknights Park (E),2020-11-21,,Anthomyiidae,,f,,
 636,22,Whiteknights Park (E),2020-11-21,,Anthomyiidae,Hylemya sp,f,,
 636,23,Whiteknights Park (E),2020-11-21,,Anthomyiidae,Hylemya sp,f,,
