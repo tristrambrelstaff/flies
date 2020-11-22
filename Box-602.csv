@@ -6,20 +6,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 602,5,The Wilderness (W),2020-09-21,,Sarcophagidae,Sarcophaga sp,f,,
 602,6,The Wilderness (W),2020-09-21,,Sarcophagidae,Sarcophaga sp,m,,
 602,7,The Wilderness (W),2020-09-21,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
-602,8,The Wilderness (W),2020-09-21,,Muscidae,Phaonia sp,f,,
+602,8,The Wilderness (W),2020-09-21,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 602,9,The Wilderness (W),2020-09-21,,Heleomyzidae,,m,,
 602,10,The Wilderness (W),2020-09-21,,Scathophagidae,Scathophaga stercoraria,m,,
 602,11,The Wilderness (W),2020-09-21,,Scathophagidae,Scathophaga stercoraria,m,,
-602,12,The Wilderness (W),2020-09-21,,Muscidae,Phaonia subventa,m,,
-602,13,The Wilderness (W),2020-09-21,,Muscidae,Phaonia subventa,f,,
-602,14,The Wilderness (W),2020-09-21,,Muscidae,Helina sp,f,,
-602,15,The Wilderness (W),2020-09-21,,Muscidae,Helina sp,f,,
-602,16,The Wilderness (W),2020-09-21,,Muscidae,Helina sp,f,,
-602,17,The Wilderness (W),2020-09-21,,Muscidae,Helina sp,f,,
-602,18,The Wilderness (W),2020-09-21,,Muscidae,Helina sp,f,,
-602,19,The Wilderness (W),2020-09-21,,Muscidae,Phaonia pallida,f,,
-602,20,The Wilderness (W),2020-09-21,,Muscidae,Mydaea sp,f,,
-602,21,The Wilderness (W),2020-09-21,,Muscidae,Helina evecta,f,,
+602,12,The Wilderness (W),2020-09-21,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+602,13,The Wilderness (W),2020-09-21,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+602,14,The Wilderness (W),2020-09-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+602,15,The Wilderness (W),2020-09-21,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+602,16,The Wilderness (W),2020-09-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+602,17,The Wilderness (W),2020-09-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+602,18,The Wilderness (W),2020-09-21,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Body greasy
+602,19,The Wilderness (W),2020-09-21,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+602,20,The Wilderness (W),2020-09-21,,Muscidae,Mydaea detrita,f,"Fonseca, 1968",As Mydaea electa
+602,21,The Wilderness (W),2020-09-21,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 602,22,The Wilderness (W),2020-09-21,Hymenoptera,Ichneumonidae,,m,,
 602,23,The Wilderness (W),2020-09-21,Hymenoptera,Ichneumonidae,,m,,
 602,24,The Wilderness (W),2020-09-21,Hymenoptera,Ichneumonidae,,m,,
@@ -39,5 +39,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 602,38,The Wilderness (W),2020-09-21,,Phoriidae,,f,,
 602,39,Whiteknights Park (E-FH),2020-09-22,Hymenoptera,Ichneumonidae,,m,,
 602,40,Whiteknights Park (E-FH),2020-09-22,Hymenoptera,Ichneumonidae,,m,,
-602,41,Whiteknights Park (E-FH),2020-09-22,,Muscidae,Phaonia valida,f,,
-602,42,Whiteknights Park (E-FH),2020-09-22,,Muscidae,Phaonia valida,f,,
+602,41,Whiteknights Park (E-FH),2020-09-22,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+602,42,Whiteknights Park (E-FH),2020-09-22,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum

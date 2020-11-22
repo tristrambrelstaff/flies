@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 601,1,Thames Valley Park,2020-09-19,Hymenoptera,Vespidae,,f,,
-601,2,Thames Valley Park,2020-09-19,,Muscidae,Helina sp,f,,
-601,3,Thames Valley Park,2020-09-19,,Muscidae,Helina sp,f,,
-601,4,Thames Valley Park,2020-09-19,,Muscidae,Helina sp,f,,
+601,2,Thames Valley Park,2020-09-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+601,3,Thames Valley Park,2020-09-19,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+601,4,Thames Valley Park,2020-09-19,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 601,5,Thames Valley Park,2020-09-19,Hymenoptera,Ichneumonidae,,m,,
 601,6,Thames Valley Park,2020-09-19,Hymenoptera,Ichneumonidae,,m,,
 601,7,Thames Valley Park,2020-09-19,Hymenoptera,Ichneumonidae,,m,,
@@ -36,11 +36,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 601,35,Whiteknights Park (E),2020-09-20,,Sarcophagidae,Sarcophaga sp,f,,
 601,36,Whiteknights Park (E),2020-09-20,,Calliphoridae,Lucilia sp,f,,
 601,37,Whiteknights Park (E),2020-09-20,,Scathophagidae,Scathophaga stercoraria,f,,
-601,38,Whiteknights Park (E),2020-09-20,,Muscidae,Helina sp,f,,
-601,39,Whiteknights Park (E),2020-09-20,,Muscidae,Helina sp,f,,
+601,38,Whiteknights Park (E),2020-09-20,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+601,39,Whiteknights Park (E),2020-09-20,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 601,40,Whiteknights Park (E),2020-09-20,,Anthomyiidae,,f,,
 601,41,Whiteknights Park (E),2020-09-20,,Anthomyiidae,,f,,
-601,42,Whiteknights Park (E),2020-09-20,,Muscidae,Muscina levida,m,,
+601,42,Whiteknights Park (E),2020-09-20,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 601,43,Whiteknights Park (E),2020-09-20,,Sarcophagidae,Sarcophaga sp,m,,
 601,44,Whiteknights Park (E),2020-09-20,Hymenoptera,Ichneumonidae,,m,,
 601,45,Whiteknights Park (E),2020-09-20,Hymenoptera,Ichneumonidae,,m,,
