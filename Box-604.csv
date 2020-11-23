@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-604,1,Whiteknights Park (E),2020-09-24,,Muscidae,Helina sp,f,,
+604,1,Whiteknights Park (E),2020-09-24,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 604,2,Whiteknights Park (E),2020-09-24,,Anthomyiidae,,f,,
 604,3,Whiteknights Park (E),2020-09-24,,Anthomyiidae,,f,,
 604,4,Whiteknights Park (E),2020-09-24,,Anthomyiidae,Hylemya sp,f,,
@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 604,20,The Wilderness (E),2020-09-24,,Heleomyzidae,,m,,
 604,21,The Wilderness (E),2020-09-24,,Drosophilidae,,f,,
 604,22,The Wilderness (E),2020-09-24,,Fanniidae,Fannia sp,f,,
-604,23,The Wilderness (E),2020-09-24,,Muscidae,Coenosia sp,f,,
+604,23,The Wilderness (E),2020-09-24,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 604,24,The Wilderness (E),2020-09-24,,Dolichopodidae,,f,,
 604,25,The Wilderness (E),2020-09-24,,Dolichopodidae,,m,,
 604,26,The Wilderness (W),2020-09-24,Hymenoptera,Ichneumonidae,,,,
@@ -31,13 +31,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 604,30,The Wilderness (W),2020-09-24,,Anthomyiidae,,f,,
 604,31,The Wilderness (W),2020-09-24,,Sphaeroceridae,Copromyza sp,,,
 604,32,The Wilderness (W),2020-09-25,Hymenoptera,Ichneumonidae,,m,,
-604,33,The Wilderness (W),2020-09-25,,Muscidae,Neomyia sp,f,,
-604,34,The Wilderness (W),2020-09-25,,Muscidae,Neomyia sp,f,,
-604,35,The Wilderness (W),2020-09-25,,Muscidae,Helina evecta,m,,
-604,36,The Wilderness (W),2020-09-25,,Muscidae,Helina evecta,f,,
-604,37,The Wilderness (W),2020-09-25,,Muscidae,Helina sp,f,,
+604,33,The Wilderness (W),2020-09-25,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+604,34,The Wilderness (W),2020-09-25,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
+604,35,The Wilderness (W),2020-09-25,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+604,36,The Wilderness (W),2020-09-25,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+604,37,The Wilderness (W),2020-09-25,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 604,38,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
-604,39,The Wilderness (W),2020-09-25,,Muscidae,Helina sp,f,,
+604,39,The Wilderness (W),2020-09-25,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 604,40,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
 604,41,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
 604,42,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
@@ -60,6 +60,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 604,59,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
 604,60,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
 604,61,The Wilderness (W),2020-09-25,,Anthomyiidae,,f,,
-604,62,The Wilderness (W),2020-09-25,,Muscidae,Coenosia sp,f,,
-604,63,The Wilderness (W),2020-09-25,,Muscidae,Coenosia sp,f,,
-604,64,The Wilderness (W),2020-09-25,,Muscidae,Coenosia sp,f,,
+604,62,The Wilderness (W),2020-09-25,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+604,63,The Wilderness (W),2020-09-25,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+604,64,The Wilderness (W),2020-09-25,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
