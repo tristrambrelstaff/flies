@@ -21,17 +21,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 637,20,Whiteknights Park (E-FH),2020-11-24,,Calliphoridae,Calliphora vicina,f,,
 637,21,Whiteknights Park (E-FH),2020-11-24,,Calliphoridae,Calliphora vicina,m,,
 637,22,Whiteknights Park (E-FH),2020-11-24,,Calliphoridae,Calliphora vicina,m,,
-637,23,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,,
-637,24,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,,
-637,25,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,,
-637,26,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina sp,f,,
-637,27,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia sp,f,,
-637,28,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina sp,f,,
-637,29,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia sp,f,,
+637,23,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+637,24,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+637,25,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+637,26,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+637,27,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+637,28,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+637,29,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 637,30,Whiteknights Park (E-FH),2020-11-24,,Calliphoridae,Pollenia sp,m,,
-637,31,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina sp,f,,
+637,31,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina reversio,f,"Fonseca, 1968",
 637,32,Whiteknights Park (E-FH),2020-11-24,,Scathophagidae,Scathophaga stercoraria,m,,
-637,33,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Helina evecta,m,,
+637,33,Whiteknights Park (E-FH),2020-11-24,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
 637,34,Whiteknights Park (E-FH),2020-11-24,,Anthomyiidae,Hylemya sp,f,,
 637,35,Whiteknights Park (E-FH),2020-11-24,,Heleomyzidae,,f,,
 637,36,Whiteknights Park (E-FH),2020-11-24,,Heleomyzidae,,f,,
