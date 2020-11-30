@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-598,1,Kings Meadow Tescos,2020-09-16,,Muscidae,Mydaea sp,f,,
-598,2,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia sp,f],,
-598,3,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina sp,f,,
-598,4,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia sp,f,,
-598,5,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina sp,f,,
+598,1,Kings Meadow Tescos,2020-09-16,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
+598,2,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
+598,3,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+598,4,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
+598,5,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 598,6,Kings Meadow Tescos,2020-09-16,,Calliphoridae,Lucilia caesar,m,,
 598,7,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,f,,
 598,8,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,f,,
-598,9,Kings Meadow Tescos,2020-09-16,,Muscidae,Muscina levida,m,,
+598,9,Kings Meadow Tescos,2020-09-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 598,10,Kings Meadow Tescos,2020-09-16,,Anthomyiidae,,f,,
 598,11,Kings Meadow Tescos,2020-09-16,,Sciomyzidae,Coremacera marginata,m,"Rozkosny, 1984",
 598,12,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,f,,
@@ -26,10 +26,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 598,25,Kings Meadow Tescos,2020-09-16,,Dolichopodidae,,f,,
 598,26,Kings Meadow Tescos,2020-09-16,,Dolichopodidae,,f,,
 598,27,Kings Meadow Tescos,2020-09-16,,Dolichopodidae,,f,,
-598,28,Kings Meadow Tescos,2020-09-16,,Muscidae,,f,,
+598,28,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 598,29,Kings Meadow Tescos,2020-09-16,,Fanniidae,Fannia sp,f,,
 598,30,Kings Meadow Tescos,2020-09-16,,Anthomyiidae,,f,,
-598,31,Kings Meadow Tescos,2020-09-16,,Muscidae,Coenosia sp,f,,
+598,31,Kings Meadow Tescos,2020-09-16,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 598,32,Kings Meadow Tescos,2020-09-16,,Lauxaniidae,,,,
 598,33,Kings Meadow Tescos,2020-09-16,,Dolichopodidae,,m,,
 598,34,Kings Meadow Tescos,2020-09-16,,Ephydridae,,,,
@@ -44,13 +44,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 598,43,Whiteknights Park (E-FH),2020-09-17,,Asilidae,,m,,
 598,44,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,,
 598,45,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,,
-598,46,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina sp,m,,
-598,47,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Muscina levida,m,,
-598,48,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina sp,f,,
+598,46,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+598,47,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+598,48,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 598,49,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,,f,,
 598,50,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,,f,,
-598,51,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina sp,m,,
-598,52,Whiteknights Park (E-FH),2020-09-17,,Muscidae,,f,,
+598,51,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+598,52,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 598,53,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,Anthomyia procellaris grp,m,,
 598,54,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,Anthomyia procellaris grp,m,,
 598,55,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,,f,,

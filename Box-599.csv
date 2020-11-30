@@ -1,32 +1,32 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 599,1,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,Anthomyia sp,m,,
 599,2,Whiteknights Park (E-FH),2020-09-17,,Anthomyiidae,Anthomyia sp,m,,
-599,3,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Coenosia agromyzina,f,,
-599,4,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Coenosia sp,f,,
+599,3,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+599,4,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Coenosia sp,f,,Body greasy
 599,5,Whiteknights Park (W),2020-09-18,,Tachinidae,Phasia obesa,m,"Belshaw, 1993 +v5c updates",
 599,6,Whiteknights Park (W),2020-09-18,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-599,7,Whiteknights Park (W),2020-09-18,,Muscidae,Neomyia sp,m,,
-599,8,Whiteknights Park (W),2020-09-18,,Muscidae,Neomyia sp,m,,
+599,7,Whiteknights Park (W),2020-09-18,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
+599,8,Whiteknights Park (W),2020-09-18,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
 599,9,Whiteknights Park (W),2020-09-18,Mecoptera,Panorpidae,Panorpa sp,m,,
 599,10,Whiteknights Park (W),2020-09-18,,Asilidae,,m,,
 599,11,Whiteknights Park (W),2020-09-18,,Sarcophagidae,Sarcophaga sp,f,,
 599,12,Whiteknights Park (W),2020-09-18,,Sarcophagidae,Sarcophaga sp,f,,
 599,13,Whiteknights Park (W),2020-09-18,,Sarcophagidae,Sarcophaga sp,m,,
-599,14,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina prolapsa,m,,
-599,15,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina levida,m,,
-599,16,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina levida,m,,
+599,14,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
+599,15,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+599,16,Whiteknights Park (W),2020-09-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 599,17,Whiteknights Park (W),2020-09-18,,Scathophagidae,Scathophaga stercoraria,f,,
 599,18,Whiteknights Park (W),2020-09-18,,Scathophagidae,Scathophaga stercoraria,f,,
 599,19,Whiteknights Park (W),2020-09-18,,Scathophagidae,Scathophaga stercoraria,f,,
-599,20,Whiteknights Park (W),2020-09-18,,Muscidae,Helina sp,m,,
+599,20,Whiteknights Park (W),2020-09-18,,Muscidae,Helina impuncta,m,"Fonseca, 1968 ",As Helina laetifica
 599,21,Whiteknights Park (W),2020-09-18,,Anthomyiidae,,f,,
 599,22,Whiteknights Park (W),2020-09-18,,Anthomyiidae,,f,,
-599,23,Whiteknights Park (W),2020-09-18,,Muscidae,Helina sp,f,,
-599,24,Whiteknights Park (W),2020-09-18,,Muscidae,Helina sp,f,,
+599,23,Whiteknights Park (W),2020-09-18,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+599,24,Whiteknights Park (W),2020-09-18,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 599,25,Whiteknights Park (W),2020-09-18,,Anthomyiidae,,f,,
 599,26,Whiteknights Park (W),2020-09-18,,Anthomyiidae,,f,,
-599,27,Whiteknights Park (W),2020-09-18,,Muscidae,Helina sp,f,,
-599,28,Whiteknights Park (W),2020-09-18,,Muscidae,Coenosia tigrina,f,,
+599,27,Whiteknights Park (W),2020-09-18,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+599,28,Whiteknights Park (W),2020-09-18,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 599,29,Whiteknights Park (W),2020-09-18,Hymenoptera,Ichneumonidae,,m,,
 599,30,Whiteknights Park (W),2020-09-18,Hymenoptera,Ichneumonidae,,m,,
 599,31,Whiteknights Park (W),2020-09-18,Hymenoptera,Ichneumonidae,,m,,

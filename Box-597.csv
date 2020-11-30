@@ -15,12 +15,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 597,14,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,m,,
 597,15,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,m,,
 597,16,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,m,,
-597,17,The Wilderness (W),2020-09-15,,Muscidae,Musca autumnalis,f,,
-597,18,The Wilderness (W),2020-09-15,,Muscidae,Phaonia pallida,f,,
-597,19,The Wilderness (W),2020-09-15,,Muscidae,Phaonia sp,f,,
+597,17,The Wilderness (W),2020-09-15,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",Thorax and head greasy
+597,18,The Wilderness (W),2020-09-15,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+597,19,The Wilderness (W),2020-09-15,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Body greasy
 597,20,The Wilderness (W),2020-09-15,,Anthomyiidae,,f,,
-597,21,The Wilderness (W),2020-09-15,,Muscidae,Helina sp,f,,
-597,22,The Wilderness (W),2020-09-15,,Muscidae,Hebecnema vespertina,f,,
+597,21,The Wilderness (W),2020-09-15,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+597,22,The Wilderness (W),2020-09-15,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 597,23,The Wilderness (W),2020-09-15,,Fanniidae,Fannia sp,m,,
 597,24,The Wilderness (W),2020-09-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
 597,25,The Wilderness (W),2020-09-15,,Anthomyiidae,Anthomyia procellaris grp,m,,
@@ -38,6 +38,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 597,37,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,m,,
 597,38,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,m,,
 597,39,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,m,,
-597,40,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,,
-597,41,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,,
-597,42,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,,
+597,40,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+597,41,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
+597,42,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
