@@ -1,18 +1,18 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 595,1,The Wilderness (E),2020-09-13,,Calliphoridae,Calliphora vicina,f,,
 595,2,The Wilderness (E),2020-09-13,,Calliphoridae,Lucilia caesar,m,,
-595,3,The Wilderness (E),2020-09-13,,Muscidae,Phaonia sp,m,,
-595,4,The Wilderness (E),2020-09-13,,Muscidae,Phaonia subventa,f,,
-595,5,The Wilderness (E),2020-09-13,,Muscidae,Phaonia pallida,f,,
-595,6,The Wilderness (E),2020-09-13,,Muscidae,Muscina levida,m,,
-595,7,The Wilderness (E),2020-09-13,,Muscidae,Muscina levida,m,,
-595,8,The Wilderness (E),2020-09-13,,Muscidae,Helina sp,f,,
-595,9,The Wilderness (E),2020-09-13,,Muscidae,Helina sp,f,,
-595,10,The Wilderness (E),2020-09-13,,Muscidae,Phaonia palpata,f,,
-595,11,The Wilderness (E),2020-09-13,,Muscidae,Musca autumnalis,m,,
+595,3,The Wilderness (E),2020-09-13,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
+595,4,The Wilderness (E),2020-09-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+595,5,The Wilderness (E),2020-09-13,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+595,6,The Wilderness (E),2020-09-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+595,7,The Wilderness (E),2020-09-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+595,8,The Wilderness (E),2020-09-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+595,9,The Wilderness (E),2020-09-13,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+595,10,The Wilderness (E),2020-09-13,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
+595,11,The Wilderness (E),2020-09-13,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 595,12,The Wilderness (E),2020-09-13,,Heleomyzidae,,m,,
 595,13,The Wilderness (E),2020-09-13,,Heleomyzidae,,m,,
-595,14,The Wilderness (E),2020-09-13,,Muscidae,Limnophora sp,f,,
+595,14,The Wilderness (E),2020-09-13,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 595,15,The Wilderness (E),2020-09-13,Hymenoptera,Ichneumonidae,,f,,
 595,16,The Wilderness (E),2020-09-13,Hymenoptera,Ichneumonidae,,m,,
 595,17,The Wilderness (E),2020-09-13,Hymenoptera,Ichneumonidae,,m,,

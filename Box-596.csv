@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 596,2,Whiteknights Park (E),2020-09-13,,Anthomyiidae,,f,,
 596,3,Whiteknights Park (E),2020-09-13,,Anthomyiidae,,f,,
 596,4,Whiteknights Park (E),2020-09-13,,Anthomyiidae,,f,,
-596,5,Whiteknights Park (E),2020-09-13,,Muscidae,Hebecnema vespertina,m,,Halteres yellow; Wings darkened
+596,5,Whiteknights Park (E),2020-09-13,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 596,6,Whiteknights Park (E),2020-09-13,,Pipunculidae,,,,
 596,7,Whiteknights Park (E),2020-09-13,,Lauxaniidae,,f,,
 596,8,Whiteknights Park (E),2020-09-13,Hymenoptera,Ichneumonidae,,m,,
@@ -30,12 +30,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 596,29,Chazey Wood,2020-09-14,,Sarcophagidae,Sarcophaga sp,m,,
 596,30,Chazey Wood,2020-09-14,,Sarcophagidae,Sarcophaga sp,f,,
 596,31,Chazey Wood,2020-09-14,,Calliphoridae,Melinda sp,m,,
-596,32,Chazey Wood,2020-09-14,,Muscidae,Muscina levida,m,,
-596,33,Chazey Wood,2020-09-14,,Muscidae,Helina sp,f,,
-596,34,Chazey Wood,2020-09-14,,Muscidae,Helina sp,f,,
-596,35,Chazey Wood,2020-09-14,,Muscidae,Helina sp,f,,
-596,36,Chazey Wood,2020-09-14,,Muscidae,Helina sp,f,,
-596,37,Chazey Wood,2020-09-14,,Muscidae,Helina sp,f,,
+596,32,Chazey Wood,2020-09-14,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+596,33,Chazey Wood,2020-09-14,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+596,34,Chazey Wood,2020-09-14,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+596,35,Chazey Wood,2020-09-14,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+596,36,Chazey Wood,2020-09-14,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+596,37,Chazey Wood,2020-09-14,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 596,38,Chazey Wood,2020-09-14,,Anthomyiidae,Anthomyia procellaris grp,m,,
 596,39,Chazey Wood,2020-09-14,,Anthomyiidae,Anthomyia procellaris grp,m,,
 596,40,Chazey Wood,2020-09-14,,Drosophilidae,,,,
@@ -44,7 +44,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 596,43,Chazey Wood,2020-09-14,,Fanniidae,Fannia sp,m,,
 596,44,Chazey Wood,2020-09-14,,Fanniidae,Fannia sp,m,,
 596,45,Chazey Wood,2020-09-14,,Fanniidae,Fannia armata,m,,
-596,46,Chazey Wood,2020-09-14,,Muscidae,,f,,
+596,46,Chazey Wood,2020-09-14,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 596,47,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,m,,
 596,48,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,f,,
 596,49,The Wilderness (W),2020-09-15,Hymenoptera,Ichneumonidae,,f,,
