@@ -1,10 +1,10 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 593,1,The Wilderness (W),2020-09-11,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
-593,2,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
-593,3,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
-593,4,The Wilderness (W),2020-09-11,,Muscidae,Helina sp,f,,
-593,5,The Wilderness (W),2020-09-11,,Muscidae,Phaonia pallida,f,,
-593,6,The Wilderness (W),2020-09-11,,Muscidae,Mydaea sp,f,,
+593,2,The Wilderness (W),2020-09-11,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Abdomen greasy
+593,3,The Wilderness (W),2020-09-11,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
+593,4,The Wilderness (W),2020-09-11,,Muscidae,Helina reversio,f,"Fonseca, 1968",Font tibia has posterior bristle
+593,5,The Wilderness (W),2020-09-11,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+593,6,The Wilderness (W),2020-09-11,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
 593,7,The Wilderness (W),2020-09-11,,Anthomyiidae,Mycophaga testacea,f,,
 593,8,The Wilderness (W),2020-09-11,,Sarcophagidae,Sarcophaga sp,f,,
 593,9,The Wilderness (W),2020-09-11,,Sarcophagidae,Sarcophaga sp,m,,
@@ -14,9 +14,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 593,13,The Wilderness (W),2020-09-11,,Hybotidae,Hybos sp,m,,
 593,14,The Wilderness (W),2020-09-11,,Heleomyzidae,,m,,
 593,15,The Wilderness (W),2020-09-11,,Opomyzidae,Opomyza sp,f,,
-593,16,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,,
-593,17,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,,
-593,18,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,,
+593,16,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+593,17,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Body greasy
+593,18,The Wilderness (W),2020-09-11,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Body greasy
 593,19,The Wilderness (W),2020-09-11,,Clusiidae,,m,,
 593,20,The Wilderness (W),2020-09-11,,Clusiidae,,m,,
 593,21,Whiteknights Park (W),2020-09-11,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 593,30,Kennet Mouth (E),2020-09-12,,Sarcophagidae,Sarcophaga sp,f,,
 593,31,Kennet Mouth (E),2020-09-12,,Sarcophagidae,Sarcophaga sp,m,,
 593,32,Kennet Mouth (E),2020-09-12,,Sarcophagidae,Sarcophaga sp,m,,
-593,33,Kennet Mouth (E),2020-09-12,,Muscidae,Phaonia pallida,f,,
-593,34,Kennet Mouth (E),2020-09-12,,Muscidae,Helina sp,m,,
+593,33,Kennet Mouth (E),2020-09-12,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+593,34,Kennet Mouth (E),2020-09-12,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 593,35,Kennet Mouth (E),2020-09-12,,Calliphoridae,Calliphora vicina,f,,
 593,36,Kennet Mouth (E),2020-09-12,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 593,37,Kennet Mouth (E),2020-09-12,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",

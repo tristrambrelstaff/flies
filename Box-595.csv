@@ -20,11 +20,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 595,19,The Wilderness (E),2020-09-13,,Fanniidae,Fannia sp,m,,
 595,20,The Wilderness (E),2020-09-13,,Fanniidae,Fannia sp,m,,
 595,21,The Wilderness (E),2020-09-13,,Fanniidae,Fannia sp,m,,
-595,22,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,,
-595,23,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,,
+595,22,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognata agromyzina
+595,23,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognata agromyzina
 595,24,The Wilderness (E),2020-09-13,,Fanniidae,Fannia sp,f,,
-595,25,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,,
-595,26,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,,
+595,25,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognata agromyzina
+595,26,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognata agromyzina; Wings damaged
 595,27,The Wilderness (E),2020-09-13,,Dolichopodidae,,m,,
 595,28,The Wilderness (E),2020-09-13,,Dolichopodidae,,m,,
 595,29,The Wilderness (E),2020-09-13,,Dolichopodidae,,f,,
@@ -35,7 +35,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 595,34,The Wilderness (E),2020-09-13,,Dolichopodidae,,m,,
 595,35,The Wilderness (E),2020-09-13,,Dolichopodidae,,m,,
 595,36,The Wilderness (E),2020-09-13,,Platypezidae,,,,
-595,37,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,m,,
+595,37,The Wilderness (E),2020-09-13,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognata agromyzina
 595,38,Whiteknights Park (E),2020-09-13,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
 595,39,Whiteknights Park (E),2020-09-13,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
 595,40,Whiteknights Park (E),2020-09-13,Mecoptera,Panorpidae,Panorpa sp,m,,
@@ -47,8 +47,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 595,46,Whiteknights Park (E),2020-09-13,,Sarcophagidae,Sarcophaga sp,f,,
 595,47,Whiteknights Park (E),2020-09-13,,Calliphoridae,Lucilia sp,f,,
 595,48,Whiteknights Park (E),2020-09-13,,Calliphoridae,Lucilia sp,m,,
-595,49,Whiteknights Park (E),2020-09-13,,Muscidae,Musca autumnalis,m,,
-595,50,Whiteknights Park (E),2020-09-13,,Muscidae,Musca autumnalis,m,,
-595,51,Whiteknights Park (E),2020-09-13,,Muscidae,Helina sp,f,,
-595,52,Whiteknights Park (E),2020-09-13,,Muscidae,Helina sp,f,,
-595,53,Whiteknights Park (E),2020-09-13,,Muscidae,Helina sp,f,,
+595,49,Whiteknights Park (E),2020-09-13,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+595,50,Whiteknights Park (E),2020-09-13,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+595,51,Whiteknights Park (E),2020-09-13,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+595,52,Whiteknights Park (E),2020-09-13,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+595,53,Whiteknights Park (E),2020-09-13,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
