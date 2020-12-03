@@ -17,7 +17,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 589,16,Kings Meadow Tescos,2020-09-06,,Calliphoridae,Melinda sp,f,,
 589,17,Kings Meadow Tescos,2020-09-06,,Calliphoridae,Lucilia sp,f,,
 589,18,Kings Meadow Tescos,2020-09-06,,Calliphoridae,Lucilia sp,f,,
-589,19,Kings Meadow Tescos,2020-09-06,,Muscidae,Phaonia sp,f,,
+589,19,Kings Meadow Tescos,2020-09-06,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 589,20,Kings Meadow Tescos,2020-09-06,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 589,21,Kings Meadow Tescos,2020-09-06,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 589,22,Kings Meadow Tescos,2020-09-06,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
@@ -25,10 +25,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 589,24,Kings Meadow Tescos,2020-09-06,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 589,25,Kings Meadow Tescos,2020-09-06,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 589,26,Kings Meadow Tescos,2020-09-06,,Heleomyzidae,,f,,
-589,27,Kings Meadow Tescos,2020-09-06,,Muscidae,Hydrotaea sp,m,,
+589,27,Kings Meadow Tescos,2020-09-06,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 589,28,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,,f,,
-589,29,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina sp,f,,
-589,30,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina evecta,m,,
+589,29,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Abdomen greasy; Palps orange with black tip
+589,30,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 589,31,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina sp,f,,
 589,32,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina sp,f,,
 589,33,Kings Meadow Tescos,2020-09-06,,Muscidae,Helina sp,f,,
@@ -40,5 +40,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 589,39,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,,f,,
 589,40,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,,f,,
 589,41,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,,f,,
-589,42,Kings Meadow Tescos,2020-09-06,,Muscidae,Limnophora sp,f,,
-589,43,Kings Meadow Tescos,2020-09-06,,Muscidae,Hebecnema vespertina,f,,
+589,42,Kings Meadow Tescos,2020-09-06,,Muscidae,Limnophora tigrina,f,"Fonseca, 1968",
+589,43,Kings Meadow Tescos,2020-09-06,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow

@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 592,1,Whiteknights Park (E),2020-09-10,Mecoptera,Panorpidae,Panorpa sp,m,,
 592,2,Whiteknights Park (E),2020-09-10,Mecoptera,Panorpidae,Panorpa sp,m,,
 592,3,Whiteknights Park (E),2020-09-10,Mecoptera,Panorpidae,Panorpa sp,m,,
-592,4,Whiteknights Park (E),2020-09-10,,Muscidae,Phaonia sp,f,,
+592,4,Whiteknights Park (E),2020-09-10,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 592,5,Whiteknights Park (E),2020-09-10,,Sarcophagidae,Sarcophaga sp,f,,
 592,6,Whiteknights Park (E),2020-09-10,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 592,7,Whiteknights Park (E),2020-09-10,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
@@ -11,21 +11,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 592,10,Whiteknights Park (E),2020-09-10,Hymenoptera,Ichneumonidae,,f,,
 592,11,Whiteknights Park (E),2020-09-10,,Calliphoridae,Lucilia sp,f,,
 592,12,Whiteknights Park (E),2020-09-10,,Heleomyzidae,,m,,
-592,13,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,14,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,15,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,16,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,17,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,18,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,19,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,20,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,21,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,22,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,23,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
-592,24,Whiteknights Park (E),2020-09-10,,Muscidae,Helina sp,f,,
+592,13,Whiteknights Park (E),2020-09-10,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Abdomen greasy
+592,14,Whiteknights Park (E),2020-09-10,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+592,15,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+592,16,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+592,17,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+592,18,Whiteknights Park (E),2020-09-10,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Abdomen greasy
+592,19,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+592,20,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+592,21,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+592,22,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+592,23,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+592,24,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 592,25,Whiteknights Park (E),2020-09-10,,Heleomyzidae,,m,,
-592,26,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema vespertina,m,,
-592,27,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema nigra,,,
+592,26,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+592,27,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 592,28,Whiteknights Park (E),2020-09-10,,Anthomyiidae,Pegomya sp,f,,
 592,29,Whiteknights Park (E),2020-09-10,,Anthomyiidae,Pegomya sp,f,,
 592,30,Whiteknights Park (E),2020-09-10,,Opomyzidae,Opomyza sp,f,,

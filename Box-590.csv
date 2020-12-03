@@ -14,12 +14,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 590,13,Kings Meadow Tescos,2020-09-06,,Dolichopodidae,,m,,
 590,14,Kings Meadow Tescos,2020-09-06,,Dolichopodidae,,m,,
 590,15,Kings Meadow Tescos,2020-09-06,,Fanniidae,Fannia sp,f,,
-590,16,Kings Meadow Tescos,2020-09-06,,Muscidae,Limnophora sp,f,,
-590,17,Kings Meadow Tescos,2020-09-06,,Muscidae,Limnophora sp,f,,
+590,16,Kings Meadow Tescos,2020-09-06,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
+590,17,Kings Meadow Tescos,2020-09-06,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 590,18,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,,m,,
 590,19,Kings Meadow Tescos,2020-09-06,,Anthomyiidae,Anthomyia sp,m,,
-590,20,Kings Meadow Tescos,2020-09-06,,Muscidae,Coenosia sp,f,,
-590,21,Kings Meadow Tescos,2020-09-06,,Muscidae,Limnophora sp,m,,
+590,20,Kings Meadow Tescos,2020-09-06,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor; Body greasy
+590,21,Kings Meadow Tescos,2020-09-06,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 590,22,Kings Meadow Tescos,2020-09-06,,Sphaeroceridae,,,,
 590,23,Kings Meadow Tescos,2020-09-06,,Sphaeroceridae,,,,
 590,24,Kings Meadow Tescos,2020-09-06,,Lonchopteridae,Lonchoptera sp,f,,
@@ -28,8 +28,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 590,27,Kings Meadow Tescos,2020-09-06,,Ephydridae,,,,
 590,28,Kings Meadow Tescos,2020-09-06,,Ephydridae,,,,
 590,29,Whiteknights Park (W),2020-09-07,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
-590,30,Whiteknights Park (W),2020-09-07,,Muscidae,Phaonia sp,f,,
-590,31,Whiteknights Park (W),2020-09-07,,Muscidae,Neomyia sp,m,,
+590,30,Whiteknights Park (W),2020-09-07,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum; Abdomen greasy
+590,31,Whiteknights Park (W),2020-09-07,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 590,32,Whiteknights Park (W),2020-09-07,,Heleomyzidae,,m,,
 590,33,Whiteknights Park (W),2020-09-07,,Heleomyzidae,,m,,
 590,34,Whiteknights Park (W),2020-09-07,,Anthomyiidae,,m,,
@@ -52,10 +52,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 590,51,Whiteknights Park (W),2020-09-07,,Pipunculidae,,m,,
 590,52,Whiteknights Park (W),2020-09-07,,Agromyzidae,,f,,
 590,53,Whiteknights Park (E-FH),2020-09-08,,Stratiomyidae,Sargus bipunctatus,m,"Stubbs & Drake, 2001",
-590,54,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Phaonia sp,f,,
+590,54,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 590,55,Whiteknights Park (E-FH),2020-09-08,,Sarcophagidae,Sarcophaga sp,m,,
-590,56,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Helina sp,f,,
-590,57,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Helina sp,m,,
+590,56,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+590,57,Whiteknights Park (E-FH),2020-09-08,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 590,58,Whiteknights Park (E-FH),2020-09-08,,Mycetophilidae,,m,,
 590,59,Whiteknights Park (E-FH),2020-09-08,,Lauxaniidae,Minettia fasciata,,,
 590,60,Whiteknights Park (E-FH),2020-09-08,,Lauxaniidae,Minettia fasciata,,,
