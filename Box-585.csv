@@ -7,8 +7,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 585,6,Whiteknights Park (W),2020-09-01,Hymenoptera,,,,,
 585,7,Whiteknights Park (W),2020-09-01,,Rhinophoridae,Rhinophora lepida,f,,
 585,8,Whiteknights Park (W),2020-09-01,,Heleomyzidae,,f,,
-585,9,Whiteknights Park (W),2020-09-01,,Muscidae,Muscina levida,m,,
-585,10,Whiteknights Park (W),2020-09-01,,Muscidae,Musca autumnalis,m,,
+585,9,Whiteknights Park (W),2020-09-01,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+585,10,Whiteknights Park (W),2020-09-01,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 585,11,Whiteknights Park (W),2020-09-01,,Sarcophagidae,Sarcophaga sp,m,,
 585,12,Whiteknights Park (W),2020-09-01,,Sarcophagidae,Sarcophaga sp,m,,
 585,13,Whiteknights Park (W),2020-09-01,,Sarcophagidae,Sarcophaga sp,m,,
@@ -27,9 +27,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 585,26,Whiteknights Park (E-FH),2020-09-02,,Conopidae,,,,
 585,27,Whiteknights Park (E-FH),2020-09-02,,Conopidae,,,,
 585,28,Whiteknights Park (E-FH),2020-09-02,,Calliphoridae,Lucilia sericata,f,,
-585,29,Whiteknights Park (E-FH),2020-09-02,,Muscidae,Helina sp,f,,
+585,29,Whiteknights Park (E-FH),2020-09-02,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 585,30,Whiteknights Park (E-FH),2020-09-02,,Anthomyiidae,,f,,
-585,31,Whiteknights Park (E-FH),2020-09-02,,Muscidae,Helina sp,f,,
+585,31,Whiteknights Park (E-FH),2020-09-02,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 585,32,Whiteknights Park (E-FH),2020-09-02,,Anthomyiidae,,m,,
 585,33,Whiteknights Park (E-FH),2020-09-02,Hymenoptera,Ichneumonidae,,m,,
 585,34,Whiteknights Park (E-FH),2020-09-02,Hymenoptera,Ichneumonidae,,m,,

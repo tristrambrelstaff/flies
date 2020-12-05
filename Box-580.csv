@@ -1,23 +1,23 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 580,1,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia sericata,m,,
 580,2,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia sericata,f,,
-580,3,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,,
-580,4,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,,
-580,5,The Wilderness (E),2020-08-29,,Muscidae,Helina sp,f,,
-580,6,The Wilderness (E),2020-08-29,,Muscidae,Phaonia sp,m,,
+580,3,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+580,4,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+580,5,The Wilderness (E),2020-08-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+580,6,The Wilderness (E),2020-08-29,,Muscidae,Phaonia palpata,m,"Fonseca, 1968; Perry & Chandler, 2016",Not Phaonia tiefii
 580,7,The Wilderness (E),2020-08-29,,Dolichopodidae,,m,,
 580,8,The Wilderness (E),2020-08-29,,Phoridae,,,,
 580,9,The Wilderness (E),2020-08-29,,Hybotidae,,,,
 580,10,The Wilderness (E),2020-08-29,,Nematocera,,,,
 580,11,The Wilderness (E),2020-08-29,,Stratiomyidae,Chorisops nagatomii,f,"Stubbs & Drake, 2001",
-580,12,The Wilderness (E),2020-08-29,,Muscidae,Limnophora sp,m,,
-580,13,The Wilderness (E),2020-08-29,,Muscidae,Hebecnema nigra,f,,
-580,14,The Wilderness (E),2020-08-29,,Muscidae,,f,,
-580,15,The Wilderness (E),2020-08-29,,Muscidae,,f,,
-580,16,The Wilderness (E),2020-08-29,,Muscidae,,f,,
-580,17,The Wilderness (E),2020-08-29,,Muscidae,,f,,
-580,18,The Wilderness (E),2020-08-29,,Muscidae,,f,,
-580,19,The Wilderness (E),2020-08-29,,Muscidae,,f,,
+580,12,The Wilderness (E),2020-08-29,,Muscidae,Limnophora maculosa,m,"Fonseca, 1968",
+580,13,The Wilderness (E),2020-08-29,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+580,14,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+580,15,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Body greasy
+580,16,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Body greasy
+580,17,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+580,18,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina; Body greasy
+580,19,The Wilderness (E),2020-08-29,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
 580,20,The Wilderness (W),2020-08-29,,Sarcophagidae,Sarcophaga sp,m,,
 580,21,The Wilderness (W),2020-08-29,Mecoptera,Panorpidae,Panorpa sp,f,,
 580,22,The Wilderness (W),2020-08-29,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
@@ -35,10 +35,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 580,34,The Wilderness (W),2020-08-29,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 580,35,The Wilderness (W),2020-08-29,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
 580,36,The Wilderness (W),2020-08-29,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
-580,37,The Wilderness (W),2020-08-29,,Muscidae,Phaonia pallida,f,,
-580,38,The Wilderness (W),2020-08-29,,Muscidae,Helina sp,m,,
-580,39,The Wilderness (W),2020-08-29,,Muscidae,Helina sp,m,,
-580,40,The Wilderness (W),2020-08-29,,Muscidae,Helina sp,f,,
+580,37,The Wilderness (W),2020-08-29,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+580,38,The Wilderness (W),2020-08-29,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+580,39,The Wilderness (W),2020-08-29,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+580,40,The Wilderness (W),2020-08-29,,Muscidae,Phaonia angelicae,f,"Fonseca, 1968",As Phaonia basalis
 580,41,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,f,,
 580,42,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,m,,
 580,43,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,m,,
