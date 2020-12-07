@@ -1,20 +1,20 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-579,1,Whiteknights Park (E),2020-08-27,,Muscidae,Helina sp,f,,
-579,2,Whiteknights Park (E),2020-08-27,,Muscidae,Helina sp,f,,
-579,3,Whiteknights Park (E),2020-08-27,,Muscidae,Helina sp,f,,
-579,4,Whiteknights Park (E),2020-08-27,,Muscidae,Helina sp,f,,
-579,5,Whiteknights Park (E),2020-08-27,,Muscidae,Helina sp,f,,
+579,1,Whiteknights Park (E),2020-08-27,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+579,2,Whiteknights Park (E),2020-08-27,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+579,3,Whiteknights Park (E),2020-08-27,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps; Body greasy
+579,4,Whiteknights Park (E),2020-08-27,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps; Abdomen greasy
+579,5,Whiteknights Park (E),2020-08-27,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 579,6,Whiteknights Park (E),2020-08-27,,Scathophagidae,Scathophaga stercoraria,m,,
-579,7,Whiteknights Park (E),2020-08-27,,Muscidae,Musca autumnalis,f,,
+579,7,Whiteknights Park (E),2020-08-27,,Muscidae,Musca autumnalis,f,"Fonseca, 1968",
 579,8,Whiteknights Park (E),2020-08-27,,Calliphoridae,Pollenia sp,m,,
 579,9,Whiteknights Park (E),2020-08-27,,Dolichopodidae,,m,,
 579,10,Whiteknights Park (E),2020-08-27,,Dolichopodidae,,f,,
-579,11,Whiteknights Park (E),2020-08-27,,Muscidae,,f,,
+579,11,Whiteknights Park (E),2020-08-27,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 579,12,Whiteknights Park (E),2020-08-27,,Lauxaniidae,,f,,
 579,13,Whiteknights Park (E),2020-08-27,,Lauxaniidae,,f,,
 579,14,Whiteknights Park (E),2020-08-27,,Pipunculidae,,,,
-579,15,Whiteknights Park (E),2020-08-27,,Muscidae,,f,,
-579,16,Whiteknights Park (E),2020-08-27,,Muscidae,Hebecnema vespertina,f,,
+579,15,Whiteknights Park (E),2020-08-27,,Anthomyiidae,Hylemya sp,f,,
+579,16,Whiteknights Park (E),2020-08-27,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 579,17,Whiteknights Park (E),2020-08-27,,Anthomyiidae,,f,,
 579,18,Whiteknights Park (E),2020-08-27,,Sarcophagidae,Blaesoxipha sp,m,,
 579,19,Whiteknights Park (E),2020-08-27,,Anthomyiidae,,m,,
@@ -37,14 +37,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 579,36,Whiteknights Park (E-FH),2020-08-28,,Calliphoridae,Lucilia sericata,m,,
 579,37,Whiteknights Park (E-FH),2020-08-28,,Calliphoridae,Bellardia sp,m,,
 579,38,Whiteknights Park (E-FH),2020-08-28,,Calliphoridae,Pollenia sp,m,,
-579,39,Whiteknights Park (E-FH),2020-08-28,,Muscidae,,f,,
+579,39,Whiteknights Park (E-FH),2020-08-28,,Muscidae,Phaonia magnicornis,f,"Fonseca, 1968",As Wahlgrenia magnicornis
 579,40,Whiteknights Park (E-FH),2020-08-28,,Lauxaniidae,Minettia fasciata,,,
 579,41,Whiteknights Park (E-FH),2020-08-28,,Lauxaniidae,Minettia fasciata,,,
-579,42,Whiteknights Park (E-FH),2020-08-28,,Muscidae,Helina sp,f,,
+579,42,Whiteknights Park (E-FH),2020-08-28,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 579,43,Whiteknights Park (E-FH),2020-08-28,,Anthomyiidae,,f,,
-579,44,Whiteknights Park (E-FH),2020-08-28,,Muscidae,Helina sp,f,,
+579,44,Whiteknights Park (E-FH),2020-08-28,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 579,45,The Wilderness (E),2020-08-29,Hymenoptera,Ichneumonidae,,f,,
-579,46,The Wilderness (E),2020-08-29,,Muscidae,Coenosia sp,f,,
+579,46,The Wilderness (E),2020-08-29,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
 579,47,The Wilderness (E),2020-08-29,,Heleomyzidae,,m,,
 579,48,The Wilderness (E),2020-08-29,,Heleomyzidae,,f,,
 579,49,The Wilderness (E),2020-08-29,,Heleomyzidae,,f,,
