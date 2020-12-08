@@ -25,8 +25,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 575,24,Whiteknights Park (W),2020-08-24,,Calliphoridae,Pollenia sp,m,,
 575,25,Whiteknights Park (W),2020-08-24,,Calliphoridae,Lucilia sericata,m,,
 575,26,Whiteknights Park (W),2020-08-24,,Calliphoridae,Lucilia sericata,m,,
-575,27,Whiteknights Park (W),2020-08-24,,Muscidae,Phaonia sp,m,,
-575,28,Whiteknights Park (W),2020-08-24,,Muscidae,Graphomya maculata,m,,
+575,27,Whiteknights Park (W),2020-08-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+575,28,Whiteknights Park (W),2020-08-24,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 575,29,Whiteknights Park (W),2020-08-24,,Dolichopodidae,,m,,
 575,30,Whiteknights Park (W),2020-08-24,,Dolichopodidae,,m,,
 575,31,Whiteknights Park (W),2020-08-24,,Dolichopodidae,,f,,
@@ -43,7 +43,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 575,42,Whiteknights Park (W),2020-08-25,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
 575,43,Whiteknights Park (W),2020-08-25,,Sarcophagidae,Sarcophaga sp,f,,
 575,44,Whiteknights Park (W),2020-08-25,,Anthomyiidae,,m,,
-575,45,Whiteknights Park (W),2020-08-25,,Muscidae,Coenosia tigrina,m,,
+575,45,Whiteknights Park (W),2020-08-25,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 575,46,Whiteknights Park (W),2020-08-25,,Anthomyiidae,,f,,
 575,47,Whiteknights Park (W),2020-08-25,,Anthomyiidae,,f,,
 575,48,Whiteknights Park (W),2020-08-25,,Lauxaniidae,Minettia fasciata,,,
