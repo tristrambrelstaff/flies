@@ -24,23 +24,23 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 570,23,Whiteknights Park (W),2020-08-18,,Sarcophagidae,,f,,
 570,24,Whiteknights Park (W),2020-08-18,,Sarcophagidae,,f,,
 570,25,Whiteknights Park (W),2020-08-18,,Anthomyiidae,,m,,
-570,26,Whiteknights Park (W),2020-08-18,,Muscidae,Morellia sp,m,,
+570,26,Whiteknights Park (W),2020-08-18,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 570,27,Whiteknights Park (W),2020-08-18,,Anthomyiidae,Anthomyia sp,f,,
-570,28,Whiteknights Park (W),2020-08-18,,Muscidae,Coenosia sp,m,,
+570,28,Whiteknights Park (W),2020-08-18,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
 570,29,Whiteknights Park (W),2020-08-18,,Anthomyiidae,,m,,
-570,30,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,31,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,32,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,33,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,34,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,35,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
-570,36,Whiteknights Park (E),2020-08-19,,Muscidae,Helina sp,f,,
+570,30,Whiteknights Park (E),2020-08-19,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Body greasy
+570,31,Whiteknights Park (E),2020-08-19,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+570,32,Whiteknights Park (E),2020-08-19,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+570,33,Whiteknights Park (E),2020-08-19,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+570,34,Whiteknights Park (E),2020-08-19,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+570,35,Whiteknights Park (E),2020-08-19,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+570,36,Whiteknights Park (E),2020-08-19,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 570,37,Whiteknights Park (E),2020-08-19,,Anthomyiidae,,f,,
 570,38,Whiteknights Park (E),2020-08-19,,Anthomyiidae,,f,,
 570,39,Whiteknights Park (E),2020-08-19,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 570,40,Whiteknights Park (E),2020-08-19,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 570,41,Whiteknights Park (E),2020-08-19,,Calliphoridae,Lucilia sp,m,,
-570,42,Whiteknights Park (E),2020-08-19,,Muscidae,Hebecnema nigra,m,,
+570,42,Whiteknights Park (E),2020-08-19,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 570,43,Whiteknights Park (E),2020-08-19,,Anthomyiidae,,m,,
 570,44,Whiteknights Park (E),2020-08-19,,Hybotidae,Hybos sp,m,,
 570,45,Whiteknights Park (E),2020-08-19,,Dolichopodidae,,f,,

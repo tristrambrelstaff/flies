@@ -10,11 +10,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 569,9,Chazey Wood,2020-08-16,,Conopidae,,,,
 569,10,Chazey Wood,2020-08-16,Hymenoptera,Crabronidae,,,,
 569,11,Chazey Wood,2020-08-16,Hymenoptera,Vespidae,,f,,
-569,12,Chazey Wood,2020-08-16,,Muscidae,Musca autumnalis,m,,
-569,13,Chazey Wood,2020-08-16,,Muscidae,Morellia sp,m,,
-569,14,Chazey Wood,2020-08-16,,Muscidae,Phaonia sp,m,,
-569,15,Chazey Wood,2020-08-16,,Muscidae,Helina sp,m,,
-569,16,Chazey Wood,2020-08-16,,Muscidae,Morellia sp,m,,
+569,12,Chazey Wood,2020-08-16,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+569,13,Chazey Wood,2020-08-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+569,14,Chazey Wood,2020-08-16,,Muscidae,Phaonia gobertii,m,"Fonseca, 1968",As Phaonia goberti
+569,15,Chazey Wood,2020-08-16,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+569,16,Chazey Wood,2020-08-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
 569,17,Chazey Wood,2020-08-16,,Sarcophagidae,Sarcophaga sp,f,,
 569,18,Chazey Wood,2020-08-16,,Sarcophagidae,Sarcophaga sp,f,,
 569,19,Chazey Wood,2020-08-16,,Sarcophagidae,Sarcophaga sp,f,,
@@ -27,8 +27,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 569,26,Chazey Wood,2020-08-16,,Calliphoridae,Pollenia sp,m,,
 569,27,Chazey Wood,2020-08-16,,Calliphoridae,Pollenia sp,m,,
 569,28,Chazey Wood,2020-08-16,,Sarcophagidae,Sarcophaga sp,f,,
-569,29,Chazey Wood,2020-08-16,,Muscidae,Helina sp,f,,
-569,30,Chazey Wood,2020-08-16,,Muscidae,Coenosia sp,f,,
+569,29,Chazey Wood,2020-08-16,,Muscidae,Hydrotaea irritans,f,"Fonseca, 1968",
+569,30,Chazey Wood,2020-08-16,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Body greasy
 569,31,Chazey Wood,2020-08-16,,Rhinophoridae,Rhinophora lepida,f,,
 569,32,Chazey Wood,2020-08-16,,Rhinophoridae,Rhinophora lepida,m,,
 569,33,Chazey Wood,2020-08-16,,Anthomyiidae,Anthomyia procellaris grp,m,,
@@ -37,7 +37,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 569,36,The Wilderness (W),2020-08-17,,Asilidae,,f,,
 569,37,The Wilderness (W),2020-08-17,,Sarcophagidae,Sarcophaga sp,f,,
 569,38,The Wilderness (W),2020-08-17,,Sarcophagidae,Sarcophaga sp,m,,
-569,39,The Wilderness (W),2020-08-17,,Muscidae,Phaonia sp,m,,
+569,39,The Wilderness (W),2020-08-17,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
 569,40,The Wilderness (W),2020-08-17,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
 569,41,The Wilderness (W),2020-08-17,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 569,42,The Wilderness (W),2020-08-17,,Conopidae,,,,
