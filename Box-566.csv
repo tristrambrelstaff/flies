@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 566,1,Whiteknights Park (W),2020-08-14,Hymenoptera,Ichneumonidae,,f,,
 566,2,Whiteknights Park (W),2020-08-14,Hymenoptera,Ichneumonidae,,m,,
-566,3,Whiteknights Park (W),2020-08-14,,Muscidae,Helina sp,m,,
+566,3,Whiteknights Park (W),2020-08-14,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 566,4,Whiteknights Park (W),2020-08-14,,Anthomyiidae,,f,,
 566,5,Whiteknights Park (W),2020-08-14,,Anthomyiidae,,f,,
 566,6,Whiteknights Park (W),2020-08-14,,Anthomyiidae,,f,,
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 566,17,Whiteknights Park (W),2020-08-14,,Anthomyiidae,,m,,
 566,18,Whiteknights Park (W),2020-08-14,,Anthomyiidae,,m,,
 566,19,Whiteknights Park (W),2020-08-14,,Calliphoridae,Pollenia sp,m,,
-566,20,Whiteknights Park (W),2020-08-14,,Muscidae,Coenosia sp,f,,
+566,20,Whiteknights Park (W),2020-08-14,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 566,21,Whiteknights Park (W),2020-08-14,,Rhinophoridae,Rhinophora lepida,m,,
 566,22,Whiteknights Park (W),2020-08-14,,Rhinophoridae,Rhinophora lepida,f,,
 566,23,Whiteknights Park (W),2020-08-14,,Calliphoridae,Melanomya nana,m,,
@@ -32,8 +32,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 566,31,Kennet Mouth (E),2020-08-15,,Calliphoridae,Lucilia sericata,m,,
 566,32,Kennet Mouth (E),2020-08-15,,Calliphoridae,Lucilia sericata,m,,
 566,33,Kennet Mouth (E),2020-08-15,,Calliphoridae,Lucilia sericata,m,,
-566,34,Kennet Mouth (E),2020-08-15,,Muscidae,Graphomya maculata,f,,
-566,35,Kennet Mouth (E),2020-08-15,,Muscidae,Phaonia sp,f,,
+566,34,Kennet Mouth (E),2020-08-15,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
+566,35,Kennet Mouth (E),2020-08-15,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 566,36,Kennet Mouth (E),2020-08-15,,Anthomyiidae,,f,,
 566,37,Kennet Mouth (E),2020-08-15,,Anthomyiidae,,f,,
 566,38,Kennet Mouth (E),2020-08-15,,Anthomyiidae,,f,,

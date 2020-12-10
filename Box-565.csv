@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 565,1,Whiteknights Park (E),2020-08-12,,Conopidae,,,,Probiscis missing
 565,2,Whiteknights Park (E),2020-08-12,Hymenoptera,Ichneumonidae,,f,,
 565,3,Whiteknights Park (E),2020-08-12,Hymenoptera,Ichneumonidae,,m,,
-565,4,Whiteknights Park (E),2020-08-12,,Muscidae,Helina sp,f,,
+565,4,Whiteknights Park (E),2020-08-12,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 565,5,Whiteknights Park (E),2020-08-12,,Anthomyiidae,Delia platura,m,,
 565,6,Whiteknights Park (E),2020-08-12,,Anthomyiidae,Anthomyia procellaris grp,m,,
 565,7,Whiteknights Park (E),2020-08-12,,Anthomyiidae,Anthomyia sp,m,,
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 565,17,Whiteknights Park (W),2020-08-13,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates",
 565,18,Whiteknights Park (W),2020-08-13,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates",
 565,19,Whiteknights Park (W),2020-08-13,,Calliphoridae,Lucilia sp,f,,
-565,20,Whiteknights Park (W),2020-08-13,,Muscidae,Graphomya maculata,m,,
+565,20,Whiteknights Park (W),2020-08-13,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 565,21,Whiteknights Park (W),2020-08-13,,Dolichopodidae,,f,,
 565,22,Whiteknights Park (W),2020-08-13,,Anthomyiidae,,f,,
 565,23,Whiteknights Park (W),2020-08-13,Hymenoptera,Ichneumonidae,,m,,
@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 565,25,Whiteknights Park (W),2020-08-13,,Sarcophagidae,Blaesoxipha sp,f,,
 565,26,Whiteknights Park (W),2020-08-13,,Anthomyiidae,,f,,
 565,27,Whiteknights Park (W),2020-08-13,,Anthomyiidae,Anthomyia procellaris grp,m,,
-565,28,Whiteknights Park (W),2020-08-13,,Muscidae,Coenosia sp,m,,
+565,28,Whiteknights Park (W),2020-08-13,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 565,29,Whiteknights Park (W),2020-08-13,,Dolichopodidae,,f,,
 565,30,Whiteknights Park (W),2020-08-13,Hymenoptera,Crabronidae,,f,,30+31 fighting?
 565,31,Whiteknights Park (W),2020-08-13,Hymenoptera,Crabronidae,,f,,30+31 fighting?
@@ -42,5 +42,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 565,41,Whiteknights Park (W),2020-08-14,,Sarcophagidae,Sarcophaga sp,f,,
 565,42,Whiteknights Park (W),2020-08-14,,Calliphoridae,Lucilia sericata,m,,
 565,43,Whiteknights Park (W),2020-08-14,,Calliphoridae,Pollenia sp,m,,
-565,44,Whiteknights Park (W),2020-08-14,,Muscidae,Phaonia sp,f,,
-565,45,Whiteknights Park (W),2020-08-14,,Muscidae,Phaonia sp,f,,
+565,44,Whiteknights Park (W),2020-08-14,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+565,45,Whiteknights Park (W),2020-08-14,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata

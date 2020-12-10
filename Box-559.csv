@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 559,1,The Wilderness (E),2020-08-07,,Scathophagidae,Scathophaga stercoraria,f,,
-559,2,The Wilderness (E),2020-08-07,,Muscidae,Helina sp,f,,
-559,3,The Wilderness (E),2020-08-07,,Muscidae,Eudasyphora cyanella,f,,
+559,2,The Wilderness (E),2020-08-07,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+559,3,The Wilderness (E),2020-08-07,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
 559,4,The Wilderness (E),2020-08-07,,Psilidae,,,,
 559,5,The Wilderness (E),2020-08-07,,Anthomyiidae,Anthomyia procellaris grp,f,,
 559,6,The Wilderness (E),2020-08-07,,Tephritidae,,f,,
@@ -15,12 +15,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 559,14,The Wilderness (E),2020-08-07,,Hybotidae,Hybos sp,f,,
 559,15,The Wilderness (E),2020-08-07,,Dolichopodidae,,f,,
 559,16,The Wilderness (E),2020-08-07,Hymenoptera,Ichneumonidae,,f,,Eyes green
-559,17,The Wilderness (E),2020-08-07,,Muscidae,Hebecnema nigra,m,,
+559,17,The Wilderness (E),2020-08-07,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 559,18,The Wilderness (E),2020-08-07,,Mycetophilidae,,m,,
 559,19,The Wilderness (E),2020-08-07,,Anthomyiidae,,f,,
 559,20,The Wilderness (E),2020-08-07,,Anthomyiidae,,f,,
 559,21,The Wilderness (E),2020-08-07,,Anthomyiidae,,f,,
-559,22,The Wilderness (E),2020-08-07,,Muscidae,Coenosia sp,f,,
+559,22,The Wilderness (E),2020-08-07,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 559,23,The Wilderness (E),2020-08-07,,Fanniidae,Fannia sp,f,,Antennae missing
 559,24,The Wilderness (E),2020-08-07,,Lauxaniidae,,f,,Abdomen irregularly swollen
 559,25,The Wilderness (E),2020-08-07,,Lauxaniidae,,f,,Abdomen irregularly swollen
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 559,41,The Wilderness (E),2020-08-07,,Mycetophilidae,,m,,
 559,42,The Wilderness (E),2020-08-07,,Fanniidae,Fannia sp,f,,
 559,43,The Wilderness (E),2020-08-07,,Anthomyiidae,,m,,
-559,44,The Wilderness (E),2020-08-07,,Muscidae,Coenosia agromyzina,m,,
+559,44,The Wilderness (E),2020-08-07,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
 559,45,The Wilderness (E),2020-08-07,,Sphaeroceridae,,f,,
 559,46,The Wilderness (E),2020-08-07,,Sphaeroceridae,,f,,
 559,47,The Wilderness (E),2020-08-07,,Ephydridae,,,,
@@ -54,9 +54,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 559,53,The Wilderness (W),2020-08-07,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
 559,54,The Wilderness (W),2020-08-07,,Sarcophagidae,Sarcophaga sp,f,,
 559,55,The Wilderness (W),2020-08-07,,Asilidae,,m,,
-559,56,The Wilderness (W),2020-08-07,,Muscidae,Graphomya maculata,m,,
-559,57,The Wilderness (W),2020-08-07,,Muscidae,Graphomya maculata,m,,
-559,58,The Wilderness (W),2020-08-07,,Muscidae,Muscina levida,f,,
+559,56,The Wilderness (W),2020-08-07,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+559,57,The Wilderness (W),2020-08-07,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+559,58,The Wilderness (W),2020-08-07,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 559,59,The Wilderness (W),2020-08-07,Hymenoptera,Ichneumonidae,,m,,
 559,60,The Wilderness (W),2020-08-07,Hymenoptera,Ichneumonidae,,f,,Ovipositor has 6 eggs attached
 559,61,The Wilderness (W),2020-08-07,Hymenoptera,Ichneumonidae,,f,,

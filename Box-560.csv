@@ -37,5 +37,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 560,36,Kings Meadow Tescos,2020-08-08,,Sarcophagidae,Sarcophaga sp,m,,
 560,37,Kings Meadow Tescos,2020-08-08,,Sarcophagidae,Sarcophaga sp,f,,
 560,38,Kings Meadow Tescos,2020-08-08,,Sarcophagidae,Sarcophaga sp,m,,
-560,39,Kings Meadow Tescos,2020-08-08,,Muscidae,Muscina levida,m,,
-560,40,Kings Meadow Tescos,2020-08-08,,Muscidae,Helina sp,m,,
+560,39,Kings Meadow Tescos,2020-08-08,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+560,40,Kings Meadow Tescos,2020-08-08,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
