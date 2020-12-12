@@ -25,20 +25,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 558,24,Whiteknights Park (E-FH),2020-08-06,,Anthomyiidae,Anthomyia procellaris grp,m,,
 558,25,Whiteknights Park (E-FH),2020-08-06,,Fanniidae,Fannia sp,m,,
 558,26,Whiteknights Park (E-FH),2020-08-06,,Anthomyiidae,Anthomyia procellaris grp,m,,
-558,27,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Coenosia agromyzina,m,,
+558,27,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
 558,28,Whiteknights Park (E-FH),2020-08-06,,Sarcophagidae,Sarcophaga sp,m,,
-558,29,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Helina sp,m,,
-558,30,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Helina sp,m,,
+558,29,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Phaonia anceps
+558,30,Whiteknights Park (E-FH),2020-08-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Phaonia anceps
 558,31,Whiteknights Park (E-FH),2020-08-06,,Sarcophagidae,Sarcophaga sp,m,,
 558,32,Whiteknights Park (E-FH),2020-08-06,,Sarcophagidae,Sarcophaga sp,m,,
 558,33,Whiteknights Park (E-FH),2020-08-06,,Sarcophagidae,Blaesoxipha sp,m,,
 558,34,Whiteknights Park (E-FH),2020-08-06,,Sarcophagidae,Blaesoxipha sp,m,,
 558,35,Whiteknights Park (E-FH),2020-08-06,,Anthomyiidae,,m,,
 558,36,The Wilderness (E),2020-08-07,,Scathophagidae,Scathophaga stercoraria,m,,
-558,37,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,,
-558,38,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,,
-558,39,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,,
-558,40,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,,
-558,41,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,,
-558,42,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,,
-558,43,The Wilderness (E),2020-08-07,,Muscidae,Helina sp,f,,
+558,37,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+558,38,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+558,39,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+558,40,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+558,41,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+558,42,The Wilderness (E),2020-08-07,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+558,43,The Wilderness (E),2020-08-07,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
