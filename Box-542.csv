@@ -6,8 +6,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 542,5,The Wilderness (W),2020-07-22,Hymenoptera,Ichneumonidae,,m,,
 542,6,The Wilderness (W),2020-07-22,Hymenoptera,Ichneumonidae,,m,,
 542,7,The Wilderness (W),2020-07-22,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
-542,8,The Wilderness (W),2020-07-22,,Muscidae,Phaonia sp,m,,
-542,9,The Wilderness (W),2020-07-22,,Muscidae,Graphomya maculata,m,,
+542,8,The Wilderness (W),2020-07-22,,Muscidae,Phaonia valida,m,"Fonseca, 1968",As Phaonia viarum
+542,9,The Wilderness (W),2020-07-22,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 542,10,The Wilderness (W),2020-07-22,,Calliphoridae,Lucilia sp,f,,
 542,11,The Wilderness (W),2020-07-22,,Anthomyiidae,Eustalomyia sp,f,,
 542,12,The Wilderness (W),2020-07-22,,Psilidae,Psila sp,m,,

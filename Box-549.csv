@@ -29,11 +29,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 549,28,Whiteknights Park (E),2020-07-29,,Anthomyiidae,Anthomyia procellaris grp,m,,
 549,29,Whiteknights Park (E),2020-07-29,,Anthomyiidae,Anthomyia procellaris grp,m,,
 549,30,Whiteknights Park (E),2020-07-29,,Anthomyiidae,Anthomyia procellaris grp,m,,
-549,31,Whiteknights Park (E),2020-07-29,,Muscidae,Helina sp,m,,
-549,32,Whiteknights Park (E),2020-07-29,,Muscidae,Muscina levida,m,,
-549,33,Whiteknights Park (E),2020-07-29,,Muscidae,Helina sp,m,,
-549,34,Whiteknights Park (E),2020-07-29,,Muscidae,Helina sp,m,,
-549,35,Whiteknights Park (E),2020-07-29,,Muscidae,Helina sp,m,,
+549,31,Whiteknights Park (E),2020-07-29,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+549,32,Whiteknights Park (E),2020-07-29,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+549,33,Whiteknights Park (E),2020-07-29,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+549,34,Whiteknights Park (E),2020-07-29,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+549,35,Whiteknights Park (E),2020-07-29,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 549,36,Whiteknights Park (E),2020-07-29,,Syrphidae,Eristalinus sp,m,,
 549,37,Whiteknights Park (E),2020-07-29,,Rhinophoridae,Rhinophora lepida,f,,
 549,38,Whiteknights Park (E),2020-07-29,,Lauxaniidae,,,,

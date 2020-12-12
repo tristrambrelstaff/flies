@@ -9,9 +9,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 541,8,Whiteknights Park (W),2020-07-21,,Sarcophagidae,Sarcophaga sp,m,,
 541,9,Whiteknights Park (W),2020-07-21,,Sarcophagidae,Sarcophaga sp,m,,
 541,10,Whiteknights Park (W),2020-07-21,,Calliphoridae,Lucilia sp,f,,
-541,11,Whiteknights Park (W),2020-07-21,,Muscidae,Muscina levida,m,,
-541,12,Whiteknights Park (W),2020-07-21,,Muscidae,Morellia sp,m,,
-541,13,Whiteknights Park (W),2020-07-21,,Muscidae,Helina sp,m,,
+541,11,Whiteknights Park (W),2020-07-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+541,12,Whiteknights Park (W),2020-07-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+541,13,Whiteknights Park (W),2020-07-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 541,14,Whiteknights Park (W),2020-07-21,,Anthomyiidae,,m,,
 541,15,Whiteknights Park (W),2020-07-21,,Anthomyiidae,,m,,
 541,16,Whiteknights Park (W),2020-07-21,,Anthomyiidae,,m,,
@@ -22,10 +22,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 541,21,The Wilderness (E),2020-07-22,,Anthomyiidae,Eustalomyia sp,m,,
 541,22,The Wilderness (E),2020-07-22,,Anthomyiidae,,m,,
 541,23,The Wilderness (E),2020-07-22,,Anthomyiidae,,f,,
-541,24,The Wilderness (E),2020-07-22,,Muscidae,Muscina levida,m,,
+541,24,The Wilderness (E),2020-07-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 541,25,The Wilderness (E),2020-07-22,,Fanniidae,Fannia sp,m,,
 541,26,The Wilderness (E),2020-07-22,,Pallopteridae,Palloptera sp,f,,
-541,27,The Wilderness (E),2020-07-22,,Muscidae,Limnophora sp,f,,
+541,27,The Wilderness (E),2020-07-22,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 541,28,The Wilderness (E),2020-07-22,,Anthomyiidae,,f,,
 541,29,The Wilderness (E),2020-07-22,,Anthomyiidae,,f,,
 541,30,The Wilderness (E),2020-07-22,,Hybotidae,Hybos sp,m,,

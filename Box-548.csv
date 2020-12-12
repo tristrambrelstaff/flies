@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-548,1,Whiteknights Park (W),2020-07-27,,Muscidae,Phaonia sp,m,,
+548,1,Whiteknights Park (W),2020-07-27,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 548,2,Whiteknights Park (W),2020-07-27,,Anthomyiidae,Anthomyia procellaris grp,m,,
 548,3,Whiteknights Park (W),2020-07-27,,Sarcophagidae,Sarcophaga sp,f,,
 548,4,Whiteknights Park (W),2020-07-27,,Rhinophoridae,Rhinophora lepida,f,,
@@ -17,7 +17,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 548,16,The Wilderness (W),2020-07-28,,Conopidae,,,,
 548,17,The Wilderness (W),2020-07-28,,Conopidae,,,,
 548,18,The Wilderness (W),2020-07-28,,Heleomyzidae,,m,,
-548,19,The Wilderness (W),2020-07-28,,Muscidae,Graphomya maculata,m,,
+548,19,The Wilderness (W),2020-07-28,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 548,20,The Wilderness (W),2020-07-28,Hymenoptera,Ichneumonidae,,m,,
 548,21,The Wilderness (W),2020-07-28,Hymenoptera,Ichneumonidae,,m,,
 548,22,The Wilderness (W),2020-07-28,Hymenoptera,Ichneumonidae,,m,,
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 548,29,The Wilderness (W),2020-07-28,,Anthomyiidae,,m,,
 548,30,The Wilderness (W),2020-07-28,,Anthomyiidae,,m,,
 548,31,The Wilderness (W),2020-07-28,,Anthomyiidae,,m,,
-548,32,The Wilderness (W),2020-07-28,,Muscidae,Helina sp,m,,
+548,32,The Wilderness (W),2020-07-28,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 548,33,The Wilderness (W),2020-07-28,,Hybotidae,Hybos sp,f,,
 548,34,The Wilderness (W),2020-07-28,,Fanniidae,Fannia sp,f,,
 548,35,The Wilderness (W),2020-07-28,,Fanniidae,Fannia sp,f,,

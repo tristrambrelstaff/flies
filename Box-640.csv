@@ -14,9 +14,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 640,13,Whiteknights Park (W),2020-12-11,,Anthomyiidae,,f,,
 640,14,Chazey Wood,2020-12-12,,Calliphoridae,Calliphora vicina,f,,
 640,15,Chazey Wood,2020-12-12,,Calliphoridae,Pollenia sp,f,,
-640,16,Chazey Wood,2020-12-12,,Muscidae,Phaonia subventa,f,,
-640,17,Chazey Wood,2020-12-12,,Muscidae,Phaonia subventa,f,,
-640,18,Chazey Wood,2020-12-12,,Muscidae,Phaonia tuguriorum,f,,
+640,16,Chazey Wood,2020-12-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+640,17,Chazey Wood,2020-12-12,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+640,18,Chazey Wood,2020-12-12,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 640,19,Chazey Wood,2020-12-12,,Anthomyiidae,,f,,
 640,20,Chazey Wood,2020-12-12,,Anthomyiidae,Hylemya sp,f,,
 640,21,Chazey Wood,2020-12-12,,Anthomyiidae,,m,,
