@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 533,15,The Wilderness (W),2020-07-14,,Dolichopodidae,,m,,
 533,16,The Wilderness (W),2020-07-14,,Anthomyiidae,,f,,
 533,17,The Wilderness (W),2020-07-14,,Lauxaniidae,Minettia fasciata,,,
-533,18,The Wilderness (W),2020-07-14,,Muscidae,Hebecnema sp,f,,
+533,18,The Wilderness (W),2020-07-14,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 533,19,The Wilderness (W),2020-07-14,,Fanniidae,Fannia sp,f,,
 533,20,The Wilderness (W),2020-07-14,,Fanniidae,Fannia sp,f,,
 533,21,The Wilderness (W),2020-07-14,,Anthomyiidae,,m,,
@@ -35,16 +35,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 533,34,The Wilderness (E),2020-07-15,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 533,35,The Wilderness (E),2020-07-15,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 533,36,The Wilderness (E),2020-07-15,,Sarcophagidae,Sarcophaga sp,m,,
-533,37,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,38,The Wilderness (E),2020-07-15,,Muscidae,Hebecnema sp,f,,
-533,39,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,40,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
+533,37,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,38,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+533,39,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,40,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 533,41,The Wilderness (E),2020-07-15,,Tachinidae,Macquartia grisea,m,"Belshaw, 1993 +v5c updates",
-533,42,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,43,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,44,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,45,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,m,,
-533,46,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,f,,
-533,47,The Wilderness (E),2020-07-15,,Muscidae,Helina sp,f,,
-533,48,The Wilderness (E),2020-07-15,,Muscidae,Hebecnema sp,m,,
-533,49,The Wilderness (E),2020-07-15,,Muscidae,Hebecnema sp,m,,
+533,42,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,43,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,44,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,45,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+533,46,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+533,47,The Wilderness (E),2020-07-15,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+533,48,The Wilderness (E),2020-07-15,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
+533,49,The Wilderness (E),2020-07-15,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black; Wings darkened

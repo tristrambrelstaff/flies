@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 536,10,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,,
 536,11,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,,
 536,12,Whiteknights Park (E-FH),2020-07-17,,Rhagionidae,Chrysopilus cristatus,m,,
-536,13,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,m,,
-536,14,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,f,,
+536,13,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
+536,14,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 536,15,Whiteknights Park (E-FH),2020-07-17,Hymenoptera,Ichneumonidae,,f,,
 536,16,Whiteknights Park (E-FH),2020-07-17,Hymenoptera,Ichneumonidae,,m,,
 536,17,Whiteknights Park (E-FH),2020-07-17,,Dolichopodidae,,f,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 536,38,The Wilderness (W),2020-07-18,,Scathophagidae,Scathophaga stercoraria,f,,
 536,39,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia sp,m,,
 536,40,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia sp,f,,
-536,41,The Wilderness (W),2020-07-18,,Muscidae,Mydaea sp,f,,
-536,42,The Wilderness (W),2020-07-18,,Muscidae,Phaonia sp,f,,
-536,43,The Wilderness (W),2020-07-18,,Muscidae,Helina sp,f,,
-536,44,The Wilderness (W),2020-07-18,,Muscidae,Helina sp,f,,Antennae missing
+536,41,The Wilderness (W),2020-07-18,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
+536,42,The Wilderness (W),2020-07-18,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+536,43,The Wilderness (W),2020-07-18,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+536,44,The Wilderness (W),2020-07-18,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps; Antennae missing
