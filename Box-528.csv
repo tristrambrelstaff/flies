@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 528,10,Kings Meadow Tescos,2020-07-11,Hymenoptera,Vespidae,,f,,
 528,11,Kings Meadow Tescos,2020-07-11,Hymenoptera,Vespidae,,f,,
 528,12,Kings Meadow Tescos,2020-07-11,Hymenoptera,Vespidae,,f,,
-528,13,Kings Meadow Tescos,2020-07-11,,Muscidae,Muscina levida,m,,
-528,14,Kings Meadow Tescos,2020-07-11,,Muscidae,Phaonia sp,m,,
+528,13,Kings Meadow Tescos,2020-07-11,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+528,14,Kings Meadow Tescos,2020-07-11,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 528,15,Kings Meadow Tescos,2020-07-11,,Sarcophagidae,Sarcophaga sp,f,,
 528,16,Kings Meadow Tescos,2020-07-11,,Sarcophagidae,Sarcophaga sp,f,,
 528,17,Kings Meadow Tescos,2020-07-11,,Sarcophagidae,Sarcophaga sp,m,,
@@ -51,7 +51,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 528,50,Kings Meadow Tescos,2020-07-11,,Rhinophoridae,Rhinophora lepida,m,,
 528,51,Kings Meadow Tescos,2020-07-11,,Rhinophoridae,Rhinophora lepida,m,,
 528,52,Kings Meadow Tescos,2020-07-11,,Calliphoridae,Melanomya nana,m,,
-528,53,Kings Meadow Tescos,2020-07-11,,Muscidae,Coenosia sp,f,,
+528,53,Kings Meadow Tescos,2020-07-11,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
 528,54,Kings Meadow Tescos,2020-07-11,,Chloropidae,Meromyza sp,f,,
 528,55,Kings Meadow Tescos,2020-07-11,,Chloropidae,Meromyza sp,m,,
 528,56,Kings Meadow Tescos,2020-07-11,,Chloropidae,,,,
