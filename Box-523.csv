@@ -3,17 +3,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 523,2,The Wilderness (W),2020-07-06,Hymenoptera,Ichneumonidae,,m,,
 523,3,The Wilderness (W),2020-07-06,Hymenoptera,Crabronidae,,,,
 523,4,The Wilderness (W),2020-07-06,,Dolichopodidae,,f,,
-523,5,The Wilderness (W),2020-07-06,,Muscidae,Phaonia pallida,m,,
+523,5,The Wilderness (W),2020-07-06,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
 523,6,The Wilderness (W),2020-07-06,,Anthomyiidae,Pegomya sp,f,,
-523,7,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,f,,
-523,8,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,9,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,10,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,11,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,12,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,13,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,14,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
-523,15,The Wilderness (W),2020-07-06,,Muscidae,Helina sp,m,,
+523,7,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
+523,8,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,9,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,10,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,11,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,12,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,13,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,14,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+523,15,The Wilderness (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 523,16,The Wilderness (W),2020-07-06,,Calliphoridae,Pollenia sp,m,,Left fore and hind legs missing
 523,17,Whiteknights Park (W),2020-07-06,Hymenoptera,Ichneumonidae,,m,,
 523,18,Whiteknights Park (W),2020-07-06,Hymenoptera,Ichneumonidae,,m,,
@@ -24,8 +24,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 523,23,Whiteknights Park (E),2020-07-07,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
 523,24,Whiteknights Park (E),2020-07-07,,Sarcophagidae,Sarcophaga sp,m,,
 523,25,Whiteknights Park (E),2020-07-07,,Tabanidae,Haematopota pluvialis,f,,
-523,26,Whiteknights Park (E),2020-07-07,,Muscidae,Graphomya maculata,m,,
-523,27,Whiteknights Park (E),2020-07-07,,Muscidae,Graphomya maculata,m,,
+523,26,Whiteknights Park (E),2020-07-07,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+523,27,Whiteknights Park (E),2020-07-07,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
 523,28,Whiteknights Park (E),2020-07-07,Hymenoptera,Ichneumonidae,,m,,
 523,29,Whiteknights Park (E),2020-07-07,Hymenoptera,Ichneumonidae,,m,,
 523,30,Whiteknights Park (E),2020-07-07,Hymenoptera,Ichneumonidae,,m,,

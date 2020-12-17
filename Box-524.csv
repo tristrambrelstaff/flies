@@ -10,13 +10,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 524,9,Whiteknights Park (W),2020-07-06,,Empididae,Empis sp,f,,
 524,10,Whiteknights Park (W),2020-07-06,,Empididae,Empis sp,f,,
 524,11,Whiteknights Park (W),2020-07-06,,Calliphoridae,Lucilia sericata,m,,
-524,12,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,f,,
-524,13,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
-524,14,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
-524,15,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
-524,16,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
-524,17,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
-524,18,Whiteknights Park (W),2020-07-06,,Muscidae,Helina sp,m,,
+524,12,Whiteknights Park (W),2020-07-06,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
+524,13,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+524,14,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+524,15,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+524,16,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+524,17,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+524,18,Whiteknights Park (W),2020-07-06,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 524,19,Whiteknights Park (W),2020-07-06,,Anthomyiidae,,f,,
 524,20,Whiteknights Park (W),2020-07-06,,Anthomyiidae,,m,,
 524,21,Whiteknights Park (E),2020-07-07,,Anthomyiidae,,m,,
@@ -35,8 +35,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 524,34,Whiteknights Park (E-FH),2020-07-08,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
 524,35,Whiteknights Park (E-FH),2020-07-08,,Sciomyzidae,,f,,
 524,36,Whiteknights Park (E-FH),2020-07-08,,Anthomyiidae,Hylemya sp,f,,
-524,37,Whiteknights Park (E-FH),2020-07-08,,Muscidae,Helina sp,m,,
-524,38,Whiteknights Park (E-FH),2020-07-08,,Muscidae,Helina sp,m,,
+524,37,Whiteknights Park (E-FH),2020-07-08,,Muscidae,Helina setiventris,m,"Fonseca, 1968; Gregor et al, 2016",
+524,38,Whiteknights Park (E-FH),2020-07-08,,Muscidae,Helina setiventris,m,"Fonseca, 1968; Gregor et al, 2016",
 524,39,Whiteknights Park (E-FH),2020-07-08,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 524,40,Whiteknights Park (E-FH),2020-07-08,,Dolichopodidae,Poecilobothrus nobilitatus,m,,
 524,41,Whiteknights Park (E-FH),2020-07-08,,Dolichopodidae,Poecilobothrus nobilitatus,m,,
