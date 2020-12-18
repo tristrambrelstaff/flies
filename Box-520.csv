@@ -3,7 +3,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 520,2,Kings Meadow Tescos,2020-07-04,,Rhinophoridae,Phyto melanocephala,m,"Falk draft key, 2016",
 520,3,Kings Meadow Tescos,2020-07-04,,Calliphoridae,Lucilia sp,m,,
 520,4,Kings Meadow Tescos,2020-07-04,,Lauxaniidae,Minettia fasciata,f,,
-520,5,Kings Meadow Tescos,2020-07-04,,Muscidae,,f,,
+520,5,Kings Meadow Tescos,2020-07-04,,Muscidae,Limnophora triangula,f,"Fonseca, 1968",
 520,6,Kings Meadow Tescos,2020-07-04,,Anthomyiidae,,f,,
 520,7,Kings Meadow Tescos,2020-07-04,,Anthomyiidae,,f,,
 520,8,Kings Meadow Tescos,2020-07-04,,Anthomyiidae,,f,,
@@ -48,7 +48,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 520,47,Kennet Mouth (E),2020-07-05,,Lauxaniidae,Minettia fasciata,,,
 520,48,Kennet Mouth (E),2020-07-05,,Anthomyiidae,,f,,
 520,49,Kennet Mouth (E),2020-07-05,,Anthomyiidae,,f,,
-520,50,Kennet Mouth (E),2020-07-05,,Muscidae,Coenosia tigrina,f,,
+520,50,Kennet Mouth (E),2020-07-05,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 520,51,Kennet Mouth (E),2020-07-05,,Anthomyiidae,,f,,
 520,52,Kennet Mouth (E),2020-07-05,,Anthomyiidae,,f,,
 520,53,Kennet Mouth (E),2020-07-05,,Sarcophagidae,Sarcophaga sp,m,,

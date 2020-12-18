@@ -3,10 +3,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 519,2,The Wilderness (E),2020-07-03,,Dolichopodidae,,f,,
 519,3,The Wilderness (E),2020-07-03,,Dolichopodidae,,f,,
 519,4,The Wilderness (E),2020-07-03,,Fanniidae,Fannia sp,f,,
-519,5,The Wilderness (E),2020-07-03,,Muscidae,Coenosia sp,f,,
+519,5,The Wilderness (E),2020-07-03,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 519,6,The Wilderness (E),2020-07-03,,Anthomyiidae,,f,,
-519,7,The Wilderness (E),2020-07-03,,Muscidae,Coenosia sp,f,,
-519,8,The Wilderness (E),2020-07-03,,Muscidae,Coenosia sp,f,,
+519,7,The Wilderness (E),2020-07-03,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+519,8,The Wilderness (E),2020-07-03,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 519,9,The Wilderness (E),2020-07-03,,Heleomyzidae,,m,,
 519,10,The Wilderness (E),2020-07-03,,Heleomyzidae,,m,,
 519,11,The Wilderness (E),2020-07-03,,Dolichopodidae,,f,,
@@ -18,21 +18,21 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 519,17,Whiteknights Park (E),2020-07-03,Hymenoptera,Ichneumonidae,,f,,
 519,18,Whiteknights Park (E),2020-07-03,Hymenoptera,Ichneumonidae,,f,,
 519,19,Whiteknights Park (E),2020-07-03,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-519,20,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,21,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,22,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,23,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,24,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,25,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,26,Whiteknights Park (E),2020-07-03,,Muscidae,Helina sp,m,,
-519,27,Whiteknights Park (E),2020-07-03,,Muscidae,,f,,
-519,28,Whiteknights Park (E),2020-07-03,,Muscidae,,f,,
+519,20,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,21,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,22,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,23,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,24,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,25,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,26,Whiteknights Park (E),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,27,Whiteknights Park (E),2020-07-03,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
+519,28,Whiteknights Park (E),2020-07-03,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 519,29,Whiteknights Park (E),2020-07-03,,Heleomyzidae,,f,,
 519,30,Whiteknights Park (E),2020-07-03,,Anthomyiidae,,m,,
 519,31,Whiteknights Park (E),2020-07-03,,Lauxaniidae,Minettia fasciata,,,
 519,32,Whiteknights Park (E),2020-07-03,,Lauxaniidae,Minettia fasciata,,,
 519,33,Whiteknights Park (E),2020-07-03,,Chloropidae,Meromyza sp,f,,
-519,34,Whiteknights Park (W),2020-07-03,,Muscidae,Graphomya maculata,f,,
+519,34,Whiteknights Park (W),2020-07-03,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 519,35,Whiteknights Park (W),2020-07-03,Hymenoptera,Ichneumonidae,,f,,
 519,36,Whiteknights Park (W),2020-07-03,Hymenoptera,Ichneumonidae,,m,,
 519,37,Whiteknights Park (W),2020-07-03,Hymenoptera,Ichneumonidae,,m,,
@@ -41,10 +41,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 519,40,Whiteknights Park (W),2020-07-03,,Sarcophagidae,Sarcophaga sp,m,,
 519,41,Whiteknights Park (W),2020-07-03,,Dolichopodidae,Poecilobothrus nobilitatus,m,,
 519,42,Whiteknights Park (W),2020-07-03,,Dolichopodidae,,f,,
-519,43,Whiteknights Park (W),2020-07-03,,Muscidae,Helina sp,m,,
-519,44,Whiteknights Park (W),2020-07-03,,Muscidae,Helina sp,m,,
-519,45,Whiteknights Park (W),2020-07-03,,Muscidae,Lispe tentaculata,f,,
-519,46,Whiteknights Park (W),2020-07-03,,Muscidae,Lispe tentaculata,m,,
+519,43,Whiteknights Park (W),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,44,Whiteknights Park (W),2020-07-03,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+519,45,Whiteknights Park (W),2020-07-03,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
+519,46,Whiteknights Park (W),2020-07-03,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
 519,47,Whiteknights Park (W),2020-07-03,,Ephydridae,,,,
 519,48,Whiteknights Park (W),2020-07-03,,Ephydridae,,,,
 519,49,Whiteknights Park (W),2020-07-03,,Ephydridae,,,,
