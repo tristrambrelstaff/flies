@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 513,13,Kennet Mouth (E),2020-06-28,,Calliphoridae,Lucilia sericata,f,,
 513,14,Kennet Mouth (E),2020-06-28,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
 513,15,Kennet Mouth (E),2020-06-28,,Sarcophagidae,Nyctia halterata,m,,
-513,16,Kennet Mouth (E),2020-06-28,,Muscidae,Helina sp,f,,
+513,16,Kennet Mouth (E),2020-06-28,,Muscidae,Helina setiventris,f,"Fonseca, 1968",
 513,17,Kennet Mouth (E),2020-06-28,,Anthomyiidae,Hylemya sp,f,,
 513,18,Kennet Mouth (E),2020-06-28,,Lauxaniidae,Minettia fasciata,,,
 513,19,Kennet Mouth (E),2020-06-28,,Lauxaniidae,Minettia fasciata,,,
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 513,28,Kennet Mouth (E),2020-06-28,,Anthomyiidae,,m,,
 513,29,Kennet Mouth (E),2020-06-28,,Anthomyiidae,,m,,
 513,30,Kennet Mouth (E),2020-06-28,,Tachinidae,Phasia pusilla,m,"Belshaw, 1993 +v5c updates",
-513,31,Kennet Mouth (E),2020-06-28,,Muscidae,Coenosia sp,m,,
+513,31,Kennet Mouth (E),2020-06-28,,Muscidae,Coenosia testacea,m,"Fonseca, 1968",As Coenosia tricolor
 513,32,Kennet Mouth (E),2020-06-28,,Agromyzidae,,f,,
 513,33,Thames Valley Park,2020-06-28,,Sarcophagidae,Sarcophaga sp,f,,
 513,34,Thames Valley Park,2020-06-28,,Sarcophagidae,Sarcophaga sp,f,,
@@ -42,8 +42,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 513,41,Thames Valley Park,2020-06-28,,Tachinidae,Aplomya confinis,f,"Belshaw, 1993 +v5c updates",
 513,42,Thames Valley Park,2020-06-28,,Calliphoridae,Pollenia sp,m,,
 513,43,Thames Valley Park,2020-06-28,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-513,44,Thames Valley Park,2020-06-28,,Muscidae,Muscina levida,m,,
-513,45,Thames Valley Park,2020-06-28,,Muscidae,Muscina prolapsa,m,,
+513,44,Thames Valley Park,2020-06-28,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+513,45,Thames Valley Park,2020-06-28,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
 513,46,Thames Valley Park,2020-06-28,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 513,47,Thames Valley Park,2020-06-28,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 513,48,Thames Valley Park,2020-06-28,,Tachinidae,Exorista sp,f,"Belshaw, 1993 +v5c updates",

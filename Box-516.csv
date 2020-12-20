@@ -23,17 +23,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,22,Whiteknights Park (E),2020-06-30,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 516,23,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,,
 516,24,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,,
-516,25,Whiteknights Park (E),2020-06-30,,Muscidae,Hebecnema vespertina,m,,
-516,26,Whiteknights Park (E),2020-06-30,,Muscidae,Helina sp,m,,
+516,25,Whiteknights Park (E),2020-06-30,,Muscidae,Helina setiventris,m,"Fonseca, 1968",
+516,26,Whiteknights Park (E),2020-06-30,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 516,27,Whiteknights Park (E),2020-06-30,,Anthomyiidae,Hylemya sp,f,,
 516,28,Whiteknights Park (E),2020-06-30,,Anthomyiidae,Hylemya sp,f,,
 516,29,Whiteknights Park (E),2020-06-30,,Anthomyiidae,,f,,
-516,30,Whiteknights Park (E),2020-06-30,,Muscidae,Helina sp,m,,
+516,30,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 516,31,Whiteknights Park (E),2020-06-30,,Stratiomyidae,Chloromyia formosa,m,,
 516,32,Whiteknights Park (E),2020-06-30,,Dolichopodidae,,f,,
 516,33,Whiteknights Park (E),2020-06-30,,Calliphoridae,Pollenia sp,m,,
-516,34,Whiteknights Park (E),2020-06-30,,Muscidae,Helina sp,m,,
-516,35,Whiteknights Park (E),2020-06-30,,Muscidae,Helina sp,m,,
+516,34,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+516,35,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 516,36,Whiteknights Park (E),2020-06-30,,Anthomyiidae,,m,,
 516,37,Whiteknights Park (E),2020-06-30,,Anthomyiidae,,m,,
 516,38,Whiteknights Park (E),2020-06-30,,Sarcophagidae,Sarcophaga sp,m,,
@@ -43,8 +43,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,42,Whiteknights Park (E),2020-06-30,,Chloropidae,Meromyza sp,,,
 516,43,Whiteknights Park (E),2020-06-30,Hymenoptera,Cynipidae,,f,,
 516,44,The Wilderness (W),2020-07-01,,Lauxaniidae,Minettia fasciata,,,
-516,45,The Wilderness (W),2020-07-01,,Muscidae,Graphomya maculata,m,,
-516,46,The Wilderness (W),2020-07-01,,Muscidae,Helina sp,m,,
+516,45,The Wilderness (W),2020-07-01,,Muscidae,Graphomya maculata,m,"Fonseca, 1968",
+516,46,The Wilderness (W),2020-07-01,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 516,47,The Wilderness (W),2020-07-01,,Dolichopodidae,,m,,
 516,48,The Wilderness (W),2020-07-01,,Rhinophoridae,Rhinophora lepida,f,,
 516,49,The Wilderness (W),2020-07-01,,Anthomyiidae,,m,,
