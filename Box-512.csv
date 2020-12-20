@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-512,1,The Wilderness (E),2020-06-26,,Muscidae,Phaonia pallida,f,"Fonseca, 19068",
-512,2,The Wilderness (E),2020-06-26,,Muscidae,Phaonia pallida,f,"Fonseca, 19068",
-512,3,The Wilderness (E),2020-06-26,,Muscidae,Helina sp,f,,Body greasy
+512,1,The Wilderness (E),2020-06-26,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+512,2,The Wilderness (E),2020-06-26,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
+512,3,The Wilderness (E),2020-06-26,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Body greasy
 512,4,The Wilderness (E),2020-06-26,,Scathophagidae,Scathophaga sp,f,,
 512,5,The Wilderness (E),2020-06-26,,Calliphoridae,Bellardia sp,f,,
 512,6,The Wilderness (E),2020-06-26,,Calliphoridae,Pollenia sp,m,,
@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 512,10,The Wilderness (E),2020-06-26,,Dolichopodidae,,f,,
 512,11,The Wilderness (E),2020-06-26,,Dolichopodidae,,f,,
 512,12,The Wilderness (E),2020-06-26,,Dolichopodidae,,f,,
-512,13,The Wilderness (E),2020-06-26,,Muscidae,Coenosia sp,f,,
-512,14,The Wilderness (E),2020-06-26,,Muscidae,Coenosia sp,f,,
+512,13,The Wilderness (E),2020-06-26,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
+512,14,The Wilderness (E),2020-06-26,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 512,15,The Wilderness (E),2020-06-26,,Fanniidae,Fannia fuscula,f,"Rozkosny et al, 1997",
 512,16,The Wilderness (E),2020-06-26,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 512,17,The Wilderness (E),2020-06-26,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
@@ -39,8 +39,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 512,38,Whiteknights Park (W),2020-06-26,,Dolichopodidae,,f,,
 512,39,Whiteknights Park (W),2020-06-26,,Dolichopodidae,,f,,
 512,40,Whiteknights Park (W),2020-06-26,,Dolichopodidae,Poecilobothrus nobilitatus,m,,
-512,41,Whiteknights Park (W),2020-06-26,,Muscidae,Lispe sp,f,,
-512,42,Whiteknights Park (W),2020-06-26,,Muscidae,Lispe sp,f,,
+512,41,Whiteknights Park (W),2020-06-26,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
+512,42,Whiteknights Park (W),2020-06-26,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 512,43,Whiteknights Park (W),2020-06-26,,Dolichopodidae,,m,,
 512,44,Whiteknights Park (W),2020-06-26,,Ephydridae,,,,
 512,45,Whiteknights Park (W),2020-06-26,,Ephydridae,,,,

@@ -2,11 +2,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 510,1,The Wilderness (W),2020-06-24,,Asilidae,Dioctria sp,f,,
 510,2,The Wilderness (W),2020-06-24,Hymenoptera,Crabronidae,,f,,
 510,3,The Wilderness (W),2020-06-24,Hymenoptera,Ichneumonidae,,m,,
-510,4,The Wilderness (W),2020-06-24,,Muscidae,Phaonia subventa,m,,
+510,4,The Wilderness (W),2020-06-24,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 510,5,The Wilderness (W),2020-06-24,,Calliphoridae,Pollenia sp,f,,
-510,6,The Wilderness (W),2020-06-24,,Muscidae,Phaonia pallida,m,,
-510,7,The Wilderness (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,8,The Wilderness (W),2020-06-24,,Muscidae,Muscina levida,m,,
+510,6,The Wilderness (W),2020-06-24,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
+510,7,The Wilderness (W),2020-06-24,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+510,8,The Wilderness (W),2020-06-24,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 510,9,The Wilderness (W),2020-06-24,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
 510,10,The Wilderness (W),2020-06-24,,Scathophagidae,Scathophaga sp,m,,
 510,11,The Wilderness (W),2020-06-24,,Empididae,Empis sp,m,,
@@ -29,12 +29,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 510,28,The Wilderness (W),2020-06-24,Hymenoptera,Braconidae,,m,,
 510,29,The Wilderness (W),2020-06-24,Hymenoptera,Braconidae,,f,,
 510,30,Whiteknights Park (W),2020-06-24,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-510,31,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,32,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,33,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,34,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,35,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
-510,36,Whiteknights Park (W),2020-06-24,,Muscidae,Helina sp,m,,
+510,31,Whiteknights Park (W),2020-06-24,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+510,32,Whiteknights Park (W),2020-06-24,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
+510,33,Whiteknights Park (W),2020-06-24,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+510,34,Whiteknights Park (W),2020-06-24,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+510,35,Whiteknights Park (W),2020-06-24,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
+510,36,Whiteknights Park (W),2020-06-24,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 510,37,Whiteknights Park (W),2020-06-24,Mecoptera,Panorpidae,Panorpa sp,m,,
 510,38,Whiteknights Park (W),2020-06-24,Hymenoptera,Ichneumonidae,,m,,
 510,39,Whiteknights Park (W),2020-06-24,Hymenoptera,Ichneumonidae,,m,,

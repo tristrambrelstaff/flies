@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 511,15,Whiteknights Park (W),2020-06-25,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 511,16,Whiteknights Park (W),2020-06-25,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 511,17,Whiteknights Park (W),2020-06-25,,Calliphoridae,Pollenia sp,f,,
-511,18,Whiteknights Park (W),2020-06-25,,Muscidae,Helina sp,m,,
+511,18,Whiteknights Park (W),2020-06-25,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
 511,19,Whiteknights Park (W),2020-06-25,,Sarcophagidae,Sarcophaga sp,m,,
 511,20,Whiteknights Park (W),2020-06-25,,Heleomyzidae,,m,,
 511,21,Whiteknights Park (W),2020-06-25,,Anthomyiidae,,m,,
@@ -37,7 +37,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 511,36,Whiteknights Park (W),2020-06-25,,???,,m,,
 511,37,The Wilderness (E),2020-06-26,,Anthomyiidae,Anthomyia plurinotata,f,,
 511,38,The Wilderness (E),2020-06-26,,Anthomyiidae,Hylemya sp,m,,
-511,39,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,,
-511,40,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,,
-511,41,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,,
-511,42,The Wilderness (E),2020-06-26,,Muscidae,Phaonia sp,m,,
+511,39,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+511,40,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+511,41,The Wilderness (E),2020-06-26,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+511,42,The Wilderness (E),2020-06-26,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata

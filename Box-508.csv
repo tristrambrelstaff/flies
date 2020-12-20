@@ -25,18 +25,18 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 508,24,Whiteknights Park (W),2020-06-22,Hymenoptera,Ichneumonidae,,m,,
 508,25,Whiteknights Park (W),2020-06-22,Hymenoptera,Ichneumonidae,,m,,
 508,26,Whiteknights Park (W),2020-06-22,Hymenoptera,Ichneumonidae,,f,,
-508,27,Whiteknights Park (W),2020-06-22,,Muscidae,Muscina levida,m,,
+508,27,Whiteknights Park (W),2020-06-22,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 508,28,Whiteknights Park (W),2020-06-22,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 508,29,Whiteknights Park (W),2020-06-22,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 508,30,Whiteknights Park (W),2020-06-22,,Fanniidae,Fannia sp,f,,
 508,31,Whiteknights Park (W),2020-06-22,,Fanniidae,Fannia sp,f,,
 508,32,The Wilderness (E),2020-06-23,,Calliphoridae,Lucilia caesar,m,,
-508,33,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,,
-508,34,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,,
-508,35,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,,
-508,36,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,,
-508,37,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,,
-508,38,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,,
+508,33,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",as Phaonia variegata
+508,34,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",as Phaonia variegata
+508,35,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",as Phaonia variegata
+508,36,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",as Phaonia variegata
+508,37,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",as Phaonia variegata
+508,38,The Wilderness (E),2020-06-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",as Phaonia variegata
 508,39,The Wilderness (E),2020-06-23,,Anthomyiidae,Anthomyia plurinotata,f,,
 508,40,The Wilderness (E),2020-06-23,,Rhagionidae,Rhagio sp,m,,
 508,41,The Wilderness (E),2020-06-23,,Calliphoridae,Pollenia sp,m,,
