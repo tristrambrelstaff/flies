@@ -16,12 +16,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 493,15,The Wilderness (E),2020-06-13,,Empididae,,f,,
 493,16,The Wilderness (E),2020-06-13,,Empididae,,f,,
 493,17,The Wilderness (E),2020-06-13,,Calliphoridae,Calliphora vicina,m,,
-493,18,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,,
-493,19,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,,
-493,20,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,,
-493,21,The Wilderness (E),2020-06-13,,Muscidae,Phaonia sp,m,,
-493,22,The Wilderness (E),2020-06-13,,Muscidae,Phaonia sp,f,,
-493,23,The Wilderness (E),2020-06-13,,Muscidae,Helina sp,f,,
+493,18,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+493,19,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+493,20,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
+493,21,The Wilderness (E),2020-06-13,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+493,22,The Wilderness (E),2020-06-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+493,23,The Wilderness (E),2020-06-13,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 493,24,The Wilderness (E),2020-06-13,,Heleomyzidae,,m,,
 493,25,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
 493,26,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
@@ -38,11 +38,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 493,37,The Wilderness (E),2020-06-13,,Fanniidae,Fannia armata,m,,
 493,38,The Wilderness (E),2020-06-13,,Fanniidae,Fannia sp,m,,
 493,39,The Wilderness (E),2020-06-13,,Fanniidae,Fannia sp,f,,
-493,40,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,,
-493,41,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,,
-493,42,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,,
-493,43,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,m,,
-493,44,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,m,,
+493,40,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+493,41,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+493,42,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+493,43,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
+493,44,The Wilderness (E),2020-06-13,,Muscidae,Coenosia agromyzina,m,"Fonseca, 1968",As Allognota agromyzina
 493,45,The Wilderness (E),2020-06-13,,???,,,,
 493,46,The Wilderness (E),2020-06-13,,Phoridae,,,,
 493,47,The Wilderness (E),2020-06-13,,Sphaeroceridae,,,,Greasy

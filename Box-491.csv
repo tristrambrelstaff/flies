@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-491,1,Whiteknights Park (W),2020-06-10,,Muscidae,Phaonia sp,f,,
+491,1,Whiteknights Park (W),2020-06-10,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia variegata
 491,2,Whiteknights Park (W),2020-06-10,,Anthomyiidae,,f,,
 491,3,Whiteknights Park (W),2020-06-10,,Anthomyiidae,,m,,
 491,4,Whiteknights Park (W),2020-06-10,,Dolichopodidae,,f,,
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 491,31,Whiteknights Park (E),2020-06-11,,Syrphidae,Eristalinus sp,m,,
 491,32,Whiteknights Park (E),2020-06-11,,Scathophagidae,Scathophaga stercoraria,m,,
 491,33,Whiteknights Park (E),2020-06-11,,Anthomyiidae,,m,,
-491,34,Whiteknights Park (E),2020-06-11,,Muscidae,Helina sp,m,,
+491,34,Whiteknights Park (E),2020-06-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 491,35,Whiteknights Park (E),2020-06-11,,Sarcophagidae,Blaesoxipha sp,m,,
 491,36,Whiteknights Park (E),2020-06-11,,Anthomyiidae,,m,,
 491,37,Whiteknights Park (E),2020-06-11,,Anthomyiidae,,m,,
