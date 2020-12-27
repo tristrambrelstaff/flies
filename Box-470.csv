@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-470,1,Thames Valley Park,2020-05-23,,Muscidae,Lispe tentaculata,f,,
+470,1,Thames Valley Park,2020-05-23,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 470,2,Thames Valley Park,2020-05-23,,Dolichopodidae,,f,,
 470,3,Thames Valley Park,2020-05-23,,Dolichopodidae,,m,,
 470,4,Thames Valley Park,2020-05-23,,Dolichopodidae,,m,,
 470,5,Thames Valley Park,2020-05-23,,Empididae,Empis sp,f,,
-470,6,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,,
-470,7,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,,
-470,8,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,,Ptilinum extruded
-470,9,Thames Valley Park,2020-05-23,,Muscidae,Limnophora sp,f,,
+470,6,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+470,7,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
+470,8,Thames Valley Park,2020-05-23,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Ptilinum extruded
+470,9,Thames Valley Park,2020-05-23,,Muscidae,Limnophora tigrina,f,"Fonseca, 1968",
 470,10,Thames Valley Park,2020-05-23,,Anthomyiidae,,m,,
 470,11,Thames Valley Park,2020-05-23,,Anthomyiidae,,m,,
 470,12,Thames Valley Park,2020-05-23,,Anthomyiidae,,f,,
@@ -20,10 +20,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 470,19,Thames Valley Park,2020-05-23,,Fanniidae,Fannia armata,m,,
 470,20,Thames Valley Park,2020-05-23,,Fanniidae,Fannia armata,m,,
 470,21,Thames Valley Park,2020-05-23,,Fanniidae,Fannia armata,m,,
-470,22,Thames Valley Park,2020-05-23,,Muscidae,Hebecnema sp,f,,
-470,23,Thames Valley Park,2020-05-23,,Muscidae,Hebecnema sp,f,,
-470,24,Thames Valley Park,2020-05-23,,Muscidae,,m,,
-470,25,Thames Valley Park,2020-05-23,,Muscidae,,m,,
+470,22,Thames Valley Park,2020-05-23,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+470,23,Thames Valley Park,2020-05-23,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
+470,24,Thames Valley Park,2020-05-23,,Muscidae,Macrorchis meditata,m,"Fonseca, 1968",
+470,25,Thames Valley Park,2020-05-23,,Muscidae,Macrorchis meditata,m,"Fonseca, 1968",
 470,26,Thames Valley Park,2020-05-23,,Sciomyzidae,Pherbellia sp,f,,
 470,27,Thames Valley Park,2020-05-23,,Fanniidae,Fannia sp,f,,
 470,28,Thames Valley Park,2020-05-23,,Ephydridae,,,,
@@ -41,9 +41,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 470,40,Thames Valley Park,2020-05-23,,Ephydridae,,,,
 470,41,Thames Valley Park,2020-05-23,,Ephydridae,,,,
 470,42,Thames Valley Park,2020-05-23,,Ephydridae,,,,
-470,43,Thames Valley Park,2020-05-23,,Muscidae,Schoenomyza litorella,f,,
+470,43,Thames Valley Park,2020-05-23,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 470,44,Thames Valley Park,2020-05-23,,Ephydridae,,,,
-470,45,Thames Valley Park,2020-05-23,,Muscidae,,m,,
+470,45,Thames Valley Park,2020-05-23,,Muscidae,Macrorchis meditata,f,"Fonseca, 1968",
 470,46,Thames Valley Park,2020-05-23,,Ephydridae,,,,
 470,47,Thames Valley Park,2020-05-23,,Sphaeroceridae,,,,
 470,48,Thames Valley Park,2020-05-23,,Dolichopodidae,,,,
@@ -56,8 +56,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 470,55,Kennet Mouth (E),2020-05-23,,Anthomyiidae,,f,,
 470,56,Kennet Mouth (E),2020-05-23,,Calliphoridae,Lucilia sp,m,,
 470,57,Kings Meadow Tescos,2020-05-24,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates with diagrams from Tsorschnig & Herting, 1993",
-470,58,Kings Meadow Tescos,2020-05-24,,Muscidae,Musca autumnalis,m,,
-470,59,Kings Meadow Tescos,2020-05-24,,Muscidae,Musca autumnalis,m,,
+470,58,Kings Meadow Tescos,2020-05-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+470,59,Kings Meadow Tescos,2020-05-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 470,60,Kings Meadow Tescos,2020-05-24,,Calliphoridae,Pollenia sp,m,,
 470,61,Kings Meadow Tescos,2020-05-24,,Calliphoridae,Pollenia sp,m,,
 470,62,Kings Meadow Tescos,2020-05-24,,Conopidae,Sicus sp,f,,
