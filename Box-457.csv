@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 457,13,Whiteknights Park (W),2020-05-12,,Scathophagidae,Nanna sp,f,,
 457,14,Whiteknights Park (W),2020-05-12,,Scathophagidae,Nanna sp,f,,
 457,15,Whiteknights Park (W),2020-05-12,,Tachinidae,Phania funesta,f,"Belshaw, 1993 +v5c updates",
-457,16,Whiteknights Park (W),2020-05-12,,Muscidae,Hebecnema sp,f,,
+457,16,Whiteknights Park (W),2020-05-12,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 457,17,Whiteknights Park (W),2020-05-12,,Fanniidae,Fannia sp,m,,
 457,18,Whiteknights Park (W),2020-05-12,,Fanniidae,Fannia sp,m,,
 457,19,Whiteknights Park (W),2020-05-12,,Fanniidae,Fannia sp,m,,
@@ -28,7 +28,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 457,27,Whiteknights Park (W),2020-05-12,,Fanniidae,Fannia sp,m,,
 457,28,Whiteknights Park (W),2020-05-12,,Fanniidae,Fannia sp,m,,
 457,29,Whiteknights Park (W),2020-05-12,,Tephritidae,Tephritis sp,f,,
-457,30,Whiteknights Park (W),2020-05-12,,Muscidae,Coenosia sp,f,,
+457,30,Whiteknights Park (W),2020-05-12,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 457,31,Whiteknights Park (W),2020-05-12,Hymenoptera,Braconidae,,,,
 457,32,Whiteknights Park (W),2020-05-12,Hymenoptera,Cynipidae,,f,,
 457,33,Whiteknights Park (W),2020-05-12,,Agromyzidae,,,,
@@ -37,11 +37,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 457,36,Whiteknights Park (E-FH),2020-05-13,,Sarcophagidae,Sarcophaga sp,m,,
 457,37,Whiteknights Park (E-FH),2020-05-13,,Sarcophagidae,Sarcophaga sp,m,,
 457,38,Whiteknights Park (E-FH),2020-05-13,,Sarcophagidae,Sarcophaga sp,f,,
-457,39,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Helina sp,m,,
-457,40,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Lispe tentaculata,m,,
+457,39,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Helina pertusa,m,"Fonseca, 1968",
+457,40,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
 457,41,Whiteknights Park (E-FH),2020-05-13,,Agromyzidae,,m,,
 457,42,Whiteknights Park (E-FH),2020-05-13,,Agromyzidae,,f,,
-457,43,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia sp,f,,
-457,44,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia agromyzina,f,,
-457,45,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia tigrina,m,,
-457,46,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia tigrina,m,,
+457,43,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
+457,44,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",As Allognota agromyzina
+457,45,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
+457,46,Whiteknights Park (E-FH),2020-05-13,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina

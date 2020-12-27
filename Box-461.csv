@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-461,1,Kennet Mouth (E),2020-05-16,,Muscidae,Helina sp,f,,
-461,2,Kennet Mouth (E),2020-05-16,,Muscidae,Helina sp,f,,
+461,1,Kennet Mouth (E),2020-05-16,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+461,2,Kennet Mouth (E),2020-05-16,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 461,3,Kennet Mouth (E),2020-05-16,,Calliphoridae,Lucilia sericata,m,,
 461,4,Kennet Mouth (E),2020-05-16,,Calliphoridae,Lucilia sericata,m,,
 461,5,Kennet Mouth (E),2020-05-16,,Calliphoridae,Lucilia sericata,m,,
@@ -33,11 +33,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 461,32,Thames Valley Park,2020-05-16,Hymenoptera,Ichneumonidae,,m,,
 461,33,Thames Valley Park,2020-05-16,Hymenoptera,Ichneumonidae,,m,,
 461,34,Thames Valley Park,2020-05-16,Hymenoptera,Ichneumonidae,,m,,
-461,35,Thames Valley Park,2020-05-16,,Muscidae,Graphomya maculata,f,,
+461,35,Thames Valley Park,2020-05-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 461,36,Thames Valley Park,2020-05-16,,Anthomyiidae,,f,,
 461,37,Thames Valley Park,2020-05-16,,Anthomyiidae,,m,,
 461,38,Thames Valley Park,2020-05-16,,Anthomyiidae,,m,,
-461,39,Thames Valley Park,2020-05-16,,Muscidae,Phaonia rufiventris,f,,
+461,39,Thames Valley Park,2020-05-16,,Muscidae,Phaonia rufiventris,f,"Fonseca, 1968",As Phaonia populi
 461,40,Thames Valley Park,2020-05-16,,Scathophagidae,Scathophaga stercoraria,m,,
 461,41,Thames Valley Park,2020-05-16,,Anthomyiidae,,f,,
-461,42,Thames Valley Park,2020-05-16,,Muscidae,Muscina levida,m,,
+461,42,Thames Valley Park,2020-05-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis

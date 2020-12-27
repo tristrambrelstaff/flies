@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 460,1,Whiteknights Park (W),2020-05-15,,Scathophagidae,Scathophaga sp,m,,
 460,2,Whiteknights Park (W),2020-05-15,,Scathophagidae,Scathophaga stercoraria,f,,
 460,3,Whiteknights Park (W),2020-05-15,,Scathophagidae,Scathophaga stercoraria,f,,
-460,4,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia tigrina,f,,
+460,4,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 460,5,Whiteknights Park (W),2020-05-15,,Anthomyiidae,,f,,
 460,6,Whiteknights Park (W),2020-05-15,,Tachinidae,Solieria pacifica,m,"Belshaw, 1993 +v5c updates",
 460,7,Whiteknights Park (W),2020-05-15,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
@@ -28,8 +28,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 460,27,Whiteknights Park (W),2020-05-15,,Fanniidae,Fannia sp,m,,
 460,28,Whiteknights Park (W),2020-05-15,,Mycetophilidae,,f,,
 460,29,Whiteknights Park (W),2020-05-15,,Empididae,Hilara sp,f,,
-460,30,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia sp,f,,
-460,31,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia sp,f,,
+460,30,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
+460,31,Whiteknights Park (W),2020-05-15,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 460,32,Whiteknights Park (W),2020-05-15,,Tachinidae,Phasia pusilla,f,"Belshaw, 1993 +v5c updates",
 460,33,Whiteknights Park (W),2020-05-15,Hymenoptera,Braconidae,,f,,
 460,34,Whiteknights Park (W),2020-05-15,,Agromyzidae,,f,,
@@ -47,8 +47,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 460,46,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Sarcophaga sp,m,,
 460,47,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Sarcophaga sp,m,,
 460,48,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Sarcophaga sp,f,,
-460,49,Kennet Mouth (E),2020-05-16,,Muscidae,Helina sp,f,,
-460,50,Kennet Mouth (E),2020-05-16,,Muscidae,Helina sp,m,,
+460,49,Kennet Mouth (E),2020-05-16,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+460,50,Kennet Mouth (E),2020-05-16,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 460,51,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Nyctia halterata,m,,
 460,52,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Nyctia halterata,m,,
 460,53,Kennet Mouth (E),2020-05-16,,Sarcophagidae,Nyctia halterata,m,,

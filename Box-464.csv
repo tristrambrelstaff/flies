@@ -2,12 +2,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 464,1,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Eustalomyia sp,m,,
 464,2,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,,m,,
 464,3,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia procellaris,m,,
-464,4,Kings Meadow Tescos,2020-05-17,,Muscidae,,f,,
+464,4,Kings Meadow Tescos,2020-05-17,,Muscidae,Hebecnema nigricolor,f,"Fonseca, 1968",
 464,5,Kings Meadow Tescos,2020-05-17,,Dolichopodidae,,m,,
-464,6,Kings Meadow Tescos,2020-05-17,,Muscidae,Hebecnema vespertina,f,,
-464,7,Kings Meadow Tescos,2020-05-17,,Muscidae,Helina sp,f,,
-464,8,Kings Meadow Tescos,2020-05-17,,Muscidae,Helina sp,f,,
-464,9,Kings Meadow Tescos,2020-05-17,,Muscidae,Hebecnema vespertina,f,,
+464,6,Kings Meadow Tescos,2020-05-17,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
+464,7,Kings Meadow Tescos,2020-05-17,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+464,8,Kings Meadow Tescos,2020-05-17,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
+464,9,Kings Meadow Tescos,2020-05-17,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 464,10,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia procellaris,m,,
 464,11,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia pluvialis,m,,
 464,12,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia pluvialis,m,,
@@ -21,8 +21,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 464,20,Kings Meadow Tescos,2020-05-17,,Fanniidae,Fannia sp,f,,
 464,21,Kings Meadow Tescos,2020-05-17,,Fanniidae,Fannia sp,f,,
 464,22,Kings Meadow Tescos,2020-05-17,,Lauxaniidae,Minettia fasciata,,,
-464,23,Kings Meadow Tescos,2020-05-17,,Muscidae,Coenosia sp,f,,
-464,24,Kings Meadow Tescos,2020-05-17,,Muscidae,Coenosia sp,f,,
+464,23,Kings Meadow Tescos,2020-05-17,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
+464,24,Kings Meadow Tescos,2020-05-17,,Muscidae,Coenosia sp,f,"Fonseca, 1968",As Coenosia alleni
 464,25,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia procellaris,m,,
 464,26,Kings Meadow Tescos,2020-05-17,,Anthomyiidae,Anthomyia procellaris,m,,
 464,27,Kings Meadow Tescos,2020-05-17,,Fanniidae,Fannia armata,m,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 464,40,The Wilderness (W),2020-05-18,Hymenoptera,Ichneumonidae,,m,,
 464,41,The Wilderness (W),2020-05-18,Hymenoptera,Ichneumonidae,,m,,
 464,42,The Wilderness (W),2020-05-18,Hymenoptera,Ichneumonidae,,m,,
-464,43,The Wilderness (W),2020-05-18,,Muscidae,Muscina levida,m,,
+464,43,The Wilderness (W),2020-05-18,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 464,44,The Wilderness (W),2020-05-18,,Sarcophagidae,Sarcophaga sp,m,,
 464,45,The Wilderness (W),2020-05-18,,Sarcophagidae,Sarcophaga sp,m,,
 464,46,The Wilderness (W),2020-05-18,,Sarcophagidae,Sarcophaga sp,m,,
