@@ -13,8 +13,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 451,12,Kennet Mouth (E),2020-05-08,Hymenoptera,Tenthredinidae,,m,,
 451,13,Kennet Mouth (E),2020-05-08,Hymenoptera,Ichneumonidae,,m,,
 451,14,Kennet Mouth (E),2020-05-08,Hymenoptera,Ichneumonidae,,f,,
-451,15,Kennet Mouth (E),2020-05-08,,Muscidae,Helina sp,m,,
-451,16,Kennet Mouth (E),2020-05-08,,Muscidae,Eudasyphora cyanella,m,,
+451,15,Kennet Mouth (E),2020-05-08,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
+451,16,Kennet Mouth (E),2020-05-08,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 451,17,Kennet Mouth (E),2020-05-08,,Calliphoridae,Lucilia sericata,m,,
 451,18,Kennet Mouth (E),2020-05-08,,Anthomyiidae,Anthomyia procellaris,f,,
 451,19,Kennet Mouth (E),2020-05-08,,Anthomyiidae,,f,,
@@ -22,7 +22,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 451,21,Kennet Mouth (E),2020-05-08,,Anthomyiidae,,f,,
 451,22,Kennet Mouth (E),2020-05-08,,Anthomyiidae,,f,,
 451,23,Kennet Mouth (E),2020-05-08,,Fanniidae,Fannia sp,f,,
-451,24,Kennet Mouth (E),2020-05-08,,Muscidae,Coenosia sp,,,
+451,24,Kennet Mouth (E),2020-05-08,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 451,25,Kennet Mouth (E),2020-05-08,,Ephydridae,,,,
 451,26,Thames Valley Park,2020-05-08,Hymenoptera,Ichneumonidae,Ichneumon sarcitorius,f,,
 451,27,Thames Valley Park,2020-05-08,Hymenoptera,Ichneumonidae,,m,,

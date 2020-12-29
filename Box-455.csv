@@ -16,16 +16,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 455,15,The Wilderness (W),2020-05-10,,Sarcophagidae,Sarcophaga sp,f,,
 455,16,The Wilderness (W),2020-05-10,,Calliphoridae,Calliphora vomitoria,m,,
 455,17,The Wilderness (W),2020-05-10,,Calliphoridae,Bellardia sp,f,,
-455,18,The Wilderness (W),2020-05-10,,Muscidae,Polietes sp,f,,
+455,18,The Wilderness (W),2020-05-10,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 455,19,The Wilderness (W),2020-05-10,,Empididae,Empis sp,m,,
 455,20,The Wilderness (W),2020-05-10,,Empididae,Empis sp,m,,20 preying on 21
-455,21,The Wilderness (W),2020-05-10,,Muscidae,Helina sp,m,,20 preying on 21
+455,21,The Wilderness (W),2020-05-10,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",20 preying on 21
 455,22,The Wilderness (W),2020-05-10,,Scathophagidae,Scathophaga stercoraria,f,,
-455,23,The Wilderness (W),2020-05-10,,Muscidae,Phaonia sp,f,,
+455,23,The Wilderness (W),2020-05-10,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 455,24,The Wilderness (W),2020-05-10,,Sarcophagidae,Sarcophaga sp,f,,
 455,25,The Wilderness (W),2020-05-10,Hymenoptera,Ichneumonidae,,m,,
-455,26,The Wilderness (W),2020-05-10,,Muscidae,Phaonia subventa,m,,
-455,27,The Wilderness (W),2020-05-10,,Muscidae,Helina sp,f,,
+455,26,The Wilderness (W),2020-05-10,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+455,27,The Wilderness (W),2020-05-10,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 455,28,The Wilderness (W),2020-05-10,,Sarcophagidae,Sarcophaga sp,m,,
 455,29,The Wilderness (W),2020-05-10,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
 455,30,The Wilderness (W),2020-05-10,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",

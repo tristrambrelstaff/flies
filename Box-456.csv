@@ -2,8 +2,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 456,1,Whiteknights Park (E),2020-05-11,Mecoptera,Panorpidae,Panorpa sp,m,,
 456,2,Whiteknights Park (E),2020-05-11,Hymenoptera,Ichneumonidae,,m,,
 456,3,Whiteknights Park (E),2020-05-11,Hymenoptera,Ichneumonidae,,m,,
-456,4,Whiteknights Park (E),2020-05-11,,Muscidae,Helina sp,m,,
-456,5,Whiteknights Park (E),2020-05-11,,Sarcophagidae,Sarcophaga sp,f,,
+456,4,Whiteknights Park (E),2020-05-11,,Muscidae,Helina lasiophthalma,m,"Fonseca, 1968",
+456,5,Whiteknights Park (E),2020-05-11,,Sarcophagidae, ,f,,
 456,6,Whiteknights Park (E),2020-05-11,,Sarcophagidae,Sarcophaga sp,f,,
 456,7,Whiteknights Park (E),2020-05-11,,Sarcophagidae,Sarcophaga sp,m,,
 456,8,Whiteknights Park (E),2020-05-11,,Sarcophagidae,Sarcophaga sp,m,,
@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 456,10,Whiteknights Park (E),2020-05-11,,Scathophagidae,Scathophaga stercoraria,m,,
 456,11,Whiteknights Park (E),2020-05-11,,Scathophagidae,Scathophaga stercoraria,m,,
 456,12,Whiteknights Park (E),2020-05-11,,Anthomyiidae,,f,,
-456,13,Whiteknights Park (E),2020-05-11,,Muscidae,Coenosia tigrina,m,,
+456,13,Whiteknights Park (E),2020-05-11,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 456,14,Whiteknights Park (E),2020-05-11,,Empididae,Empis sp,f,,
 456,15,Whiteknights Park (E),2020-05-11,,Chironomidae,,m,,
 456,16,Whiteknights Park (E),2020-05-11,,Tephritidae,Tephritis sp,m,,
@@ -35,5 +35,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 456,34,Whiteknights Park (W),2020-05-12,,Anthomyiidae,Leucophora sp,f,,
 456,35,Whiteknights Park (W),2020-05-12,,Scathophagidae,Scathophaga stercoraria,f,,
 456,36,Whiteknights Park (W),2020-05-12,,Scathophagidae,Scathophaga stercoraria,f,,
-456,37,Whiteknights Park (W),2020-05-12,,Muscidae,Hebecnema vespertina,f,,
+456,37,Whiteknights Park (W),2020-05-12,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 456,38,Whiteknights Park (W),2020-05-12,,Anthomyiidae,,f,,
