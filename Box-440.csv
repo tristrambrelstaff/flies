@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 440,23,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 440,24,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 440,25,The Wilderness (W),2020-04-27,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata
-440,26,The Wilderness (W),2020-04-27,,Muscidae,Coenosia sp,f,,
+440,26,The Wilderness (W),2020-04-27,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia alleni
 440,27,Whiteknights Park (E),2020-04-27,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",37+38 in cop
 440,28,Whiteknights Park (E),2020-04-27,,Bibionidae,Bibio reticulatus,f,"Freeman & Lane, 1985",37+38 in cop
 440,29,Whiteknights Park (E-FH),2020-04-29,,Sciomyzidae,Pherbellia ventralis,m,"Rozkosny, 1984",
@@ -36,6 +36,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 440,35,Whiteknights Park (E-FH),2020-04-29,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 440,36,Whiteknights Park (E-FH),2020-04-29,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 440,37,Whiteknights Park (E-FH),2020-04-29,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-440,38,Whiteknights Park (E-FH),2020-04-29,,Muscidae,Phaonia subventa,f,,
-440,39,Whiteknights Park (E-FH),2020-04-29,,Muscidae,Helina sp,m,,
+440,38,Whiteknights Park (E-FH),2020-04-29,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+440,39,Whiteknights Park (E-FH),2020-04-29,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 440,40,Whiteknights Park (E-FH),2020-04-29,,Anthomyiidae,,f,,
