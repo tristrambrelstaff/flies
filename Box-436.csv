@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 436,9,Whiteknights Park (E),2020-04-24,,Bibionidae,Bibio marci,f,"Freeman & Lane, 1985",
 436,10,Whiteknights Park (E),2020-04-24,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
 436,11,Whiteknights Park (E),2020-04-24,,Anthomyiidae,Leucophora sp,m,,
-436,12,Whiteknights Park (E),2020-04-24,,Muscidae,Helina sp,m,,
+436,12,Whiteknights Park (E),2020-04-24,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 436,13,Whiteknights Park (E),2020-04-24,,Anthomyiidae,,m,,
 436,14,Whiteknights Park (E),2020-04-24,,Tachinidae,Cyzenis albicans,f,"Belshaw, 1993 +v5c updates",
 436,15,Whiteknights Park (E),2020-04-24,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
@@ -42,5 +42,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 436,41,Whiteknights Park (W),2020-04-24,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 436,42,Whiteknights Park (W),2020-04-24,,Fanniidae,Fannia sp,m,,
 436,43,Whiteknights Park (W),2020-04-24,,Fanniidae,Fannia sp,m,,
-436,44,Whiteknights Park (W),2020-04-24,,Muscidae,Coenosia sp,f,,
+436,44,Whiteknights Park (W),2020-04-24,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 436,45,Whiteknights Park (W),2020-04-24,,???,,,,

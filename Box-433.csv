@@ -10,11 +10,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 433,9,Whiteknights Park (E-FH),2020-04-20,,Chironomidae,,m,,
 433,10,Whiteknights Park (E-FH),2020-04-20,,Anthomyiidae,Hylemya sp,f,,
 433,11,Whiteknights Park (E-FH),2020-04-20,,Ephydridae,,,,
-433,12,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia sp,f,,
-433,13,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia sp,f,,
-433,14,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia sp,f,,
-433,15,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia sp,f,,
-433,16,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia sp,f,,
+433,12,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia infantula,f,"Fonseca, 1968",
+433,13,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+433,14,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+433,15,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+433,16,Whiteknights Park (E-FH),2020-04-20,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 433,17,Whiteknights Park (E-FH),2020-04-20,,Ephydridae,,,,
 433,18,Whiteknights Park (E-FH),2020-04-20,,Ephydridae,,,,
 433,19,Whiteknights Park (E-FH),2020-04-20,,Ephydridae,,,,
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 433,22,Whiteknights Park (W),2020-04-20,,Tachinidae,Gymnocheta viridis,f,"Belshaw, 1993 +v5c updates",
 433,23,Whiteknights Park (W),2020-04-20,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
 433,24,Whiteknights Park (W),2020-04-20,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
-433,25,Whiteknights Park (W),2020-04-20,,Muscidae,Helina sp,m,,
+433,25,Whiteknights Park (W),2020-04-20,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina communis
 433,26,Whiteknights Park (W),2020-04-20,,Anthomyiidae,,f,,
 433,27,Whiteknights Park (W),2020-04-20,,Anthomyiidae,,f,,
 433,28,Whiteknights Park (W),2020-04-20,,Tachinidae,Ramonda spathulata,m,"Belshaw, 1993 +v5c updates",
