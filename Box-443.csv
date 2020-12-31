@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 443,14,Thames Valley Park,2020-05-02,,Calliphoridae,Pollenia sp,m,,
 443,15,Thames Valley Park,2020-05-02,,Calliphoridae,Pollenia sp,m,,
 443,16,Thames Valley Park,2020-05-02,,Calliphoridae,Pollenia sp,f,,
-443,17,Thames Valley Park,2020-05-02,,Muscidae,Phaonia sp,f,,
+443,17,Thames Valley Park,2020-05-02,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 443,18,Thames Valley Park,2020-05-02,,Anthomyiidae,Hylemya sp,m,,
 443,19,Thames Valley Park,2020-05-02,,Anthomyiidae,Hylemya sp,m,,
 443,20,Thames Valley Park,2020-05-02,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -28,11 +28,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 443,27,Thames Valley Park,2020-05-02,,Anthomyiidae,Phorbia fumigata,f,,
 443,28,Thames Valley Park,2020-05-02,,Anthomyiidae,,m,,
 443,29,Thames Valley Park,2020-05-02,,Sarcophagidae,Sarcophaga sp,f,,
-443,30,Thames Valley Park,2020-05-02,,Muscidae,Helina sp,m,,
+443,30,Thames Valley Park,2020-05-02,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina communis
 443,31,Thames Valley Park,2020-05-02,,Anthomyiidae,,f,,
 443,32,Thames Valley Park,2020-05-02,,Anthomyiidae,,f,,
-443,33,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-443,34,Thames Valley Park,2020-05-02,,Muscidae,,f,,
+443,33,Thames Valley Park,2020-05-02,,Muscidae,Lispocephala alma,f,"Fonseca, 1968",Could also be Lispocepala falculata
+443,34,Thames Valley Park,2020-05-02,,Muscidae,Lispe pygmaea,f,"Fonseca, 1968",
 443,35,Thames Valley Park,2020-05-02,,Anthomyiidae,Leucophora sp,f,,
 443,36,Thames Valley Park,2020-05-02,,Anthomyiidae,Phorbia sp,f,,
 443,37,Thames Valley Park,2020-05-02,,Anthomyiidae,Phorbia sp,f,,
@@ -44,5 +44,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 443,43,Thames Valley Park,2020-05-02,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 443,44,Thames Valley Park,2020-05-02,,Tephritidae,Tephritis neesii,m,"White, 1988",
 443,45,Thames Valley Park,2020-05-02,,Mycetophilidae,,f,,
-443,46,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-443,47,Thames Valley Park,2020-05-02,,Muscidae,Schoenomyza litorella,f,,
+443,46,Thames Valley Park,2020-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+443,47,Thames Valley Park,2020-05-02,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",

@@ -6,13 +6,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 444,5,Thames Valley Park,2020-05-02,,Empididae,Empis sp,m,,
 444,6,Thames Valley Park,2020-05-02,,Mycetophilidae,,m,,
 444,7,Thames Valley Park,2020-05-02,,Mycetophilidae,,m,,
-444,8,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-444,9,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-444,10,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-444,11,Thames Valley Park,2020-05-02,,Muscidae,Coenosia sp,f,,
-444,12,Thames Valley Park,2020-05-02,,Muscidae,Coenosia agromyzina,f,,
+444,8,Thames Valley Park,2020-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+444,9,Thames Valley Park,2020-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+444,10,Thames Valley Park,2020-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+444,11,Thames Valley Park,2020-05-02,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
+444,12,Thames Valley Park,2020-05-02,,Muscidae,Coenosia agromyzina,f,"Fonseca, 1968",
 444,13,Thames Valley Park,2020-05-02,,Anthomyiidae,,f,,
-444,14,Thames Valley Park,2020-05-02,,Muscidae,Schoenomyza litorella,f,,
+444,14,Thames Valley Park,2020-05-02,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 444,15,Thames Valley Park,2020-05-02,,Anthomyiidae,,f,,
 444,16,Thames Valley Park,2020-05-02,,Ephydridae,,,,
 444,17,Thames Valley Park,2020-05-02,,Chloropidae,,,,
@@ -30,13 +30,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 444,29,Thames Valley Park,2020-05-02,,Ephydridae,,,,
 444,30,Kings Road Gardens,2020-05-03,Ephemeroptera,Ephemeridae,Ephemera sp,,,
 444,31,Kings Road Gardens,2020-05-03,,Chironomidae,,f,,
-444,32,Kings Road Gardens,2020-05-03,,Muscidae,Coenosia tigrina,f,,
+444,32,Kings Road Gardens,2020-05-03,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina; Antennae missing
 444,33,Kings Road Gardens,2020-05-03,,Anthomyiidae,,m,,
 444,34,Kings Road Gardens,2020-05-03,,Anthomyiidae,,f,,
 444,35,Kings Road Gardens,2020-05-03,,Anthomyiidae,,f,,
 444,36,Kings Road Gardens,2020-05-03,,Lauxaniidae,,,,
-444,37,Kings Road Gardens,2020-05-03,,Muscidae,Schoenomyza litorella,f,,
-444,38,Kings Road Gardens,2020-05-03,,Muscidae,Coenosia sp,f,,Ptilinum extruded
+444,37,Kings Road Gardens,2020-05-03,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
+444,38,Kings Road Gardens,2020-05-03,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor; Ptilinum extruded
 444,39,Kings Road Gardens,2020-05-03,,Tephritidae,Tephritis neesii,m,"White, 1988",
 444,40,Kings Road Gardens,2020-05-03,,Mycetophilidae,,m,,
 444,41,"Oscar Wilde Walk, Reading",2020-05-03,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
@@ -54,7 +54,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 444,53,Kings Meadow Tescos,2020-05-03,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
 444,54,Kings Meadow Tescos,2020-05-03,,Fanniidae,Fannia lustrator,m,"Rozkosny et al, 1997",
 444,55,Kings Meadow Tescos,2020-05-03,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",
-444,56,Kings Meadow Tescos,2020-05-03,,Muscidae,Hebecnema sp,m,,
-444,57,Kings Meadow Tescos,2020-05-03,,Muscidae,Phaonia subventa,f,,
-444,58,Kings Meadow Tescos,2020-05-03,,Muscidae,Phaonia palpata,f,,
+444,56,Kings Meadow Tescos,2020-05-03,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black; Wings darkened
+444,57,Kings Meadow Tescos,2020-05-03,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+444,58,Kings Meadow Tescos,2020-05-03,,Muscidae,Phaonia palpata,f,"Fonseca, 1968",
 444,59,Kings Meadow Tescos,2020-05-03,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
