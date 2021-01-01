@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 445,1,Kings Meadow Tescos,2020-05-03,,Sarcophagidae,Sarcophaga sp,m,,
 445,2,Kings Meadow Tescos,2020-05-03,,Sarcophagidae,Sarcophaga sp,f,,
-445,3,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Calliphora vicina,m,,
-445,4,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Lucilia sp,f,,
+445,3,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+445,4,Kings Meadow Tescos,2020-05-03,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 445,5,Kings Meadow Tescos,2020-05-03,,Muscidae,Phaonia halterata,m,"Fonseca, 1968",
 445,6,Kings Meadow Tescos,2020-05-03,,Heleomyzidae,Suillia affinis,m,"Withers, 1987",
 445,7,Kings Meadow Tescos,2020-05-03,,Anthomyiidae,,m,,
