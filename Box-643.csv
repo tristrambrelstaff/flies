@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-643,1,Whiteknights Park (W),2020-12-27,,Calliphoridae,Calliphora vicina,m,,
-643,2,Whiteknights Park (W),2020-12-27,,Calliphoridae,Calliphora vicina,m,,
+643,1,Whiteknights Park (W),2020-12-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+643,2,Whiteknights Park (W),2020-12-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 643,3,Whiteknights Park (W),2020-12-27,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 643,4,Whiteknights Park (W),2020-12-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 643,5,The Wilderness (W),2020-12-27,,Anthomyiidae,Mycophaga testacea,f,,
@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 643,13,Whiteknights Park (E),2020-12-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 643,14,Whiteknights Park (W),2020-12-29,,Scathophagidae,Scathophaga sp,m,,
 643,15,Whiteknights Park (W),2020-12-29,,Trichoceridae,,f,,
-643,16,Chazey Wood,2020-12-30,,Calliphoridae,Calliphora vicina,f,,
+643,16,Chazey Wood,2020-12-30,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 643,17,Chazey Wood,2020-12-30,,Anthomyiidae,Hylemya sp,f,,
 643,18,Chazey Wood,2020-12-30,,Anthomyiidae,Hylemya sp,f,,
 643,19,Chazey Wood,2020-12-30,,Anthomyiidae,,f,,

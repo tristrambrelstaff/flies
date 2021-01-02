@@ -19,16 +19,16 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 642,18,Whiteknights Park (E),2020-12-24,,Anthomyiidae,Hylemya sp,f,,Antennae missing
 642,19,Whiteknights Park (E),2020-12-24,,Anthomyiidae,Hylemya sp,f,,
 642,20,Whiteknights Park (E),2020-12-24,,Anthomyiidae,Mycophaga testacea,f,,
-642,21,Whiteknights Park (E),2020-12-24,,Calliphoridae,Calliphora vomitoria,m,,
+642,21,Whiteknights Park (E),2020-12-24,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 642,22,Whiteknights Park (E),2020-12-24,,Muscidae,Hebecnema fumosa,f,"Fonseca, 1968; Gregor et al, 2016",Antennae missing
-642,23,Whiteknights Park (W),2020-12-24,,Calliphoridae,Calliphora vicina,m,,
+642,23,Whiteknights Park (W),2020-12-24,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 642,24,Whiteknights Park (W),2020-12-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata; Antennae missing
-642,25,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,f,,
-642,26,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,m,,
-642,27,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,m,,
-642,28,Whiteknights Park (E),2020-12-25,,Calliphoridae,Calliphora vicina,f,,
+642,25,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+642,26,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+642,27,Whiteknights Park (W),2020-12-25,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+642,28,Whiteknights Park (E),2020-12-25,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 642,29,Whiteknights Park (E),2020-12-25,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
-642,30,Whiteknights Park (E),2020-12-25,,Calliphoridae,Calliphora vicina,f,,
+642,30,Whiteknights Park (E),2020-12-25,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 642,31,Whiteknights Park (E),2020-12-25,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 642,32,Whiteknights Park (E),2020-12-25,,Anthomyiidae,,f,,
 642,33,Whiteknights Park (E),2020-12-25,,Anthomyiidae,Pegomya sp,m,,
