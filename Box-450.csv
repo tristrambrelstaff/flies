@@ -13,8 +13,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 450,12,Whiteknights Park (E-FH),2020-05-07,,Anthomyiidae,,m,,
 450,13,Whiteknights Park (E-FH),2020-05-07,,Sciomyzidae,,m,,
 450,14,Whiteknights Park (E-FH),2020-05-07,Hymenoptera,Ichneumonidae,,f,,
-450,15,Whiteknights Park (E-FH),2020-05-07,,Fanniidae,Fannia armata,m,,
-450,16,Whiteknights Park (E-FH),2020-05-07,,Fanniidae,Fannia armata,m,,
+450,15,Whiteknights Park (E-FH),2020-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
+450,16,Whiteknights Park (E-FH),2020-05-07,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 450,17,Whiteknights Park (E-FH),2020-05-07,,Tephritidae,Tephritis sp,f,,
 450,18,Whiteknights Park (E-FH),2020-05-07,,Tephritidae,Tephritis sp,f,,
 450,19,Whiteknights Park (E-FH),2020-05-07,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
@@ -51,6 +51,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 450,50,Kennet Mouth (E),2020-05-08,,Sarcophagidae,Nyctia halterata,m,,
 450,51,Kennet Mouth (E),2020-05-08,,Sarcophagidae,Nyctia halterata,m,,
 450,52,Kennet Mouth (E),2020-05-08,,Sarcophagidae,Nyctia halterata,m,,
-450,53,Kennet Mouth (E),2020-05-08,,Fanniidae,Fannia armata,m,,
+450,53,Kennet Mouth (E),2020-05-08,,Fanniidae,Fannia armata,m,"Rozkosny et al, 1997",
 450,54,Kennet Mouth (E),2020-05-08,,Sarcophagidae,Sarcophaga sp,m,,
 450,55,Kennet Mouth (E),2020-05-08,,Anthomyiidae,,m,,
