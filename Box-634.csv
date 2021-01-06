@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-634,1,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,f,,
+634,1,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 634,2,Thames Valley Park,2020-11-15,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 634,3,Thames Valley Park,2020-11-15,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
-634,4,Thames Valley Park,2020-11-15,,Calliphoridae,Pollenia sp,m,,
+634,4,Thames Valley Park,2020-11-15,,Calliphoridae,Pollenia amentaria,m,"Rognes, 1991",
 634,5,Thames Valley Park,2020-11-15,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 634,6,Thames Valley Park,2020-11-15,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 634,7,Thames Valley Park,2020-11-15,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
@@ -10,10 +10,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 634,9,Thames Valley Park,2020-11-15,,Fanniidae,Fannia sp,f,,
 634,10,Thames Valley Park,2020-11-15,,Anthomyiidae,,m,,
 634,11,Thames Valley Park,2020-11-15,,Anthomyiidae,,m,,
-634,12,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,,
-634,13,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,f,,
-634,14,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,,
-634,15,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,,
+634,12,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+634,13,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+634,14,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+634,15,Thames Valley Park,2020-11-15,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 634,16,Thames Valley Park,2020-11-15,,Scathophagidae,Scathophaga stercoraria,f,,
 634,17,Thames Valley Park,2020-11-15,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 634,18,Thames Valley Park,2020-11-15,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 634,22,Thames Valley Park,2020-11-15,,Anthomyiidae,,m,,
 634,23,Thames Valley Park,2020-11-15,,Anthomyiidae,Delia platura,m,,
 634,24,Thames Valley Park,2020-11-15,,Anthomyiidae,,m,,
-634,25,Whiteknights Park (E-FH),2020-11-16,,Calliphoridae,Calliphora vicina,f,,
+634,25,Whiteknights Park (E-FH),2020-11-16,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 634,26,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 634,27,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 634,28,Whiteknights Park (E-FH),2020-11-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Antennae missing

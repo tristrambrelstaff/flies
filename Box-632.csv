@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 632,23,The Wilderness (W),2020-11-09,,Sphaeroceridae,,,,
 632,24,The Wilderness (E),2020-11-10,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 632,25,The Wilderness (E),2020-11-10,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-632,26,The Wilderness (E),2020-11-10,,Calliphoridae,Pollenia sp,m,,
+632,26,The Wilderness (E),2020-11-10,,Calliphoridae,Pollenia amentaria,m,"Rognes, 1991",
 632,27,The Wilderness (E),2020-11-10,Hymenoptera,Ichneumonidae,,m,,
 632,28,The Wilderness (E),2020-11-10,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 632,29,The Wilderness (E),2020-11-10,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -46,7 +46,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 632,45,The Wilderness (E-FH),2020-11-11,,Heleomyzidae,,m,,
 632,46,The Wilderness (E-FH),2020-11-11,,Anthomyiidae,,f,,
 632,47,The Wilderness (E-FH),2020-11-11,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
-632,48,The Wilderness (E-FH),2020-11-12,,Calliphoridae,Pollenia sp,m,,
+632,48,The Wilderness (E-FH),2020-11-12,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 632,49,The Wilderness (E-FH),2020-11-12,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 632,50,The Wilderness (E-FH),2020-11-12,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 632,51,The Wilderness (E-FH),2020-11-12,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
