@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 453,1,Thames Valley Park,2020-05-08,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
-453,2,Thames Valley Park,2020-05-08,,Calliphoridae,Pollenia sp,f,,
+453,2,Thames Valley Park,2020-05-08,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 453,3,Thames Valley Park,2020-05-08,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 453,4,Thames Valley Park,2020-05-08,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 453,5,Thames Valley Park,2020-05-08,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 453,41,Kings Meadow Tescos,2020-05-09,Hymenoptera,Ichneumonidae,,f,,
 453,42,Kings Meadow Tescos,2020-05-09,Hymenoptera,Ichneumonidae,,f,,
 453,43,Kings Meadow Tescos,2020-05-09,,Sarcophagidae,Sarcophaga sp,m,,
-453,44,Kings Meadow Tescos,2020-05-09,,Calliphoridae,Lucilia sp,m,,
+453,44,Kings Meadow Tescos,2020-05-09,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 453,45,Kings Meadow Tescos,2020-05-09,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 453,46,Kings Meadow Tescos,2020-05-09,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 453,47,Kings Meadow Tescos,2020-05-09,Hymenoptera,Tenthredinidae,,,,
