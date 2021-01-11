@@ -3,10 +3,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 487,2,Kennet Mouth (E),2020-06-07,Hymenoptera,Ichneumonidae,,m,,Antennae truncated
 487,3,Kennet Mouth (E),2020-06-07,,Asilidae,Dioctria sp,f,,
 487,4,Kennet Mouth (E),2020-06-07,,Sarcophagidae,Sarcophaga sp,m,,
-487,5,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,,
-487,6,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,,
-487,7,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,f,,
-487,8,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,,
+487,5,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+487,6,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+487,7,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+487,8,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 487,9,Kennet Mouth (E),2020-06-07,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 487,10,Kennet Mouth (E),2020-06-07,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 487,11,Kennet Mouth (E),2020-06-07,,Muscidae,Phaonia rufipalpis,m,"Fonseca, 1968",
@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 487,14,Kennet Mouth (E),2020-06-07,,Sarcophagidae,Sarcophaga sp,m,,
 487,15,Kennet Mouth (E),2020-06-07,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 487,16,Kennet Mouth (E),2020-06-07,,Sarcophagidae,Sarcophaga sp,m,,
-487,17,Kennet Mouth (E),2020-06-07,,Calliphoridae,Calliphora vicina,m,,
+487,17,Kennet Mouth (E),2020-06-07,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 487,18,Kennet Mouth (E),2020-06-07,,Tachinidae,Platymya fimbriata,f,"Belshaw, 1993 +v5c updates",
 487,19,Kennet Mouth (E),2020-06-07,,Sarcophagidae,Nyctia halterata,f,,
 487,20,Kennet Mouth (E),2020-06-07,,Sarcophagidae,Sarcophaga sp,m,,

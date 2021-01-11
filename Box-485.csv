@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 485,13,Whiteknights Park (W),2020-06-05,,Anthomyiidae,,f,,
 485,14,Whiteknights Park (W),2020-06-05,,Anthomyiidae,,f,,
 485,15,Whiteknights Park (W),2020-06-05,,Anthomyiidae,,m,,
-485,16,Whiteknights Park (W),2020-06-05,,Calliphoridae,Pollenia sp,m,,
+485,16,Whiteknights Park (W),2020-06-05,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 485,17,Whiteknights Park (W),2020-06-05,,Anthomyiidae,,m,,
 485,18,Whiteknights Park (W),2020-06-05,,Dolichopodidae,,f,,
 485,19,Whiteknights Park (W),2020-06-05,,Dolichopodidae,,f,,
@@ -49,6 +49,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 485,48,Kings Meadow Tescos,2020-06-06,,Muscidae,Mydaea urbana,f,"Fonseca, 1968",
 485,49,Kings Meadow Tescos,2020-06-06,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 485,50,Kings Meadow Tescos,2020-06-06,,Muscidae,Helina impuncta,m,"Fonseca, 1968",
-485,51,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sp,f,,
-485,52,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sp,f,,
-485,53,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sp,f,,
+485,51,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+485,52,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+485,53,Kings Meadow Tescos,2020-06-06,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
