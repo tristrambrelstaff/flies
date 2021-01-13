@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-644,1,Whiteknights Park (W),2021-01-09,,Sciomyzidae,,m,,
+644,1,Whiteknights Park (W),2021-01-09,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 644,2,Whiteknights Park (W),2021-01-09,,Tephritidae,Tephritis sp,f,,
 644,3,Whiteknights Park (W),2021-01-09,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 644,4,Thames Valley Park,2021-01-10,,Chironomidae,,m,,
@@ -12,8 +12,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 644,11,Whiteknights Park (E-FH),2021-01-12,,Drosophilidae,,,,
 644,12,Whiteknights Park (E-FH),2021-01-12,,Mycetophilidae,,,,
 644,13,Whiteknights Park (E-FH),2021-01-12,,Sphaeroceridae,,m,,
-644,14,Whiteknights Park (W),2021-01-12,,Sciomyzidae,,m,,
-644,15,Whiteknights Park (W),2021-01-13,,Sciomyzidae,,m,,
+644,14,Whiteknights Park (W),2021-01-12,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
+644,15,Whiteknights Park (W),2021-01-13,,Sciomyzidae,Hydromya dorsalis,m,"Rozkosny, 1984",
 644,16,Whiteknights Park (W),2021-01-13,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 644,17,Whiteknights Park (W),2021-01-13,,Mycetophilidae,,f,,
 644,18,Whiteknights Park (W),2021-01-13,,Sphaeroceridae,,m,,
