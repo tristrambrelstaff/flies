@@ -33,7 +33,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 483,32,Whiteknights Park (E),2020-06-03,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 483,33,Whiteknights Park (E),2020-06-03,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 483,34,Whiteknights Park (E),2020-06-03,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-483,35,Whiteknights Park (E),2020-06-03,,Calliphoridae,Pollenia sp,m,,
+483,35,Whiteknights Park (E),2020-06-03,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 483,36,Whiteknights Park (E),2020-06-03,,Anthomyiidae,,m,,
 483,37,Whiteknights Park (E),2020-06-03,,Dolichopodidae,,m,,
 483,38,Whiteknights Park (E),2020-06-03,,Dolichopodidae,,m,,
@@ -51,8 +51,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 483,50,Whiteknights Park (E),2020-06-03,,Opomyzidae,Opomyza sp,f,,
 483,51,Whiteknights Park (E),2020-06-03,,Opomyzidae,Opomyza sp,f,,
 483,52,Whiteknights Park (E),2020-06-03,,Tephritidae,,m,,
-483,53,Whiteknights Park (E),2020-06-03,,Calliphoridae,Melanomya nana,f,,
-483,54,Whiteknights Park (E),2020-06-03,,Calliphoridae,Melanomya nana,m,,
+483,53,Whiteknights Park (E),2020-06-03,,Calliphoridae,Melanomya nana,f,"Rognes, 1991",Antennae missing
+483,54,Whiteknights Park (E),2020-06-03,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 483,55,Whiteknights Park (E),2020-06-03,,Muscidae,Coenosia mollicula,f,"Fonseca, 1968",
 483,56,Whiteknights Park (E),2020-06-03,Hymenoptera,Ichneumonidae,,m,,
 483,57,Whiteknights Park (W),2020-06-04,,Scathophagidae,Scathophaga stercoraria,f,,

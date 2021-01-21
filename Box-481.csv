@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 481,11,Kings Meadow Tescos,2020-05-31,,Fanniidae,Fannia sp,f,,
 481,12,Kings Meadow Tescos,2020-05-31,,Fanniidae,Fannia sp,m,,
 481,13,Kings Meadow Tescos,2020-05-31,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-481,14,Kings Meadow Tescos,2020-05-31,,Calliphoridae,Calliphora vicina,m,,
+481,14,Kings Meadow Tescos,2020-05-31,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 481,15,Kings Meadow Tescos,2020-05-31,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 481,16,Kings Meadow Tescos,2020-05-31,,Anthomyiidae,Anthomyia procellaris,m,,
 481,17,Kings Meadow Tescos,2020-05-31,,Anthomyiidae,,m,,
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 481,38,The Wilderness (W),2020-06-01,,Scathophagidae,Scathophaga stercoraria,f,,
 481,39,The Wilderness (W),2020-06-01,,Tachinidae,Dufouria chalybeata,m,"Belshaw, 1993 +v5c updates",
 481,40,The Wilderness (W),2020-06-01,,Tachinidae,Triarthria setipennis,f,"Belshaw, 1993 +v5c updates",
-481,41,The Wilderness (W),2020-06-01,,Calliphoridae,Melanomya nana,m,,
+481,41,The Wilderness (W),2020-06-01,,Tachinidae,Dufouria nigrita,m,"Belshaw, 1993 +v5c updates",
 481,42,The Wilderness (W),2020-06-01,Hymenoptera,Ichneumonidae,,m,,
 481,43,The Wilderness (W),2020-06-01,Hymenoptera,Ichneumonidae,,f,,
 481,44,The Wilderness (W),2020-06-01,Hymenoptera,Ichneumonidae,,m,,
