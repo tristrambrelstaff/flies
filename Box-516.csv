@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,1,Whiteknights Park (W),2020-06-29,,Rhinophoridae,Rhinophora lepida,m,,
 516,2,Whiteknights Park (W),2020-06-29,,Rhinophoridae,Rhinophora lepida,f,,
-516,3,Whiteknights Park (W),2020-06-29,,Calliphoridae,Melanomya nana,f,,
-516,4,Whiteknights Park (W),2020-06-29,,Calliphoridae,Melanomya nana,m,,
-516,5,Whiteknights Park (W),2020-06-29,,Calliphoridae,Melanomya nana,m,,
+516,3,Whiteknights Park (W),2020-06-29,,Rhinophoridae,Rhinophora lepida,f,,
+516,4,Whiteknights Park (W),2020-06-29,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
+516,5,Whiteknights Park (W),2020-06-29,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 516,6,Whiteknights Park (E),2020-06-30,Hymenoptera,Ichneumonidae,Amblyteles armatorius,m,,
 516,7,Whiteknights Park (E),2020-06-30,Hymenoptera,Ichneumonidae,,f,,
 516,8,Whiteknights Park (E),2020-06-30,Hymenoptera,Ichneumonidae,,f,,
@@ -21,8 +21,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,20,Whiteknights Park (E),2020-06-30,Hymenoptera,Ichneumonidae,,m,,
 516,21,Whiteknights Park (E),2020-06-30,Hymenoptera,Ichneumonidae,,m,,
 516,22,Whiteknights Park (E),2020-06-30,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
-516,23,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,,
-516,24,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,,
+516,23,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
+516,24,Whiteknights Park (E),2020-06-30,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 516,25,Whiteknights Park (E),2020-06-30,,Muscidae,Helina setiventris,m,"Fonseca, 1968",
 516,26,Whiteknights Park (E),2020-06-30,,Muscidae,Helina confinis,m,"Fonseca, 1968",As Helina anceps
 516,27,Whiteknights Park (E),2020-06-30,,Anthomyiidae,Hylemya sp,f,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,30,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 516,31,Whiteknights Park (E),2020-06-30,,Stratiomyidae,Chloromyia formosa,m,,
 516,32,Whiteknights Park (E),2020-06-30,,Dolichopodidae,,f,,
-516,33,Whiteknights Park (E),2020-06-30,,Calliphoridae,Pollenia sp,m,,
+516,33,Whiteknights Park (E),2020-06-30,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
 516,34,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 516,35,Whiteknights Park (E),2020-06-30,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 516,36,Whiteknights Park (E),2020-06-30,,Anthomyiidae,,m,,
@@ -48,4 +48,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 516,47,The Wilderness (W),2020-07-01,,Dolichopodidae,,m,,
 516,48,The Wilderness (W),2020-07-01,,Rhinophoridae,Rhinophora lepida,f,,
 516,49,The Wilderness (W),2020-07-01,,Anthomyiidae,,m,,
-516,50,The Wilderness (W),2020-07-01,,Calliphoridae,Pollenia sp,f,,
+516,50,The Wilderness (W),2020-07-01,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
