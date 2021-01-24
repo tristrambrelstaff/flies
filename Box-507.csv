@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 507,1,The Wilderness (W),2020-06-21,,Sarcophagidae,Sarcophaga sp,m,,
 507,2,The Wilderness (W),2020-06-21,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
-507,3,The Wilderness (W),2020-06-21,,Calliphoridae,Pollenia sp,m,,
-507,4,The Wilderness (W),2020-06-21,,Calliphoridae,Pollenia sp,m,,
+507,3,The Wilderness (W),2020-06-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+507,4,The Wilderness (W),2020-06-21,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 507,5,The Wilderness (W),2020-06-21,,Anthomyiidae,,m,,
 507,6,The Wilderness (W),2020-06-21,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
 507,7,The Wilderness (W),2020-06-21,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
@@ -32,9 +32,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 507,31,Whiteknights Park (E-FH),2020-06-22,,Rhagionidae,Chrysopilus cristatus,m,,
 507,32,Whiteknights Park (E-FH),2020-06-22,,Anthomyiidae,,f,,
 507,33,Whiteknights Park (E-FH),2020-06-22,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-507,34,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia sp,m,,
-507,35,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia sp,m,,
-507,36,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia sp,m,,
+507,34,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+507,35,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+507,36,Whiteknights Park (E-FH),2020-06-22,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 507,37,Whiteknights Park (E-FH),2020-06-22,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
 507,38,Whiteknights Park (E-FH),2020-06-22,,Dolichopodidae,,m,,
 507,39,Whiteknights Park (E-FH),2020-06-22,,Dolichopodidae,,f,,

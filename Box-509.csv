@@ -11,7 +11,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 509,10,The Wilderness (E),2020-06-23,,Sphaeroceridae,,,,
 509,11,The Wilderness (E),2020-06-23,,Sphaeroceridae,,,,
 509,12,The Wilderness (E),2020-06-23,,Sphaeroceridae,,,,
-509,13,Whiteknights Park (E),2020-06-23,,Calliphoridae,Calliphora vomitoria,f,,
+509,13,Whiteknights Park (E),2020-06-23,,Calliphoridae,Calliphora vomitoria,f,"Rognes, 1991",
 509,14,Whiteknights Park (E),2020-06-23,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
 509,15,Whiteknights Park (E),2020-06-23,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
 509,16,Whiteknights Park (E),2020-06-23,,Tachinidae,Estheria cristata,m,"Belshaw, 1993 +v5c updates",
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 509,22,Whiteknights Park (E),2020-06-23,,Ulidiidae,,,,
 509,23,Whiteknights Park (E),2020-06-23,,Muscidae,Hebecnema sp,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 509,24,Whiteknights Park (E),2020-06-23,,Anthomyiidae,,m,,
-509,25,Whiteknights Park (E),2020-06-23,,Calliphoridae,Pollenia sp,m,,
+509,25,Whiteknights Park (E),2020-06-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 509,26,Whiteknights Park (E),2020-06-23,Hymenoptera,Crabronidae,,f,,
 509,27,Whiteknights Park (E),2020-06-23,Hymenoptera,Crabronidae,,f,,
 509,28,Whiteknights Park (E),2020-06-23,Hymenoptera,Ichneumonidae,,,,
