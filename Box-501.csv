@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 501,1,Chazey Wood,2020-06-17,Mecoptera,Panorpidae,Panorpa sp,f,,
 501,2,Chazey Wood,2020-06-17,,Sarcophagidae,Sarcophaga sp,f,,
 501,3,Chazey Wood,2020-06-17,,Empididae,Empis sp,m,,
-501,4,Chazey Wood,2020-06-17,,Calliphoridae,Lucilia sp,f,,
+501,4,Chazey Wood,2020-06-17,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 501,5,Chazey Wood,2020-06-17,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 501,6,Chazey Wood,2020-06-17,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 501,7,Chazey Wood,2020-06-17,Hymenoptera,Crabronidae,,f,,
@@ -18,11 +18,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 501,17,Chazey Wood,2020-06-17,,Sciomyzidae,Tetanocera ferruginea,m,"Rozkosny, 1984",
 501,18,Chazey Wood,2020-06-17,,Sciomyzidae,Coremacera marginata,m,"Rozkosny, 1984",Greasy
 501,19,Chazey Wood,2020-06-17,,Muscidae,Helina depuncta,m,"Fonseca, 1968",
-501,20,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia sp,m,,
-501,21,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia sp,m,,
-501,22,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia sp,m,,
-501,23,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia sp,m,,
-501,24,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia sp,f,,
+501,20,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+501,21,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+501,22,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+501,23,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+501,24,Chazey Wood,2020-06-17,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 501,25,Chazey Wood,2020-06-17,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 501,26,Chazey Wood,2020-06-17,,Sarcophagidae,Blaesoxipha sp,m,,
 501,27,Chazey Wood,2020-06-17,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
