@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 493,14,The Wilderness (E),2020-06-13,,Empididae,,f,,
 493,15,The Wilderness (E),2020-06-13,,Empididae,,f,,
 493,16,The Wilderness (E),2020-06-13,,Empididae,,f,,
-493,17,The Wilderness (E),2020-06-13,,Calliphoridae,Calliphora vicina,m,,
+493,17,The Wilderness (E),2020-06-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 493,18,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 493,19,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 493,20,The Wilderness (E),2020-06-13,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -23,12 +23,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 493,22,The Wilderness (E),2020-06-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 493,23,The Wilderness (E),2020-06-13,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 493,24,The Wilderness (E),2020-06-13,,Heleomyzidae,,m,,
-493,25,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
-493,26,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
-493,27,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
-493,28,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
-493,29,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,m,,
-493,30,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia sp,f,,
+493,25,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+493,26,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+493,27,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+493,28,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+493,29,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+493,30,The Wilderness (E),2020-06-13,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 493,31,The Wilderness (E),2020-06-13,,Fanniidae,Fannia sp,m,,
 493,32,The Wilderness (E),2020-06-13,,Fanniidae,Fannia armata,m,,
 493,33,The Wilderness (E),2020-06-13,,Fanniidae,Fannia armata,m,,
