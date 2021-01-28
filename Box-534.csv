@@ -7,11 +7,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 534,6,The Wilderness (E),2020-07-15,,Simuliidae,,m,,
 534,7,The Wilderness (E),2020-07-15,,Simuliidae,,f,,
 534,8,Quarry near Chazey Wood,2020-07-16,Hymenoptera,Ichneumonidae,,m,,
-534,9,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Lucilia sp,m,,
-534,10,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,m,,
-534,11,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,m,,
-534,12,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,m,,
-534,13,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,f,,
+534,9,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
+534,10,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+534,11,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+534,12,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+534,13,Quarry near Chazey Wood,2020-07-16,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 534,14,Quarry near Chazey Wood,2020-07-16,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 534,15,Quarry near Chazey Wood,2020-07-16,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 534,16,Quarry near Chazey Wood,2020-07-16,,Muscidae,Morellia aenescens,m,"Fonseca, 1968",
