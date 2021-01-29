@@ -8,7 +8,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 541,7,Whiteknights Park (W),2020-07-21,,Rhinophoridae,,m,,
 541,8,Whiteknights Park (W),2020-07-21,,Sarcophagidae,Sarcophaga sp,m,,
 541,9,Whiteknights Park (W),2020-07-21,,Sarcophagidae,Sarcophaga sp,m,,
-541,10,Whiteknights Park (W),2020-07-21,,Calliphoridae,Lucilia sp,f,,
+541,10,Whiteknights Park (W),2020-07-21,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 541,11,Whiteknights Park (W),2020-07-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 541,12,Whiteknights Park (W),2020-07-21,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 541,13,Whiteknights Park (W),2020-07-21,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
@@ -29,8 +29,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 541,28,The Wilderness (E),2020-07-22,,Anthomyiidae,,f,,
 541,29,The Wilderness (E),2020-07-22,,Anthomyiidae,,f,,
 541,30,The Wilderness (E),2020-07-22,,Hybotidae,Hybos sp,m,,
-541,31,The Wilderness (E),2020-07-22,,Calliphoridae,Pollenia sp,m,,
-541,32,The Wilderness (E),2020-07-22,,Calliphoridae,Pollenia sp,m,,
+541,31,The Wilderness (E),2020-07-22,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
+541,32,The Wilderness (E),2020-07-22,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
 541,33,The Wilderness (E),2020-07-22,,Anthomyiidae,Anthomyia procellaris grp,f,,
 541,34,The Wilderness (E),2020-07-22,,Anthomyiidae,Anthomyia procellaris grp,m,,
 541,35,The Wilderness (E),2020-07-22,,Anthomyiidae,Anthomyia procellaris grp,m,,

@@ -8,8 +8,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 536,7,Whiteknights Park (E-FH),2020-07-17,,Sarcophagidae,Sarcophaga sp,m,,
 536,8,Whiteknights Park (E-FH),2020-07-17,,Sarcophagidae,Sarcophaga sp,m,,
 536,9,Whiteknights Park (E-FH),2020-07-17,,Sarcophagidae,Sarcophaga sp,m,,
-536,10,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,,
-536,11,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,,
+536,10,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+536,11,Whiteknights Park (E-FH),2020-07-17,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 536,12,Whiteknights Park (E-FH),2020-07-17,,Rhagionidae,Chrysopilus cristatus,m,,
 536,13,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,m,"Fonseca, 1968",
 536,14,Whiteknights Park (E-FH),2020-07-17,,Muscidae,Lispe tentaculata,f,"Fonseca, 1968",
@@ -32,13 +32,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 536,31,The Wilderness (W),2020-07-18,,Dolichopodidae,,f,,30+31 in cop
 536,32,The Wilderness (W),2020-07-18,,Dolichopodidae,,m,,
 536,33,The Wilderness (W),2020-07-18,,Tachinidae,Tachina fera,m,"Belshaw, 1993 +v5c updates",
-536,34,The Wilderness (W),2020-07-18,,Calliphoridae,Lucilia sp,f,,
-536,35,The Wilderness (W),2020-07-18,,Calliphoridae,Lucilia sp,f,,
+536,34,The Wilderness (W),2020-07-18,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+536,35,The Wilderness (W),2020-07-18,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 536,36,The Wilderness (W),2020-07-18,,Sarcophagidae,Sarcophaga sp,f,,
 536,37,The Wilderness (W),2020-07-18,,Sarcophagidae,Sarcophaga sp,m,,
 536,38,The Wilderness (W),2020-07-18,,Scathophagidae,Scathophaga stercoraria,f,,
-536,39,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia sp,m,,
-536,40,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia sp,f,,
+536,39,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+536,40,The Wilderness (W),2020-07-18,,Calliphoridae,Pollenia pediculata,f,"Rognes, 1991",
 536,41,The Wilderness (W),2020-07-18,,Muscidae,Mydaea scutellaris,f,"Fonseca, 1968",
 536,42,The Wilderness (W),2020-07-18,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 536,43,The Wilderness (W),2020-07-18,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps

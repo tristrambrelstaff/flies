@@ -3,10 +3,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 535,2,Chazey Wood,2020-07-16,,Sarcophagidae,Sarcophaga sp,f,,
 535,3,Chazey Wood,2020-07-16,,Sarcophagidae,Sarcophaga sp,f,,
 535,4,Chazey Wood,2020-07-16,,Sarcophagidae,Sarcophaga sp,f,,
-535,5,Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,m,,
-535,6,Chazey Wood,2020-07-16,,Calliphoridae,Pollenia sp,f,,
-535,7,Chazey Wood,2020-07-16,,Calliphoridae,Lucilia sp,f,,
-535,8,Chazey Wood,2020-07-16,,Calliphoridae,Calliphora vicina,f,,
+535,5,Chazey Wood,2020-07-16,,Calliphoridae,Pollenia viatica,m,"Rognes, 1991",As Pollenia pallida
+535,6,Chazey Wood,2020-07-16,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+535,7,Chazey Wood,2020-07-16,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+535,8,Chazey Wood,2020-07-16,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 535,9,Chazey Wood,2020-07-16,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 535,10,Chazey Wood,2020-07-16,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
 535,11,Chazey Wood,2020-07-16,,Muscidae,Phaonia pallida,m,"Fonseca, 1968",
