@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 551,23,Whiteknights Park (W),2020-07-31,,Anthomyiidae,,f,,
 551,24,Whiteknights Park (W),2020-07-31,,Sarcophagidae,Sarcophaga sp,m,,
 551,25,Whiteknights Park (W),2020-07-31,,Anthomyiidae,,m,,
-551,26,Whiteknights Park (W),2020-07-31,,Calliphoridae,Lucilia sp,m,,
+551,26,Whiteknights Park (W),2020-07-31,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 551,27,Whiteknights Park (W),2020-07-31,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 551,28,Whiteknights Park (W),2020-07-31,,Anthomyiidae,,m,,
 551,29,Whiteknights Park (W),2020-07-31,,Anthomyiidae,,m,,
@@ -40,4 +40,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 551,39,Kennet Mouth (E),2020-08-01,,Anthomyiidae,,f,,
 551,40,Kennet Mouth (E),2020-08-01,,Anthomyiidae,,f,,
 551,41,Kennet Mouth (E),2020-08-01,,Anthomyiidae,,f,,
-551,42,Kennet Mouth (E),2020-08-01,,Calliphoridae,Pollenia sp,f,,
+551,42,Kennet Mouth (E),2020-08-01,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",

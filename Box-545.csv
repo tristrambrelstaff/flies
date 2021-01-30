@@ -36,9 +36,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 545,35,Kings Meadow Tescos,2020-07-25,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",Antennae missing
 545,36,Kennet Mouth (E),2020-07-26,,Sarcophagidae,Sarcophaga sp,f,,
 545,37,Kennet Mouth (E),2020-07-26,,Sarcophagidae,Sarcophaga sp,m,,
-545,38,Kennet Mouth (E),2020-07-26,,Calliphoridae,Pollenia sp,m,,
-545,39,Kennet Mouth (E),2020-07-26,,Calliphoridae,Lucilia sp,m,,
-545,40,Kennet Mouth (E),2020-07-26,,Calliphoridae,Lucilia sp,m,,
+545,38,Kennet Mouth (E),2020-07-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+545,39,Kennet Mouth (E),2020-07-26,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+545,40,Kennet Mouth (E),2020-07-26,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 545,41,Kennet Mouth (E),2020-07-26,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 545,42,Kennet Mouth (E),2020-07-26,,Anthomyiidae,,f,,
 545,43,Kennet Mouth (E),2020-07-26,,Anthomyiidae,,f,,
