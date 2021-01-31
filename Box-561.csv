@@ -30,9 +30,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 561,29,Kennet Mouth (E),2020-08-09,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 561,30,Kennet Mouth (E),2020-08-09,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 561,31,Kennet Mouth (E),2020-08-09,,Tachinidae,Exorista rustica,m,"Belshaw, 1993 +v5c updates",
-561,32,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia caesar,m,,
-561,33,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,m,,33+34 in cop
-561,34,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,f,,33+34 in cop
+561,32,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
+561,33,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",33+34 in cop
+561,34,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",33+34 in cop
 561,35,Kennet Mouth (E),2020-08-09,Hymenoptera,Vespidae,,m,,
 561,36,Kennet Mouth (E),2020-08-09,,Conopidae,,,,
 561,37,Kennet Mouth (E),2020-08-09,,Conopidae,,,,
@@ -42,7 +42,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 561,41,Kennet Mouth (E),2020-08-09,,Anthomyiidae,,m,,
 561,42,Kennet Mouth (E),2020-08-09,,Lauxaniidae,Minettia fasciata,,,
 561,43,Kennet Mouth (E),2020-08-09,,Tephritidae,,m,,
-561,44,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,m,,
+561,44,Kennet Mouth (E),2020-08-09,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 561,45,Thames Valley Park,2020-08-09,,Tabanidae,Chrysops relictus,f,,
 561,46,Thames Valley Park,2020-08-09,,Tabanidae,Chrysops relictus,f,,
 561,47,Thames Valley Park,2020-08-09,,Tabanidae,Chrysops relictus,f,,
