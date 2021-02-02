@@ -5,7 +5,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 646,4,Whiteknights Park (W),2021-02-02,,Ephydridae,,f,,
 646,5,Whiteknights Park (E),2021-02-02,,Calliphoridae,Calliphora vicina,m,,
 646,6,Whiteknights Park (E),2021-02-02,,Anthomyiidae,Hylemya sp,f,,
-646,7,Whiteknights Park (E),2021-02-02,,Muscidae,Lispocephala brachialis,m,,
-646,8,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,f,,
-646,9,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,m,,
-646,10,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia tuguriorum,f,,
+646,7,Whiteknights Park (E),2021-02-02,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
+646,8,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+646,9,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+646,10,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
