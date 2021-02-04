@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-580,1,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia sericata,m,,
-580,2,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia sericata,f,,
+580,1,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia ampullacea,m,"Rognes, 1991",
+580,2,The Wilderness (E),2020-08-29,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 580,3,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 580,4,The Wilderness (E),2020-08-29,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
 580,5,The Wilderness (E),2020-08-29,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
@@ -43,4 +43,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 580,42,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,m,,
 580,43,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,m,,
 580,44,The Wilderness (W),2020-08-29,Hymenoptera,Ichneumonidae,,m,,
-580,45,The Wilderness (W),2020-08-29,,Calliphoridae,Lucilia sericata,f,,
+580,45,The Wilderness (W),2020-08-29,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
