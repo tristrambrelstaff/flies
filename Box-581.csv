@@ -7,7 +7,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 581,6,The Wilderness (W),2020-08-29,,Anthomyiidae,,f,,
 581,7,The Wilderness (W),2020-08-29,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 581,8,The Wilderness (W),2020-08-29,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-581,9,The Wilderness (W),2020-08-29,,Calliphoridae,Pollenia sp,m,,
+581,9,The Wilderness (W),2020-08-29,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 581,10,The Wilderness (W),2020-08-29,,Heleomyzidae,,f,,
 581,11,The Wilderness (W),2020-08-29,,Hybotidae,Hybos sp,f,,
 581,12,The Wilderness (W),2020-08-29,,Anthomyiidae,,f,,
@@ -26,11 +26,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 581,25,Kennet Mouth (E),2020-08-30,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 581,26,Kennet Mouth (E),2020-08-30,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 581,27,Kennet Mouth (E),2020-08-30,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-581,28,Kennet Mouth (E),2020-08-30,,Calliphoridae,Lucilia sp,f,,
-581,29,Kennet Mouth (E),2020-08-30,,Calliphoridae,Lucilia sp,f,,
+581,28,Kennet Mouth (E),2020-08-30,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",Teneral
+581,29,Kennet Mouth (E),2020-08-30,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 581,30,Kennet Mouth (E),2020-08-30,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
-581,31,Kennet Mouth (E),2020-08-30,,Calliphoridae,Pollenia sp,m,,
-581,32,Kennet Mouth (E),2020-08-30,,Calliphoridae,Pollenia sp,m,,
+581,31,Kennet Mouth (E),2020-08-30,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+581,32,Kennet Mouth (E),2020-08-30,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 581,33,Kennet Mouth (E),2020-08-30,,Sarcophagidae,Sarcophaga sp,m,,
 581,34,Kennet Mouth (E),2020-08-30,,Sarcophagidae,Sarcophaga sp,m,,
 581,35,Kennet Mouth (E),2020-08-30,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
