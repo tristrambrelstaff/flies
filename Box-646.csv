@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 646,8,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 646,9,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 646,10,Whiteknights Park (E),2021-02-02,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-646,11,Whiteknights Park (E),2021-02-03,,Muscidae,Phaonia subventa,f,,
+646,11,Whiteknights Park (E),2021-02-03,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 646,12,Whiteknights Park (E),2021-02-03,,Simuliidae,,,,
 646,13,Whiteknights Park (E),2021-02-03,,Psilidae,,f,,
 646,14,Whiteknights Park (E),2021-02-03,,Lonchopteridae,Lonchoptera sp,m,,
@@ -20,9 +20,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 646,19,Whiteknights Park (W),2021-02-04,Hymenoptera,Cynipidae,Andricus kollari,f,,
 646,20,Whiteknights Park (W),2021-02-04,Hymenoptera,Cynipidae,,f,,
 646,21,Whiteknights Park (W),2021-02-04,Hymenoptera,Cynipidae,,f,,
-646,22,Whiteknights Park (E-FH),2021-02-05,,Muscidae,Phaonia subventa,m,,
-646,23,Whiteknights Park (E),2021-02-05,,Muscidae,Phaonia trimaculata,f,,
-646,24,Whiteknights Park (E),2021-02-05,,Muscidae,Phaonia trimaculata,f,,
+646,22,Whiteknights Park (E-FH),2021-02-05,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+646,23,Whiteknights Park (E),2021-02-05,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
+646,24,Whiteknights Park (E),2021-02-05,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 646,25,Whiteknights Park (W),2021-02-05,,Trichoceridae,,m,,
 646,26,Whiteknights Park (W),2021-02-05,,Sepsidae,Sepsis sp,f,,
 646,27,Whiteknights Park (W),2021-02-05,,Sepsidae,Sepsis sp,f,,
