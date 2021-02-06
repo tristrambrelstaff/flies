@@ -1,16 +1,16 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 622,1,Whiteknight Park (E-FH),2020-10-19,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-622,2,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,f,,
-622,3,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,f,,
-622,4,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,f,,
-622,5,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,f,,
-622,6,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,f,,
-622,7,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,8,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,9,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,10,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,11,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
-622,12,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia sp,m,,
+622,2,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,3,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,4,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,5,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",Abdomen greasy
+622,6,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,7,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+622,8,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+622,9,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+622,10,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+622,11,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+622,12,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 622,13,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 622,14,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 622,15,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
@@ -34,14 +34,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 622,33,Whiteknight Park (E-FH),2020-10-19,,Lonchopteridae,Lonchoptera sp,f,,
 622,34,Whiteknight Park (E-FH),2020-10-19,,???,,,,
 622,35,Whiteknight Park (W),2020-10-20,,Sarcophagidae,Sarcophaga sp,m,,
-622,36,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,m,,
-622,37,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,m,,
-622,38,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,m,,
-622,39,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,m,,
-622,40,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
-622,41,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
-622,42,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
-622,43,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia sp,f,,
+622,36,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+622,37,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+622,38,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",Abdomen greasy
+622,39,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+622,40,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,41,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+622,42,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+622,43,Whiteknight Park (W),2020-10-20,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 622,44,Whiteknight Park (W),2020-10-20,,Sarcophagidae,Sarcophaga sp,f,,
 622,45,Whiteknight Park (W),2020-10-20,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 622,46,Whiteknight Park (W),2020-10-20,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
