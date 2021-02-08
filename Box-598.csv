@@ -4,7 +4,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 598,3,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 598,4,Kings Meadow Tescos,2020-09-16,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
 598,5,Kings Meadow Tescos,2020-09-16,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
-598,6,Kings Meadow Tescos,2020-09-16,,Calliphoridae,Lucilia caesar,m,,
+598,6,Kings Meadow Tescos,2020-09-16,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
 598,7,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,f,,
 598,8,Kings Meadow Tescos,2020-09-16,,Sarcophagidae,Sarcophaga sp,f,,
 598,9,Kings Meadow Tescos,2020-09-16,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -42,8 +42,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 598,41,Whiteknights Park (E-FH),2020-09-17,Hymenoptera,Ichneumonidae,,m,,
 598,42,Whiteknights Park (E-FH),2020-09-17,Hymenoptera,Vespidae,,f,,
 598,43,Whiteknights Park (E-FH),2020-09-17,,Asilidae,,m,,
-598,44,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,,
-598,45,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,,
+598,44,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
+598,45,Whiteknights Park (E-FH),2020-09-17,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 598,46,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 598,47,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 598,48,Whiteknights Park (E-FH),2020-09-17,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica

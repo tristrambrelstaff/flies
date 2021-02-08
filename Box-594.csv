@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-594,1,Kennet Mouth (E),2020-09-12,,Calliphoridae,Stomorhina lunata,m,,
+594,1,Kennet Mouth (E),2020-09-12,,Calliphoridae,Stomorhina lunata,m,"Rognes, 1991",
 594,2,Kennet Mouth (E),2020-09-12,Hymenoptera,Ichneumonidae,,f,,
 594,3,Kennet Mouth (E),2020-09-12,Hymenoptera,Ichneumonidae,,f,,
 594,4,Thames Valley Park,2020-09-12,,Sarcophagidae,Sarcophaga sp,m,,4+5 in cop
@@ -16,7 +16,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 594,15,Thames Valley Park,2020-09-12,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
 594,16,Thames Valley Park,2020-09-12,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 594,17,Thames Valley Park,2020-09-12,,Tachinidae,Linnaemya picta,f,"Belshaw, 1993 +v5c updates",
-594,18,Thames Valley Park,2020-09-12,,Calliphoridae,Lucilia sp,f,,
+594,18,Thames Valley Park,2020-09-12,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 594,19,Thames Valley Park,2020-09-12,,Muscidae,Graphomya maculata,f,"Fonseca, 1968",
 594,20,Thames Valley Park,2020-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",Body greasy
 594,21,Thames Valley Park,2020-09-12,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
