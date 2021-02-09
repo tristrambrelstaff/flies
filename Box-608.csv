@@ -13,17 +13,17 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 608,12,Chazey Wood,2020-09-27,,Tachinidae,Phryxe vulgaris,m,"Belshaw, 1993 +v5c updates",
 608,13,Chazey Wood,2020-09-27,,Rhinophoridae,,f,,
 608,14,Chazey Wood,2020-09-27,,Rhinophoridae,,m,,
-608,15,Chazey Wood,2020-09-27,,Calliphoridae,Bellardia sp,f,,
-608,16,Chazey Wood,2020-09-27,,Calliphoridae,Calliphora vicina,f,,
+608,15,Chazey Wood,2020-09-27,,Calliphoridae,Bellardia pandia,f,"Rognes, 1991",
+608,16,Chazey Wood,2020-09-27,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 608,17,Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 608,18,Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 608,19,Chazey Wood,2020-09-27,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 608,20,Chazey Wood,2020-09-27,,Sarcophagidae,Sarcophaga sp,m,,
 608,21,Chazey Wood,2020-09-27,,Sarcophagidae,Sarcophaga sp,m,,
 608,22,Chazey Wood,2020-09-27,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
-608,23,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia sericata,f,,
-608,24,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia sericata,f,,
-608,25,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia sericata,f,,
+608,23,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+608,24,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+608,25,Chazey Wood,2020-09-27,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 608,26,Chazey Wood,2020-09-27,,Sarcophagidae,Sarcophaga sp,f,,
 608,27,Chazey Wood,2020-09-27,,Sarcophagidae,Sarcophaga sp,f,,
 608,28,Chazey Wood,2020-09-27,,Muscidae,Phaonia pallida,f,"Fonseca, 1968",
@@ -32,7 +32,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 608,31,Chazey Wood,2020-09-27,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 608,32,Chazey Wood,2020-09-27,,Muscidae,Hydrotaea cyrtoneurina,f,"Fonseca, 1968",
 608,33,Chazey Wood,2020-09-27,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
-608,34,Chazey Wood,2020-09-27,,Calliphoridae,Pollenia sp,m,,
+608,34,Chazey Wood,2020-09-27,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 608,35,Chazey Wood,2020-09-27,,Sarcophagidae,Sarcophaga sp,m,,
 608,36,Chazey Wood,2020-09-27,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Body greasy
 608,37,Chazey Wood,2020-09-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
