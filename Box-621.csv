@@ -20,9 +20,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 621,19,The Wilderness (W),2020-10-18,,Anthomyiidae,Hylemya sp,f,,
 621,20,The Wilderness (W),2020-10-18,,Heleomyzidae,,m,,
 621,21,The Wilderness (W),2020-10-18,,Drosophilidae,,,,
-621,22,Whiteknight Park (W),2020-10-18,,Calliphoridae,Lucilia sp,f,,
-621,23,Whiteknight Park (W),2020-10-18,,Calliphoridae,Pollenia sp,m,,
-621,24,Whiteknight Park (W),2020-10-18,,Calliphoridae,Pollenia sp,m,,
+621,22,Whiteknight Park (W),2020-10-18,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+621,23,Whiteknight Park (W),2020-10-18,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+621,24,Whiteknight Park (W),2020-10-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 621,25,Whiteknight Park (W),2020-10-18,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 621,26,Whiteknight Park (W),2020-10-18,,Anthomyiidae,Pegomya sp,f,,
 621,27,Whiteknight Park (W),2020-10-18,,Scathophagidae,Cordilura sp,f,,
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 621,30,Whiteknight Park (W),2020-10-18,,Heleomyzidae,,m,,
 621,31,Whiteknight Park (W),2020-10-18,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 621,32,Whiteknight Park (W),2020-10-18,,Pipunculidae,,m,,
-621,33,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Calliphora vicina,m,,
-621,34,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Lucilia sp,f,,
+621,33,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+621,34,Whiteknight Park (E-FH),2020-10-19,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 621,35,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 621,36,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 621,37,Whiteknight Park (E-FH),2020-10-19,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
