@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 613,1,Whiteknights Park (E-FH),2020-10-05,Hymenoptera,Ichneumonidae,Amblyteles armatorius,f,,
 613,2,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 613,3,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-613,4,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Calliphora vicina,f,,
+613,4,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 613,5,Whiteknights Park (E-FH),2020-10-05,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
 613,6,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
 613,7,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -13,8 +13,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 613,12,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 613,13,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,,f,,
 613,14,Whiteknights Park (E-FH),2020-10-05,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-613,15,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia sp,f,,
-613,16,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia sp,m,,
+613,15,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia viatica,f,"Rognes, 1991",As Pollenia pallida
+613,16,Whiteknights Park (E-FH),2020-10-05,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 613,17,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,Delia platura,m,,
 613,18,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,Anthomyia procellaris grp,m,,
 613,19,Whiteknights Park (E-FH),2020-10-05,,Anthomyiidae,Anthomyia procellaris grp,m,,
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 613,30,Whiteknights Park (E-FH),2020-10-05,,Ephydridae,Hydrellia sp,,,
 613,31,Whiteknights Park (E-FH),2020-10-05,,Ephydridae,Hydrellia sp,,,
 613,32,Whiteknights Park (W),2020-10-06,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-613,33,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia sp,m,,
-613,34,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia sp,f,,
+613,33,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+613,34,Whiteknights Park (W),2020-10-06,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 613,35,Whiteknights Park (W),2020-10-06,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina duplicata
 613,36,Whiteknights Park (W),2020-10-06,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 613,37,Whiteknights Park (W),2020-10-06,,Muscidae,Hebecnema vespertina,f,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow

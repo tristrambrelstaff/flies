@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 616,1,Kennet Mouth (E),2020-10-10,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-616,2,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,m,,
+616,2,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 616,3,Kennet Mouth (E),2020-10-10,,Sarcophagidae,Sarcophaga sp,f,,
 616,4,Kennet Mouth (E),2020-10-10,,Anthomyiidae,,f,,
 616,5,Kennet Mouth (E),2020-10-10,,Muscidae,Phaonia rufipalpis,f,"Fonseca, 1968",
@@ -8,8 +8,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 616,7,Kennet Mouth (E),2020-10-10,Hymenoptera,Ichneumonidae,,f,,
 616,8,Kennet Mouth (E),2020-10-10,,Anthomyiidae,Mycophaga testacea,f,,
 616,9,Kennet Mouth (E),2020-10-10,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
-616,10,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,f,,
-616,11,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,f,,
+616,10,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+616,11,Kennet Mouth (E),2020-10-10,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 616,12,Kennet Mouth (E),2020-10-10,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Abdomen greasy
 616,13,Kennet Mouth (E),2020-10-10,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 616,14,Kennet Mouth (E),2020-10-10,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
@@ -27,11 +27,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 616,26,Kennet Mouth (E),2020-10-10,,Anthomyiidae,Delia platura,m,,
 616,27,Thames Valley Park,2020-10-10,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 616,28,Thames Valley Park,2020-10-10,,Sciomyzidae,Tetanocera fuscinervis,m,"Rozkosny, 1984",
-616,29,Thames Valley Park,2020-10-10,,Calliphoridae,Calliphora vicina,f,,
+616,29,Thames Valley Park,2020-10-10,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 616,30,Thames Valley Park,2020-10-10,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-616,31,Thames Valley Park,2020-10-10,,Calliphoridae,Calliphora vicina,m,,
-616,32,Thames Valley Park,2020-10-10,,Calliphoridae,Pollenia sp,f,,
-616,33,Thames Valley Park,2020-10-10,,Calliphoridae,Lucilia sp,f,,
+616,31,Thames Valley Park,2020-10-10,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+616,32,Thames Valley Park,2020-10-10,,Calliphoridae,Pollenia labialis,f,"Rognes, 1991",Abdomen greasy
+616,33,Thames Valley Park,2020-10-10,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
 616,34,Thames Valley Park,2020-10-10,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 616,35,Thames Valley Park,2020-10-10,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 616,36,Thames Valley Park,2020-10-10,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica

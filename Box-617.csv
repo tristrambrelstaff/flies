@@ -1,11 +1,11 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 617,1,Thames Valley Park,2020-10-10,,Scathophagidae,Scathophaga stercoraria,f,,
 617,2,Thames Valley Park,2020-10-10,,Dolichopodidae,Argyra sp,m,,
-617,3,Thames Valley Park,2020-10-10,,Calliphoridae,Melinda sp,f,,
+617,3,Thames Valley Park,2020-10-10,,Calliphoridae,Melinda viridicyanea,f,"Rognes, 1991",
 617,4,Thames Valley Park,2020-10-10,,Muscidae,Mydaea humeralis,m,"Fonseca, 1968",As Mydaea tincta
 617,5,Thames Valley Park,2020-10-10,,Anthomyiidae,Delia platura,m,,
 617,6,Thames Valley Park,2020-10-10,,Anthomyiidae,Hylemya sp,m,,
-617,7,Thames Valley Park,2020-10-10,,Calliphoridae,Pollenia sp,m,,
+617,7,Thames Valley Park,2020-10-10,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 617,8,Thames Valley Park,2020-10-10,,Anthomyiidae,Pegomya sp,f,,
 617,9,Thames Valley Park,2020-10-10,,Anthomyiidae,,f,,
 617,10,Thames Valley Park,2020-10-10,,Muscidae,Helina latitarsis,m,"Fonseca, 1968; Gregor et al, 2016",
@@ -20,13 +20,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 617,19,Whiteknights Park (E-FH),2020-10-11,,Sarcophagidae,Sarcophaga sp,m,,
 617,20,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 617,21,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-617,22,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Lucilia caesar,m,,
-617,23,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
+617,22,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
+617,23,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 617,24,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 617,25,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
-617,26,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,m,,
-617,27,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,f,,
-617,28,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,m,,
+617,26,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+617,27,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+617,28,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 617,29,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Helina reversio,m,"Fonseca, 1968",As Helina communis
 617,30,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",Abdomen greasy
 617,31,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
@@ -34,20 +34,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 617,33,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 617,34,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 617,35,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,m,,
-617,36,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,m,,
-617,37,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Melinda sp,m,,
-617,38,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,m,,
-617,39,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,m,,
-617,40,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
+617,36,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+617,37,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Melinda viridicyanea,m,"Rognes, 1991",
+617,38,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+617,39,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+617,40,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 617,41,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 617,42,Whiteknights Park (E-FH),2020-10-11,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor
 617,43,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
 617,44,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
 617,45,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
 617,46,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
-617,47,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
-617,48,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
-617,49,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,m,,
+617,47,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+617,48,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+617,49,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 617,50,Whiteknights Park (E-FH),2020-10-11,,Anthomyiidae,,f,,
-617,51,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
-617,52,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia sp,f,,
+617,51,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
+617,52,Whiteknights Park (E-FH),2020-10-11,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",

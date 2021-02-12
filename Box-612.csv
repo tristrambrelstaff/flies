@@ -11,11 +11,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 612,10,Whiteknights Park (W),2020-10-03,,Anthomyiidae,Delia platura,m,,
 612,11,Whiteknights Park (W),2020-10-03,,Anthomyiidae,,f,,
 612,12,The Wilderness (W),2020-10-03,,Tachinidae,Sturmia bella,f,"Belshaw, 1993 +v5c updates",
-612,13,The Wilderness (W),2020-10-03,,Calliphoridae,Lucilia caesar,m,,
-612,14,The Wilderness (W),2020-10-03,,Calliphoridae,Lucilia sp,f,,
+612,13,The Wilderness (W),2020-10-03,,Calliphoridae,Lucilia caesar,m,"Rognes, 1991",
+612,14,The Wilderness (W),2020-10-03,,Calliphoridae,Lucilia ampullacea,f,"Rognes, 1991",
 612,15,The Wilderness (W),2020-10-03,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 612,16,The Wilderness (W),2020-10-03,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
-612,17,The Wilderness (W),2020-10-03,,Calliphoridae,Calliphora vicina,m,,
+612,17,The Wilderness (W),2020-10-03,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 612,18,The Wilderness (W),2020-10-03,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 612,19,The Wilderness (W),2020-10-03,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 612,20,The Wilderness (W),2020-10-03,,Anthomyiidae,,f,,
@@ -28,11 +28,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 612,27,The Wilderness (W),2020-10-03,,Anthomyiidae,,m,,
 612,28,The Wilderness (W),2020-10-03,,Fanniidae,Fannia sp,f,,
 612,29,The Wilderness (W),2020-10-03,,Platypezidae,,f,,
-612,30,The Wilderness (W),2020-10-03,,Calliphoridae,Melanomya nana,m,,
-612,31,The Wilderness (W),2020-10-03,,Calliphoridae,Melanomya nana,m,,
+612,30,The Wilderness (W),2020-10-03,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
+612,31,The Wilderness (W),2020-10-03,,Calliphoridae,Melanomya nana,m,"Rognes, 1991",
 612,32,Kings Meadow Tescos,2020-10-04,,Stratiomyidae,Sargus bipunctatus,f,"Stubbs & Drake, 2001",
 612,33,Kings Meadow Tescos,2020-10-04,,Anthomyiidae,Hylemya sp,f,,
-612,34,Kings Meadow Tescos,2020-10-04,,Calliphoridae,Pollenia sp,m,,
+612,34,Kings Meadow Tescos,2020-10-04,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",Body greasy
 612,35,Kings Meadow Tescos,2020-10-04,,Anthomyiidae,Hylemya sp,f,,
 612,36,Kings Meadow Tescos,2020-10-04,,Anthomyiidae,Delia platura,m,,
 612,37,Kings Meadow Tescos,2020-10-04,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
