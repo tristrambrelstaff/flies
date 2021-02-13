@@ -19,7 +19,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 628,18,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 628,19,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
 628,20,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Muscina levida,m,"Fonseca, 1968",As Muscina assimilis
-628,21,Whiteknights Park (E-FH),2020-11-02,,Calliphoridae,Pollenia sp,m,,
+628,21,Whiteknights Park (E-FH),2020-11-02,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 628,22,Whiteknights Park (E-FH),2020-11-02,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 628,23,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,,f,,
 628,24,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,,f,,
@@ -35,7 +35,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 628,34,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,Delia platura,m,,
 628,35,Whiteknights Park (E-FH),2020-11-02,,Anthomyiidae,Anthomyia sp,m,,
 628,36,Whiteknights Park (E-FH),2020-11-02,,Agromyzidae,,f,,
-628,37,Whiteknights Park (W),2020-11-03,,Calliphoridae,Calliphora vicina,f,,
+628,37,Whiteknights Park (W),2020-11-03,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 628,38,Whiteknights Park (W),2020-11-03,,Muscidae,Polietes lardarius,f,"Fonseca, 1968; Pont & Falk, 2013",
 628,39,Whiteknights Park (W),2020-11-03,,Muscidae,Polietes meridionalis,m,"Fonseca, 1968; Pont & Falk, 2013",
 628,40,Whiteknights Park (W),2020-11-03,,Scathophagidae,Scathophaga stercoraria,m,,

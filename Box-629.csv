@@ -1,20 +1,20 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-629,1,Quarry near Chazey Wood,2020-11-04,,Calliphoridae,Calliphora vomitoria,m,,
-629,2,Quarry near Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
+629,1,Quarry near Chazey Wood,2020-11-04,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
+629,2,Quarry near Chazey Wood,2020-11-04,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 629,3,Chazey Wood,2020-11-04,Hymenoptera,Ichneumonidae,,f,,
 629,4,Chazey Wood,2020-11-04,Hymenoptera,Ichneumonidae,,m,,
 629,5,Chazey Wood,2020-11-04,,Muscidae,Phaonia valida,f,"Fonseca, 1968",As Phaonia viarum
 629,6,Chazey Wood,2020-11-04,,Sarcophagidae,Sarcophaga sp,f,,
 629,7,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 629,8,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-629,9,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
-629,10,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
-629,11,Chazey Wood,2020-11-04,,Calliphoridae,Lucilia sp,f,,
-629,12,Chazey Wood,2020-11-04,,Calliphoridae,Lucilia sp,m,,
-629,13,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
-629,14,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
-629,15,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
-629,16,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,f,,
+629,9,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+629,10,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+629,11,Chazey Wood,2020-11-04,,Calliphoridae,Lucilia caesar,f,"Rognes, 1991",
+629,12,Chazey Wood,2020-11-04,,Calliphoridae,Lucilia ampullacea,m,"Rognes, 1991",
+629,13,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+629,14,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+629,15,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+629,16,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 629,17,Chazey Wood,2020-11-04,,Muscidae,Helina lasiophthalma,f,"Fonseca, 1968",
 629,18,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 629,19,Chazey Wood,2020-11-04,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
@@ -24,9 +24,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 629,23,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 629,24,Chazey Wood,2020-11-04,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 629,25,Chazey Wood,2020-11-04,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-629,26,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
-629,27,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
-629,28,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia sp,m,,
+629,26,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+629,27,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+629,28,Chazey Wood,2020-11-04,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 629,29,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 629,30,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 629,31,Chazey Wood,2020-11-04,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
