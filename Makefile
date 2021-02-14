@@ -59,7 +59,7 @@ todo.Fanniidae.csv: Box-*.csv
 	grep Fanniidae B*csv | grep -v "Rozkosny et al, 1997" >$@ || true
 
 todo.Heleomyzidae.csv: Box-*.csv
-	grep Heleomyzidae B*csv | grep -v "Withers, 1987" | grep -v "Gorodkov, 1989" >$@ || true
+	grep Heleomyzidae B*csv | grep -v "Sivell & Stubbs draft key, 2020" >$@ || true
 
 todo.Hippoboscidae.csv: Box-*.csv
 	grep Hippoboscidae B*csv | grep -v "Hutson, 1984" >$@ || true
