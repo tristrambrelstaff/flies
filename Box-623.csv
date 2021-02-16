@@ -11,8 +11,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 623,10,Whiteknight Park (E),2020-10-21,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia caesarion
 623,11,Whiteknight Park (E),2020-10-21,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
 623,12,Whiteknight Park (E),2020-10-21,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
-623,13,Whiteknight Park (E),2020-10-21,,Heleomyzidae,,f,,
-623,14,Whiteknight Park (E),2020-10-21,,Heleomyzidae,,m,,
+623,13,Whiteknight Park (E),2020-10-21,,Heleomyzidae,Suillia bicolor,f,"Sivell & Stubbs draft key, 2020",
+623,14,Whiteknight Park (E),2020-10-21,,Heleomyzidae,Suillia bicolor,m,"Sivell & Stubbs draft key, 2020",
 623,15,Whiteknight Park (E),2020-10-21,,Opomyzidae,Opomyza sp,f,,
 623,16,Whiteknight Park (E),2020-10-21,,Anthomyiidae,,f,,
 623,17,Whiteknight Park (W),2020-10-21,,Tachinidae,Siphona geniculata,m,"Belshaw, 1993 +v5c updates",
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 623,39,Whiteknight Park (W),2020-10-23,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 623,40,Whiteknight Park (W),2020-10-23,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
 623,41,Whiteknight Park (W),2020-10-23,,Tachinidae,Siphona geniculata,f,"Belshaw, 1993 +v5c updates",
-623,42,Whiteknight Park (W),2020-10-23,,Heleomyzidae,,f,,
+623,42,Whiteknight Park (W),2020-10-23,,Heleomyzidae,Suillia bicolor,f,"Sivell & Stubbs draft key, 2020",
 623,43,Whiteknight Park (W),2020-10-23,,Anthomyiidae,,f,,
 623,44,Whiteknight Park (W),2020-10-23,,Anthomyiidae,,f,,
 623,45,Whiteknight Park (W),2020-10-23,,Anthomyiidae,,f,,
@@ -52,7 +52,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 623,51,Whiteknight Park (W),2020-10-23,,Pipunculidae,,m,,
 623,52,Thames Valley Park,2020-10-24,,Muscidae,Hebecnema umbratica,m,"Fonseca, 1968",
 623,53,Thames Valley Park,2020-10-24,,Scathophagidae,Scathophaga sp,m,,
-623,54,Thames Valley Park,2020-10-24,,Heleomyzidae,,m,,
+623,54,Thames Valley Park,2020-10-24,,Heleomyzidae,Suillia bicolor,m,"Sivell & Stubbs draft key, 2020",
 623,55,Thames Valley Park,2020-10-24,,Anthomyiidae,,m,,
 623,56,Thames Valley Park,2020-10-24,,Anthomyiidae,Delia platura,m,,
 623,57,Thames Valley Park,2020-10-24,,Anthomyiidae,Delia platura,m,,
