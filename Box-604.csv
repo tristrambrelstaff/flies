@@ -16,9 +16,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 604,15,Whiteknights Park (E),2020-09-24,,Drosophilidae,,f,,
 604,16,Whiteknights Park (E),2020-09-24,,Drosophilidae,,f,,
 604,17,The Wilderness (E),2020-09-24,Hymenoptera,Ichneumonidae,,m,,
-604,18,The Wilderness (E),2020-09-24,,Heleomyzidae,,f,,
-604,19,The Wilderness (E),2020-09-24,,Heleomyzidae,,f,,
-604,20,The Wilderness (E),2020-09-24,,Heleomyzidae,,m,,
+604,18,The Wilderness (E),2020-09-24,,Heleomyzidae,Suillia bicolor,f,"Sivell & Stubbs draft key, 2020",Antennae missing
+604,19,The Wilderness (E),2020-09-24,,Heleomyzidae,Suillia bicolor,f,"Sivell & Stubbs draft key, 2020",
+604,20,The Wilderness (E),2020-09-24,,Heleomyzidae,Suillia atricornis,m,"Sivell & Stubbs draft key, 2020",
 604,21,The Wilderness (E),2020-09-24,,Drosophilidae,,f,,
 604,22,The Wilderness (E),2020-09-24,,Fanniidae,Fannia sp,f,,
 604,23,The Wilderness (E),2020-09-24,,Muscidae,Coenosia testacea,f,"Fonseca, 1968",As Coenosia tricolor

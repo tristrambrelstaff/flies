@@ -7,13 +7,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 614,6,Whiteknights Park (E),2020-10-07,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 614,7,Whiteknights Park (E),2020-10-07,,Muscidae,Neomyia cornicina,f,"Fonseca, 1968",As Orthellia caesarion
 614,8,Whiteknights Park (E),2020-10-07,,Dryomyzidae,Dryomyza anilis,f,,
-614,9,Whiteknights Park (E),2020-10-07,,Heleomyzidae,,f,,
+614,9,Whiteknights Park (E),2020-10-07,,Heleomyzidae,Suillia notata,f,"Sivell & Stubbs draft key, 2020",
 614,10,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,f,,
 614,11,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 614,12,Whiteknights Park (E),2020-10-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 614,13,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,m,,
 614,14,Whiteknights Park (E),2020-10-07,,Anthomyiidae,Hylemya sp,f,,
-614,15,Whiteknights Park (E),2020-10-07,,Heleomyzidae,,f,,
+614,15,Whiteknights Park (E),2020-10-07,,Heleomyzidae,Suillia variegata,f,"Sivell & Stubbs draft key, 2020",
 614,16,Whiteknights Park (E),2020-10-07,,Anthomyiidae,Hylemya sp,f,,
 614,17,Whiteknights Park (E),2020-10-07,,Anthomyiidae,Hylemya sp,f,,
 614,18,Whiteknights Park (E),2020-10-07,,Anthomyiidae,,f,,
@@ -46,5 +46,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 614,45,Whiteknights Park (W),2020-10-08,,Muscidae,Helina impuncta,f,"Fonseca, 1968",
 614,46,Whiteknights Park (W),2020-10-08,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
 614,47,Whiteknights Park (W),2020-10-08,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
-614,48,Whiteknights Park (W),2020-10-08,,Heleomyzidae,,m,,
+614,48,Whiteknights Park (W),2020-10-08,,Heleomyzidae,Suillia variegata,m,"Sivell & Stubbs draft key, 2020",
 614,49,Whiteknights Park (W),2020-10-08,,Anthomyiidae,Hylemya sp,f,,
