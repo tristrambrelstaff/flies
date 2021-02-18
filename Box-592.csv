@@ -10,7 +10,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 592,9,Whiteknights Park (E),2020-09-10,Hymenoptera,Ichneumonidae,,m,,Antennae truncated
 592,10,Whiteknights Park (E),2020-09-10,Hymenoptera,Ichneumonidae,,f,,
 592,11,Whiteknights Park (E),2020-09-10,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
-592,12,Whiteknights Park (E),2020-09-10,,Heleomyzidae,,m,,
+592,12,Whiteknights Park (E),2020-09-10,,Heleomyzidae,Suillia notata,m,"Sivell & Stubbs draft key, 2020",
 592,13,Whiteknights Park (E),2020-09-10,,Muscidae,Helina depuncta,f,"Fonseca, 1968",Abdomen greasy
 592,14,Whiteknights Park (E),2020-09-10,,Muscidae,Helina depuncta,f,"Fonseca, 1968",
 592,15,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
@@ -23,7 +23,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 592,22,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
 592,23,Whiteknights Park (E),2020-09-10,,Muscidae,Helina confinis,f,"Fonseca, 1968",As Helina anceps
 592,24,Whiteknights Park (E),2020-09-10,,Muscidae,Helina reversio,f,"Fonseca, 1968",As Helina duplicata
-592,25,Whiteknights Park (E),2020-09-10,,Heleomyzidae,,m,,
+592,25,Whiteknights Park (E),2020-09-10,,Heleomyzidae,Suillia variegata,m,"Sivell & Stubbs draft key, 2020",
 592,26,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow; Wings darkened
 592,27,Whiteknights Park (E),2020-09-10,,Muscidae,Hebecnema nigra,m,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
 592,28,Whiteknights Park (E),2020-09-10,,Anthomyiidae,Pegomya sp,f,,
