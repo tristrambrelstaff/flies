@@ -34,7 +34,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 648,33,Whiteknights Park (W),2021-02-24,Hymenoptera,Cynipidae,,f,,
 648,34,Whiteknights Park (W),2021-02-24,,Sphaeroceridae,,f,,
 648,35,Whiteknights Park (W),2021-02-24,,Sphaeroceridae,,f,,
-648,36,The Wilderness (W),2021-02-24,,Muscidae,Phaonia sp,f,,
+648,36,The Wilderness (W),2021-02-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 648,37,The Wilderness (W),2021-02-24,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 648,38,The Wilderness (W),2021-02-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 648,39,The Wilderness (W),2021-02-24,,Simuliidae,Simulium sp,,,
@@ -45,7 +45,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 648,44,The Wilderness (W),2021-02-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 648,45,The Wilderness (W),2021-02-24,,Sphaeroceridae,Copromyza sp,f,,
 648,46,The Wilderness (W),2021-02-24,,Sphaeroceridae,,m,,
-648,47,The Wilderness (E),2021-02-24,,Muscidae,Phaonia sp,f,,
-648,48,The Wilderness (E),2021-02-24,,Muscidae,Phaonia subventa,m,,
-648,49,The Wilderness (E),2021-02-24,,Muscidae,Lispocephala sp,,,
-648,50,The Wilderness (E),2021-02-24,,Muscidae,Lispocephala sp,,,
+648,47,The Wilderness (E),2021-02-24,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+648,48,The Wilderness (E),2021-02-24,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+648,49,The Wilderness (E),2021-02-24,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",
+648,50,The Wilderness (E),2021-02-24,,Muscidae,Lispocephala pallipalpis,m,"Fonseca, 1968",
