@@ -2,7 +2,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 648,1,Chazey Wood,2021-02-21,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 648,2,Chazey Wood,2021-02-21,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 648,3,Chazey Wood,2021-02-21,,Anthomyiidae,Hylemya sp,f,,
-648,4,Chazey Wood,2021-02-21,,Anthomyiidae,,m,,
+648,4,Chazey Wood,2021-02-21,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 648,5,Chazey Wood,2021-02-21,,Simuliidae,Simulium sp,,,
 648,6,Chazey Wood,2021-02-21,,Simuliidae,Simulium sp,,,
 648,7,Chazey Wood,2021-02-21,,Simuliidae,Simulium sp,,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 648,23,Whiteknights Park (E),2021-02-23,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
 648,24,Whiteknights Park (E),2021-02-23,,Muscidae,Pollenia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 648,25,Whiteknights Park (E),2021-02-23,,Anthomyiidae,Pegomya sp,m,,
-648,26,Whiteknights Park (E),2021-02-23,,Anthomyiidae,,m,,
+648,26,Whiteknights Park (E),2021-02-23,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 648,27,Whiteknights Park (E),2021-02-23,,Simuliidae,Simulium sp,,,
 648,28,Whiteknights Park (W),2021-02-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 648,29,Whiteknights Park (W),2021-02-23,,Calliphoridae,Pollenia augustigena,m ,"Rognes, 1991",
