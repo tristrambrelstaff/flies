@@ -2,11 +2,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 650,1,The Wilderness (W),2021-02-26,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 650,2,The Wilderness (W),2021-02-26,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 650,3,The Wilderness (W),2021-02-26,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
-650,4,Thames Valley Park,2021-02-27,,Calliphoridae,Calliphora vicina,f,,
-650,5,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia sp,m,,
-650,6,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia sp,m,,
-650,7,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia sp,m,,
-650,8,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia sp,m,,
+650,4,Thames Valley Park,2021-02-27,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+650,5,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+650,6,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia labialis,m,"Rognes, 1991",
+650,7,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",Middle legs missing
+650,8,Thames Valley Park,2021-02-27,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 650,9,Thames Valley Park,2021-02-27,,Anthomyiidae,,f,,
 650,10,Thames Valley Park,2021-02-27,,Anthomyiidae,,m,,
 650,11,Thames Valley Park,2021-02-27,,Simuliidae,Simulium sp,,,
@@ -36,7 +36,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 650,35,Thames Valley Park,2021-02-27,,Chironomidae,,m,,
 650,36,Thames Valley Park,2021-02-27,,Chironomidae,,m,,
 650,37,Kennet Mouth (E),2021-02-27,,Heleomyzidae,,f,,
-650,38,Kings Meadow Tescos,2021-02-27,,Calliphoridae,Calliphora vicina,m,,
+650,38,Kings Meadow Tescos,2021-02-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 650,39,Kings Meadow Tescos,2021-02-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 650,40,Kings Meadow Tescos,2021-02-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 650,41,Kings Meadow Tescos,2021-02-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
