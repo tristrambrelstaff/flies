@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 650,14,Thames Valley Park,2021-02-27,,Simuliidae,Simulium sp,,,
 650,15,Thames Valley Park,2021-02-27,,Simuliidae,Simulium sp,,,
 650,16,Thames Valley Park,2021-02-27,,Simuliidae,Simulium sp,,,
-650,17,Thames Valley Park,2021-02-27,,Sciomyzidae,Pherbellia sp,f,,
+650,17,Thames Valley Park,2021-02-27,,Sciomyzidae,Pherbellia schoenherri,f,"Rozkosny, 1984",
 650,18,Thames Valley Park,2021-02-27,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 650,19,Thames Valley Park,2021-02-27,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 650,20,Thames Valley Park,2021-02-27,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
@@ -35,7 +35,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 650,34,Thames Valley Park,2021-02-27,,Chironomidae,,m,,
 650,35,Thames Valley Park,2021-02-27,,Chironomidae,,m,,
 650,36,Thames Valley Park,2021-02-27,,Chironomidae,,m,,
-650,37,Kennet Mouth (E),2021-02-27,,Heleomyzidae,,f,,
+650,37,Kennet Mouth (E),2021-02-27,,Heleomyzidae,Tephrochlaena oraria,f,"Sivell & Stubbs draft key, 2020",From rabbit hole; Antennae missing; As Tephroclaena oraria
 650,38,Kings Meadow Tescos,2021-02-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 650,39,Kings Meadow Tescos,2021-02-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 650,40,Kings Meadow Tescos,2021-02-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
