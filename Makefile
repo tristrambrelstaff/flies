@@ -1,4 +1,4 @@
-FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Calliphoridae.csv todo.Clusiidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Dryomyzidae.csv todo.Ephydridae.csv todo.Fannia_lustrator.csv todo.Fanniidae.csv todo.Heleomyzidae.csv todo.Hippoboscidae.csv todo.Lauxaniidae.csv todo.Lonchaeidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Pallopteridae.csv todo.Panorpidae.csv todo.Platypezidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sepsidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv todo.Trichoceridae.csv todo.Ulidiidae.csv
+FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Calliphoridae.csv todo.Chloropidae.csv todo.Clusiidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Dryomyzidae.csv todo.Ephydridae.csv todo.Fannia_lustrator.csv todo.Fanniidae.csv todo.Heleomyzidae.csv todo.Hippoboscidae.csv todo.Lauxaniidae.csv todo.Lonchaeidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Pallopteridae.csv todo.Panorpidae.csv todo.Platypezidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sepsidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv todo.Trichoceridae.csv todo.Ulidiidae.csv
 
 all: ${FILES}
 
@@ -37,7 +37,10 @@ todo.Bombyliidae.csv: Box-*.csv
 todo.Calliphoridae.csv: Box-*.csv
 	grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
 
-odo.Clusiidae.csv: Box-*.csv
+todo.Chloropidae.csv: Box-*.csv
+	grep Chloropidae B*csv | grep -v "Ismay draft key, 2002" >$@ || true
+
+todo.Clusiidae.csv: Box-*.csv
 	grep Clusiidae B*csv | grep -v "Stubbs, 1982" >$@ || true
 
 todo.Coelopidae.csv: Box-*.csv
