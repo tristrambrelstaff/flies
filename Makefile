@@ -1,4 +1,4 @@
-FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Clusiidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Calliphoridae.csv todo.Dryomyzidae.csv todo.Ephydridae.csv todo.Fannia_lustrator.csv todo.Fanniidae.csv todo.Heleomyzidae.csv todo.Hippoboscidae.csv todo.Lauxaniidae.csv todo.Lonchaeidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Pallopteridae.csv todo.Panorpidae.csv todo.Platypezidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sepsidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv todo.Trichoceridae.csv todo.Ulidiidae.csv
+FILES=flies.csv families.csv species.csv locations.csv keys.csv todo.Anthomyiidae.csv todo.Asilidae.csv todo.Bibionidae.csv todo.Bombyliidae.csv todo.Calliphoridae.csv todo.Clusiidae.csv todo.Coelopidae.csv todo.Conopidae.csv todo.Dryomyzidae.csv todo.Ephydridae.csv todo.Fannia_lustrator.csv todo.Fanniidae.csv todo.Heleomyzidae.csv todo.Hippoboscidae.csv todo.Lauxaniidae.csv todo.Lonchaeidae.csv todo.Lonchopteridae.csv todo.Muscidae.csv todo.Opomyzidae.csv todo.Pallopteridae.csv todo.Panorpidae.csv todo.Platypezidae.csv todo.Rhagionidae.csv todo.Rhinophoridae.csv todo.Sarcophagidae.csv todo.Scathophagidae.csv todo.Sciomyzidae.csv todo.Sepsidae.csv todo.Sphaeroceridae.csv todo.Stratiomyidae.csv todo.Tabanidae.csv todo.Tachinidae.csv todo.Tephritidae.csv todo.Therevidae.csv todo.Trichoceridae.csv todo.Ulidiidae.csv
 
 all: ${FILES}
 
@@ -34,7 +34,10 @@ todo.Bibionidae.csv: Box-*.csv
 todo.Bombyliidae.csv: Box-*.csv
 	grep Bombyliidae B*csv | grep -v "Stubbs & Drake, 2001" >$@ || true
 
-todo.Clusiidae.csv: Box-*.csv
+todo.Calliphoridae.csv: Box-*.csv
+	grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
+
+odo.Clusiidae.csv: Box-*.csv
 	grep Clusiidae B*csv | grep -v "Stubbs, 1982" >$@ || true
 
 todo.Coelopidae.csv: Box-*.csv
@@ -42,9 +45,6 @@ todo.Coelopidae.csv: Box-*.csv
 
 todo.Conopidae.csv: Box-*.csv
 	grep Conopidae B*csv | grep -v "Clements, 1995" >$@ || true
-
-todo.Calliphoridae.csv: Box-*.csv
-	grep Calliphoridae B*csv | grep -v "Rognes, 1991" >$@ || true
 
 todo.Dryomyzidae.csv: Box-*.csv
 	grep Dryomyzidae B*csv | grep -v "Shtakelberg, 1989" >$@ || true
