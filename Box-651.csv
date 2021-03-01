@@ -43,9 +43,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 651,42,The Wilderness (E),2021-02-28,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 651,43,The Wilderness (E),2021-02-28,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 651,44,The Wilderness (E),2021-02-28,,Muscidae,Hebecnema nigra,f,"Fonseca, 1968; Pont, 1984",As Hebecnema vespertina; Halteres black
-651,45,The Wilderness (W),2021-03-01,,Calliphoridae,Pollenia sp,m,,
-651,46,The Wilderness (W),2021-03-01,,Calliphoridae,Pollenia sp,m,,
-651,47,The Wilderness (W),2021-03-01,,Calliphoridae,Calliphora vicina,f,,
+651,45,The Wilderness (W),2021-03-01,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+651,46,The Wilderness (W),2021-03-01,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+651,47,The Wilderness (W),2021-03-01,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 651,48,The Wilderness (W),2021-03-01,,Anthomyiidae,,f,,
 651,49,The Wilderness (W),2021-03-01,,Muscidae,Phaonia tuguriorum,f,,Two legs missing
 651,50,The Wilderness (W),2021-03-01,,Simuliidae,Simulium sp,,,
