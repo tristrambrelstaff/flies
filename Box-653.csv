@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-653,1,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,,
-653,2,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,,
-653,3,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,,
-653,4,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,,
+653,1,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+653,2,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+653,3,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+653,4,The Wilderness (W),2021-03-07,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 653,5,The Wilderness (W),2021-03-07,,Anthomyiidae,,f,,
 653,6,The Wilderness (W),2021-03-07,,Anthomyiidae,,f,,
 653,7,The Wilderness (W),2021-03-07,,Anthomyiidae,,f,,
@@ -12,7 +12,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 653,11,The Wilderness (W),2021-03-07,,Anthomyiidae,,m,,
 653,12,The Wilderness (W),2021-03-07,,Mycetophilidae,,f,,
 653,13,Whiteknights Park (W),2021-03-07,Hymenoptera,Cynipidae,,f,,
-653,14,Whiteknights Park (W),2021-03-07,,Calliphoridae,Calliphora vicina,f,,
+653,14,Whiteknights Park (W),2021-03-07,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 653,15,Whiteknights Park (W),2021-03-07,,Dolichopodidae,,f,,
 653,16,Whiteknights Park (W),2021-03-07,,Dolichopodidae,,f,,
 653,17,Whiteknights Park (W),2021-03-07,,Dolichopodidae,,m,,
