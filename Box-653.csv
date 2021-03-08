@@ -19,9 +19,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 653,18,Whiteknights Park (W),2021-03-07,,Chironomidae,,m,,
 653,19,Whiteknights Park (W),2021-03-07,,Ephydridae,,,,
 653,20,Whiteknights Park (E),2021-03-08,,Simuliidae,Simulium sp,,,
-653,21,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,,
-653,22,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,,
-653,23,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,,
+653,21,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+653,22,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+653,23,Whiteknights Park (E),2021-03-08,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 653,24,Whiteknights Park (E),2021-03-08,,Calliphoridae,Pollenia sp,m,,
 653,25,Whiteknights Park (E),2021-03-08,,Calliphoridae,Pollenia sp,m,,
 653,26,Whiteknights Park (E),2021-03-08,,Calliphoridae,Pollenia sp,m,,
