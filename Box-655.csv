@@ -42,9 +42,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 655,41,Whiteknights Park (E),2021-03-16,,Muscidae,Lispocephala brachialis,m,"Fonseca, 1968",
 655,42,Whiteknights Park (E),2021-03-16,,Anthomyiidae,,f,,
 655,43,Whiteknights Park (W),2021-03-17,,Anthomyiidae,,f,,
-655,44,Whiteknights Park (W),2021-03-17,,Heleomyzidae,,f,,
+655,44,Whiteknights Park (W),2021-03-17,,Heleomyzidae,Suillia parva,f,"Sivell & Stubbs draft key, 2020",
 655,45,Whiteknights Park (W),2021-03-17,,Chironomidae,,m,,
-655,46,Whiteknights Park (W),2021-03-17,,Scathophagidae,Scathophaga stercoraria,f,,
+655,46,Whiteknights Park (W),2021-03-17,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 655,47,Whiteknights Park (W),2021-03-17,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 655,48,Whiteknights Park (W),2021-03-17,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
-655,49,Whiteknights Park (W),2021-03-17,,Muscidae,Phaonia subventa,m,,
+655,49,Whiteknights Park (W),2021-03-17,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
