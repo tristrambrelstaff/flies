@@ -34,10 +34,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 656,33,Whiteknights Park (W),2021-03-18,,Chironomidae,,f,,
 656,34,Whiteknights Park (W),2021-03-18,,Chironomidae,,f,,
 656,35,Whiteknights Park (W),2021-03-18,,Chironomidae,,f,,
-656,36,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Phaonia subventa,m,,
-656,37,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Eudasyphora cyanella,f,,
-656,38,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Phaonia tuguriorum,f,,
-656,39,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Muscina prolapsa,m,,
+656,36,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+656,37,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+656,38,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+656,39,Whiteknights Park (E-FH),2021-03-19,,Muscidae,Muscina prolapsa,m,"Fonseca, 1968",As Muscina pabulorum
 656,40,Whiteknights Park (E-FH),2021-03-19,,Calliphoridae,Pollenia sp,m,,
 656,41,Whiteknights Park (E-FH),2021-03-19,,Calliphoridae,Pollenia sp,m,,
 656,42,Whiteknights Park (E-FH),2021-03-19,,Calliphoridae,Pollenia sp,m,,
@@ -45,8 +45,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 656,44,Whiteknights Park (E-FH),2021-03-19,,Calliphoridae,Pollenia sp,f,,
 656,45,Whiteknights Park (E-FH),2021-03-19,,Trichoceridae,,f,,
 656,46,Whiteknights Park (E-FH),2021-03-19,,Tipulidae,,f,,
-656,47,Whiteknights Park (E-FH),2021-03-19,,Pallopteridae,Palloptera sp,f,,
-656,48,Whiteknights Park (E-FH),2021-03-19,,Pallopteridae,Palloptera sp,f,,
+656,47,Whiteknights Park (E-FH),2021-03-19,,Pallopteridae,Palloptera scutellata,f,"Collin, 1951",
+656,48,Whiteknights Park (E-FH),2021-03-19,,Pallopteridae,Palloptera scutellata,f,"Collin, 1951",
 656,49,Whiteknights Park (E-FH),2021-03-19,,Anthomyiidae,,f,,
 656,50,Whiteknights Park (E-FH),2021-03-19,,Anthomyiidae,,f,,
 656,51,Whiteknights Park (E-FH),2021-03-19,,Anthomyiidae,,f,,
