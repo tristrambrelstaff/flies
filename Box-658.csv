@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-658,1,Chazey Wood,2021-03-21,,Bombyliidae,Bombylius discolor,m,,
-658,2,Chazey Wood,2021-03-21,,Tachinidae,Gymnocheta viridis,m,,
-658,3,Chazey Wood,2021-03-21,,Tachinidae,Gymnocheta viridis,m,,
+658,1,Chazey Wood,2021-03-21,,Bombyliidae,Bombylius discolor,m,"Stubbs & Drake, 2001",
+658,2,Chazey Wood,2021-03-21,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
+658,3,Chazey Wood,2021-03-21,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 658,4,Chazey Wood,2021-03-21,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 658,5,Chazey Wood,2021-03-21,,Muscidae,Phaonia trimaculata,f,"Fonseca, 1968",
 658,6,Chazey Wood,2021-03-21,,Chloropidae,,f,,
