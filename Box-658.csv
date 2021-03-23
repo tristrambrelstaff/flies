@@ -18,11 +18,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 658,17,Whiteknights Park (E),2021-03-22,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 658,18,Whiteknights Park (E),2021-03-22,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 658,19,Whiteknights Park (E),2021-03-22,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
-658,20,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia sp,f,,
-658,21,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia sp,f,,
-658,22,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia sp,m,,
-658,23,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia sp,m,,
-658,24,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia sp,m,,
+658,20,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+658,21,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
+658,22,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+658,23,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia griseotomentosa,m,"Rognes, 1991",
+658,24,Whiteknights Park (E),2021-03-22,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 658,25,Whiteknights Park (E),2021-03-22,,Anthomyiidae,Pegomya sp,m,,
 658,26,Whiteknights Park (E),2021-03-22,,Anthomyiidae,Pegomya sp,m,,
 658,27,Whiteknights Park (E),2021-03-22,,Anthomyiidae,Mycophaga testacea,m,,
@@ -39,5 +39,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 658,38,Whiteknights Park (W),2021-03-23,Hymenoptera,Ichneumonidae,,m,,
 658,39,Whiteknights Park (W),2021-03-23,,Anisopdidae,,f,,
 658,40,Whiteknights Park (W),2021-03-23,,Chironomidae,,f,,
-658,41,Whiteknights Park (W),2021-03-23,,Calliphoridae,Pollenia sp,f,,
+658,41,Whiteknights Park (W),2021-03-23,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 658,42,Whiteknights Park (W),2021-03-23,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
