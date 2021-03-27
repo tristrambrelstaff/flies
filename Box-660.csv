@@ -13,7 +13,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 660,12,Whiteknights Park (E-FH),2021-03-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 660,13,Whiteknights Park (E-FH),2021-03-27,,Calliphoridae,Pollenia sp,m,,
 660,14,Whiteknights Park (E-FH),2021-03-27,,Calliphoridae,Pollenia sp,m,,
-660,15,Whiteknights Park (E-FH),2021-03-27,,Muscidae,Helina evecta,f,,
+660,15,Whiteknights Park (E-FH),2021-03-27,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 660,16,Whiteknights Park (E-FH),2021-03-27,,Anthomyiidae,,m,,
 660,17,The Wilderness (W),2021-03-27,,Bombyliidae,Bombylius major,m,,
 660,18,The Wilderness (W),2021-03-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
@@ -27,14 +27,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 660,26,The Wilderness (W),2021-03-27,,Calliphoridae,Pollenia sp,m,,
 660,27,The Wilderness (W),2021-03-27,,Calliphoridae,Pollenia sp,m,,
 660,28,The Wilderness (W),2021-03-27,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-660,29,The Wilderness (W),2021-03-27,,Muscidae,Muscina prolapsa,f,,
-660,30,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,,
-660,31,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,,
-660,32,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,,
-660,33,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,f,,
-660,34,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,m,,
-660,35,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,m,,
-660,36,The Wilderness (W),2021-03-27,,Muscidae,Phaonia tuguriorum,f,,
-660,37,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,m,,
-660,38,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,f,,
-660,39,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,f,,
+660,29,The Wilderness (W),2021-03-27,,Muscidae,Muscina prolapsa,f,"Fonseca, 1968",As Muscina pabulorum
+660,30,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+660,31,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+660,32,The Wilderness (W),2021-03-27,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+660,33,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+660,34,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+660,35,The Wilderness (W),2021-03-27,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+660,36,The Wilderness (W),2021-03-27,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+660,37,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+660,38,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+660,39,The Wilderness (W),2021-03-27,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
