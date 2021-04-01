@@ -21,7 +21,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 664,20,Thames Valley Park,2021-03-31,,Agromyzidae,,m,,
 664,21,Thames Valley Park,2021-03-31,,Chloropidae,Elachiptera sp,,,
 664,22,Thames Valley Park,2021-03-31,,Chloropidae,Elachiptera sp,,,
-664,23,Kennet Mouth (E),2021-03-31,,Bombyliidae,Bombylius major,m,,
+664,23,Kennet Mouth (E),2021-03-31,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 664,24,Kennet Mouth (E),2021-03-31,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 664,25,Kennet Mouth (E),2021-03-31,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
 664,26,Kennet Mouth (E),2021-03-31,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
@@ -30,7 +30,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 664,29,Kennet Mouth (E),2021-03-31,,Anthomyiidae,Anthomyia sp,m,,
 664,30,King Meadow Tescos,2021-03-31,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 664,31,King Meadow Tescos,2021-03-31,Hymenoptera,Ichneumonidae,Pimpla rufipes,m,,
-664,32,King Meadow Tescos,2021-03-31,,Bombyliidae,Bombylius major,m,,
+664,32,King Meadow Tescos,2021-03-31,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 664,33,King Meadow Tescos,2021-03-31,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 664,34,King Meadow Tescos,2021-03-31,,Anthomyiidae,Anthomyia procellaris grp,m,,
 664,35,King Meadow Tescos,2021-03-31,,Anthomyiidae,,f,,
