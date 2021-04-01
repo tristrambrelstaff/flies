@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-663,1,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia sp,m,,
-663,2,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia sp,m,,
-663,3,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia sp,m,,
+663,1,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia pediculata,m,"Rognes, 1991",
+663,2,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+663,3,Quarry near Chazey Wood,2021-03-30,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 663,4,Quarry near Chazey Wood,2021-03-30,Hymenoptera,Ichneumonidae,,f,,
 663,5,Chazey Wood,2021-03-30,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 663,6,Chazey Wood,2021-03-30,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
@@ -18,7 +18,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 663,17,Thames Valley Park,2021-03-31,,Scathophagidae,Scathophaga stercoraria,f,,
 663,18,Thames Valley Park,2021-03-31,,Scathophagidae,Scathophaga stercoraria,f,,
 663,19,Thames Valley Park,2021-03-31,,Scathophagidae,Scathophaga stercoraria,f,,
-663,20,Thames Valley Park,2021-03-31,,Calliphoridae,Pollenia sp,f,,
+663,20,Thames Valley Park,2021-03-31,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 663,21,Thames Valley Park,2021-03-31,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 663,22,Thames Valley Park,2021-03-31,,Anthomyiidae,Leucophora sp,m,,
 663,23,Thames Valley Park,2021-03-31,,Anthomyiidae,,f,,
