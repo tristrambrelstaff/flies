@@ -1,8 +1,8 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 665,1,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 665,2,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
-665,3,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia sp,m,,
-665,4,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia sp,m,,
+665,3,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+665,4,Whiteknights Park (W),2021-04-01,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 665,5,Whiteknights Park (W),2021-04-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 665,6,Whiteknights Park (W),2021-04-01,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 665,7,Whiteknights Park (W),2021-04-01,,Tachinidae,Phorocera assimilis,m,"Belshaw, 1993 +v5c updates",
@@ -29,7 +29,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 665,28,Whiteknights Park (W),2021-04-02,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 665,29,Whiteknights Park (W),2021-04-02,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 665,30,Whiteknights Park (W),2021-04-02,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-665,31,Whiteknights Park (W),2021-04-02,,Calliphoridae,Calliphora vomitoria,m,,
+665,31,Whiteknights Park (W),2021-04-02,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
 665,32,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 665,33,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 665,34,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
@@ -44,6 +44,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 665,43,Whiteknights Park (W),2021-04-02,,Anthomyiidae,,f,,
 665,44,Whiteknights Park (W),2021-04-02,,Anthomyiidae,,f,,
 665,45,Whiteknights Park (W),2021-04-02,,Anthomyiidae,,f,,
-665,46,Whiteknights Park (W),2021-04-02,,Calliphoridae,Pollenia sp,f,,
+665,46,Whiteknights Park (W),2021-04-02,,Calliphoridae,Pollenia griseotomentosa,f,"Rognes, 1991",
 665,47,Whiteknights Park (W),2021-04-02,,Anthomyiidae,,m,,
 665,48,Whiteknights Park (W),2021-04-02,,Anthomyiidae,,m,,
