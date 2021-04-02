@@ -30,10 +30,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 665,29,Whiteknights Park (W),2021-04-02,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 665,30,Whiteknights Park (W),2021-04-02,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 665,31,Whiteknights Park (W),2021-04-02,,Calliphoridae,Calliphora vomitoria,m,,
-665,32,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,m,,
-665,33,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,,
-665,34,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,,
-665,35,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia tuguriorum,f,,
+665,32,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+665,33,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+665,34,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+665,35,Whiteknights Park (W),2021-04-02,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
 665,36,Whiteknights Park (W),2021-04-02,,Calliphoridae,Pollenia sp,m,,
 665,37,Whiteknights Park (W),2021-04-02,,Anthomyiidae,Leucophora sp,f,,
 665,38,Whiteknights Park (W),2021-04-02,,Anthomyiidae,Leucophora sp,f,,
