@@ -12,8 +12,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 667,11,The Wilderness (W),2021-04-04,,Calliphoridae,Pollenia sp,m,,
 667,12,The Wilderness (W),2021-04-04,,Anthomyiidae,,f,,
 667,13,The Wilderness (W),2021-04-04,,Anthomyiidae,Pegomya sp,m,,
-667,14,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora sp,m,,
-667,15,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora obtusa,m,,
+667,14,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora obtusa,m,"Ackland et al draft keys, 2017",
+667,15,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora obtusa,m,"Ackland et al draft keys, 2017",
 667,16,The Wilderness (W),2021-04-04,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
 667,17,The Wilderness (W),2021-04-04,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 667,18,The Wilderness (W),2021-04-04,,Muscidae,Hydrotaea armipes,m,"Fonseca, 1968",As Hydrotaea occulta
