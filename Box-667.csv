@@ -14,15 +14,15 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 667,13,The Wilderness (W),2021-04-04,,Anthomyiidae,Pegomya sp,m,,
 667,14,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora sp,m,,
 667,15,The Wilderness (W),2021-04-04,,Anthomyiidae,Leucophora obtusa,m,,
-667,16,The Wilderness (W),2021-04-04,,Muscidae,Muscina levida,f,,
-667,17,The Wilderness (W),2021-04-04,,Muscidae,Musca autumnalis,m,,
-667,18,The Wilderness (W),2021-04-04,,Muscidae,Hydrotaea sp,m,,
-667,19,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,,
-667,20,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,,
-667,21,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,,
-667,22,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,,
-667,23,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,m,,
-667,24,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,f,,
-667,25,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,f,,
-667,26,The Wilderness (W),2021-04-04,,Muscidae,Phaonia subventa,m,,
-667,27,The Wilderness (W),2021-04-04,,Muscidae,Phaonia subventa,m,,
+667,16,The Wilderness (W),2021-04-04,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+667,17,The Wilderness (W),2021-04-04,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+667,18,The Wilderness (W),2021-04-04,,Muscidae,Hydrotaea armipes,m,"Fonseca, 1968",As Hydrotaea occulta
+667,19,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+667,20,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+667,21,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+667,22,The Wilderness (W),2021-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+667,23,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+667,24,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+667,25,The Wilderness (W),2021-04-04,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+667,26,The Wilderness (W),2021-04-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+667,27,The Wilderness (W),2021-04-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata

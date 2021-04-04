@@ -26,14 +26,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 666,25,The Wilderness (E),2021-04-04,,Calliphoridae,Pollenia sp,m,,
 666,26,The Wilderness (E),2021-04-04,,Calliphoridae,Pollenia sp,m,,
 666,27,The Wilderness (E),2021-04-04,,Calliphoridae,Pollenia sp,m,,
-666,28,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,,
-666,29,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,,
-666,30,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,,
-666,31,The Wilderness (E),2021-04-04,,Muscidae,Helina evecta,m,,
-666,32,The Wilderness (E),2021-04-04,,Muscidae,Phaonia tuguriorum,f,,
-666,33,The Wilderness (E),2021-04-04,,Muscidae,Eudasyphora cyanella,m,,
-666,34,The Wilderness (E),2021-04-04,,Muscidae,Eudasyphora cyanella,f,,
-666,35,The Wilderness (E),2021-04-04,,Muscidae,Lispocephala sp,f,,
+666,28,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+666,29,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+666,30,The Wilderness (E),2021-04-04,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+666,31,The Wilderness (E),2021-04-04,,Muscidae,Helina evecta,m,"Fonseca, 1968",as Helina laetifica
+666,32,The Wilderness (E),2021-04-04,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+666,33,The Wilderness (E),2021-04-04,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+666,34,The Wilderness (E),2021-04-04,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Dasyphora cyanella
+666,35,The Wilderness (E),2021-04-04,,Muscidae,Lispocephala alma,f,"Fonseca, 1968; Gregor et al, 2016",
 666,36,The Wilderness (E),2021-04-04,,Anthomyiidae,Mycophaga testacea,m,,
 666,37,The Wilderness (E),2021-04-04,,Anthomyiidae,,m,,
 666,38,The Wilderness (E),2021-04-04,,Anthomyiidae,Leucophora sp,f,,
@@ -47,4 +47,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 666,46,The Wilderness (W),2021-04-04,,Tachinidae,Gymnocheta viridis,m,,
 666,47,The Wilderness (W),2021-04-04,,Tachinidae,,f,,
 666,48,The Wilderness (W),2021-04-04,,Tachinidae,,f,,
-666,49,The Wilderness (W),2021-04-04,,Muscidae,Musca autumnalis,m,,
+666,49,The Wilderness (W),2021-04-04,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
