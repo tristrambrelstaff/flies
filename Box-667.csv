@@ -29,9 +29,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 667,28,Whiteknights Park (E),2021-04-05,,Calliphoridae,Calliphora vicina,f,,
 667,29,Whiteknights Park (E),2021-04-05,,Chironomidae,,f,,
 667,30,Whiteknights Park (E),2021-04-05,,Chironomidae,,m,,
-667,31,Whiteknights Park (E),2021-04-05,,Muscidae,Helina evecta,m,,
-667,32,Whiteknights Park (E),2021-04-05,,Muscidae,Helina evecta,m,,
-667,33,Whiteknights Park (E),2021-04-05,,Muscidae,Phaonia subventa,m,,
+667,31,Whiteknights Park (E),2021-04-05,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+667,32,Whiteknights Park (E),2021-04-05,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
+667,33,Whiteknights Park (E),2021-04-05,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 667,34,Whiteknights Park (E),2021-04-05,,Anthomyiidae,Leucophora sp,f,,
 667,35,Whiteknights Park (E),2021-04-05,,Anthomyiidae,Leucophora sp,m,,
 667,36,Whiteknights Park (E),2021-04-05,,Anthomyiidae,Leucophora sp,m,,
