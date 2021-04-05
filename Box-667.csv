@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-667,1,The Wilderness (W),2021-04-04,,Bombyliidae,Bombylius major,m,,
+667,1,The Wilderness (W),2021-04-04,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
 667,2,The Wilderness (W),2021-04-04,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 667,3,The Wilderness (W),2021-04-04,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 667,4,The Wilderness (W),2021-04-04,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
@@ -37,8 +37,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 667,36,Whiteknights Park (E),2021-04-05,,Anthomyiidae,Leucophora sp,m,,
 667,37,Whiteknights Park (E),2021-04-05,,Anthomyiidae,Leucophora sp,m,,
 667,38,Whiteknights Park (E),2021-04-05,,Anthomyiidae,,f,,
-667,39,Whiteknights Park (E),2021-04-05,,Scathophagidae,Scathophaga sp,m,,
-667,40,Whiteknights Park (E),2021-04-05,,Tachinidae,,f,,
+667,39,Whiteknights Park (E),2021-04-05,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
+667,40,Whiteknights Park (E),2021-04-05,,Tachinidae,Cyzenis albicans,f,"Belshaw, 1993 +v5c updates",
 667,41,Whiteknights Park (E),2021-04-05,,Bibionidae,Bibio sp,m,,
 667,42,Whiteknights Park (E),2021-04-05,,Bibionidae,Bibio sp,m,,
 667,43,Whiteknights Park (E),2021-04-05,,Bibionidae,Bibio sp,m,,
