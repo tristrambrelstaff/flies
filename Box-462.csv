@@ -26,7 +26,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 462,25,Thames Valley Park,2020-05-16,,Muscidae,Schoenomyza litorella,f,"Fonseca, 1968",
 462,26,Thames Valley Park,2020-05-16,,Muscidae,Coenosia infantula,m,"Fonseca, 1968",
 462,27,Thames Valley Park,2020-05-16,,Dolichopodidae,,m,,
-462,28,Thames Valley Park,2020-05-16,,Bibionidae,Dilophus sp,m,,
+462,28,Thames Valley Park,2020-05-16,,Bibionidae,Dilophus femoratus,m,"Freeman & Lane, 1985",
 462,29,Thames Valley Park,2020-05-16,,Empididae,Empis sp,m,,
 462,30,Thames Valley Park,2020-05-16,,Tephritidae,Tephritis sp,m,,30+31 in cop
 462,31,Thames Valley Park,2020-05-16,,Tephritidae,Tephritis sp,f,,30+31 in cop
@@ -51,7 +51,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 462,50,Kings Road Gardens,2020-05-17,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 462,51,Kings Road Gardens,2020-05-17,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
 462,52,Kings Road Gardens,2020-05-17,Hymenoptera,Ichneumonidae,Amblyteles armatorius,m,,
-462,53,Kings Road Gardens,2020-05-17,,Scathophagidae,Scathophaga stercoraria,m,,
+462,53,Kings Road Gardens,2020-05-17,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 462,54,Kings Road Gardens,2020-05-17,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
 462,55,Kings Road Gardens,2020-05-17,,Muscidae,Coenosia tigrina,m,"Fonseca, 1968",As Caricea tigrina
 462,56,Kings Road Gardens,2020-05-17,,Muscidae,Coenosia tigrina,f,"Fonseca, 1968",As Caricea tigrina
@@ -61,7 +61,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 462,60,Kings Road Gardens,2020-05-17,,Empididae,Hilara sp,f,,
 462,61,Kings Road Gardens,2020-05-17,,Empididae,Hilara sp,m,,
 462,62,"Oscar Wilde Walk, Reading",2020-05-17,,Ephydridae,,f,,
-462,63,"Oscar Wilde Walk, Reading",2020-05-17,,Scathophagidae,Scathophaga stercoraria,f,,
+462,63,"Oscar Wilde Walk, Reading",2020-05-17,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 462,64,"Oscar Wilde Walk, Reading",2020-05-17,,Anthomyiidae,Anthomyia procellaris,m,,
 462,65,"Oscar Wilde Walk, Reading",2020-05-17,,Lauxaniidae,Minettia fasciata,,,
 462,66,Kings Meadow Tescos,2020-05-17,,Tachinidae,Gymnosoma rotundatum,m,"Belshaw, 1993 +v5c updates with diagrams from Tsorschnig & Herting, 1993",
