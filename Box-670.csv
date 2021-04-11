@@ -34,11 +34,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 670,33,Quarry near Chazey Wood,2021-04-11,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 670,34,Quarry near Chazey Wood,2021-04-11,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
 670,35,Quarry near Chazey Wood,2021-04-11,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-670,36,Quarry near Chazey Wood,2021-04-11,,Muscidae,Muscina levida,f,,
-670,37,Quarry near Chazey Wood,2021-04-11,,Muscidae,Helina evecta,m,,Hind legs missing
-670,38,Quarry near Chazey Wood,2021-04-11,,Muscidae,Helina evecta,f,,
-670,39,Quarry near Chazey Wood,2021-04-11,,Muscidae,Phaonia subventa,f,,
-670,40,Quarry near Chazey Wood,2021-04-11,,Muscidae,Hydrotaea sp,m,,
+670,36,Quarry near Chazey Wood,2021-04-11,,Muscidae,Muscina levida,f,"Fonseca, 1968",As Muscina assimilis
+670,37,Quarry near Chazey Wood,2021-04-11,,Muscidae,Helina evecta,m,"Fonseca, 1968",Hind legs missing; As Helina laeifica
+670,38,Quarry near Chazey Wood,2021-04-11,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
+670,39,Quarry near Chazey Wood,2021-04-11,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+670,40,Quarry near Chazey Wood,2021-04-11,,Muscidae,Hydrotaea cyrtoneurina,m,"Fonseca, 1968",
 670,41,Quarry near Chazey Wood,2021-04-11,,Anthomyiidae,,m,,
 670,42,Quarry near Chazey Wood,2021-04-11,,Anthomyiidae,,m,,
 670,43,Quarry near Chazey Wood,2021-04-11,,Anthomyiidae,,m,,
