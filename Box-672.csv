@@ -1,9 +1,9 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-672,1,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio sp,m,,
-672,2,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio sp,m,,
-672,3,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio sp,m,,
-672,4,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio sp,m,,
-672,5,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio sp,m,,
+672,1,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,2,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,3,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,4,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",
+672,5,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",
 672,6,Whiteknights Park (E),2021-04-12,,Tephritidae,Tephritis conura,f,"White, 1988",
 672,7,Whiteknights Park (E),2021-04-12,,Heleomyzidae,Suillia parva,m,"Sivell & Stubbs dsraft key, 2020",
 672,8,Whiteknights Park (E),2021-04-12,,Scathophagidae,Nanna sp,f,,
@@ -35,11 +35,11 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,34,Whiteknights Park (E-FH),2021-04-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 672,35,Whiteknights Park (E-FH),2021-04-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 672,36,Whiteknights Park (E-FH),2021-04-13,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",Plinum extruded
-672,37,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
-672,38,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
-672,39,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
-672,40,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
-672,41,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
+672,37,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,38,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,39,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,40,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
+672,41,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 672,42,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Siphona maculata,m,"Belshaw, 1993 +v5c updates",
 672,43,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Nanna sp,m,,
 672,44,Whiteknights Park (E-FH),2021-04-13,,Ephydridae,,,,
