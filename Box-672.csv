@@ -25,7 +25,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,24,Whiteknights Park (E),2021-04-12,Hymenoptera,Torymidae,,,,
 672,25,Whiteknights Park (W),2021-04-12,,Anthomyiidae,Leucophora sp,m,,
 672,26,Whiteknights Park (W),2021-04-12,,Anthomyiidae,Leucophora sp,m,,
-672,27,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Gymnocheta viridis,m,,
+672,27,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 672,28,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 672,29,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 672,30,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
@@ -40,7 +40,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,39,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
 672,40,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
 672,41,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio sp,m,,
-672,42,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Siphona sp,m,,Not geniculata
+672,42,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Siphona maculata,m,"Belshaw, 1993 +v5c updates",
 672,43,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Nanna sp,m,,
 672,44,Whiteknights Park (E-FH),2021-04-13,,Ephydridae,,,,
 672,45,Whiteknights Park (E-FH),2021-04-13,,Ephydridae,,,,
