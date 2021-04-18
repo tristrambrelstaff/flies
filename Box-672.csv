@@ -6,7 +6,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,5,Whiteknights Park (E),2021-04-12,,Bibionidae,Bibio reticulatus,m,"Freeman & Lane, 1985",
 672,6,Whiteknights Park (E),2021-04-12,,Tephritidae,Tephritis conura,f,"White, 1988",
 672,7,Whiteknights Park (E),2021-04-12,,Heleomyzidae,Suillia parva,m,"Sivell & Stubbs dsraft key, 2020",
-672,8,Whiteknights Park (E),2021-04-12,,Scathophagidae,Nanna sp,f,,
+672,8,Whiteknights Park (E),2021-04-12,,Scathophagidae,Nanna fasciata,f,"Ball, 2014",
 672,9,Whiteknights Park (E),2021-04-12,,Anthomyiidae,,f,,
 672,10,Whiteknights Park (E),2021-04-12,,Anthomyiidae,,f,,
 672,11,Whiteknights Park (E),2021-04-12,,Anthomyiidae,,f,,
@@ -30,8 +30,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,29,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 672,30,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 672,31,Whiteknights Park (E-FH),2021-04-13,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-672,32,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Scathophaga stercoraria,f,,
-672,33,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Scathophaga sp,m,,
+672,32,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
+672,33,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
 672,34,Whiteknights Park (E-FH),2021-04-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 672,35,Whiteknights Park (E-FH),2021-04-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 672,36,Whiteknights Park (E-FH),2021-04-13,,Fanniidae,Fannia lustrator,f,"Rozkosny et al, 1997",Plinum extruded
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 672,40,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 672,41,Whiteknights Park (E-FH),2021-04-13,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 672,42,Whiteknights Park (E-FH),2021-04-13,,Tachinidae,Siphona maculata,m,"Belshaw, 1993 +v5c updates",
-672,43,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Nanna sp,m,,
+672,43,Whiteknights Park (E-FH),2021-04-13,,Scathophagidae,Nanna fasciata,m,"Ball, 2014",
 672,44,Whiteknights Park (E-FH),2021-04-13,,Ephydridae,,,,
 672,45,Whiteknights Park (E-FH),2021-04-13,,Ephydridae,,,,
 672,46,Whiteknights Park (E-FH),2021-04-13,,Anthomyiidae,,f,,
