@@ -47,7 +47,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 678,46,The Wilderness (E),2021-04-20,,Chloropidae,,,,
 678,47,The Wilderness (E),2021-04-20,,Chloropidae,,,,
 678,48,The Wilderness (E),2021-04-20,,Chloropidae,,,,
-678,49,The Wilderness (W),2021-04-21,,Bombyliidae,Bombylius major,m,,
-678,50,The Wilderness (W),2021-04-21,,Calliphoridae,Calliphora vomitoria,m,,
-678,51,The Wilderness (W),2021-04-21,,Calliphoridae,Calliphora vomitoria,f,,
-678,52,The Wilderness (W),2021-04-21,,Sarcophagidae,Sarcophaga sp,m,,
+678,49,The Wilderness (W),2021-04-21,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
+678,50,The Wilderness (W),2021-04-21,,Calliphoridae,Calliphora vomitoria,m,"Rognes, 1991",
+678,51,The Wilderness (W),2021-04-21,,Calliphoridae,Calliphora vomitoria,f,"Rognes, 1991",
+678,52,The Wilderness (W),2021-04-21,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thyrsocnema incisilobata

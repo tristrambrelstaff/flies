@@ -1,14 +1,14 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-679,1,The Wilderness (W),2021-04-21,,Tachinidae,Gymnocheta viridis,m,,
+679,1,The Wilderness (W),2021-04-21,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 679,2,The Wilderness (W),2021-04-21,,Tachinidae,,f,,
 679,3,The Wilderness (W),2021-04-21,,Tachinidae,,f,,
 679,4,The Wilderness (W),2021-04-21,,Calliphoridae,Pollenia sp,m,,
 679,5,The Wilderness (W),2021-04-21,,Heleomyzidae,,m,,
-679,6,The Wilderness (W),2021-04-21,,Muscidae,Phaonia sp,f,,
-679,7,The Wilderness (W),2021-04-21,,Muscidae,Phaonia subventa,m,,
+679,6,The Wilderness (W),2021-04-21,,Muscidae,Phaonia tuguriorum,f,"Fonseca, 1968",As Phaonia signata
+679,7,The Wilderness (W),2021-04-21,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 679,8,The Wilderness (W),2021-04-21,,Muscidae,Helina sp,m,,
-679,9,The Wilderness (W),2021-04-21,,Anthomyiidae,Leucophora sp,f,,
-679,10,The Wilderness (W),2021-04-21,,Anthomyiidae,Leucophora sp,f,,
+679,9,The Wilderness (W),2021-04-21,,Anthomyiidae,Leucophora personata,f,"Ackland et al draft keys, 2017",
+679,10,The Wilderness (W),2021-04-21,,Anthomyiidae,Leucophora obtusa,f,"Ackland et al draft keys, 2017",
 679,11,The Wilderness (W),2021-04-21,,Anthomyiidae,Hylemya sp,m,,
 679,12,The Wilderness (W),2021-04-21,,Anthomyiidae,,m,,
 679,13,The Wilderness (W),2021-04-21,,Anthomyiidae,,f,,
