@@ -32,8 +32,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 676,31,The Wilderness (E),2021-04-18,,Muscidae,Helina evecta,f,"Fonseca, 1968",As Helina laetifica
 676,32,The Wilderness (E),2021-04-18,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 676,33,The Wilderness (E),2021-04-18,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
-676,34,The Wilderness (E),2021-04-18,,Calliphoridae,Pollenia sp,m,,
-676,35,The Wilderness (E),2021-04-18,,Calliphoridae,Pollenia sp,m,,
+676,34,The Wilderness (E),2021-04-18,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
+676,35,The Wilderness (E),2021-04-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 676,36,The Wilderness (E),2021-04-18,,Anthomyiidae,Mycophaga testacea,f,,
 676,37,The Wilderness (E),2021-04-18,,Anthomyiidae,Leucophora sp,m,,
 676,38,The Wilderness (E),2021-04-18,,Anthomyiidae,Leucophora sp,m,,
@@ -43,6 +43,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 676,42,The Wilderness (W),2021-04-18,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 676,43,The Wilderness (W),2021-04-18,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 676,44,The Wilderness (W),2021-04-18,,Scathophagidae,Scathophaga furcata,m,"Ball, 2014",
-676,45,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia sp,m,,
-676,46,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia sp,m,,
-676,47,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia sp,m,,
+676,45,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+676,46,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
+676,47,The Wilderness (W),2021-04-18,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
