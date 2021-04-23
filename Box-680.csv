@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-680,1,Quarry near Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga sp,m,,
-680,2,Quarry near Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga sp,m,,
+680,1,Quarry near Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+680,2,Quarry near Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga agnata,m,"Pape, 1987",As Helicophagella agnata
 680,3,Quarry near Chazey Wood,2021-04-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 680,4,Quarry near Chazey Wood,2021-04-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 680,5,Quarry near Chazey Wood,2021-04-23,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
@@ -31,8 +31,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 680,30,Chazey Wood,2021-04-23,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 680,31,Chazey Wood,2021-04-23,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 680,32,Chazey Wood,2021-04-23,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
-680,33,Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga sp,f,,
-680,34,Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga sp,m,,
+680,33,Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+680,34,Chazey Wood,2021-04-23,,Sarcophagidae,Sarcophaga agnata,m,"Pape, 1987",As Helicophagella agnata
 680,35,Chazey Wood,2021-04-23,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 680,36,Chazey Wood,2021-04-23,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 680,37,Chazey Wood,2021-04-23,,Muscidae,Phaonia errans,m,"Fonseca, 1968",

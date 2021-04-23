@@ -14,8 +14,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 678,13,The Wilderness (E-FH),2021-04-19,,Chloropidae,Elachiptera sp,f,,
 678,14,The Wilderness (E-FH),2021-04-19,,Agromyzidae,,f,,
 678,15,The Wilderness (E),2021-04-20,,Bombyliidae,Bombylius major,m,"Stubbs & Drake, 2001",
-678,16,The Wilderness (E),2021-04-20,,Sarcophagidae,Sarcophaga sp,f,,
-678,17,The Wilderness (E),2021-04-20,,Sarcophagidae,Sarcophaga sp,f,,
+678,16,The Wilderness (E),2021-04-20,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
+678,17,The Wilderness (E),2021-04-20,,Sarcophagidae,Brachicoma devia,f,"Pape, 1987",
 678,18,The Wilderness (E),2021-04-20,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 678,19,The Wilderness (E),2021-04-20,,Calliphoridae,Pollenia augustigena,m,"Rognes, 1991",
 678,20,The Wilderness (E),2021-04-20,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",Two legs missing
