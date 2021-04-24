@@ -1,12 +1,12 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-681,1,The Wilderness (W),2021-04-24,,Bombyliidae,Bombylius major,f,,
+681,1,The Wilderness (W),2021-04-24,,Bombyliidae,Bombylius major,f,"Stubbs & Drake, 2001",
 681,2,The Wilderness (W),2021-04-24,,Sarcophagidae,Sarcophaga sp,m,,
 681,3,The Wilderness (W),2021-04-24,,Tachinidae,,m,,
 681,4,The Wilderness (W),2021-04-24,,Muscidae,Phaonia errans,f,"Fonseca, 1968",
 681,5,The Wilderness (W),2021-04-24,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 681,6,The Wilderness (W),2021-04-24,Hymenoptera,Ichneumonidae,,,,
-681,7,The Wilderness (W),2021-04-24,,Tephritidae,Euleia heraclei,f,,
-681,8,The Wilderness (W),2021-04-24,,Tephritidae,Euleia heraclei,f,,
+681,7,The Wilderness (W),2021-04-24,,Tephritidae,Euleia heraclei,f,"White, 1988",
+681,8,The Wilderness (W),2021-04-24,,Tephritidae,Euleia heraclei,f,"White, 1988",
 681,9,The Wilderness (W),2021-04-24,,Tachinidae,,f,,
 681,10,The Wilderness (W),2021-04-24,,Anthomyiidae,,f,,
 681,11,The Wilderness (W),2021-04-24,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
@@ -15,7 +15,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 681,14,The Wilderness (W),2021-04-24,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 681,15,The Wilderness (W),2021-04-24,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
 681,16,The Wilderness (W),2021-04-24,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
-681,17,The Wilderness (W),2021-04-24,,Scathophagidae,Nanna sp,m,,
+681,17,The Wilderness (W),2021-04-24,,Scathophagidae,Nanna armillata,m,"Ball, 2014",
 681,18,The Wilderness (W),2021-04-24,,Anthomyiidae,Anthomyia sp,m,,
 681,19,The Wilderness (W),2021-04-24,,Anthomyiidae,,f,,
 681,20,The Wilderness (W),2021-04-24,Hymenoptera,Braconidae,,m,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 681,30,The Wilderness (E),2021-04-24,,Muscidae,Phaonia errans,m,"Fonseca, 1968",
 681,31,The Wilderness (E),2021-04-24,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 681,32,The Wilderness (E),2021-04-24,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-681,33,The Wilderness (E),2021-04-24,,Scathophagidae,Scathophaga stercoraria,m,,
+681,33,The Wilderness (E),2021-04-24,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 681,34,The Wilderness (E),2021-04-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 681,35,The Wilderness (E),2021-04-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 681,36,The Wilderness (E),2021-04-24,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
