@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-682,1,Thames Valley Park,2021-04-25,,Bombyliidae,Bombylius major,f,,
-682,2,Thames Valley Park,2021-04-25,,Sciomyzidae,Sepedon sphegea,m,,
-682,3,Thames Valley Park,2021-04-25,,Tachinidae,Gymnocheta viridis,m,,
+682,1,Thames Valley Park,2021-04-25,,Bombyliidae,Bombylius major,f,"Stubbs & Drake, 2001",
+682,2,Thames Valley Park,2021-04-25,,Sciomyzidae,Sepedon sphegea,m,"Rozkosny, 1984",
+682,3,Thames Valley Park,2021-04-25,,Tachinidae,Gymnocheta viridis,m,"Belshaw, 1993 +v5c updates",
 682,4,Thames Valley Park,2021-04-25,,Scathophagidae,Scathophaga stercoraria,m,,
 682,5,Thames Valley Park,2021-04-25,,Muscidae,Phaonia sp,m,,
 682,6,Thames Valley Park,2021-04-25,,Muscidae,Helina sp,m,,
