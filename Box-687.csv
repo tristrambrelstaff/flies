@@ -9,13 +9,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 687,8,The Wilderness (W),2021-05-02,,Tachinidae,Ramonda spathulata,f,"Belshaw, 1993 +v5c updates",
 687,9,The Wilderness (W),2021-05-02,,Tachinidae,Smidtia conspersa,f,"Belshaw, 1993 +v5c updates",
 687,10,The Wilderness (W),2021-05-02,,Tachinidae,Lypha dubia,f,"Belshaw, 1993 +v5c updates",
-687,11,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,12,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,13,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,14,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,15,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,16,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,m,,
-687,17,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,f,,
+687,11,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+687,12,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga subvicina,m,"Pape, 1987",
+687,13,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga caerulescens,m,"Pape, 1987",As Parasarcophaga caerulescens
+687,14,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga variegata,m,"Pape, 1987",
+687,15,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga incisilobata,m,"Pape, 1987",As Thysocnema incisilobata
+687,16,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga vagans,m,"Pape, 1987",As Heteronychia vagans
+687,17,The Wilderness (W),2021-05-02,,Sarcophagidae,Sarcophaga sp,f,"Pape, 1987",
 687,18,The Wilderness (W),2021-05-02,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 687,19,The Wilderness (W),2021-05-02,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 687,20,The Wilderness (W),2021-05-02,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
