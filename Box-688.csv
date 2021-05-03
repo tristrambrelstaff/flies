@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 688,1,The Wilderness (W),2021-05-02,,Bibionidae,Bibio johannis,m,"Freeman & Lane, 1985",
-688,2,The Wilderness (W),2021-05-02,,Sphaeroceridae,,f,,
-688,3,The Wilderness (W),2021-05-02,,Sphaeroceridae,,f,,
+688,2,The Wilderness (W),2021-05-02,,Sphaeroceridae,Copromyza stercoraria,f,"Pitkin, 1988",
+688,3,The Wilderness (W),2021-05-02,,Sphaeroceridae,Copromyza stercoraria,f,"Pitkin, 1988",
 688,4,The Wilderness (W),2021-05-02,,Lonchaeidae,,m,,
 688,5,The Wilderness (W),2021-05-02,,Lonchopteridae,Lonchoptera sp,m,,
 688,6,The Wilderness (W),2021-05-02,,Agromyzidae,,f,,
