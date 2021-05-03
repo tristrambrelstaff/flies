@@ -1,5 +1,5 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-685,1,Whiteknights Park (E),2021-04-30,,Tachinidae,Ramonda spathulta,f,,
+685,1,Whiteknights Park (E),2021-04-30,,Tachinidae,Ramonda spathulta,f,"Belshaw, 1993 +v5c updates",
 685,2,Whiteknights Park (E),2021-04-30,,Sarcophagidae,Sarcophaga sp,m,,
 685,3,Whiteknights Park (E),2021-04-30,,Sarcophagidae,Sarcophaga sp,m,,
 685,4,Whiteknights Park (E),2021-04-30,,Calliphoridae,Lucilia sericata,m,"Rognes, 1991",
@@ -39,7 +39,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 685,38,Kings Meadow Tescos,2021-05-01,,Calliphoridae,Lucilia sericata,f,"Rognes, 1991",
 685,39,Kings Meadow Tescos,2021-05-01,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 685,40,Kings Meadow Tescos,2021-05-01,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-685,41,Kings Meadow Tescos,2021-05-01,,Tachinidae,,m,,
+685,41,Kings Meadow Tescos,2021-05-01,,Tachinidae,Eumea linearicornis,m,"Belshaw, 1993 +v5c updates",
 685,42,Kings Meadow Tescos,2021-05-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",
 685,43,Kings Meadow Tescos,2021-05-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",
 685,44,Kings Meadow Tescos,2021-05-01,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",
