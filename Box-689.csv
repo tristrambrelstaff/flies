@@ -1,13 +1,13 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 689,1,Whiteknights Park (E),2021-05-05,,Calliphoridae,Pollenia augustigena,f,"Rognes, 1991",
 689,2,Whiteknights Park (E),2021-05-05,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
-689,3,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,m,,
-689,4,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,,
-689,5,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,,
-689,6,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,,
+689,3,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+689,4,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+689,5,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+689,6,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 689,7,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia sp,m,,
-689,8,Whiteknights Park (E),2021-05-05,,Muscidae,Musca autumnalis,m,,
-689,9,Whiteknights Park (E),2021-05-05,,Muscidae,Musca autumnalis,m,,
+689,8,Whiteknights Park (E),2021-05-05,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
+689,9,Whiteknights Park (E),2021-05-05,,Muscidae,Musca autumnalis,m,"Fonseca, 1968",
 689,10,Whiteknights Park (E),2021-05-05,,Muscidae,Thricops sp,m,,
 689,11,Whiteknights Park (E),2021-05-05,,Muscidae,Phaonia sp,f,,
 689,12,Whiteknights Park (E),2021-05-05,,Muscidae,Hydrotaea sp,m,,

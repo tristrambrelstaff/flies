@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 691,13,Whiteknights Park (W),2021-05-07,,Fanniidae,Fannia sp,m,,
 691,14,Whiteknights Park (W),2021-05-07,,Fanniidae,Fannia sp,m,,
 691,15,Whiteknights Park (W),2021-05-07,,Fanniidae,Fannia sp,m,,
-691,16,Whiteknights Park (W),2021-05-07,,Muscidae,Hebecnema vespertina,m,,
+691,16,Whiteknights Park (W),2021-05-07,,Muscidae,Hebecnema vespertina,m,"Fonseca, 1968; Pont, 1984",As Hebecnema affinis; Halteres yellow
 691,17,Whiteknights Park (W),2021-05-07,,Sarcophagidae,Sarcophaga dissimilis,m,"Richet et al, 2011","Keys out to Heteronychia depressifrons in Pape, 1987 but genitalia don't match"
 691,18,Whiteknights Park (W),2021-05-07,,Sphaeroceridae,,m,,
 691,19,Whiteknights Park (W),2021-05-07,,Mycetophilidae,,f,,
@@ -45,9 +45,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 691,44,Whiteknights Park (W),2021-05-07,,???,,,,
 691,45,Whiteknights Park (W),2021-05-07,,???,,,,
 691,46,The Wilderness (E),2021-05-08,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
-691,47,The Wilderness (E),2021-05-09,,Muscidae,Phaonia subventa,m,,
-691,48,The Wilderness (E),2021-05-10,,Muscidae,Phaonia subventa,m,,
-691,49,The Wilderness (E),2021-05-11,,Muscidae,Phaonia subventa,m,,
+691,47,The Wilderness (E),2021-05-09,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+691,48,The Wilderness (E),2021-05-10,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
+691,49,The Wilderness (E),2021-05-11,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
 691,50,The Wilderness (E),2021-05-12,,Anthomyiidae,Hylemya sp,f,,
 691,51,The Wilderness (E),2021-05-13,,Anthomyiidae,,f,,
 691,52,The Wilderness (E),2021-05-14,,Empididae,,f,,
