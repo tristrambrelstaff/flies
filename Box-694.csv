@@ -14,12 +14,12 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 694,13,The Wilderness (W),2021-05-10,,Anthomyiidae,Anthomyia procellaris grp,m,,
 694,14,The Wilderness (W),2021-05-10,,Anthomyiidae,Anthomyia procellaris grp,m,,
 694,15,The Wilderness (W),2021-05-10,,Tephritidae,Euleia heraclei,f,,
-694,16,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,,
-694,17,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,,17+18 in cop
-694,18,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,f,,17+18 in cop
-694,19,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,f,,
-694,20,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,,
-694,21,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,,
+694,16,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
+694,17,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",17+18 in cop
+694,18,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,f,"Freeman & Lane, 1985",17+18 in cop
+694,19,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,f,"Freeman & Lane, 1985",
+694,20,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
+694,21,Whiteknights Park (W),2021-05-11,,Bibionidae,Bibio marci,m,"Freeman & Lane, 1985",
 694,22,Whiteknights Park (W),2021-05-11,Mecoptera,Panorpidae,Panorpa sp,m,,
 694,23,Whiteknights Park (W),2021-05-11,Megaloptera,Sialidae,Sialis sp,,,
 694,24,Whiteknights Park (W),2021-05-11,Hymenoptera,Ichneumonidae,,m,,
