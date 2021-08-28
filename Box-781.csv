@@ -23,14 +23,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 781,22,Whiteknights Park (W),2021-08-27,Hymenoptera,Ichneumonidae,,m,,
 781,23,Whiteknights Park (W),2021-08-27,Hymenoptera,Ichneumonidae,,m,,
 781,24,Whiteknights Park (W),2021-08-27,Hymenoptera,Ichneumonidae,,m,,
-781,25,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,f,,
-781,26,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,m,,26+27 in cop
-781,27,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,f,,26+27 in cop
-781,28,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,,
-781,29,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,,
-781,30,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,,
-781,31,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,,
-781,32,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,m,,
+781,25,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
+781,26,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,m,"Belshaw, 1993 +v5c updates",26+27 in cop
+781,27,Whiteknights Park (E),2021-08-28,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",26+27 in cop
+781,28,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
+781,29,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
+781,30,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
+781,31,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
+781,32,Whiteknights Park (E),2021-08-28,,Tachinidae,Eriothrix rufomaculata,m,"Belshaw, 1993 +v5c updates",
 781,33,Whiteknights Park (E),2021-08-28,,Sarcophagidae,Sarcophaga incisilobata,m,,
 781,34,Whiteknights Park (E),2021-08-28,,Sarcophagidae,Sarcophaga incisilobata,m,,
 781,35,Whiteknights Park (E),2021-08-28,,Sarcophagidae,Sarcophaga sp,m,,
