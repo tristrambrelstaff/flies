@@ -14,7 +14,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 785,13,Whiteknights Park (W),2021-08-30,,Mycetophilidae,,m,,
 785,14,Whiteknights Park (W),2021-08-30,,Mycetophilidae,,m,,
 785,15,Whiteknights Park (W),2021-08-30,,Anthomyzidae,,f,,
-785,16,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,,
+785,16,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 785,17,Whiteknights Park (E-FH),2021-08-31,,Calliphoridae,Lucilia sericata,m,,17+18 in cop
 785,18,Whiteknights Park (E-FH),2021-08-31,,Calliphoridae,Lucilia sericata,f,,17+18 in cop
 785,19,Whiteknights Park (E-FH),2021-08-31,,Calliphoridae,Lucilia sericata,m,,19+20 in cop
@@ -26,10 +26,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 785,25,Whiteknights Park (E-FH),2021-08-31,,Sarcophagidae,Sarcophaga sp,f,,
 785,26,Whiteknights Park (E-FH),2021-08-31,,Sarcophagidae,Sarcophaga sp,m,,
 785,27,Whiteknights Park (E-FH),2021-08-31,,Conopidae,Conops sp,,,
-785,28,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Eriothrix rufomaculata,f,,
-785,29,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,,
-785,30,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,m,,
-785,31,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,,
+785,28,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Eriothrix rufomaculata,f,"Belshaw, 1993 +v5c updates",
+785,29,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
+785,30,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,m,"Belshaw, 1993 +v5c updates",
+785,31,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,f,"Belshaw, 1993 +v5c updates",
 785,32,Whiteknights Park (E-FH),2021-08-31,,Muscidae,Phaonia sp,m,,
-785,33,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,m,,
-785,34,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,,f,,
+785,33,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Voria ruralis,m,"Belshaw, 1993 +v5c updates",
+785,34,Whiteknights Park (E-FH),2021-08-31,,Tachinidae,Eumea linearicornis,f,"Belshaw, 1993 +v5c updates",
