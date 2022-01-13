@@ -7,7 +7,7 @@ uk_map <- map_data(
 )
 
 ggplot(
-  data = UK,
+  data = uk_map,
   aes(
     x = long,
     y = lat,
