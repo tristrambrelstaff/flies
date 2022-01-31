@@ -7,8 +7,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 835,6,Kings Meadow Tescos,2021-11-06,,Anthomyiidae,Delia platura,m,,
 835,7,Kings Meadow Tescos,2021-11-06,,Lauxaniidae,Trigonometopus frontalis,f,,
 835,8,Kings Meadow Tescos,2021-11-06,,Scathophagidae,,f,,
-835,9,Kings Meadow Tescos,2021-11-06,,Muscidae,Lispocephala erythrocera,f,,
-835,10,Kings Meadow Tescos,2021-11-06,,Muscidae,Lispocephala erythrocera,f,,
+835,9,Kings Meadow Tescos,2021-11-06,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+835,10,Kings Meadow Tescos,2021-11-06,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 835,11,Kings Meadow Tescos,2021-11-06,,Dolichopodidae,,f,,
 835,12,Kings Meadow Tescos,2021-11-06,,Dolichopodidae,,f,,
 835,13,Kings Meadow Tescos,2021-11-06,,Lonchopteridae,Lonchoptera sp,f,,
@@ -36,10 +36,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 835,35,Thames Valley Park,2021-11-07,,Scathophagidae,,m,,
 835,36,Thames Valley Park,2021-11-07,,Scathophagidae,Scathophaga furcata,m,,
 835,37,Thames Valley Park,2021-11-07,,Muscidae,Hebecnema vespertina,m,,
-835,38,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,m,,
-835,39,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,,
-835,40,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,,
-835,41,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,,
+835,38,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
+835,39,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+835,40,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+835,41,Thames Valley Park,2021-11-07,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 835,42,Thames Valley Park,2021-11-07,,Anthomyiidae,Delia platura,m,,
 835,43,Thames Valley Park,2021-11-07,,Opomyzidae,Opomyza sp,f,,
 835,44,Thames Valley Park,2021-11-07,,Lonchopteridae,Lonchoptera sp,f,,
