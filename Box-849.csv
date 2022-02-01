@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,1,Thames Valley Park,2021-12-25,,Trichoceridae,,f,,
-849,2,Thames Valley Park,2021-12-25,,Muscidae,Lispocephala erythrocera,m,,
+849,2,Thames Valley Park,2021-12-25,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
 849,3,Thames Valley Park,2021-12-25,,Ephydridae,,,,
 849,4,Thames Valley Park,2021-12-25,,Lonchopteridae,Lonchoptera sp,m,,
 849,5,Thames Valley Park,2021-12-25,,Lonchopteridae,Lonchoptera sp,m,,
@@ -9,7 +9,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,8,The Wilderness (E),2021-12-26,,Dolichopodidae,,m,,
 849,9,The Wilderness (E),2021-12-26,,Dolichopodidae,,m,,
 849,10,The Wilderness (E),2021-12-26,,Dolichopodidae,,f,,
-849,11,Whiteknights Park (W),2021-12-28,,Muscidae,Lispocephala erythrocera,f,,
+849,11,Whiteknights Park (W),2021-12-28,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 849,12,Whiteknights Park (W),2021-12-28,,Muscidae,Phaonia trimaculata,f,,
 849,13,Whiteknights Park (W),2021-12-28,,Muscidae,Mydaea sp,f,,
 849,14,Whiteknights Park (W),2021-12-28,,Calliphoridae,Calliphora vicina,m,,
@@ -24,7 +24,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,23,Whiteknights Park (E-FH),2021-12-29,Hymenoptera,Ichneumonidae,,f,,
 849,24,Whiteknights Park (E-FH),2021-12-29,,Sepsidae,Sepsis sp,f,,
 849,25,Whiteknights Park (E-FH),2021-12-29,,Sciomyzidae,Pherbellia sp,m,,
-849,26,Whiteknights Park (E-FH),2021-12-29,,Muscidae,Lispocephala erythrocera,f,,
+849,26,Whiteknights Park (E-FH),2021-12-29,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 849,27,Whiteknights Park (E-FH),2021-12-29,,Lonchopteridae,Lonchoptera sp,m,,
 849,28,Whiteknights Park (E-FH),2021-12-29,,Lonchopteridae,Lonchoptera sp,f,,
 849,29,Whiteknights Park (E-FH),2021-12-29,,Dolichopodidae,,f,,
@@ -41,7 +41,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,40,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,f,,
 849,41,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,m,,
 849,42,Whiteknights Park (W),2021-12-31,,Sphaeroceridae,,m,,
-849,43,Whiteknights Park (W),2021-12-31,,Muscidae,Lispocephala erythrocera,f,,
+849,43,Whiteknights Park (W),2021-12-31,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 849,44,Whiteknights Park (W),2021-12-31,,Anthomyiidae,Delia platura,m,,
 849,45,Whiteknights Park (W),2021-12-31,,Muscidae,Hydrotaea sp,m,,
 849,46,Whiteknights Park (W),2021-12-31,,Muscidae,Hydrotaea sp,m,,

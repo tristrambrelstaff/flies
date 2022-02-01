@@ -16,14 +16,14 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 841,15,Thames Valley Park,2021-11-21,,Sciomyzidae,,m,,
 841,16,Thames Valley Park,2021-11-21,,Sciomyzidae,Pherbellia sp,m,,
 841,17,Thames Valley Park,2021-11-21,,Scathophagidae,Scathophaga furcata,m,,
-841,18,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,,
-841,19,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,,
-841,20,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,,
-841,21,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,,
-841,22,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,,
-841,23,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,,
-841,24,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,,
-841,25,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,,
+841,18,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+841,19,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+841,20,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
+841,21,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
+841,22,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
+841,23,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
+841,24,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
+841,25,Thames Valley Park,2021-11-21,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",Greasy
 841,26,Whiteknights Park (W),2021-11-22,,Tachinidae,Pales pavida,f,"Belshaw, 1993 +v5c updates",
 841,27,Whiteknights Park (W),2021-11-22,,Calliphoridae,Lucilia sp,f,,
 841,28,Whiteknights Park (W),2021-11-22,,Calliphoridae,Calliphora vicina,m,,
@@ -36,4 +36,4 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 841,35,Whiteknights Park (W),2021-11-22,,Muscidae,Polietes lardarius,f,,
 841,36,Whiteknights Park (W),2021-11-22,,Anthomyiidae,,m,,
 841,37,Whiteknights Park (W),2021-11-22,,Muscidae,Hebecnema vespertina,m,,
-841,38,Whiteknights Park (W),2021-11-22,,Muscidae,Lispocephala erythrocera,f,,
+841,38,Whiteknights Park (W),2021-11-22,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
