@@ -4,6 +4,11 @@
 # Ignore Libre/OpenOffice lock files (should really be in .gitgnore for user not project)
 .~lock.*
 
+# Ignore R files
+.Rproj.user
+*.Rproj
+.Rhistory
+
 # Ignore files that are made
 flies.csv
 families.csv
