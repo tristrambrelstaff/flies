@@ -14,11 +14,10 @@ function svg_end_tag() {
 
 function text_tag(str, x, y, font_size, class) {
   printf("<text x=\"%s\" y=\"%s\" font-size=\"%s\" class=\"%s\" fill=\"black\" fill-opacity=\"1.0\">%s</text>\n", x, y, font_size, class, str)
-  # We add 2px left-padding to the x values of text
 }
 
-function rect_tag(x, y, w, h, class) {
-  printf("<rect x=\"%s\" y=\"%s\" width=\"%s\" height=\"%s\" class=\"%s\" fill=\"white\" fill-opacity=\"0.0\" />\n", x, y, w, h, class)
+function rect_tag(x, y, w, h, sw, class) {
+  printf("<rect x=\"%s\" y=\"%s\" width=\"%s\" height=\"%s\" stroke-width=\"%s\" class=\"%s\" fill=\"white\" fill-opacity=\"0.0\" />\n", x, y, w, h, sw, class)
 }
 
 
@@ -27,12 +26,19 @@ BEGIN {  # Before any lines are read...
   # Handle quoted fields properly
   FPAT= "([^,]*)|(\"[^\"]*\")"
 
-  # Set sizes of title, plot and label areas in pixels
-  th = 15     # title height
-  lh = 15     # label height
-  lw = 25     # label width
-  ph = 200    # plot height
+  # Set various sizes in pixels
+  sw = 2      # stroke width
+  th = 30     # title height
+  lh = 30     # label height
+  lw = 50     # label width
+  ph = 400    # plot height
   pw = 12*lw  # plot width
+
+  # Set various font sizes in percentages
+
+  tfs = "200%"  # Title font size
+  cfs = "140%"  # Count font size
+  lfs = "160%"  # Label font size
 
   # Initialize month labels
   split("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec", labels)
@@ -65,9 +71,9 @@ END {  # After all lines are read...
 
   # Output the SVG to display the plot
   svg_tag(0, 0, pw, th+ph+lh, "mplot")
-  text_tag(species, 0, th/2, "100%", "title")
-  text_tag(sprintf("n=%d", count), pw - 2*lw, th+lw/2, "70%", "label")
-  rect_tag(0, th, pw, ph, "frame")
+  text_tag(species, 0, th/2, tfs, "title")
+  text_tag(sprintf("n=%d", count), pw - 2*lw, th+lw/2, cfs, "count")
+  rect_tag(0, th, pw, ph, sw, "frame")
   y = th+ph+lh
   if (fmax == 0)
     sf = 0.0
@@ -76,8 +82,8 @@ END {  # After all lines are read...
   for (m= 1; m <= 12; m++) {
     x = (m-1)*lw
     fh = f[m]*sf
-    rect_tag(x, th+ph-fh, lw, fh, "column")
-    text_tag(labels[m], x, y, "80%", "label")
+    rect_tag(x, th+ph-fh, lw, fh, sw, "column")
+    text_tag(labels[m], x+4, y, lfs, "label")
   }
   svg_end_tag()
 
