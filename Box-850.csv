@@ -34,8 +34,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 850,33,Thames Valley Park,2022-12-26,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
 850,34,Kennet Mouth (E),2022-12-26,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 850,35,Kennet Mouth (E),2022-12-26,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-850,36,Whiteknights Park (W),2022-12-29,,Calliphoridae,Calliphora vicina,m,,
-850,37,Whiteknights Park (W),2022-12-29,,Scathopgagidae,Scathophaga stercoraria,f,,
-850,38,The Wilderness (W),2022-12-29,,Muscidae,Phaonia sp,m,,
-850,39,The Wilderness (W),2022-12-29,,Muscidae,Phaonia sp,m,,
-850,40,The Wilderness (W),2022-12-29,,Opetiidae,Opetia nigra,m,,
+850,36,Whiteknights Park (W),2022-12-29,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+850,37,Whiteknights Park (W),2022-12-29,,Scathopgagidae,Scathophaga stercoraria,f,"Ball, 2014",
+850,38,The Wilderness (W),2022-12-29,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
+850,39,The Wilderness (W),2022-12-29,,Muscidae,Phaonia tuguriorum,m,"Fonseca, 1968",As Phaonia signata
+850,40,The Wilderness (W),2022-12-29,,Opetiidae,Opetia nigra,m,"Chandler, 2001",
