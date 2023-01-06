@@ -17,7 +17,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 850,16,Thames Valley Park,2022-12-03,,Muscidae,Lispocephala erythrocera,m,"Fonseca, 1968",
 850,17,Thames Valley Park,2022-12-03,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",
 850,18,Thames Valley Park,2022-12-03,,Scathopgagidae,Scathophaga stercoraria,f,"Ball, 2014",
-850,19,Thames Valley Park,2022-12-03,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+850,19,Thames Valley Park,2022-12-03,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 850,20,Kennet Mouth (E),2022-12-03,,Scathopgagidae,Scathophaga stercoraria,f,"Ball, 2014",
 850,21,Kennet Mouth (E),2022-12-03,,Scathopgagidae,Scathophaga furcata,f,"Ball, 2014",
 850,22,Kennet Mouth (E),2022-12-03,,Drosophilidae,Scaptomyza sp,f,,
@@ -31,7 +31,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 850,30,Thames Valley Park,2022-12-26,,Anthomyiidae,,f,,
 850,31,Thames Valley Park,2022-12-26,,Scathopgagidae,Scathophaga stercoraria,m,"Ball, 2014",
 850,32,Thames Valley Park,2022-12-26,,Lonchopteridae,Lonchoptera lutea,f,"Smith, 1969",
-850,33,Thames Valley Park,2022-12-26,,Lonchopteridae,Lonchoptera furcata,f,"Smith, 1969",
+850,33,Thames Valley Park,2022-12-26,,Lonchopteridae,Lonchoptera bifurcata,f,"Smith, 1969",As Lonchoptera furcata
 850,34,Kennet Mouth (E),2022-12-26,,Anthomyiidae,Delia platura,m,"Ackland et al draft keys, 2017",
 850,35,Kennet Mouth (E),2022-12-26,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 850,36,Whiteknights Park (W),2022-12-29,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
