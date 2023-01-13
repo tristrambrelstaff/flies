@@ -20,10 +20,10 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 851,19,Whiteknights Park (E),2023-01-09,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 851,20,Whiteknights Park (E),2023-01-09,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 851,21,Whiteknights Park (E),2023-01-09,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
-851,22,Whiteknights Park (E),2023-01-09,,Muscidae,,m,,
+851,22,Whiteknights Park (E),2023-01-09,,Muscidae,Hebecnema fumosa,m,"Fonseca, 1968","Hebecnema fumosa with Gregor et al, 2016"
 851,23,Whiteknights Park (E),2023-01-09,,Anthomyiidae,Mycophaga testacea,f,,
 851,24,Whiteknights Park (E),2023-01-09,,Anthomyiidae,,f,,
-851,25,Whiteknights Park (E),2023-01-09,,Anthomyiidae,,m,,
+851,25,Whiteknights Park (E),2023-01-09,,Anthomyiidae,Pegomya sp,m,,
 851,26,Whiteknights Park (W),2023-01-09,,Anthomyiidae,,f,,
 851,27,Thames Valley Park,2023-01-09,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
 851,28,Thames Valley Park,2023-01-09,,Trichoceridae,Trichocera sp,m,,
@@ -32,5 +32,5 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 851,31,Whiteknights Park (W),2023-01-11,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 851,32,Whiteknights Park (W),2023-01-11,,Anthomyiidae,,m,,
 851,33,Whiteknights Park (E-FH),2023-01-13,,Anthomyiidae,Hylemya sp,f,,
-851,34,Whiteknights Park (E-FH),2023-01-13,,Calliphoridae,Calliphora vicina,f,,
-851,35,Whiteknights Park (E),2023-01-13,,Calliphoridae,Calliphora vicina,m,,
+851,34,Whiteknights Park (E-FH),2023-01-13,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+851,35,Whiteknights Park (E),2023-01-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",

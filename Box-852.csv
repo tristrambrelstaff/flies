@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
-852,1,Whiteknights Park (E),2023-01-13,,Calliphoridae,Calliphora vicina,m,,
-852,2,Whiteknights Park (E),2023-01-13,,Muscidae,Eudasyphora cyanella,m,,
-852,3,Whiteknights Park (E),2023-01-13,,Muscidae,Phaonia subventa,f,,
-852,4,Whiteknights Park (E),2023-01-13,,Muscidae,Helina evecta,m,,
-852,5,Whiteknights Park (E),2023-01-13,,Muscidae,Hebecnema sp,f,,
+852,1,Whiteknights Park (E),2023-01-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+852,2,Whiteknights Park (E),2023-01-13,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
+852,3,Whiteknights Park (E),2023-01-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
+852,4,Whiteknights Park (E),2023-01-13,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+852,5,Whiteknights Park (E),2023-01-13,,Muscidae,Hebecnema fumosa,f,"Fonseca, 1968","Hebecnema fumosa with Gregor et al, 2016"
 852,6,Whiteknights Park (E),2023-01-13,,Anthomyiidae,Pegomya sp,m,,
