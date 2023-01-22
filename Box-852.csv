@@ -4,13 +4,13 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 852,3,Whiteknights Park (E),2023-01-13,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 852,4,Whiteknights Park (E),2023-01-13,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
 852,5,Whiteknights Park (E),2023-01-13,,Muscidae,Hebecnema fumosa,f,"Fonseca, 1968","Hebecnema fumosa with Gregor et al, 2016"
-852,6,Whiteknights Park (E),2023-01-13,,Anthomyiidae,Pegomya sp,m,,
+852,6,Whiteknights Park (E),2023-01-13,,Anthomyiidae,Pegomya solennis,m,"Ackland et al draft keys, 2017",
 852,7,Whiteknights Park (E),2023-01-15,,Trichoceridae,Trichocera sp,f,,
 852,8,Whiteknights Park (E),2023-01-15,,Trichoceridae,Trichocera sp,f,,
 852,9,Whiteknights Park (E),2023-01-15,,Mycetophilidae,,m,,
 852,10,Whiteknights Park (E),2023-01-18,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
-852,11,Whiteknights Park (E),2023-01-18,,Anthomyiidae,Mycophaga testacea,f,,
-852,12,Whiteknights Park (E),2023-01-18,,Anthomyiidae,,m,,Ptilinum extruded
+852,11,Whiteknights Park (E),2023-01-18,,Anthomyiidae,Mycophaga testacea,f,"Ackland et al draft keys, 2017",
+852,12,Whiteknights Park (E),2023-01-18,,Anthomyiidae,Hylemya urbica,m,"Ackland et al draft keys, 2017",Ptilinum extruded
 852,13,Whiteknights Park (W),2023-01-18,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 852,14,Whiteknights Park (W),2023-01-20,,Scathophagidae,Scathophaga stercoraria,m,"Ball, 2014",
 852,15,Whiteknights Park (W),2023-01-20,,Scathophagidae,Scathophaga stercoraria,f,"Ball, 2014",
@@ -24,6 +24,6 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 852,23,Chazey Wood,2023-01-21,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 852,24,Chazey Wood,2023-01-21,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 852,25,Chazey Wood,2023-01-21,,Muscidae,Phaonia trimaculata,m,"Fonseca, 1968",
-852,26,Chazey Wood,2023-01-21,,Anthomyiidae,,m,,
-852,27,Chazey Wood,2023-01-21,,Anthomyiidae,,m,,
-852,28,Chazey Wood,2023-01-21,,Anthomyiidae,,m,,
+852,26,Chazey Wood,2023-01-21,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+852,27,Chazey Wood,2023-01-21,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
+852,28,Chazey Wood,2023-01-21,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
