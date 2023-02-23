@@ -1,7 +1,7 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 856,1,Whiteknights Park (E),2023-02-13,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
-856,2,Whiteknights Park (E),2023-02-13,,Muscidae,Neomyia sp,m,,
-856,3,Whiteknights Park (E),2023-02-13,,Muscidae,Eudasyphora cyanella,m,,
+856,2,Whiteknights Park (E),2023-02-13,,Muscidae,Neomyia cornicina,m,"Fonseca, 1968",As Orthellia cornicina
+856,3,Whiteknights Park (E),2023-02-13,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Dasyphora cyanella
 856,4,Whiteknights Park (E),2023-02-13,,Simuliidae,Simulium sp,m,,
 856,5,Whiteknights Park (E),2023-02-13,,Sphaeroceridae,,m,,
 856,6,Whiteknights Park (E),2023-02-13,,Sphaeroceridae,,f,,
@@ -37,7 +37,7 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 856,36,Quarry near Chazey Wood,2023-02-19,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 856,37,Quarry near Chazey Wood,2023-02-19,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 856,38,Quarry near Chazey Wood,2023-02-19,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
-856,39,Chazey Wood,2023-02-19,,Muscidae,Helina sp,f,,
+856,39,Chazey Wood,2023-02-19,,Muscidae,Helina pertusa,f,"Fonseca, 1968","Helina pertusa with Gregor et al, 2016"
 856,40,Chazey Wood,2023-02-19,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
 856,41,Chazey Wood,2023-02-19,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
 856,42,Chazey Wood,2023-02-19,,Anthomyiidae,Lasiomma seminitidum,m,"Ackland et al draft keys, 2017",
