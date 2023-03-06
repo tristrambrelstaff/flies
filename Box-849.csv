@@ -12,8 +12,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,11,Whiteknights Park (W),2021-12-28,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 849,12,Whiteknights Park (W),2021-12-28,,Muscidae,Phaonia trimaculata,f,,
 849,13,Whiteknights Park (W),2021-12-28,,Muscidae,Mydaea sp,f,,
-849,14,Whiteknights Park (W),2021-12-28,,Calliphoridae,Calliphora vicina,m,,
-849,15,Whiteknights Park (W),2021-12-28,,Calliphoridae,Calliphora vicina,m,,
+849,14,Whiteknights Park (W),2021-12-28,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+849,15,Whiteknights Park (W),2021-12-28,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 849,16,Whiteknights Park (W),2021-12-28,,Scathophagidae,Scathophaga stercoraria,f,,
 849,17,Whiteknights Park (W),2021-12-28,,Scathophagidae,Scathophaga stercoraria,f,,
 849,18,Whiteknights Park (W),2021-12-28,,Bibionidae,Dilophus sp,f,,
@@ -38,8 +38,8 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 849,37,Whiteknights Park (E),2021-12-30,,Anthomyiidae,Hylemya sp,m,,
 849,38,Whiteknights Park (E),2021-12-30,,Lonchopteridae,Lonchoptera sp,f,,
 849,39,Whiteknights Park (E),2021-12-30,,Lonchopteridae,Lonchoptera sp,f,,
-849,40,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,f,,
-849,41,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,m,,
+849,40,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+849,41,Whiteknights Park (W),2021-12-31,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
 849,42,Whiteknights Park (W),2021-12-31,,Sphaeroceridae,,m,,
 849,43,Whiteknights Park (W),2021-12-31,,Muscidae,Lispocephala erythrocera,f,"Fonseca, 1968",Greasy
 849,44,Whiteknights Park (W),2021-12-31,,Anthomyiidae,Delia platura,m,,
