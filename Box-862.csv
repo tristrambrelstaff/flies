@@ -11,9 +11,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 862,10,Whiteknights Park (E),2023-03-22,,Phoridae,,f,,
 862,11,Whiteknights Park (E),2023-03-22,,Drosophildae,,,,
 862,12,Whiteknights Park (W),2023-03-23,,Anthomyiidae,,f,,
-862,13,The Wilderness (W),2023-03-23,,Calliphoridae,Calliphora vicina,f,,
-862,14,The Wilderness (W),2023-03-23,,Calliphoridae,Pollenia sp,f,,
-862,15,The Wilderness (W),2023-03-23,,Calliphoridae,Pollenia sp,m,,
+862,13,The Wilderness (W),2023-03-23,,Calliphoridae,Calliphora vicina,f,"Rognes, 1991",
+862,14,The Wilderness (W),2023-03-23,,Calliphoridae,Pollenia rudis,f,"Rognes, 1991",
+862,15,The Wilderness (W),2023-03-23,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 862,16,The Wilderness (W),2023-03-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 862,17,The Wilderness (W),2023-03-23,,Muscidae,Phaonia subventa,f,"Fonseca, 1968",As Phaonia variegata
 862,18,The Wilderness (W),2023-03-23,,Muscidae,Phaonia subventa,m,"Fonseca, 1968",As Phaonia variegata
@@ -33,9 +33,9 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 862,32,The Wilderness (W),2023-03-23,,Anthomyiidae,,m,,
 862,33,Whiteknights Park (E-FH),2023-03-24,,Muscidae,Lispocephala brachialis,f,"Fonseca, 1968",
 862,34,Whiteknights Park (E-FH),2023-03-24,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
-862,35,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Calliphora vicina,m,,
-862,36,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Calliphora vicina,m,,
-862,37,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Pollenia sp,m,,
+862,35,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+862,36,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Calliphora vicina,m,"Rognes, 1991",
+862,37,Whiteknights Park (E-FH),2023-03-24,,Calliphoridae,Pollenia rudis,m,"Rognes, 1991",
 862,38,Whiteknights Park (E-FH),2023-03-24,,Anthomyiidae,,f,,
 862,39,Whiteknights Park (E-FH),2023-03-24,,Anthomyiidae,,f,,
 862,40,Whiteknights Park (E-FH),2023-03-24,,Anthomyiidae,,f,,
