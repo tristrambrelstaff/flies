@@ -23,20 +23,20 @@ Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 861,22,Whiteknights Park (W),2023-03-21,,Anthomyiidae,,f,,
 861,23,Whiteknights Park (W),2023-03-21,,Anthomyiidae,,f,,
 861,24,Whiteknights Park (W),2023-03-21,,Scathophagidae,Scathophaga stercoraria,f,,
-861,25,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,,
-861,26,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,,
-861,27,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,,
-861,28,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,,
-861,29,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,f,,
-861,30,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,,
-861,31,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,,
-861,32,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,,
+861,25,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+861,26,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+861,27,Whiteknights Park (E),2023-03-22,,Muscidae,Helina evecta,m,"Fonseca, 1968",As Helina laetifica
+861,28,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Eudasyphora cyanella
+861,29,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,f,"Fonseca, 1968",As Eudasyphora cyanella
+861,30,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Eudasyphora cyanella
+861,31,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Eudasyphora cyanella
+861,32,Whiteknights Park (E),2023-03-22,,Muscidae,Eudasyphora cyanella,m,"Fonseca, 1968",As Eudasyphora cyanella
 861,33,Whiteknights Park (E),2023-03-22,,Calliphoridae,Pollenia sp,f,,
 861,34,Whiteknights Park (E),2023-03-22,,Calliphoridae,Pollenia sp,m,,
 861,35,Whiteknights Park (E),2023-03-22,,Calliphoridae,Pollenia sp,m,,
 861,36,Whiteknights Park (E),2023-03-22,,Calliphoridae,Pollenia sp,m,,
 861,37,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya sp,f,,
 861,38,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya sp,f,,
-861,39,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya sp,m,,
-861,40,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya sp,m,,
-861,41,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya sp,m,,
+861,39,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya solennis,m,"Ackland et al draft keys, 2017",
+861,40,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya solennis,m,"Ackland et al draft keys, 2017",
+861,41,Whiteknights Park (E),2023-03-22,,Anthomyiidae,Pegomya solennis,m,"Ackland et al draft keys, 2017",
