@@ -1,6 +1,6 @@
 Box,Number,Location,Date,Order,Family,Species,Sex,Key,Notes
 889,1,The Wilderness (W),2023-05-20,,Scathophagidae,Scathophaga stercoraria,m,,
-889,2,The Wilderness (W),2023-05-20,,Tachinidae,,f,,
+889,2,The Wilderness (W),2023-05-20,,Tachinidae,Lydella stabulans,f,"Belshaw, 1993 +v5c updates",
 889,3,The Wilderness (W),2023-05-20,,Sarcophagidae,Sarcophaga sp,m,,
 889,4,The Wilderness (W),2023-05-20,,Sarcophagidae,Sarcophaga sp,m,,
 889,5,The Wilderness (W),2023-05-20,Hymenoptera,Ichneumonidae,,m,,
